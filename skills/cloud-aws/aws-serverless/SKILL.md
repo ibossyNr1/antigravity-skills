@@ -4,7 +4,7 @@ description: >-
   Specialized skill for building production-ready serverless applications on
   AWS. Covers Lambda functions, API Gateway, DynamoDB, SQS/SNS event-driven
   patterns, SAM/CDK deployment, and cold start optimization.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

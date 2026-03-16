@@ -5,11 +5,10 @@ description: >
   limiting in Next.js applications. Powered by Upstash with strong consistency
   and TTL support.
 
-
   Use when implementing cache strategies, storing temporary data with
   expiration, building rate limiters, or troubleshooting missing environment
   variables, serialization errors, or rate limit issues.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

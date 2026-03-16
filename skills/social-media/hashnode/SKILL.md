@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Hashnode blog posts, engagement, and developer
   community participation
 version: 1.0.0
-author: Canifi
+
 category: productivity
 compatibility: 'agent-zero, claude-code, cursor'
 ---

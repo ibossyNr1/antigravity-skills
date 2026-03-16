@@ -3,7 +3,7 @@ name: ecommerce-platform-specialist
 description: >-
   Provide expert guidance on Shopify e-commerce platform. Advises on store
   setup, products, customization, and optimization.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

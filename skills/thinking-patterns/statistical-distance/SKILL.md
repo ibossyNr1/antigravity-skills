@@ -5,7 +5,7 @@ description: >-
   statistical edges. Use when first instincts are too predictable, when elements
   feel generic, or when you need the core methodology for avoiding
   statistical-center defaults.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

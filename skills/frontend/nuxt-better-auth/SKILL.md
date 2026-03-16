@@ -4,7 +4,7 @@ description: >-
   Use when implementing auth in Nuxt apps with @onmax/nuxt-better-auth -
   provides useUserSession composable, server auth helpers, route protection, and
   Better Auth plugins integration.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

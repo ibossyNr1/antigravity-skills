@@ -5,11 +5,10 @@ description: >
   Workers/Edge. Includes connection pooling, git-like branching for preview
   environments, and Drizzle/Prisma integration.
 
-
   Use when: setting up edge Postgres, configuring database branching, or
   troubleshooting "TCP not supported", connection pool exhausted, SSL config
   (sslmode=require), or Prisma edge compatibility.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

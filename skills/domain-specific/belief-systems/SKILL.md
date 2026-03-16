@@ -4,7 +4,7 @@ description: >-
   Design religious and belief systems for fictional worlds. Use when creating
   pantheons, religious institutions, spiritual practices, or any belief
   structures that shape society and drive character motivation.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

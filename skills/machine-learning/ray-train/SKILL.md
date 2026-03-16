@@ -2,8 +2,7 @@
 name: ray-train
 description: Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/HuggingFace from laptop to 1000s of nodes. Built-in hyperparameter tuning with Ray Tune, fault tolerance, elastic scaling. Use when training massive models across multiple machines or running distributed hyperparameter sweeps.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags: [Ray Train, Distributed Training, Orchestration, Ray, Hyperparameter Tuning, Fault Tolerance, Elastic Scaling, Multi-Node, PyTorch, TensorFlow]
 dependencies: [ray[train], torch, transformers]
 ---
@@ -402,5 +401,4 @@ dataloader = DataLoader(dataset, num_workers=8)
 - Examples: https://docs.ray.io/en/latest/train/examples.html
 - Slack: https://forms.gle/9TSdDYUgxYs8SA9e8
 - Used by: OpenAI, Uber, Spotify, Shopify, Instacart
-
 

@@ -5,7 +5,7 @@ description: 'Design and execute growth experiments using lean, data-driven tact
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - growth hacking
   - growth experiments

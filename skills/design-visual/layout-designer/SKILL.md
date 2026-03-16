@@ -5,7 +5,7 @@ description: Expert page layout and grid system design
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - layout design
   - page layout

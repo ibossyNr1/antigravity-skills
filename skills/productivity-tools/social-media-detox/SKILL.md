@@ -3,7 +3,7 @@ name: social-media-detox
 description: >-
   Break social media addiction with screen-free streaks, urge tracking, and
   digital wellness
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - social media detox

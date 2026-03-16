@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-support-query-guidelines"
+name: "support-query-guidelines"
 description: "Provide guidelines for users to effectively troubleshoot and seek support for AI automation systems, improving support efficiency."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["support", "troubleshooting", "guidelines", "automation"]
 triggers:
   - "when users request tech support for AI automation systems"

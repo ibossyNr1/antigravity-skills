@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-scrape-contact-info-make"
+name: "scrape-contact-info-make"
 description: "Automates contact info scraping, website content extraction, and email generation using Make.com, Apify and OpenAI."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead generation", "scraping", "automation", "email"]
 triggers:
   - "When needing an automated lead generation system."

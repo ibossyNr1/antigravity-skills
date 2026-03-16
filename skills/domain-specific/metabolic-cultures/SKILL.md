@@ -4,7 +4,7 @@ description: >-
   Design cultures for closed-loop life support systems in space. Use when
   worldbuilding stations, ships, or habitats where recycled matter creates novel
   social structures, beliefs, and conflicts.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

@@ -7,7 +7,7 @@ description: >-
 category: domain
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - review this contract
   - legal analysis
@@ -47,7 +47,6 @@ The Legal Assistant excels at breaking down complex legal jargon into plain Engl
    - Liability and indemnification clauses
    - Termination and renewal provisions
    - Intellectual property rights
-   - Confidentiality and non-compete terms
    - Dispute resolution mechanisms
 4. **Risk Flagging** - Highlight unusual, one-sided, or problematic clauses
 5. **Plain English Summary** - Translate legal language into clear business terms
@@ -202,7 +201,6 @@ The Legal Assistant excels at breaking down complex legal jargon into plain Engl
 ### Employment & Contractor
 - **Employment Agreement** - Terms of employment relationship
 - **Independent Contractor Agreement** - Engagement of freelance/contract workers
-- **Non-Disclosure Agreement (NDA)** - Confidentiality obligations
 - **Non-Compete Agreement** - Post-employment competition restrictions
 - **Offer Letter** - Summary of employment terms
 - **Separation Agreement** - Terms of employment termination

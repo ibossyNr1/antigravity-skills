@@ -433,9 +433,9 @@ python scripts/format_bibtex.py my_review_references.bib \
 **Advanced Operators** (full list in `references/google_scholar_search.md`):
 ```
 "exact phrase"           # Exact phrase matching
-author:lastname          # Search by author
+
 intitle:keyword          # Search in title only
-source:journal           # Search specific journal
+
 -exclude                 # Exclude terms
 OR                       # Alternative terms
 2020..2024              # Year range
@@ -447,7 +447,6 @@ OR                       # Alternative terms
 "CRISPR" intitle:review 2023..2024
 
 # Find papers by specific author on topic
-author:Church "synthetic biology"
 
 # Find highly cited foundational work
 "deep learning" 2012..2015 sort:citations

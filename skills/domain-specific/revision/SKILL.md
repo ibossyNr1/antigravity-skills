@@ -4,7 +4,7 @@ description: >-
   Guide the edit pass after drafting. Use when revision feels overwhelming, when
   changes cascade unpredictably, when you can't see problems anymore, or when
   editing never ends.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

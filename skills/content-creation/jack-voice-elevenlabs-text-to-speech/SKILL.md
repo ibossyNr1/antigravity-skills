@@ -1,8 +1,8 @@
 ---
-name: "jack-voice-elevenlabs-text-to-speech"
+name: "elevenlabs-text-to-speech"
 description: "Convert text into natural-sounding speech using ElevenLabs for personalized voice notes. Use when generating voice responses from text."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["elevenlabs", "text-to-speech", "voice generation"]
 triggers:
   - "when needing voice notes"

@@ -5,12 +5,11 @@ description: >
   validation. Single schema works on both client and server for DRY validation
   with full TypeScript type inference via z.infer.
 
-
   Use when: building forms with validation, integrating shadcn/ui Form
   components, implementing multi-step wizards, handling dynamic field arrays
   with useFieldArray, or fixing uncontrolled to controlled warnings, resolver
   errors, async validation issues.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

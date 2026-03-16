@@ -5,7 +5,7 @@ description: 'Manage bibliographies, citations, and academic references in multi
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - citations
   - bibliography

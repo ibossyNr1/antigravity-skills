@@ -6,7 +6,7 @@ description: >-
   integration patterns, RAG architecture, prompt engineering that scales, AI UX
   that users trust, and cost optimization that doesn't bankrupt you. Use when:
   keywords, file_patterns, code_patterns.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

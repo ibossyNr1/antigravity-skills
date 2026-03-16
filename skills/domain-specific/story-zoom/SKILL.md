@@ -4,7 +4,7 @@ description: >-
   Manage multi-level story synchronization. Use when changes at one abstraction
   level (pitch, structure, scenes, entities, prose) need to propagate to others,
   or when story elements feel inconsistent across levels.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

@@ -4,7 +4,7 @@ description: >-
   Reverse-engineer published books into structured scene-by-scene outlines for
   study. Use when analyzing craft, learning story structure from masters, or
   creating teaching materials from existing works.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

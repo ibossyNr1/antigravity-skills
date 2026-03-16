@@ -1,8 +1,8 @@
 ---
-name: "jack-content-30-minute-course-creator"
+name: "30-minute-course-creator"
 description: "Outlines steps to create a sellable online course using AI in 30 minutes, integrating research, content creation, and platform building."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["course creation", "AI", "automation", "content generation"]
 triggers:
   - "when you want to rapidly create an online course"

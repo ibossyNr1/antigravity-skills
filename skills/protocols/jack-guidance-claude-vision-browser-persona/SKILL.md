@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-claude-vision-browser-persona"
+name: "claude-vision-browser-persona"
 description: "Defines an AI persona for Claude Vision to analyze browser context and provide concise, helpful instructions to users."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["claude", "vision", "ai persona", "browser assistance"]
 triggers:
   - "when configuring Claude Vision to assist users"

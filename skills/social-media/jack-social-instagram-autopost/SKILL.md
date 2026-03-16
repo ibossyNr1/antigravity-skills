@@ -1,9 +1,8 @@
 ---
-name: jack-social-instagram-autopost
+name: "instagram-autopost"
 description: Automatically create photo posts on Instagram for Business using Make.com.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - instagram
   - social media

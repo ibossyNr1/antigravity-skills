@@ -3,7 +3,7 @@ name: interactive-component-creator
 description: >-
   Build interactive web components and artifacts. Creates interactive UI
   elements, visualizations, and web-based applications.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

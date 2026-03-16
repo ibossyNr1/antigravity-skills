@@ -5,7 +5,7 @@ description: >-
   when adapting a source work, when analyzing what makes something work, when
   creating trope maps for reuse, or when you need to separate structural
   necessity from stylistic choice.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

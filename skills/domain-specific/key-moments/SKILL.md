@@ -5,7 +5,7 @@ description: >-
   approach integrated with elemental genres. Use when plotting feels mechanical,
   when emotional beats need defining, or when building stories from vivid scenes
   rather than plot outlines.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

@@ -1,8 +1,8 @@
 ---
-name: "jack-design-instagram-post-template"
+name: "instagram-post-template"
 description: "Canva template for creating visually appealing Instagram posts optimized for engagement. Use to quickly generate consistent branded content."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["instagram", "social media", "design", "canva", "template", "branding"]
 triggers:
   - "when creating new Instagram posts"

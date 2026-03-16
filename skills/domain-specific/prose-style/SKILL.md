@@ -4,7 +4,7 @@ description: >-
   Diagnose sentence-level issues after structure is solid. Use when prose feels
   flat, sentences are monotonous, word choices are generic, or voice is
   inconsistent.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

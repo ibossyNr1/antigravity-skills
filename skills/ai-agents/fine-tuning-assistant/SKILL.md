@@ -5,7 +5,7 @@ description: Guide model fine-tuning processes for customized AI performance
 category: ai-ml
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - fine-tune model
   - fine-tuning

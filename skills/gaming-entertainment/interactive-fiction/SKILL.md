@@ -4,7 +4,7 @@ description: >-
   Diagnose branching narrative problems. Use when choices feel meaningless, when
   branching is unmanageable, when player agency conflicts with authored story,
   or when interactive elements break narrative flow.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

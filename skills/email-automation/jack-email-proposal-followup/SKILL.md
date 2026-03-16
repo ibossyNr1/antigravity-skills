@@ -1,8 +1,8 @@
 ---
-name: "jack-email-proposal-followup"
+name: "proposal-followup"
 description: "HTML email template to follow up after a client meeting, summarizing the conversation and attaching the proposal."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "sales", "proposal", "follow-up"]
 triggers:
   - "After sending a proposal to a client"
@@ -74,7 +74,6 @@ HTML email template to follow up after a client meeting, summarizing the convers
         <h1>Meeting Summary</h1>
     </div>
 
-
     <div class="content">
         <p>Hey [INSERT FIRST NAME],</p>
         
@@ -82,9 +81,7 @@ HTML email template to follow up after a client meeting, summarizing the convers
         
         <p>Based on our conversation, I've attached a proposal for you.</p>
 
-
         <p>Please let me know if you have any questions or if there's anything else you'd like to discuss.</p>
-
 
         <div class="signature">
             <p>Best regards,<br>

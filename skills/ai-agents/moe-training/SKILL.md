@@ -8,8 +8,7 @@ description: >-
   architectures, routing mechanisms, load balancing, expert parallelism, and
   inference optimization.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Emerging Techniques
   - MoE
@@ -544,5 +543,4 @@ def moe_inference(x, model, top_k=2):
 - `references/architectures.md` - MoE model architectures (Mixtral, Switch, DeepSeek-V3)
 - `references/training.md` - Advanced training techniques and optimization
 - `references/inference.md` - Production deployment and serving patterns
-
 

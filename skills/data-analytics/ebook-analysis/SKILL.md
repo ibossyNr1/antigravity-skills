@@ -3,7 +3,7 @@ name: ebook-analysis
 description: >-
   Parse ebooks, extract concepts and entities with citation traceability,
   classify by type/layer, and synthesize across book collections.
-license: MIT
+
 metadata:
   author: jwynia
   version: '2.1'

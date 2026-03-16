@@ -4,7 +4,7 @@ description: >-
   Refactor bloated AGENTS.md, CLAUDE.md, or similar agent instruction files to
   follow progressive disclosure principles. Splits monolithic files into
   organized, linked documentation.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

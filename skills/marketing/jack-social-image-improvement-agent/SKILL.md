@@ -1,8 +1,8 @@
 ---
-name: "jack-social-image-improvement-agent"
+name: "image-improvement-agent"
 description: "Improves image quality based on user prompts using file IDs and new file names."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["image editing", "ai", "workflow", "google drive"]
 triggers:
   - "when the user asks to edit or improve an image"

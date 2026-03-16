@@ -2,7 +2,7 @@
 name: pinterest
 description: 'Enables Claude to manage Pinterest pins, boards, and visual content discovery'
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

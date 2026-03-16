@@ -1,8 +1,8 @@
 ---
-name: "jack-content-generate-90-day-plan"
+name: "generate-90-day-plan"
 description: "Generates a personalized, actionable 90-day business plan based on user form responses using a Claude AI model and a detailed prompt."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["AI", "business plan", "wellness", "automation", "lead magnet"]
 triggers:
   - "When needing to create a personalized 90-day business plan"
@@ -319,8 +319,6 @@ WEEKLY TASK STRUCTURE:
     </div>
 </div>
 
-
-
 END SECTION:
 
 html
@@ -329,7 +327,6 @@ html
     <p>Let's review your progress and plan your next steps</p>
     <a href="https://calendly.com" class="booking-button">Book Your Strategy Call</a>
 </div>
-
 
 WRITING GUIDELINES:
 1. Keep it real and conversational - write like you're talking to a friend

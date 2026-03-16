@@ -9,12 +9,11 @@ description: >
 
   and declarative instruction design.
 
-
   Use when: creating custom agents, designing agent descriptions for
   auto-delegation,
 
   troubleshooting agent memory issues, or building agent pipelines.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,11 +1,10 @@
 ---
-name: jack-sales-custom-website-advice-prompt
+name: "custom-website-advice-prompt"
 description: >-
   Generates a persuasive 80-100 word video script, referencing the recipient's
   website and offering tailored AI automation advice.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - video script
   - sales outreach

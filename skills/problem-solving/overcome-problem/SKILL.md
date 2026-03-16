@@ -3,7 +3,7 @@ name: overcome-problem
 description: >-
   Break down any problem with structured thinking, action plans, and progress
   tracking
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - help me overcome

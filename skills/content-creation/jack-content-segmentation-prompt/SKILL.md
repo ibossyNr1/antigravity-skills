@@ -1,8 +1,8 @@
 ---
-name: "jack-content-segmentation-prompt"
+name: "segmentation-prompt"
 description: "Analyze text for micro, meso, and macro-level stylistic elements to create a segmentation guideline for AI content generation."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["style analysis", "AI persona", "content style", "language model"]
 triggers:
   - "when you need to analyze existing content for stylistic patterns"

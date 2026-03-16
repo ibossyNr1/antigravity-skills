@@ -4,7 +4,7 @@ description: >-
   Design cities, towns, and settlements for fictional worlds. Use when creating
   urban environments, mapping city districts, or when settlements need realistic
   layered development and spatial logic.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

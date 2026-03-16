@@ -1,8 +1,8 @@
 ---
-name: "jack-content-website-content-analyzer"
+name: "website-content-analyzer"
 description: "Analyzes website content, summarizes the company, and identifies distinctive facts for sales or marketing purposes."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["website analysis", "content summarization", "fact extraction", "ai assistant"]
 triggers:
   - "When needing a concise summary and key facts about a company from its website"
@@ -68,7 +68,6 @@ EXAMPLE OUTPUT:
   "summary": "GreenTech Solutions is a sustainable energy company founded in 2018, specializing in solar panel installation for residential and commercial properties across California. They offer end-to-end services including consultation, installation, and maintenance, with a focus on reducing carbon footprints while lowering energy costs for their 5,000+ clients.",
   "facts": [
     "Winner of the 2024 California Clean Energy Award",
-    "Proprietary AI-powered energy optimization system that increases efficiency by 30%",
     "First solar company in the state to achieve B-Corp certification",
     "25-year warranty on all installations, 5 years above industry standard",
     "Partnership with local schools to provide free solar education programs"

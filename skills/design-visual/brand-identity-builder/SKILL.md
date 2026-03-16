@@ -5,7 +5,7 @@ description: Build complete brand identity systems and guidelines
 category: design
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - build brand identity
   - brand guidelines

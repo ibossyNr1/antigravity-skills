@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-stripe-airtable-customer-sync
+name: "stripe-airtable-customer-sync"
 description: >-
   Automates syncing new Stripe customers to an Airtable database using Make.com,
   triggering on Stripe events and updating Airtable records.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - stripe
   - airtable

@@ -6,7 +6,7 @@ description: >-
   Covers configuration, schema definition, migrations, multi-cloud deployment
   (Cloudflare, Vercel), and the new hub:db, hub:kv, hub:blob virtual module
   imports.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

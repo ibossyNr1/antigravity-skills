@@ -7,7 +7,7 @@ description: >-
 category: domain
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - analyze this property
   - real estate investment

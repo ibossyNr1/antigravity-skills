@@ -1,8 +1,8 @@
 ---
-name: "jack-support-troubleshooting-guidelines"
+name: "troubleshooting-guidelines"
 description: "Provides a structured approach for troubleshooting AI agent issues, including detailing the problem, steps tried, and error messages."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["troubleshooting", "support", "ai agents", "make.com"]
 triggers:
   - "when encountering issues with AI agents in Make.com"

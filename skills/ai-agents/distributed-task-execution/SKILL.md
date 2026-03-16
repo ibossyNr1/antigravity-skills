@@ -3,7 +3,7 @@ name: distributed-task-execution
 description: >-
   Dispatch and coordinate parallel agent execution. Manages concurrent task
   processing with result aggregation and error handling.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

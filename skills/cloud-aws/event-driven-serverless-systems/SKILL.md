@@ -4,7 +4,7 @@ description: >-
   Build event-driven architectures on AWS serverless infrastructure. Designs
   event flows, integrates Lambda with event sources, and manages distributed
   systems.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -4,7 +4,7 @@ description: >-
   General principles for structured content modeling that apply across CMSs,
   with Sanity-specific guidance. Use when designing content schemas, planning
   content architecture, or evaluating content reuse strategies.
-license: MIT
+
 metadata:
   author: sanity
   version: 1.0.0

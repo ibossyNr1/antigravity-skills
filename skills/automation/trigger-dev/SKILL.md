@@ -5,7 +5,7 @@ description: >-
   execution with excellent developer experience and TypeScript-first design. Use
   when: trigger.dev, trigger dev, background task, ai background job, long
   running task.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

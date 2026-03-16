@@ -4,7 +4,7 @@ description: >-
   Expert patterns for Algolia search implementation, indexing strategies, React
   InstantSearch, and relevance tuning Use when: adding search to, algolia,
   instantsearch, search api, search functionality.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -27,7 +27,6 @@ Key hooks:
 - usePagination: Result pagination
 - useInstantSearch: Full state access
 
-
 ### Next.js Server-Side Rendering
 
 SSR integration for Next.js with react-instantsearch-nextjs package.
@@ -39,7 +38,6 @@ Key considerations:
 - Set dynamic = 'force-dynamic' for fresh results
 - Handle URL synchronization with routing prop
 - Use getServerState for initial state
-
 
 ### Data Synchronization and Indexing
 
@@ -55,7 +53,6 @@ Best practices:
 - Use incremental updates when possible
 - partialUpdateObjects for attribute-only changes
 - Avoid deleteBy (computationally expensive)
-
 
 ## ⚠️ Sharp Edges
 

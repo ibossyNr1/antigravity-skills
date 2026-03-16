@@ -6,8 +6,7 @@ description: >-
   reward model training. Use when need RLHF, align model with preferences, or
   train from human feedback. Works with HuggingFace Transformers.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Post-Training
   - TRL
@@ -472,6 +471,4 @@ config = PPOConfig(
   - "Direct Preference Optimization: Your Language Model is Secretly a Reward Model" (DPO, 2023)
   - "Group Relative Policy Optimization" (GRPO, 2024)
 - Examples: https://github.com/huggingface/trl/tree/main/examples/scripts
-
-
 

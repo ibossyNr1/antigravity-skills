@@ -1,12 +1,11 @@
 ---
-name: jack-sales-personalized-video-workflow
+name: "personalized-video-workflow"
 description: >-
   Automates the creation of personalized videos for client outreach using Make,
   GPT, 11 Labs, and Google Drive, scraping client info, generating scripts, and
   compiling videos.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - personalized video
   - automation

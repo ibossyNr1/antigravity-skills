@@ -1,8 +1,8 @@
 ---
-name: "jack-content-email-drafting-agent"
+name: "email-drafting-agent"
 description: "Generates draft email replies using an AI agent, considering context from past emails and a knowledge base."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "drafting", "ai agent", "automation"]
 triggers:
   - "when needing to quickly respond to emails"

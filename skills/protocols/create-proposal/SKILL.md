@@ -2,8 +2,7 @@
 name: "create-pandadoc-proposal"
 description: "Create a PandaDoc proposal, including client research, content generation, JSON creation, script execution, and follow-up email."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["proposal generation","pandadoc","sales enablement","client research","content creation"]
 triggers:
   - "when the user wants to generate a PandaDoc proposal for a client."

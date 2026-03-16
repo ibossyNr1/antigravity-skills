@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-airtable-to-chart"
+name: "airtable-to-chart"
 description: "Fetches data from Airtable, formats it, and makes it accessible via a webhook for dynamic chart updates."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["airtable", "data visualization", "make.com"]
 triggers:
   - "when a dashboard needs to be updated with Airtable data"

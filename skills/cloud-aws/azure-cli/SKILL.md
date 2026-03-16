@@ -1,7 +1,7 @@
 ---
 name: azure-cli
 description: Comprehensive Azure Cloud Platform management via command-line interface
-license: MIT
+
 metadata:
   author: Dennis de Vaal <d.devaal@gmail.com>
   version: 1.0.0

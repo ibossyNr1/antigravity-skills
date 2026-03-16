@@ -3,7 +3,7 @@ name: validation-first-approach
 description: >-
   Develop software with validation requirements first. Emphasizes writing tests
   before implementation to guide design decisions.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-ai-dashboard-prompt"
+name: "ai-dashboard-prompt"
 description: "Leverage a prompt to generate gorgeous AI dashboards with an AI assistant."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["UI", "dashboard", "prompt", "AI"]
 triggers:
   - "Need to create a gorgeous dashboard"

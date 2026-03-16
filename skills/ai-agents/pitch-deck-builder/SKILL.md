@@ -5,7 +5,7 @@ description: Create compelling investor pitch decks that tell your story and sec
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - pitch deck
   - investor deck

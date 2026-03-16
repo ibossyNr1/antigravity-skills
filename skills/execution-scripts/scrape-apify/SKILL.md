@@ -2,8 +2,7 @@
 name: "apify-leads-scraper"
 description: "Scrapes leads using Apify's leads-finder actor based on a query, location, and optional filters. Saves results to a JSON file."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["web scraping","lead generation","Apify","data extraction"]
 triggers:
   - "when I need to find leads for a specific query in a location"

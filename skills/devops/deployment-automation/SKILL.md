@@ -3,7 +3,7 @@ name: deployment-automation
 description: >-
   Automate deployment to Vercel platform. Manages deployment configuration,
   environment setup, and CI/CD integration.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -56,7 +56,6 @@ When requested to deploy to Vercel production with automatic error fixing:
 ## Example Flow
 
 **User:** "Deploy to production and fix any errors"
-
 
 - Vercel MCP build logs are the PRIMARY source of error information
 - CLI output alone is insufficient for proper error diagnosis

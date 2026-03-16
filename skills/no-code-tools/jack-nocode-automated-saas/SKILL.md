@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-automated-saas"
+name: "automated-saas"
 description: "Blueprint for launching a fully automated micro SaaS using Softr, Make, Airtable, and AI (OpenAI/Claude)."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["saas", "automation", "nocode", "make.com", "airtable", "openai", "claude", "softr"]
 triggers:
   - "launching a SaaS"

@@ -4,7 +4,7 @@ description: >-
   Download YouTube videos and upload them to Pocket Casts Files for offline
   viewing. For personal use with content you own or have rights to.
 version: 1.0.0
-author: emmanuelem
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

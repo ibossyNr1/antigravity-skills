@@ -44,7 +44,6 @@ compatibility: 'agent-zero, claude-code, cursor'
 | Face milling | APKT, SEKN, ODMT | 20-40 per grade |
 | Shoulder milling | APMT, LOGU | 10-30 per grade |
 | Slot/pocket | APMT, various | 10-20 per size |
-| High-feed | Various proprietary | 10-20 per size |
 
 ### 3. Solid Carbide Tools
 

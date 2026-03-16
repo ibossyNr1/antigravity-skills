@@ -1,8 +1,8 @@
 ---
-name: "jack-design-find-ui-inspiration"
+name: "find-ui-inspiration"
 description: "Use curated website galleries like Awwwards, CSS Design Awards, Behance and Dribbble to find inspiration for UI/UX and web design projects."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["UI", "UX", "design", "inspiration"]
 triggers:
   - "When starting a new web design project"

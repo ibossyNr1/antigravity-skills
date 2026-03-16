@@ -2,8 +2,7 @@
 name: "casualize-company-names"
 description: "Casualizes company names in a Google Sheet using Claude AI for cold emails. Removes legal suffixes and generic terms."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","automation","cold email","company names","Claude AI"]
 triggers:
   - "when a Google Sheet URL is provided"

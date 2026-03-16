@@ -5,7 +5,7 @@ description: Coordinate multiple AI agents and skills for complex workflows
 category: meta
 complexity: multi-agent
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - orchestrate agents
   - coordinate agents

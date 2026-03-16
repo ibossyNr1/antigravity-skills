@@ -2,8 +2,7 @@
 name: "append-google-sheet-rows"
 description: "Append rows from a JSON file to a Google Sheet, matching columns to existing headers.  Useful when you have data in JSON that needs to be added to a spreadsheet."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","automation","data import","spreadsheet","append"]
 triggers:
   - "when I want to add data to a Google Sheet from a JSON file"

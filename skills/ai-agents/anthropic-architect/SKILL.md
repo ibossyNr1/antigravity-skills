@@ -158,7 +158,6 @@ The skill will provide:
 - Custom CI/CD integration
 - Specialized code analysis pipelines
 - Domain-specific automation
-- Integration with proprietary systems
 
 ## Decision Rubric
 

@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-google-drive-to-supabase"
+name: "google-drive-to-supabase"
 description: "Loads Google Drive files into Supabase vector store for RAG applications using n8n."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "rag", "google drive", "supabase", "vector store", "automation"]
 triggers:
   - "when a new file is created in a Google Drive folder"

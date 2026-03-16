@@ -154,6 +154,5 @@ When you learn a better way to accomplish a task with Gmail:
 ## Notes
 - Gmail's UI can change; selectors may need periodic updates
 - Large attachments (>25MB) require Google Drive integration
-- Confidential mode emails have limited functionality
 - Some actions may trigger Google security alerts; reassure user this is normal
 - For bulk operations, process in batches of 50 to avoid timeouts

@@ -2,8 +2,7 @@
 name: "init-new-project"
 description: "Resets a project by clearing context, .tmp/, and infrastructure configs. Use when starting a new project based on a template."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["project setup","reset","initialization","cleanup","utility","internal"]
 triggers:
   - "when starting a new project"

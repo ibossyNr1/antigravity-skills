@@ -1,8 +1,8 @@
 ---
-name: "jack-content-email-subject-body-generator"
+name: "email-subject-body-generator"
 description: "Generates personalized email subject lines and opening body lines based on prospect research data and company trigger events."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email outreach", "sales", "personalization", "trigger events"]
 triggers:
   - "When needing to draft a personalized email to a lead."

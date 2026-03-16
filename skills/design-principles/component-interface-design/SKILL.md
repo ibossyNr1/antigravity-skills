@@ -3,7 +3,7 @@ name: component-interface-design
 description: >-
   Design interfaces using component libraries and design systems. Creates
   cohesive UIs with pre-built accessible component primitives.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

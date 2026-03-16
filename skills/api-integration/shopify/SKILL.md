@@ -2,7 +2,7 @@
 name: shopify
 description: 'Enables Claude to manage Shopify store operations, products, and orders'
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

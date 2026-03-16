@@ -1,8 +1,8 @@
 ---
-name: "jack-content-airtable-knowledge-base-integration"
+name: "airtable-knowledge-base-integration"
 description: "Integrates Airtable as a knowledge base for AI agents, enabling memory storage and retrieval for contextual responses."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["airtable", "knowledge base", "ai agent", "integration"]
 triggers:
   - "when needing a persistent memory for AI agents"

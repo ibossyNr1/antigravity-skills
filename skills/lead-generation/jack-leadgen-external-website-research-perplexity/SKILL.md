@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-external-website-research-perplexity"
+name: "external-website-research-perplexity"
 description: "Uncovers 10 facts about a business by consulting a website and external sources using Perplexity AI."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["website research", "lead generation", "perplexity ai", "fact extraction"]
 triggers:
   - "when deeper insights about a prospect are required"

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-ideation-prompt"
+name: "ideation-prompt"
 description: "Use these prompts to generate SaaS ideas based on existing tools' shortcomings."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ideation", "saas", "content generation", "prompt"]
 triggers:
   - "when brainstorming SaaS ideas"

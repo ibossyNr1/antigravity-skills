@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-build-ai-automation"
+name: "build-ai-automation"
 description: "Create a system for scraping data, processing it using AI, and delivering actionable insights as a premium service."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "ai", "scraping", "data processing", "insights"]
 triggers:
   - "when you need to automate data scraping and processing to generate insights for a business."

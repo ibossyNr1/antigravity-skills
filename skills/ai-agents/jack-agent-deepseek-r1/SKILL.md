@@ -1,8 +1,8 @@
 ---
-name: "jack-agent-deepseek-r1"
+name: "deepseek-r1"
 description: "Creates an AI agent powered by DeepSeek R1 within n8n for chat interactions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ai agent", "deepseek", "openrouter", "chat", "n8n"]
 triggers:
   - "when a chat message is received"

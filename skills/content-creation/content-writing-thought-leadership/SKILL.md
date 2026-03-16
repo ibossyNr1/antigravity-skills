@@ -2024,7 +2024,6 @@ SCENARIO: VP Marketing Writing Personal Content
 
 CHALLENGES:
 ⚠️ Company wants brand consistency
-⚠️ Can't share company confidential info
 ⚠️ Must add "Views are my own" disclaimer
 ⚠️ Manager needs to approve (at minimum)
 
@@ -2202,7 +2201,6 @@ FIX:
 SCENARIO: Employee Publishes Without Manager Knowing
 
 RISKS:
-- Share confidential info accidentally
 - Company asks you to delete post (embarrassing)
 - Misaligned with company messaging
 - Career risk (manager upset)
@@ -2427,7 +2425,6 @@ And if you're hiring for [roles], several incredible people are looking."
 STEP 3: LEGAL REVIEW
 □ Send to legal counsel
 □ Check: Any liability concerns?
-□ Confirm: Severance terms not disclosed (confidential)
 □ Ensure: No promises made that company can't keep
 
 STEP 4: PUBLISH + MONITOR

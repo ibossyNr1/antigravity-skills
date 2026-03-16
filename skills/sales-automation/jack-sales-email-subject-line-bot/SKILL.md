@@ -1,11 +1,10 @@
 ---
-name: jack-sales-email-subject-line-bot
+name: "email-subject-line-bot"
 description: >-
   Generates subject lines for sales emails, designed to increase open rates
   without clickbait.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - email subject line
   - sales

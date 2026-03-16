@@ -5,7 +5,7 @@ description: 'Create engaging newsletters that get read, clicked, and shared'
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write newsletter
   - draft newsletter

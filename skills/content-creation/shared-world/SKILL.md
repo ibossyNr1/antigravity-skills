@@ -4,7 +4,7 @@ description: >-
   Maintain a wiki-style world bible for collaborative fiction. Use for
   long-running story worlds, shared universes, membership sites, or any fiction
   requiring persistent canonical reference.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

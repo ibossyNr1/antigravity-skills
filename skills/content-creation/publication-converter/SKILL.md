@@ -3,7 +3,7 @@ name: publication-converter
 description: >-
   Convert markdown documents to EPUB publication format. Transforms structured
   markdown into professionally formatted e-books.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

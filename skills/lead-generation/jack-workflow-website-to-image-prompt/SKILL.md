@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-website-to-image-prompt
+name: "website-to-image-prompt"
 description: >-
   Downloads website content, extracts text, and generates an image prompt using
   Claude.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - automation
   - make.com

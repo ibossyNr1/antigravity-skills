@@ -5,7 +5,7 @@ description: 'Track books, articles, and reading progress with curation and note
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - add to reading list
   - track my reading

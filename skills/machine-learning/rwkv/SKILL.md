@@ -6,8 +6,7 @@ description: >-
   Foundation AI project. Production at Windows, Office, NeMo. RWKV-7 (March
   2025). Models up to 14B parameters.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - RWKV
   - Model Architecture
@@ -273,5 +272,4 @@ out2, state = model.forward(tokens2, state)  # Has context from tokens1
 - Models: https://huggingface.co/BlinkDL
 - Linux Foundation AI: Official project
 - Production: Microsoft Windows, Office integration, NeMo support
-
 

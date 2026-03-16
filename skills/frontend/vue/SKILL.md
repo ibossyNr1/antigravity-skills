@@ -4,7 +4,7 @@ description: >-
   Use when editing .vue files, creating Vue 3 components, writing composables,
   or testing Vue code - provides Composition API patterns, props/emits best
   practices, VueUse integration, and reactive destructuring guidance
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: 'Manage influencer collaborations, creator contracts, and partnersh
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - creator partnerships
   - influencer collaborations

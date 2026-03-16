@@ -2,8 +2,7 @@
 name: "insert-swivel-teaser"
 description: "Inserts a swivel teaser (fast-forward preview with 3D rotation) into a video at a specified point while preserving original audio."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["video editing","ffmpeg","3D transition","video effects"]
 triggers:
   - "when I want to add a dynamic teaser to a video"

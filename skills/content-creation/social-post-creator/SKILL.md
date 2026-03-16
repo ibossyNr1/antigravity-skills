@@ -5,7 +5,7 @@ description: Generate engaging social media posts optimized for each platform
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create social post
   - write social media

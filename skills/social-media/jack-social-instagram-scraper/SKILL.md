@@ -1,11 +1,10 @@
 ---
-name: jack-social-instagram-scraper
+name: "instagram-scraper"
 description: >-
   Scrape Instagram profiles to gather engagement metrics (likes, comments,
   views, etc.) and store in Airtable or Google Sheets.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - instagram
   - scraping

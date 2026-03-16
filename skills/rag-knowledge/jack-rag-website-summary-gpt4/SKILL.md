@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-website-summary-gpt4"
+name: "website-summary-gpt4"
 description: "Generates a concise 35-word summary and 5 bullet-point features of a website using GPT-4o."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["website", "summary", "gpt-4", "bullet points", "features"]
 triggers:
   - "When you need a quick summary of website content."

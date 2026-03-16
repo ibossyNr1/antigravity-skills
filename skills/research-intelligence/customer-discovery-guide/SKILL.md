@@ -5,7 +5,7 @@ description: Guide customer discovery interviews and develop customer insight fr
 category: research
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - customer discovery
   - customer interviews

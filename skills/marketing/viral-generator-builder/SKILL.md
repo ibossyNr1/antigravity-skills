@@ -6,7 +6,7 @@ description: >-
   the psychology of sharing, viral mechanics, and building tools people can't
   resist sharing with friends. Use when: generator tool, quiz maker, name
   generator, avatar creator, viral tool.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

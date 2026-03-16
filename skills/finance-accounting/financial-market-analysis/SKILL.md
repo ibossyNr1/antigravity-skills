@@ -38,7 +38,6 @@ No more digging through tables. You get raw data processed into a clean, structu
 The agent provides ruthlessly objective investment ratings—Buy, Hold, or Sell—based on technical data and current market sentiment, removing human bias from the equation.
 
 ### 5. Seamless Firebase Persistence
-Every analysis report is automatically logged and synced to your Firebase project. Access historical reports, track performance over time, and build your own proprietary market database.
 
 ## Examples
 

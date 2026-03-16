@@ -1,11 +1,10 @@
 ---
-name: jack-voice-n8n-elevenlabs-agent
+name: "n8n-elevenlabs-agent"
 description: >-
   Creates a voice agent using n8n and ElevenLabs to automate real-time
   interactions like appointment scheduling and email responses.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - n8n
   - elevenlabs

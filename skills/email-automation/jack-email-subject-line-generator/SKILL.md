@@ -1,8 +1,8 @@
 ---
-name: "jack-email-subject-line-generator"
+name: "subject-line-generator"
 description: "Generates attention-grabbing email subject lines using website content and best practices."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "subject line", "lead generation"]
 triggers:
   - "When you need to generate an email subject line"
@@ -69,11 +69,6 @@ Guidelines for Great Email Subject Lines:
 14. Experiment with different lengths, tones, and styles. Variety prevents email fatigue.
 
 15. Preview on mobile devices, as many people check email on smartphones.
-
-
-
-
-
 
 100 Examples of Great Email Subject Lines:
 

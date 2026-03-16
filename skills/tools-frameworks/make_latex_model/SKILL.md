@@ -1,7 +1,7 @@
 ---
 name: make-latex-model
 version: 2.9.0
-author: ChineseResearchLaTeX Project
+
 maintainer: project-maintainers
 status: stable
 category: normal

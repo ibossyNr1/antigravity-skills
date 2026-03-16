@@ -5,7 +5,7 @@ description: 'Plan and execute data migrations, system migrations, and platform 
 category: technical
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - plan migration
   - data migration

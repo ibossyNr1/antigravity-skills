@@ -2,8 +2,7 @@
 name: "extract-pptx-text"
 description: "Extracts text from a PowerPoint (.pptx) file and prints it to the console. Useful when you need to get the text content of a presentation."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["powerpoint","pptx","text extraction","presentation","document processing"]
 triggers:
   - "when I need to extract text from a PowerPoint file"

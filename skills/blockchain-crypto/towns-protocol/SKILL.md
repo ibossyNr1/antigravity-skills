@@ -6,7 +6,7 @@ description: >-
   operations, and deployment. Triggers: "towns bot", "makeTownsBot",
   "onSlashCommand", "onMessage", "sendInteractionRequest", "webhook", "bot
   deployment", "@towns-protocol/bot"
-license: MIT
+
 compatibility: 'Requires Bun runtime, Base network RPC access, @towns-protocol/bot SDK'
 metadata:
   author: towns-protocol

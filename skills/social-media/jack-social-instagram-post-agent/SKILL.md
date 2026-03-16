@@ -1,9 +1,8 @@
 ---
-name: jack-social-instagram-post-agent
+name: "instagram-post-agent"
 description: Generates Instagram posts by researching news and crafting engaging captions.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - instagram
   - content

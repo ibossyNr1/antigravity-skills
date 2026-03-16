@@ -7,7 +7,7 @@ description: >-
   middleware), (5) Releasing/publishing modules to npm, (6) Setting up CI/CD
   workflows for modules. Provides defineNuxtModule patterns, Kit utilities,
   hooks, E2E testing, and release automation.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

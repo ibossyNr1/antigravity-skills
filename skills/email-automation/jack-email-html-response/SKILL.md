@@ -1,8 +1,8 @@
 ---
-name: "jack-email-html-response"
+name: "html-response"
 description: "Generates an HTML-formatted email response that mirrors the tone of voice and style of the incoming email."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "automation", "html", "deepseek", "openrouter"]
 triggers:
   - "When a new email is received"

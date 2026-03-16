@@ -1,7 +1,7 @@
 ---
 name: expense-tracker-pro
 description: 'Track expenses via natural language, get spending summaries, set budgets'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - log expense

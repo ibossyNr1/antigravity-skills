@@ -4,7 +4,7 @@ description: >-
   Nuxt SEO meta-module with robots, sitemap, og-image, schema-org. Use when
   configuring SEO, generating sitemaps, creating OG images, or adding structured
   data.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

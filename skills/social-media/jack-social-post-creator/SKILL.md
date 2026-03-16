@@ -1,11 +1,10 @@
 ---
-name: jack-social-post-creator
+name: "post-creator"
 description: >-
   Creates social media posts for platforms like Instagram, X, LinkedIn, Skool,
   and YouTube summaries.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - social media
   - content creation

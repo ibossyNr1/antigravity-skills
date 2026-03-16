@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-business-data-qa"
+name: "business-data-qa"
 description: "Creates an AI chatbot that provides data-driven insights based on business data, including sales, churn, and subscriber information."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["chatbot", "data analysis", "business intelligence"]
 triggers:
   - "when a client needs help understanding their business data"

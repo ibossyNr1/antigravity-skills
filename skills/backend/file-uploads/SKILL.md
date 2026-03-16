@@ -5,7 +5,7 @@ description: >-
   presigned URLs, multipart uploads, and image optimization. Knows how to handle
   large files without blocking. Use when: file upload, S3, R2, presigned URL,
   multipart.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -3,7 +3,7 @@ name: quality-validation
 description: >-
   Validate quality before completing tasks. Performs verification checks,
   testing, and quality assurance before marking work complete.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

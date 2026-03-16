@@ -58,7 +58,6 @@ This security policy defines the security standards, practices, and procedures t
 
 ### Objectives
 
-- Protect confidentiality, integrity, and availability of data
 - Comply with regulatory requirements (GDPR, SOC 2, etc.)
 - Minimize security risks and vulnerabilities
 - Establish clear security responsibilities
@@ -204,7 +203,6 @@ app.delete('/api/users/:id', requirePermission('users:delete'), deleteUser);
 |----------------|-------------|----------|------------|
 | **Public** | Non-sensitive, publicly available | Marketing materials | None required |
 | **Internal** | Internal use only | Company policies | Access control |
-| **Confidential** | Sensitive business data | Financial reports | Encryption + MFA |
 | **Restricted** | Highly sensitive | PII, passwords, keys | Encryption + strict access |
 
 ### 3.2 Encryption Standards
@@ -467,7 +465,6 @@ iptables -A INPUT -p tcp --dport 443 -j ACCEPT
 - **Security:** Protect against unauthorized access
 - **Availability:** System is available as committed
 - **Processing Integrity:** Processing is complete and accurate
-- **Confidentiality:** Confidential information is protected
 - **Privacy:** Personal information is properly handled
 
 ---

@@ -7,7 +7,7 @@ description: >-
 category: document-creation
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create report
   - generate report
@@ -182,7 +182,6 @@ async function generateExecutiveReport(reportData, outputPath) {
     doc.fontSize(8)
        .fillColor('#95A5A6')
        .text(
-         `${reportData.company} | Confidential | Page ${i + 1} of ${pages.count}`,
          50,
          doc.page.height - 50,
          { align: 'center', width: doc.page.width - 100 }

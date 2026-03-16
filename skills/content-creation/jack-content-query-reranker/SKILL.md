@@ -1,8 +1,8 @@
 ---
-name: "jack-content-query-reranker"
+name: "query-reranker"
 description: "Reranks user queries to be more effective for RAG systems by extracting intent, optimizing for search, and preserving context."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["RAG", "query optimization", "search", "intent extraction"]
 triggers:
   - "When you need to improve the accuracy of RAG search results."

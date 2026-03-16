@@ -1,11 +1,10 @@
 ---
-name: jack-research-topic-research-agent
+name: "topic-research-agent"
 description: >-
   Conducts comprehensive web research on LinkedIn content topics, using avatar
   info to gather trends and audience-specific angles.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - research
   - linkedin

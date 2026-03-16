@@ -6,7 +6,7 @@ description: >-
   schemas, building workflows with step data flow, setting up Hono API servers
   with Mastra adapters, or implementing agent networks. Keywords: mastra, hono,
   agent, tool, workflow, AI, LLM, typescript, API, MCP.
-license: MIT
+
 compatibility: Node.js 22.13.0+ required for v1 Beta
 metadata:
   author: agent-skills

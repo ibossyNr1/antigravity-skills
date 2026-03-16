@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-sales-call-analysis-prompt"
+name: "sales-call-analysis-prompt"
 description: "Analyzes sales call transcripts, identifying key insights and action points for performance improvement."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["sales", "call analysis", "performance", "transcript", "claude"]
 triggers:
   - "when you need to analyze sales call transcripts for actionable insights"

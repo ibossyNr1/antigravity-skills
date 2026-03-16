@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-install-notebooklm-mcp"
+name: "install-notebooklm-mcp"
 description: "Provides a prompt to install and setup the NotebookLM MCP server using AntiGravity, guiding the user through the process."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["NotebookLM", "AntiGravity", "MCP server", "installation", "setup"]
 triggers:
   - "when you want to connect AntiGravity to NotebookLM"

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-gemini-image-edit"
+name: "gemini-image-edit"
 description: "Edits an image using Google Gemini's image generation capabilities via an n8n workflow.  It downloads an image, prompts Gemini to alter it, and uploads the result."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["gemini", "image editing", "n8n", "google drive"]
 triggers:
   - "when you need to modify an image using AI"

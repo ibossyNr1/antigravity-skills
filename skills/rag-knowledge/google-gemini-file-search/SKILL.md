@@ -6,7 +6,6 @@ description: >
   Upload 100+ file formats (PDF, Word, Excel, code), configure semantic search,
   and query with natural language.
 
-
   Use when: building document Q&A systems, creating searchable knowledge bases,
   implementing semantic search without managing embeddings, indexing large
   document collections (100+ formats), or troubleshooting document immutability
@@ -15,7 +14,7 @@ description: >
   limits (20 key-value pairs max), indexing cost surprises ($0.15/1M tokens
   one-time), operation polling timeouts (wait for done: true), force delete
   errors, or model compatibility (Gemini 2.5 Pro/Flash only).
-license: MIT
+
 allowed-tools:
   - Bash
   - Read
@@ -815,7 +814,6 @@ customMetadata: {
   practice_area: 'employment' | 'corporate' | 'ip' | 'tax',
   effective_date: '2025-01-01',
   status: 'active' | 'archived',
-  confidentiality: 'public' | 'internal' | 'privileged'
 }
 ```
 

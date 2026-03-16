@@ -5,7 +5,7 @@ description: Create and curate brand-appropriate memes for social media marketin
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create meme
   - meme marketing

@@ -3,7 +3,7 @@ name: capability-activation
 description: >-
   Activate and leverage advanced capabilities effectively. Demonstrates how to
   use specialized tools and powerful features.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

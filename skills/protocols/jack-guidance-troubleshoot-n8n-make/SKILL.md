@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-troubleshoot-n8n-make"
+name: "troubleshoot-n8n-make"
 description: "Offers guidelines for effective tech support questions when troubleshooting n8n or Make automations."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["troubleshooting", "support", "n8n", "make.com"]
 triggers:
   - "when you need to ask for help debugging an automation workflow"

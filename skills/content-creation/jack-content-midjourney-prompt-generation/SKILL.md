@@ -1,8 +1,8 @@
 ---
-name: "jack-content-midjourney-prompt-generation"
+name: "midjourney-prompt-generation"
 description: "Generates a Midjourney prompt from input text describing a scene or concept, adhering to a specific style and aspect ratio."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["midjourney", "prompt engineering", "image generation", "content creation"]
 triggers:
   - "When you need to create a Midjourney prompt from descriptive text."

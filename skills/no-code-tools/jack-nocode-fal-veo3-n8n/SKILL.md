@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-fal-veo3-n8n"
+name: "fal-veo3-n8n"
 description: "Automates video creation with Fal AI's Veo 3 using n8n, generating prompts, calling the API, and delivering the video via email."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "fal ai", "veo3", "video automation", "email", "api"]
 triggers:
   - "When needing to automate video generation using fal.ai"

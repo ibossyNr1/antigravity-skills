@@ -4,7 +4,7 @@ description: >-
   Design economic systems for fictional worlds. Use when worldbuilding needs
   currencies, trade networks, resource economies, or when economic pressures
   should drive plot and character motivation.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'
@@ -119,7 +119,6 @@ You help writers create authentic economic systems for fictional worlds by apply
 | **Innovation Patterns** | Individual, institutional, imported, divine |
 | **Information Asymmetry** | Transparent, insider knowledge, secret |
 | **Traditional-Novel Balance** | Conservative, innovative, cyclical |
-| **Secret Knowledge** | Trade secrets, guild mysteries, none |
 
 ### 10. Ecological Parameters
 

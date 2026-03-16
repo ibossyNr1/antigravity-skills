@@ -1,11 +1,10 @@
 ---
-name: jack-guidance-json-prompting
+name: "json-prompting"
 description: >-
   Instruct an LLM to return data ONLY in JSON format, emphasizing structure,
   constraints, and providing examples for accurate JSON output.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - llm
   - json
@@ -49,7 +48,6 @@ When using LLMs, provide clear instructions for JSON output:
 2.  Highlight requirements like starting/ending with `{}` and double quotes.
 3.  Provide an example JSON to guide the format and structure.
 4. Emphasize the importance of adhering to JSON syntax rules and structure.
-
 
 ## Configuration
 

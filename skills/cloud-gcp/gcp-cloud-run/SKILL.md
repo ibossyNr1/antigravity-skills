@@ -5,7 +5,7 @@ description: >-
   GCP. Covers Cloud Run services (containerized), Cloud Run Functions
   (event-driven), cold start optimization, and event-driven architecture with
   Pub/Sub.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

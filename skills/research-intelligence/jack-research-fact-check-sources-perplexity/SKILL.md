@@ -1,11 +1,10 @@
 ---
-name: jack-research-fact-check-sources-perplexity
+name: "fact-check-sources-perplexity"
 description: >-
   Fact-checks and adds/corrects sources for a list of bullet points using
   Perplexity AI, ensuring accuracy and proper citation.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - fact-check
   - sources

@@ -3,7 +3,7 @@ name: workspace-documentation
 description: >-
   Capture and organize knowledge in workspace platforms. Structures information
   into wikis, databases, and connected knowledge graphs.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

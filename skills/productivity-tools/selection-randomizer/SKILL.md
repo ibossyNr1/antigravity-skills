@@ -3,7 +3,7 @@ name: selection-randomizer
 description: >-
   Randomly select winners and participants fairly. Implements randomized
   selection with optional weighting and fairness verification.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

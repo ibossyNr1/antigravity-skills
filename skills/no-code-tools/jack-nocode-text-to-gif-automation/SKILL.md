@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-text-to-gif-automation"
+name: "text-to-gif-automation"
 description: "Blueprint for a text-to-GIF automation using Tally, Make, Replicate, Luma Labs, Carrd, and Giphy."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "GIF creation", "text to image", "no-code"]
 triggers:
   - "when needing to automatically convert text input into animated GIFs"

@@ -1,11 +1,10 @@
 ---
-name: jack-social-linkedin-post-agent
+name: "linkedin-post-agent"
 description: >-
   Generates LinkedIn posts by researching news, creating professional captions,
   and suggesting hashtags.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - linkedin
   - content

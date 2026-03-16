@@ -3,7 +3,7 @@ name: detox-counter
 description: >-
   Track any detox with customizable counters, symptom logging, and progress
   milestones
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - detox counter

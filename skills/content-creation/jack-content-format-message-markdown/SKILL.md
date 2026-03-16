@@ -1,8 +1,8 @@
 ---
-name: "jack-content-format-message-markdown"
+name: "format-message-markdown"
 description: "Formats a given text string to HTML with URL linking, bold, italic, strikethrough, inline code, blockquote, and line break support."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["markdown", "html", "formatting", "url", "bold", "italic", "strikethrough", "blockquote", "code", "javascript"]
 triggers:
   - "When you need to convert markdown-like text into formatted HTML for display in a web application."

@@ -4,7 +4,7 @@ description: >-
   Skåne public transport trip planner (Skånetrafiken). Plans bus/train journeys
   with real-time delays. Supports stations, addresses, landmarks, and
   cross-border trips to Copenhagen.
-license: MIT
+
 compatibility: 'Requires curl, jq. Works with Claude Code and compatible agents.'
 metadata:
   author: rezkam

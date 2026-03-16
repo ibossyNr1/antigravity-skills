@@ -4,7 +4,7 @@ description: >-
   Diagnose lyric problems across prosody, rhyme, meaning, register, sound, and
   structure. Use when AI-generated or human lyrics feel flat, cliched, awkward,
   or mismatched.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

@@ -8,7 +8,7 @@ description: >-
   platform, how to build reliable automations, and when to graduate to
   code-based solutions. Key insight: Zapier optimizes for simplicity and
   integrations (7000+ apps), Make optimizes for power 
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

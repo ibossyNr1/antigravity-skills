@@ -2,8 +2,7 @@
 name: "casualize-google-sheets"
 description: "Casualizes first names, company names, and cities in a Google Sheet using Claude to improve cold email personalization."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","nlp","casualize","anthropic","data processing"]
 triggers:
   - "when I want to casualize data in a Google Sheet"

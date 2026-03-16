@@ -5,7 +5,7 @@ description: Set up and manage affiliate marketing programs for growth and reven
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - affiliate marketing
   - affiliate program

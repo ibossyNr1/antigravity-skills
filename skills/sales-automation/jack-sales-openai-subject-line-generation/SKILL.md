@@ -1,11 +1,10 @@
 ---
-name: jack-sales-openai-subject-line-generation
+name: "openai-subject-line-generation"
 description: >-
   Generate compelling email subject lines using OpenAI to improve open rates.
   Use when you need effective subject lines quickly.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - openai
   - email marketing

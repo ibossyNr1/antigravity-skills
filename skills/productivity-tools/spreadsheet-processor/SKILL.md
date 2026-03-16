@@ -3,7 +3,7 @@ name: spreadsheet-processor
 description: >-
   Process and manipulate spreadsheet documents. Creates, edits, analyzes, and
   transforms Excel files with formula and formatting support.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

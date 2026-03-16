@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-rss-to-midjourney
+name: "rss-to-midjourney"
 description: >-
   Automates image generation from RSS feed content using Make.com, OpenAI,
   UserAPI, and Google Docs.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - rss
   - midjourney

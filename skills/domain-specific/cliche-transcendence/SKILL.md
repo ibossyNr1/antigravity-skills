@@ -6,7 +6,7 @@ description: >-
   elements orbit the protagonist too conveniently, or when you want to make a
   familiar trope feel new. Applies the 8-step CTF process and Orthogonality
   Principle.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

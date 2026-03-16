@@ -5,7 +5,7 @@ description: Structured focus sessions using Pomodoro and deep work timing techn
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - start focus session
   - pomodoro

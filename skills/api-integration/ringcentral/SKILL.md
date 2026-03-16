@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage RingCentral communications including messaging, video
   meetings, and phone operations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: >-
   exports, build tooling (tsdown/unbuild), API design patterns, type inference
   tricks, testing, and release workflows. Patterns extracted from 20+
   high-quality ecosystem libraries.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

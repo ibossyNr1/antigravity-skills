@@ -6,11 +6,10 @@ description: >
   (display: contents, mixBlendMode, outline), Swift iOS template, and DevTools
   migration.
 
-
   Use when: building Expo apps, migrating to New Architecture, or
   troubleshooting "Fabric component not found", "propTypes not a function",
   "TurboModule not registered", or Swift AppDelegate errors.
-license: MIT
+
 metadata:
   keywords: >-
     react-native, expo, new-architecture, react-19, fabric, turbomodules,

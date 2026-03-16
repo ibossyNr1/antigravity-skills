@@ -3,7 +3,7 @@ name: vercel-deployment
 description: >-
   Expert knowledge for deploying to Vercel with Next.js Use when: vercel,
   deploy, deployment, hosting, production.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

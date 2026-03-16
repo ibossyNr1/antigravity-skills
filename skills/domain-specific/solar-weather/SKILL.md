@@ -5,7 +5,7 @@ description: >-
   aurora forecasts, and solar wind data. Uses NOAA Space Weather Prediction
   Center real-time data.
 version: 1.0.0
-author: captmarbles
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

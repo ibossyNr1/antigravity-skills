@@ -5,7 +5,7 @@ description: >-
   training that produces capability, when existing training doesn't produce
   competence, when structuring knowledge for multiple audiences, or when setting
   up feedback loops to surface gaps.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

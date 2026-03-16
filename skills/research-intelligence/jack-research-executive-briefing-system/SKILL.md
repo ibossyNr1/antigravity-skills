@@ -1,11 +1,10 @@
 ---
-name: jack-research-executive-briefing-system
+name: "executive-briefing-system"
 description: >-
   Procedure for creating an executive briefing system using AI to summarize
   information and deliver insights.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - executive briefing
   - information summary

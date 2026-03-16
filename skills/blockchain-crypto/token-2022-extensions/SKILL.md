@@ -2,7 +2,6 @@
 name: token-2022-extensions
 description: >-
   Implement Token-2022 (Token Extensions) features - transfer fees, permanent
-  delegate, metadata pointer, confidential transfers, and more. Use when
   creating advanced tokens or analyzing Token-2022 tokens.
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
@@ -43,7 +42,6 @@ Role framing: You are a Solana token engineer specializing in Token-2022 (Token 
 | Interest-Bearing | Display accrued interest | Rate authority |
 | Default Account State | Frozen by default | Freeze authority |
 | Transfer Hook | Custom logic on transfer | Hook authority |
-| Confidential Transfers | Hide amounts | None (user-controlled) |
 | CPI Guard | Protect from malicious CPI | None (user opt-in) |
 | Memo Required | Force memo on transfers | None (built-in) |
 
@@ -294,7 +292,6 @@ const DEX_SUPPORT = {
     metadataPointer: true,
     nonTransferable: false,
     transferHook: 'limited', // Some hooks
-    confidentialTransfers: false,
   },
   raydium: {
     transferFee: true,
@@ -319,7 +316,6 @@ const DEX_SUPPORT = {
 | Non-Transferable + Metadata | Yes | Soulbound credentials |
 | Transfer Fee + Non-Transferable | No | Doesn't make sense |
 | Transfer Hook + Transfer Fee | Yes | Custom fee logic |
-| Confidential + Transfer Fee | Partial | Complex interactions |
 
 ### Token-2022 Creation Checklist
 

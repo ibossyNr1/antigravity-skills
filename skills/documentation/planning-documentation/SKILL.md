@@ -3,7 +3,7 @@ name: planning-documentation
 description: >-
   Document and communicate plans clearly. Structures implementation plans with
   tasks, decisions, and success criteria.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

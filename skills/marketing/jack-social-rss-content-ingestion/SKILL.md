@@ -1,8 +1,8 @@
 ---
-name: "jack-social-rss-content-ingestion"
+name: "rss-content-ingestion"
 description: "Fetch content from RSS feeds of chosen topics or newsletters."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rss", "content", "social media", "automation"]
 triggers:
   - "When you want to automatically pull content from blogs or newsletters."

@@ -21,7 +21,7 @@ metadata:
       - lm-studio
       - privacy
       - subagents
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -40,7 +40,6 @@ Great fits:
 - Drafting outlines, alternatives, and brainstorming
 
 Avoid / be cautious:
-- Tasks requiring web access, proprietary tools, or high-stakes correctness (use your primary model)
 
 ## Key Terms
 

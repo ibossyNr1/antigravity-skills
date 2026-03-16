@@ -5,7 +5,7 @@ description: Create cohesive icon sets and design systems
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - design icons
   - create icon set

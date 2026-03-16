@@ -1,8 +1,8 @@
 ---
-name: "jack-content-rag-chatbot-html"
+name: "rag-chatbot-html"
 description: "HTML template for a basic chatbot interface with file upload, settings (passkey), markdown formatting and message display."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["chatbot", "html", "template", "rag", "file upload", "markdown", "javascript"]
 triggers:
   - "When you need a basic HTML chatbot interface with file upload and markdown support."
@@ -46,7 +46,6 @@ box-shadow: 0 0 10px rgba(0,0,0,0.1);
 overflow: hidden;
 }
 
-
 .chat-app-header {
 background: linear-gradient(90deg, #00d2ff, #3a7bd5);
 background-size: 200% 200%;
@@ -60,7 +59,6 @@ justify-content: space-between;
 align-items: center;
 }
 
-
 @keyframes chat-app-gradient-animation {
 0% {
 background-position: 0% 50%;
@@ -73,12 +71,10 @@ background-position: 0% 50%;
 }
 }
 
-
 .chat-app-header-title {
 flex: 1;
 text-align: center;
 }
-
 
 .chat-app-message-display {
 height: 400px;
@@ -86,7 +82,6 @@ padding: 10px;
 overflow-y: auto;
 background-color: #eef5ff;
 }
-
 
 .chat-app-message {
 margin: 10px 0; /* Added vertical margin for better spacing between messages */
@@ -101,13 +96,11 @@ animation: chat-app-fade-in 0.5s forwards;
 white-space: pre-wrap; /* Preserves spaces and line breaks */
 }
 
-
 @keyframes chat-app-fade-in {
 to {
 opacity: 1;
 }
 }
-
 
 .chat-app-user-message {
 background-color: #dcf8c6;
@@ -116,7 +109,6 @@ text-align: left;
 margin-left: auto;
 }
 
-
 .chat-app-bot-message {
 background-color: white;
 align-self: flex-start;
@@ -124,14 +116,12 @@ text-align: left;
 margin-right: auto;
 }
 
-
 .chat-app-input-container {
 display: flex;
 align-items: center;
 padding: 10px;
 background-color: #f0f0f0;
 }
-
 
 .chat-app-message-input {
 flex: 1;
@@ -147,11 +137,9 @@ resize: none;
 overflow: auto;
 }
 
-
 .chat-app-message-input:focus {
 outline: none;
 }
-
 
 .chat-app-send-button {
 background-color: #128c7e;
@@ -168,11 +156,9 @@ align-items: center;
 justify-content: center;
 }
 
-
 .chat-app-send-button:hover {
 background-color: #075e54;
 }
-
 
 .chat-app-attach-button {
 background-color: transparent;
@@ -183,16 +169,13 @@ font-size: 24px;
 cursor: pointer;
 }
 
-
 .chat-app-attach-button:hover {
 color: #075e54;
 }
 
-
 .chat-app-file-input {
 display: none;
 }
-
 
 /* Modal Styles */
 .chat-app-modal-overlay {
@@ -205,7 +188,6 @@ height: 100%;
 background: rgba(0,0,0,0.5);
 z-index: 1000;
 }
-
 
 .chat-app-settings-modal {
 display: none;
@@ -222,17 +204,14 @@ display: flex;
 flex-direction: column;
 }
 
-
 .chat-app-settings-modal h2 {
 margin-top: 0;
 }
-
 
 .chat-app-settings-modal label {
 display: block;
 margin: 10px 0 5px;
 }
-
 
 .chat-app-settings-modal input[type="text"] {
 width: 100%;
@@ -240,7 +219,6 @@ padding: 5px;
 font-size: 16px;
 margin-bottom: 15px;
 }
-
 
 .chat-app-settings-modal button {
 padding: 10px;
@@ -253,11 +231,9 @@ border: none;
 border-radius: 5px;
 }
 
-
 .chat-app-settings-modal button:hover {
 background-color: #075e54;
 }
-
 
 /* Style for images in chat */
 .chat-app-message img {
@@ -265,13 +241,11 @@ max-width: 100%;
 border-radius: 10px;
 }
 
-
 /* Style for PDF links */
 .chat-app-pdf-link {
 color: #1a0dab;
 text-decoration: underline;
 }
-
 
 /* Remove border from settings cog and show on focus */
 #chat-app-settings-button {
@@ -281,14 +255,12 @@ padding: 0 10px;
 cursor: pointer;
 }
 
-
 #chat-app-settings-button:focus,
 #chat-app-settings-button:active {
 outline: none;
 border: 1px solid #128c7e;
 border-radius: 4px;
 }
-
 
 /* Remove default button focus outline */
 button:focus {
@@ -301,7 +273,6 @@ outline: none;
 <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
 </head>
 <body>
-
 
 <!-- Chat App Container -->
 <div class="chat-app-container">
@@ -325,10 +296,8 @@ outline: none;
 </div>
 </div>
 
-
 <!-- Modal Overlay -->
 <div class="chat-app-modal-overlay" id="chat-app-modal-overlay"></div>
-
 
 <!-- Settings Modal -->
 <div class="chat-app-settings-modal" id="chat-app-settings-modal">
@@ -338,12 +307,10 @@ outline: none;
 <button id="chat-app-save-settings">Save Settings</button>
 </div>
 
-
 <script>
 (function() {
 const webhookUrl = 'https://hook.eu2.make.com/8xjgdjy0bp1dfuv7cjy3yarhugccu3lp'; // Updated webhook URL
 let passKey = '';
-
 
 // Get elements
 const chatAppContainer = document.querySelector('.chat-app-container');
@@ -354,12 +321,10 @@ const fileInput = document.getElementById('chat-app-file-input');
 const attachButton = document.getElementById('chat-app-attach-button');
 const settingsButton = document.getElementById('chat-app-settings-button');
 
-
 const modalOverlay = document.getElementById('chat-app-modal-overlay');
 const settingsModal = document.getElementById('chat-app-settings-modal');
 const passkeyInput = document.getElementById('chat-app-passkey-input');
 const saveSettingsButton = document.getElementById('chat-app-save-settings');
-
 
 // Event listeners
 sendButton.addEventListener('click', sendMessage);
@@ -375,14 +340,12 @@ settingsButton.addEventListener('click', openSettings);
 modalOverlay.addEventListener('click', closeSettings);
 saveSettingsButton.addEventListener('click', saveSettings);
 
-
 function sendMessage() {
 const messageText = messageInput.value.trim();
 if (messageText === '') return;
 
 displayMessage(messageText, 'chat-app-user-message');
 messageInput.value = '';
-
 
 // Send only the latest message to webhook with pass key
 fetch(webhookUrl, {
@@ -402,17 +365,14 @@ displayMessage('Sorry, something went wrong.', 'chat-app-bot-message');
 });
 }
 
-
 function sendFiles() {
 const files = fileInput.files;
 if (files.length === 0) return;
-
 
 const formData = new FormData();
 formData.append('passKey', passKey);
 for (const file of files) {
 formData.append('files', file);
-
 
 if (file.type.startsWith('image/')) {
 const reader = new FileReader();
@@ -426,7 +386,6 @@ displayPDFLink(file.name, URL.createObjectURL(file), 'chat-app-user-message');
 displayMessage(`Sent a file: ${file.name}`, 'chat-app-user-message');
 }
 }
-
 
 // Send files to webhook
 fetch(webhookUrl, {
@@ -442,11 +401,9 @@ console.error('Error:', error);
 displayMessage('Sorry, something went wrong with the file upload.', 'chat-app-bot-message');
 });
 
-
 // Reset file input
 fileInput.value = '';
 }
-
 
 function displayMessage(message, className) {
 const messageElement = document.createElement('div');
@@ -455,7 +412,6 @@ messageElement.innerHTML = formatMessage(message);
 messageDisplay.appendChild(messageElement);
 messageDisplay.scrollTop = messageDisplay.scrollHeight;
 }
-
 
 function displayImage(src, className) {
 const messageElement = document.createElement('div');
@@ -466,7 +422,6 @@ messageElement.appendChild(img);
 messageDisplay.appendChild(messageElement);
 messageDisplay.scrollTop = messageDisplay.scrollHeight;
 }
-
 
 function displayPDFLink(filename, url, className) {
 const messageElement = document.createElement('div');
@@ -481,41 +436,32 @@ messageDisplay.appendChild(messageElement);
 messageDisplay.scrollTop = messageDisplay.scrollHeight;
 }
 
-
 function formatMessage(text) {
 // Convert URLs into clickable links
 const urlRegex = /(https?:\/\/[^\s]+)/g;
 let linkedText = text.replace(urlRegex, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
 
-
 // Convert Markdown syntax to HTML
 // Bold: **text** or __text__
 linkedText = linkedText.replace(/(\*\*|__)(.*?)\1/g, '<strong>$2</strong>');
 
-
 // Italic: *text* or _text_
 linkedText = linkedText.replace(/(\*|_)(.*?)\1/g, '<em>$2</em>');
-
 
 // Strikethrough: ~~text~~
 linkedText = linkedText.replace(/~~(.*?)~~/g, '<del>$1</del>');
 
-
 // Inline code: `code`
 linkedText = linkedText.replace(/`(.*?)`/g, '<code>$1</code>');
-
 
 // Blockquote: > quote
 linkedText = linkedText.replace(/^> (.*)$/gm, '<blockquote>$1</blockquote>');
 
-
 // Replace line breaks with <br><br> for paragraph spacing
 linkedText = linkedText.replace(/\n/g, '<br><br>');
 
-
 return linkedText;
 }
-
 
 function openSettings() {
 settingsModal.style.display = 'flex';
@@ -524,17 +470,14 @@ modalOverlay.style.display = 'block';
 settingsButton.blur();
 }
 
-
 function closeSettings() {
 settingsModal.style.display = 'none';
 modalOverlay.style.display = 'none';
 }
 
-
 function saveSettings() {
 // Save pass key
 passKey = passkeyInput.value;
-
 
 closeSettings();
 }

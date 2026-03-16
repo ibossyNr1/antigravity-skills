@@ -3,11 +3,10 @@ name: design-system-generator
 description: >-
   Generate design systems and theme variations. Creates cohesive visual systems
   with color schemes, typography, and component styling.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
-
 
 # Theme Factory Skill
 

@@ -1,11 +1,10 @@
 ---
-name: jack-sales-proposal-generator
+name: "proposal-generator"
 description: >-
   Generates proposals with research-backed insights using AI to improve deal
   closing rates.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - proposal generation
   - AI

@@ -2,8 +2,7 @@
 name: "parallel-apify-lead-scrape"
 description: "Scrapes leads in parallel using Apify, partitioning by geography to optimize costs and speed. Supports region, metro, and state-level splits. Deduplicates results."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["lead scraping","apify","parallel processing","data extraction","sales"]
 triggers:
   - "when I need to quickly scrape leads from Apify"

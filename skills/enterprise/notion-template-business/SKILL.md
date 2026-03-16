@@ -6,7 +6,7 @@ description: >-
   template design, pricing, marketplaces, marketing, and scaling to real
   revenue. Use when: notion template, sell templates, digital product, notion
   business, gumroad.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

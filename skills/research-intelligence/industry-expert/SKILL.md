@@ -7,7 +7,7 @@ description: >-
 category: research
 complexity: multi-agent
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - industry expert
   - deep domain research
@@ -259,7 +259,6 @@ This skill orchestrates multiple research capabilities to build comprehensive in
    - Synthesize research into novel frameworks
    - Identify patterns others haven't seen
    - Challenge conventional wisdom with evidence
-   - Develop proprietary models or methodologies
    - Generate testable predictions
 
 4. **Argument Construction**

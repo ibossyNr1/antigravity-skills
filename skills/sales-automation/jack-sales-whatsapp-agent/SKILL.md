@@ -1,11 +1,10 @@
 ---
-name: jack-sales-whatsapp-agent
+name: "whatsapp-agent"
 description: >-
   Automates WhatsApp customer service and sales conversations using an AI agent
   connected to Unipile and n8n.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - whatsapp
   - sales

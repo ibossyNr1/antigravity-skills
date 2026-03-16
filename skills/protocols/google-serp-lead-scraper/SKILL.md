@@ -2,8 +2,7 @@
 name: "google-serp-lead-scraper"
 description: "Scrapes Google search results for local businesses, extracts contact info, and stores structured leads in Google Sheets. Useful for lead generation."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["lead generation","web scraping","local business","google serp","contact extraction"]
 triggers:
   - "when building lead lists"

@@ -122,7 +122,6 @@ Use Security Architect when:
   - Immutable log storage
   - User action tracking
 
-**I - Information Disclosure (Confidentiality)**
 
 - **Threat:** Sensitive data exposed to unauthorized parties
 - **Examples:**
@@ -521,7 +520,6 @@ app.use((err, req, res, next) => {
 
 - **Scope:** SaaS companies handling customer data
 - **Key Requirements:**
-  - Trust Service Criteria (Security, Availability, Confidentiality)
   - Access controls and monitoring
   - Change management
   - Incident response

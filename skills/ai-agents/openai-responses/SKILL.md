@@ -5,13 +5,12 @@ description: >
   successor to Chat Completions. Preserves reasoning across turns for 5% better
   multi-turn performance and 40-80% improved cache utilization.
 
-
   Use when: building AI agents with persistent reasoning, integrating MCP
   servers for external tools, using built-in Code Interpreter/File Search/Web
   Search, managing stateful conversations, implementing background processing
   for long tasks, or migrating from Chat Completions to gain polymorphic outputs
   and server-side tools.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

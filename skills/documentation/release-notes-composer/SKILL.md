@@ -3,7 +3,7 @@ name: release-notes-composer
 description: >-
   Generate comprehensive release notes and changelogs. Compiles version history,
   feature descriptions, and breaking changes from commit information.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

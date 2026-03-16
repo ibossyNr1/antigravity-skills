@@ -1,9 +1,8 @@
 ---
-name: jack-social-rss-content-ingestion
+name: "rss-content-ingestion"
 description: Fetch content from RSS feeds of chosen topics or newsletters.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - rss
   - content

@@ -5,7 +5,7 @@ description: >-
   prompt structure, context management, output formatting, and prompt
   evaluation. Use when: prompt engineering, system prompt, few-shot, chain of
   thought, prompt design.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -7,7 +7,7 @@ description: >-
   award-winning web experiences. Makes websites feel like experiences, not just
   pages. Use when: scroll animation, parallax, scroll storytelling, interactive
   story, cinematic website.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

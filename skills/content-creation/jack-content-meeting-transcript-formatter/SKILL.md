@@ -1,8 +1,8 @@
 ---
-name: "jack-content-meeting-transcript-formatter"
+name: "meeting-transcript-formatter"
 description: "Format Fireflies.ai meeting transcripts by combining speaker names and sentence text into a single transcript."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["meeting", "transcription", "fireflies.ai", "formatting"]
 triggers:
   - "When processing a Fireflies.ai transcript"

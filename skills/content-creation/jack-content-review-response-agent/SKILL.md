@@ -1,8 +1,8 @@
 ---
-name: "jack-content-review-response-agent"
+name: "review-response-agent"
 description: "Agent to generate professional and personalized responses to Google and Trustpilot reviews, following specific guidelines for tone and sentiment."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["review response", "customer feedback", "brand reputation", "agent"]
 triggers:
   - "When a new review is received on Google or Trustpilot."

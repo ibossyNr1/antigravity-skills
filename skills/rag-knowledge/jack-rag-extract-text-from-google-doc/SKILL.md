@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-extract-text-from-google-doc"
+name: "extract-text-from-google-doc"
 description: "Extracts text content from a Google Docs file using DumplingAI and returns it as plain text."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["google docs", "dumplingai", "text extraction", "automation"]
 triggers:
   - "When you need to extract text from a Google Docs file automatically."

@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-golden-selector"
+name: "golden-selector"
 description: "Uses a 'golden selector' to identify relevant workflows from a data source (e.g. Airtable) based on descriptions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rag", "airtable", "workflow selection"]
 triggers:
   - "when you need to dynamically select an automation workflow based on user description"

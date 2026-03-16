@@ -4,7 +4,7 @@ description: >-
   Expand seeds and escape convergent ideation. Use when you have the start of an
   idea and want to grow it, when brainstorming produces the same ideas every
   time, or when you need to explore possibility space.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.1'

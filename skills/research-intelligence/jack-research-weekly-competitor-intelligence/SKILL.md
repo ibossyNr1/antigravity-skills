@@ -1,11 +1,10 @@
 ---
-name: jack-research-weekly-competitor-intelligence
+name: "weekly-competitor-intelligence"
 description: >-
   Procedure to automate weekly competitor intelligence gathering and reporting
   using scraping and AI analysis.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - competitor intelligence
   - scraping

@@ -5,7 +5,7 @@ description: Write high-converting advertising copy for paid media campaigns
 category: marketing
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - ad copy
   - facebook ads

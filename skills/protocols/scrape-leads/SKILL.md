@@ -2,8 +2,7 @@
 name: "lead-scraping-and-verification"
 description: "Scrapes leads, verifies industry relevance, and saves to a Google Sheet, using parallel scraping for large datasets when appropriate."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["lead generation","data scraping","google sheets","apify"]
 triggers:
   - "when I need to scrape leads and save them to Google Sheets"

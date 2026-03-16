@@ -3,7 +3,7 @@ name: application-quality-assurance
 description: >-
   Test web applications comprehensively for quality. Performs functional,
   integration, and user experience testing of web applications.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

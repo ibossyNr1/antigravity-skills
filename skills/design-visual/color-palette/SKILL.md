@@ -6,11 +6,10 @@ description: >
   muted), and dark mode variants. Includes WCAG contrast checking for text
   accessibility.
 
-
   Use when: setting up design system, creating Tailwind theme, building brand
   colors from single hex, converting designs to code, checking color
   accessibility.
-license: MIT
+
 metadata:
   keywords:
     - color-palette

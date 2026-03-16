@@ -3,7 +3,7 @@ name: review-recipient
 description: >-
   Receive and process code review feedback effectively. Applies suggestions,
   addresses comments, and iterates on implementation improvements.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,11 +1,10 @@
 ---
-name: jack-guidance-whatsapp-agent-persona
+name: "whatsapp-agent-persona"
 description: >-
   Defines a persona for an AI WhatsApp agent focused on providing helpful
   support and booking assessment calls.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - whatsapp
   - ai agent

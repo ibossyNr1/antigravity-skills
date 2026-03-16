@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-client-onboarding-autopilot"
+name: "client-onboarding-autopilot"
 description: "Automates client onboarding with AI research and custom portal creation to save time and create a personalized experience."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["client onboarding", "automation", "research", "custom portal"]
 triggers:
   - "when you want to automate client onboarding"

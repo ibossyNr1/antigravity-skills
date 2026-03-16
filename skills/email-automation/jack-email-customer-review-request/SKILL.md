@@ -1,8 +1,8 @@
 ---
-name: "jack-email-customer-review-request"
+name: "customer-review-request"
 description: "Sends a personalized email asking for a customer review, with rating options linked to a webhook."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "customer feedback", "review request", "html"]
 triggers:
   - "after a customer interaction"
@@ -53,7 +53,6 @@ Sends a personalized email asking for a customer review, with rating options lin
     <p>Your feedback helps us to be better.</p>
     <p>I appreciate you,</p>
     <p>{{1.`Barber 💈`}}</p>
-
 
     <table cellpadding="0" cellspacing="0" border="0" style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial;">
         <tbody>

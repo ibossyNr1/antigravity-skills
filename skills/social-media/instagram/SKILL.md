@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Instagram posts, stories, reels, and engagement
   through browser automation
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

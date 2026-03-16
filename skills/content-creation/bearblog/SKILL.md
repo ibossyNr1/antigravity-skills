@@ -217,8 +217,6 @@ Links to: `#my-section-title`
 ## Typography
 
 Automatic replacements:
-- `(c)` → ©
-- `(C)` → ©
 - `(r)` → ®
 - `(R)` → ®
 - `(tm)` → ™

@@ -5,7 +5,7 @@ description: Plan your day effectively with structured daily planning sessions
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - plan my day
   - daily planning

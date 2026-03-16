@@ -7,7 +7,7 @@ description: >-
 category: technical
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - security scan
   - vulnerability check

@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse restaurants, manage orders, and track deliveries on
   Grubhub
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

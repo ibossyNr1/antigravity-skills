@@ -3,7 +3,7 @@ name: infrastructure-code-synthesis
 description: >-
   Synthesize and generate AWS infrastructure as code using CDK. Creates
   composable infrastructure components and deployment patterns programmatically.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

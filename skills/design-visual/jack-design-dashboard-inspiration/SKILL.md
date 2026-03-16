@@ -1,8 +1,8 @@
 ---
-name: "jack-design-dashboard-inspiration"
+name: "dashboard-inspiration"
 description: "Use Dribbble to find AI dashboard inspirations"
 version: "1.0.0"
-license: "MIT"
+
 tags: ["design", "dashboard", "inspiration"]
 triggers:
   - "Need design ideas for dashboards"

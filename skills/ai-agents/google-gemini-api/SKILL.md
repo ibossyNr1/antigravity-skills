@@ -7,7 +7,6 @@ description: >-
   Supports text generation, multimodal (images/video/audio/PDFs), function
   calling, and thinking mode. 1M input tokens.
 
-
   Use when: integrating Gemini API, implementing multimodal AI, using thinking
   mode for reasoning, function calling
 
@@ -16,7 +15,6 @@ description: >-
 
   SDK deprecation, context window, model not found, function calling, or
   multimodal format errors.
-
 
   Keywords: gemini api, @google/genai, gemini-2.5-pro, gemini-2.5-flash,
   gemini-2.5-flash-lite,
@@ -32,7 +30,7 @@ description: >-
 
   gemini 1m tokens, gemini tool use, parallel function calling, compositional
   function ca
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

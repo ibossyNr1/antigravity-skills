@@ -3,7 +3,7 @@ name: idea-lab
 description: >-
   Timeboxed divergent ideation that outputs ranked options plus day-one
   experiments.
-license: MIT
+
 command: '/ctx:idea-lab'
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'

@@ -5,7 +5,7 @@ description: 'Daily journaling prompts and frameworks for reflection, growth, an
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - journal prompt
   - help me journal

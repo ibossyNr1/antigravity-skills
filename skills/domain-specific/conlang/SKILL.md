@@ -4,7 +4,7 @@ description: >-
   Generate phonologically consistent constructed languages for fiction. Use when
   you need naming languages, alien speech, or fantasy tongues without deep
   linguistics knowledge.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

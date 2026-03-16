@@ -8,8 +8,7 @@ description: >-
   embeddings, attention biases, interpolation methods, and extrapolation
   strategies for LLMs.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Emerging Techniques
   - Long Context
@@ -553,5 +552,4 @@ llm = LLM(
 - `references/rope.md` - Detailed RoPE implementation and theory
 - `references/extension_methods.md` - YaRN, ALiBi, Position Interpolation comparisons
 - `references/fine_tuning.md` - Complete fine-tuning guide for context extension
-
 

@@ -5,7 +5,7 @@ description: 'Plan M&A exits, prepare for acquisition, and maximize exit value'
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - exit strategy
   - m&a planning

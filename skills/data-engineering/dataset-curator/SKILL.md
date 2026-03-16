@@ -5,7 +5,7 @@ description: Curate and clean training datasets for high-quality machine learnin
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - curate dataset
   - clean training data

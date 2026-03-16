@@ -353,7 +353,6 @@ DEFENSIVE IP:
 - Standard setting
 
 PORTFOLIO DECISIONS:
-- File vs. trade secret
 - Geographic coverage
 - Maintenance vs. abandonment
 - Licensing strategy
@@ -365,7 +364,6 @@ IP METRICS:
 - Litigation success
 ```
 
-See [IP Strategy](./references/ip-strategy.md) for detailed patent filing decisions, trade secret protection, licensing frameworks, and IP valuation methods.
 
 ### Patent Strategy
 
@@ -379,7 +377,6 @@ FILE PATENT WHEN:
 - Competitive blocking value
 - Licensing potential
 
-TRADE SECRET WHEN:
 - Process-based innovation
 - Difficult to reverse engineer
 - Rapid evolution expected
@@ -480,7 +477,6 @@ For comprehensive innovation management frameworks:
 - [Innovation Management Skill](./references/innovation-management-skill.md) - Complete innovation reference
 - [Corporate Venture & Open Innovation](./references/corporate-venture-open-innovation-skill.md) - CVC and partnership strategies
 - [Innovation Processes](./references/innovation-processes.md) - Design Thinking, Stage-Gate, Lean Startup details
-- [IP Strategy](./references/ip-strategy.md) - Patent strategy, trade secrets, licensing
 
 ## See Also
 

@@ -3,7 +3,7 @@ name: capability-assessment
 description: >-
   Assess and analyze developer skill growth and progression. Identifies
   capability gaps, learning paths, and mastery levels across technology domains.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

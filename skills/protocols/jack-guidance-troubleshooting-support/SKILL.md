@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-troubleshooting-support"
+name: "troubleshooting-support"
 description: "Provides a structured approach for troubleshooting voice agent setups, including specifying the issue, providing visual evidence, and outlining steps tried."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["troubleshooting", "support", "n8n", "elevenlabs", "voice agent"]
 triggers:
   - "when you encounter issues setting up a voice agent"

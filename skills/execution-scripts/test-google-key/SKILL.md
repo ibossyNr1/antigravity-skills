@@ -2,8 +2,7 @@
 name: "test-gemini-api-key"
 description: "Tests a Google Gemini API key by listing available models. Useful for verifying API key validity and connectivity."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["gemini","api","google","test","verification","utility","internal"]
 triggers:
   - "when I need to test my gemini key"

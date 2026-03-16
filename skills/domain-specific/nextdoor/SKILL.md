@@ -2,7 +2,7 @@
 name: nextdoor
 description: Enables Claude to manage Nextdoor neighborhood posts and community engagement
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

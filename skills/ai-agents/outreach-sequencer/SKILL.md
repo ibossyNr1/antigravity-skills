@@ -5,7 +5,7 @@ description: Create multi-touch email outreach sequences that drive responses an
 category: sales
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - outreach sequence
   - email cadence

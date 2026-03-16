@@ -6,7 +6,7 @@ description: >-
   generative art, algorithmic art, flow fields, or particle systems. Create
   original algorithmic art rather than copying existing artists' work to avoid
   copyright violations.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

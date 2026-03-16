@@ -5,7 +5,7 @@ description: 'Recruit, structure, and manage advisory boards for strategic guida
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - advisory board
   - recruit advisors

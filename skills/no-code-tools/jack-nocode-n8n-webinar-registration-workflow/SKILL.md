@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-n8n-webinar-registration-workflow"
+name: "n8n-webinar-registration-workflow"
 description: "Automates webinar registration and confirmation using n8n, Gmail, and Typeform."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "automation", "webinar", "registration", "email", "typeform"]
 triggers:
   - "when a user submits a webinar registration form"

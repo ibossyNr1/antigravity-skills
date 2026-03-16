@@ -3,7 +3,7 @@ name: animated-message-composer
 description: >-
   Create animated GIFs for messaging platforms. Generates animated content
   optimized for sharing in chat applications.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

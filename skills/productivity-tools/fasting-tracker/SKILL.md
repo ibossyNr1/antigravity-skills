@@ -1,7 +1,7 @@
 ---
 name: fasting-tracker
 description: 'Track intermittent fasting windows, extended fasts, and autophagy milestones'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - start fast

@@ -4,7 +4,7 @@ description: >-
   Systematically analyze societal impacts of technologies using McLuhan's Tetrad
   of Media Effects. Use when evaluating new technology, planning technology
   adoption, or analyzing technology policy.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

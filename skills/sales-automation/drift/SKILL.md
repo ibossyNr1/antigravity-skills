@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Drift conversations, playbooks, and conversational
   marketing operations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

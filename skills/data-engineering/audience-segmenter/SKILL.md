@@ -5,7 +5,7 @@ description: Segment audiences for targeted marketing and personalized messaging
 category: marketing
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - audience segmentation
   - customer segments

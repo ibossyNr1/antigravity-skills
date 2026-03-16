@@ -1,11 +1,10 @@
 ---
-name: jack-research-perplexity-summary
+name: "perplexity-summary"
 description: >-
   Use Perplexity AI to summarize content from a URL, extract key insights, and
   gather additional research data points.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - research
   - summarization

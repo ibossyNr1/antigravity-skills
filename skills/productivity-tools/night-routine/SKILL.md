@@ -3,7 +3,7 @@ name: night-routine
 description: >-
   Build a restful night routine with wind-down habits, sleep prep, and next-day
   planning
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - night routine

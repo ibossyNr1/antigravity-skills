@@ -1,11 +1,10 @@
 ---
-name: jack-sales-chatbot-persona
+name: "chatbot-persona"
 description: >-
   Defines a chatbot persona to help website visitors find and purchase the right
   product by providing personalized recommendations.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - chatbot
   - persona

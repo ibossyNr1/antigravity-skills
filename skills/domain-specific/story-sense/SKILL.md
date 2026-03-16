@@ -6,7 +6,7 @@ description: >-
   narrative feels broken, or when someone asks 'what's wrong with my story?'.
   Keywords: story, diagnosis, stuck, narrative, plot, character, worldbuilding,
   revision.
-license: MIT
+
 compatibility: Works with any fiction format. Entry point for fiction diagnostics.
 metadata:
   author: jwynia

@@ -2,8 +2,7 @@
 name: "json-to-google-sheets"
 description: "Uploads JSON data to a Google Sheet, handling authentication and sheet creation. Use when needing to import data from JSON files into a spreadsheet."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","json","data import","automation","spreadsheet"]
 triggers:
   - "when I need to import a JSON file into Google Sheets"

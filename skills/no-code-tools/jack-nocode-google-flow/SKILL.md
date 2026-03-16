@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-google-flow"
+name: "google-flow"
 description: "Use Google Flow to create conversational AI experiences and automate interactions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["conversational AI", "nocode", "google", "flow"]
 triggers:
   - "When building a chatbot or voice assistant"

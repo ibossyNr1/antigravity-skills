@@ -2,8 +2,7 @@
 name: "launch-agent-chrome"
 description: "Launches Google Chrome in 'Agent-Ready' mode with remote debugging enabled. Useful for automated browser testing and tooling when you need a specific Chrome profile."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["chrome","debugging","automation","browser","agent","utility","internal"]
 triggers:
   - "when I need a Chrome instance with remote debugging"

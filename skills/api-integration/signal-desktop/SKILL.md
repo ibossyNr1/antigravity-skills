@@ -4,7 +4,7 @@ description: >-
   Enables Claude to send encrypted messages and manage Signal communications
   through the desktop application
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -70,7 +70,6 @@ canifi-env set SERVICE_PASSWORD "your-password"
 
 ### Example 1: Send an Encrypted Message
 ```
-User: "Send a Signal message to James about the confidential project"
 Claude: I'll send that secure message via Signal.
 - Launch Signal Desktop application
 - Search for James in contacts

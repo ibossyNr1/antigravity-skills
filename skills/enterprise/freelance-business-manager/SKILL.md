@@ -5,7 +5,7 @@ description: 'Manage freelance business operations including clients, projects, 
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - freelance business
   - freelance management

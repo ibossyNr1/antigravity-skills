@@ -1,7 +1,7 @@
 ---
 name: habit-tracker
 description: 'Build habits with streaks, reminders, and progress visualization'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - track habit

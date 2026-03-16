@@ -5,11 +5,10 @@ description: >
   (forms, charts, tables) from LLM responses. Supports Vite+React, Next.js, and
   Cloudflare Workers with OpenAI, Anthropic Claude, and Workers AI.
 
-
   Use when building conversational UIs, AI assistants with rich interactions, or
   troubleshooting empty responses, theme application failures, streaming issues,
   or tool calling errors.
-license: MIT
+
 metadata:
   version: 1.0.0
   package: '@thesysai/genui-sdk'

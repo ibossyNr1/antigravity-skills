@@ -5,17 +5,15 @@ description: >
   auth, 2FA, passkeys, organizations, and RBAC. Self-hosted alternative to
   Clerk/Auth.js.
 
-
   IMPORTANT: Requires Drizzle ORM or Kysely for D1 - no direct D1 adapter.
   v1.4.0 (Nov 2025) adds stateless sessions, ESM-only (breaking), JWT key
   rotation, SCIM provisioning. v1.3 adds SSO/SAML, multi-team support.
-
 
   Use when: self-hosting auth on Cloudflare D1, migrating from Clerk,
   implementing multi-tenant SaaS, or troubleshooting D1 adapter errors, session
   serialization, OAuth flows, TanStack Start cookie issues, nanostore session
   invalidation.
-license: MIT
+
 metadata:
   version: 3.0.0
   last_verified: 2025-11-22T00:00:00.000Z
@@ -1057,7 +1055,6 @@ await refetch()
 
 **Key differences**:
 - Clerk: Third-party service → better-auth: Self-hosted
-- Clerk: Proprietary → better-auth: Open source
 - Clerk: Monthly cost → better-auth: Free
 
 **Migration steps**:

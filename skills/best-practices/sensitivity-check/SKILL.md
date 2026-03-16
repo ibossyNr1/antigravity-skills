@@ -4,7 +4,7 @@ description: >-
   Evaluate representation and flag potential harm concerns. Use when writing
   characters from marginalized groups, depicting sensitive subject matter, or
   wanting to check for stereotypes and harmful tropes.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

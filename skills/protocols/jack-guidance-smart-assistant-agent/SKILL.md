@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-smart-assistant-agent"
+name: "smart-assistant-agent"
 description: "Defines a persona for an AI Smart Assistant Agent, detailing its role, context, tasks, and ethical guidelines."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ai agent", "persona", "system prompt", "smart assistant"]
 triggers:
   - "when defining the role and responsibilities of an AI assistant agent"

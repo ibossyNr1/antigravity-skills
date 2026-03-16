@@ -7,7 +7,7 @@ description: >-
   just API calls - it's the full payment system: handling failures, managing
   subscriptions, dealing with dunning, and keeping revenue flowing. Use when:
   stripe, payments, subscription, billing, checkout.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

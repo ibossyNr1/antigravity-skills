@@ -4,8 +4,7 @@ description: >-
   Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP -
   parameter sharding, mixed precision, CPU offloading, FSDP2
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Distributed Training
   - PyTorch
@@ -136,5 +135,4 @@ Add templates, boilerplate, or example projects here.
 To refresh this skill with updated documentation:
 1. Re-run the scraper with the same configuration
 2. The skill will be rebuilt with the latest information
-
 

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-customer-review-analyzer"
+name: "customer-review-analyzer"
 description: "Analyzes aggregated customer reviews to identify positive/negative aspects, actionable insights, and emerging trends for competitive advantage."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["content", "customer reviews", "sentiment analysis", "competitive analysis", "ai", "gpt-4"]
 triggers:
   - "When you need to analyze customer reviews to improve your product or service."

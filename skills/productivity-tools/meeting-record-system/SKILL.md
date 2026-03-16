@@ -3,7 +3,7 @@ name: meeting-record-system
 description: >-
   Record and manage meeting notes with intelligence. Organizes meeting
   documentation with action items, decisions, and follow-ups.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

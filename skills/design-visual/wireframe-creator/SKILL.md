@@ -5,7 +5,7 @@ description: Create low-fidelity wireframes for rapid prototyping
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create wireframe
   - wireframe

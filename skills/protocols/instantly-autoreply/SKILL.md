@@ -2,8 +2,7 @@
 name: "instantly-autoreply"
 description: "Automatically replies to Instantly campaign emails using a knowledge base and web research for personalized and context-aware responses."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["email","automation","sales","instantly","ai"]
 triggers:
   - "when a reply is received from an Instantly campaign"

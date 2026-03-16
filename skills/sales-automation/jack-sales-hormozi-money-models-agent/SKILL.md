@@ -1,11 +1,10 @@
 ---
-name: jack-sales-hormozi-money-models-agent
+name: "hormozi-money-models-agent"
 description: >-
   Creates an AI agent based on Alex Hormozi's $100M Money Models to provide
   expert business advice.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - AI agent
   - sales

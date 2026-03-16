@@ -4,7 +4,7 @@ description: >-
   Build worlds through cascading consequences from speculative changes. Use when
   introducing new technologies, species, or alternate histories and need to
   trace realistic societal transformations across multiple domains.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

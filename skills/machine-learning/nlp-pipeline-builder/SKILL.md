@@ -7,7 +7,7 @@ description: >-
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - build NLP pipeline
   - text processing

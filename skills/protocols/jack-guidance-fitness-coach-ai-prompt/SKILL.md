@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-fitness-coach-ai-prompt"
+name: "fitness-coach-ai-prompt"
 description: "Create an AI fitness coach to provide personalized feedback on user's fitness goals, analyzing for clarity, measurability, and realism."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ai", "fitness", "coach", "prompt", "health"]
 triggers:
   - "When creating an AI agent to provide fitness coaching."

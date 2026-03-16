@@ -5,7 +5,7 @@ description: >-
   normalization guidelines, indexing strategies, migration patterns, constraint
   design, and performance optimization. Ensures data integrity, query
   performance, and maintainable data models.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

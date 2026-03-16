@@ -1,8 +1,8 @@
 ---
-name: "jack-content-youtube-copilot-prompt"
+name: "youtube-copilot-prompt"
 description: "Provides a prompt for an AI copilot designed to engage in conversations about YouTube videos by analyzing transcripts and conversation history."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["youtube", "copilot", "ai", "content", "conversation"]
 triggers:
   - "When creating an AI assistant to discuss YouTube videos."

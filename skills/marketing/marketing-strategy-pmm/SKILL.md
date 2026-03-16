@@ -8,7 +8,7 @@ description: >-
   analyzing competitors, entering new markets, enabling sales, or when user
   mentions product marketing, positioning, GTM, go-to-market, competitive
   analysis, market entry, or sales enablement.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: Alireza Rezvani

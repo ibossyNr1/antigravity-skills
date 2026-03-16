@@ -5,7 +5,7 @@ description: 'Manage equity cap tables, model dilution scenarios, and track owne
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - cap table
   - equity management

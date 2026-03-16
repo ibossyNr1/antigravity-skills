@@ -4,7 +4,7 @@ description: >-
   Generate algorithmic patterns and creative visualizations. Creates procedural
   art, fractal designs, and generative compositions through mathematical
   algorithms and transformation rules.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

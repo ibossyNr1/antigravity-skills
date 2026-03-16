@@ -5,11 +5,10 @@ description: >
   concrete next actions. Converts IMPLEMENTATION_PHASES.md into trackable
   session state with phase status, progress markers, and recovery points.
 
-
   Use when: starting projects after planning phase, resuming work after context
   clears, managing multi-phase implementations, or troubleshooting lost context,
   missing progress tracking, or unclear next steps.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

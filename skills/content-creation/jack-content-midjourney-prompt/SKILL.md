@@ -1,8 +1,8 @@
 ---
-name: "jack-content-midjourney-prompt"
+name: "midjourney-prompt"
 description: "Generates Midjourney prompts from text by identifying the subject, action, setting, and details, then formatting them into a specific prompt structure."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["midjourney", "prompt engineering", "image generation"]
 triggers:
   - "when generating image prompts from descriptive text"

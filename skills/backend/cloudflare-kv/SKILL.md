@@ -5,7 +5,7 @@ description: >
   caching API responses, storing configuration, managing user preferences,
   handling TTL expiration, or troubleshooting KV_ERROR, 429 rate limits,
   eventual consistency, or cacheTtl errors.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

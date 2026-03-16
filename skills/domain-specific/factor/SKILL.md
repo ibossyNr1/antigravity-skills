@@ -2,7 +2,7 @@
 name: factor
 description: Enables Claude to browse Factor prepared meals and manage subscriptions
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

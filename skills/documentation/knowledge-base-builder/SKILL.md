@@ -5,7 +5,7 @@ description: Build and maintain AI-accessible knowledge bases for projects
 category: meta
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - build knowledge base
   - create knowledge base

@@ -5,7 +5,7 @@ description: >-
   optimization targets. Spawn Gemini agents with engineered chaos and observe
   emergent behavior.
 version: 1.0.0
-author: Sky & Jaret (@KShodan)
+
 created: 2026-01-25T00:00:00.000Z
 tags:
   - ai-safety

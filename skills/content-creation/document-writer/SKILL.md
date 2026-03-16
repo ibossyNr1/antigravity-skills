@@ -5,7 +5,7 @@ description: >-
   style guide (active voice, present tense), content structure patterns, and MDC
   component usage. Overrides brevity rules for proper grammar. Use nuxt-content
   for MDC syntax, nuxt-ui for component props.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

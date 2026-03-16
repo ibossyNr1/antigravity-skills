@@ -1,7 +1,7 @@
 ---
 name: ranked-gym
 description: 'Gamify your gym sessions with XP, levels, achievements, and workout streaks'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - gym rank

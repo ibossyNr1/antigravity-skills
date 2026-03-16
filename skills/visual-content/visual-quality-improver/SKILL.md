@@ -3,7 +3,7 @@ name: visual-quality-improver
 description: >-
   Enhance and improve image quality and visual content. Applies enhancement
   techniques, color correction, and optimization transformations.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

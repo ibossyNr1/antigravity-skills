@@ -8,7 +8,7 @@ description: >-
   resolvers, DataLoader for N+1 prevention, federation for microservices, and
   client integration with Apollo/urql. Key insight: GraphQL is a contract. The
   schema is the API documentation. Design it carefully.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

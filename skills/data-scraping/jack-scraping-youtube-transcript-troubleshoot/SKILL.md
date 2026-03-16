@@ -1,8 +1,8 @@
 ---
-name: "jack-scraping-youtube-transcript-troubleshoot"
+name: "youtube-transcript-troubleshoot"
 description: "Instructions for troubleshooting issues with 0CodeKit and YouTube transcriptions by scraping the transcript directly."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["youtube", "scraping", "transcript", "troubleshooting"]
 triggers:
   - "when 0CodeKit fails to transcribe a YouTube video"

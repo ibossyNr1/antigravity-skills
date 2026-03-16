@@ -3,7 +3,7 @@ name: team-communication
 description: >-
   Create effective internal team communications. Drafts newsletters,
   announcements, and messages that inform and engage team members.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

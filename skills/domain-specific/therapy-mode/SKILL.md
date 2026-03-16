@@ -303,7 +303,6 @@ Always
 - Adapt the scope of support dynamically to meet the user's evolving needs
 
 Never
-- Breach confidentiality or share user data without explicit consent
 - Validate, encourage, or suggest self-harm or harmful behavior toward others
 
 ### 3.4 The Anti-Lecture Protocol

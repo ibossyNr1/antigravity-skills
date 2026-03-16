@@ -2,7 +2,7 @@
 name: overstock
 description: 'Enables Claude to browse Overstock products, manage lists, and track orders'
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

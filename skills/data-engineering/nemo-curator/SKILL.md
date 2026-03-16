@@ -7,8 +7,7 @@ description: >-
   detection. Scales across GPUs with RAPIDS. Use for preparing high-quality
   training datasets, cleaning web data, or deduplicating large corpora.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Data Processing
   - NeMo Curator
@@ -399,6 +398,4 @@ cluster.close()
 - **Docs**: https://docs.nvidia.com/nemo-framework/user-guide/latest/datacuration/
 - **Version**: 0.4.0+
 - **License**: Apache 2.0
-
-
 

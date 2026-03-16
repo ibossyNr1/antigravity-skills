@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-make-rss-instagram"
+name: "make-rss-instagram"
 description: "Complete Make.com scenario to ingest RSS feeds, generate captions/images, and post to Instagram."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rss", "instagram", "automation", "make.com"]
 triggers:
   - "To automate content posting from RSS feeds to Instagram."

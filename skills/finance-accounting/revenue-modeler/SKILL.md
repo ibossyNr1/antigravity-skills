@@ -7,7 +7,7 @@ description: >-
 category: finance
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - revenue model
   - revenue projection

@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-connect-bolt-n8n"
+name: "connect-bolt-n8n"
 description: "Connect Bolt with N8n to monetize AI operating systems, integrating data from Bolt forms into automated workflows in N8n."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "bolt", "integration", "automation", "webhook"]
 triggers:
   - "when you want to trigger an n8n workflow from a Bolt form submission"

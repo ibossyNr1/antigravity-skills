@@ -1,8 +1,8 @@
 ---
-name: "jack-social-instagram-comment-responder"
+name: "instagram-comment-responder"
 description: "Automate responses to Instagram comments, capture emails, and integrate with a CRM using Make and ManyChat to turn engagement into sales."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["instagram", "automation", "sales", "manychat", "make.com", "crm", "lead generation"]
 triggers:
   - "When a new comment is made on an Instagram post."

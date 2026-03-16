@@ -7,7 +7,7 @@ description: >-
 category: project
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - assess risks
   - identify risks

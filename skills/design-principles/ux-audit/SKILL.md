@@ -4,7 +4,7 @@ description: >-
   AI skill for automated design audits. Evaluate interfaces against proven UX
   principles for visual hierarchy, accessibility, cognitive load, navigation,
   and more. Based on Making UX Decisions by Tommy Geoco.
-author: Tommy Geoco
+
 homepage: 'https://audit.uxtools.co'
 logo: logo-light.png
 logoDark: logo-dark.png

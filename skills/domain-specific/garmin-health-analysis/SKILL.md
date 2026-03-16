@@ -9,7 +9,7 @@ description: >-
   From casual "show me this week's workouts" to deep "analyze my recovery vs
   training load".
 version: 1.2.2
-author: EversonL & Claude
+
 homepage: 'https://github.com/eversonl/ClawdBot-garmin-health-analysis'
 metadata:
   clawdbot:
@@ -209,7 +209,6 @@ Charts open automatically in the default browser. They use Chart.js with a moder
 ## Key Metrics
 
 ### Body Battery (0-100)
-Garmin's proprietary recovery metric based on HRV, stress, sleep, and activity:
 - **High (75-100)**: Fully recharged, ready for high intensity
 - **Medium (50-74)**: Moderate energy, good for regular activity
 - **Low (25-49)**: Limited energy, recovery needed

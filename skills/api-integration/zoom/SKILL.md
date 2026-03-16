@@ -4,7 +4,7 @@ description: >-
   Enables Claude to schedule meetings, manage recordings, handle webinars, and
   automate Zoom workspace operations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

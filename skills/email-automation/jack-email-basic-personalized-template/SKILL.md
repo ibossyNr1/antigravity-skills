@@ -1,8 +1,8 @@
 ---
-name: "jack-email-basic-personalized-template"
+name: "basic-personalized-template"
 description: "A basic email template for personalized outreach including video and a call to action."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "template", "personalized", "video"]
 triggers:
   - "when sending personalized email outreach"

@@ -4,7 +4,7 @@ description: >-
   A skill that blends the wisdom of top industry experts, ensures
   token-efficient PRDs, and organizes outputs in a clear folder structure.
 version: '1.0'
-author: Callum Bir
+
 keywords:
   - PRD
   - product requirements

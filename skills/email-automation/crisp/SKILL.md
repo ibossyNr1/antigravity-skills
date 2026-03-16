@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Crisp chat support conversations, helpdesk tickets,
   and customer communications
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

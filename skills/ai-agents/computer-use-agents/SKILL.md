@@ -7,7 +7,7 @@ description: >-
   sandboxing, security, and handling the unique challenges of vision-based
   control. Use when: computer use, desktop automation agent, screen control AI,
   vision-based agent, GUI automation.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -30,7 +30,6 @@ Key components:
 
 Critical insight: Vision agents are completely still during "thinking"
 phase (1-5 seconds), creating a detectable pause pattern.
-
 
 **When to use**: ['Building any computer use agent from scratch', 'Integrating vision models with desktop control', 'Understanding agent behavior patterns']
 
@@ -107,7 +106,6 @@ Key isolation requirements:
 
 The goal is "blast radius minimization" - if the agent goes wrong,
 damage is contained to the sandbox.
-
 
 **When to use**: ['Deploying any computer use agent', 'Testing agent behavior safely', 'Running untrusted automation tasks']
 
@@ -236,7 +234,6 @@ Tool versions:
 
 Critical limitation: "Some UI elements (like dropdowns and scrollbars)
 might be tricky for Claude to manipulate" - Anthropic docs
-
 
 **When to use**: ['Building production computer use agents', 'Need highest quality vision understanding', 'Full desktop control (not just browser)']
 

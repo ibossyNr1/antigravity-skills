@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-string-replacement"
+name: "string-replacement"
 description: "String replace function to clean text from various special characters in Make.com"
 version: "1.0.0"
-license: "MIT"
+
 tags: ["make.com", "string manipulation", "text cleaning", "automation"]
 triggers:
   - "when cleaning text data in make.com"

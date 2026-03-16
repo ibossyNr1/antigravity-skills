@@ -6,7 +6,6 @@ description: >-
 
   BGE embeddings, and streaming support with AI Gateway for caching and logging.
 
-
   Use when: implementing LLM inference, generating images with Flux/Stable
   Diffusion, building RAG with embeddings,
 
@@ -14,7 +13,6 @@ description: >-
   AI_ERROR, rate limits, model not
 
   found, token limits, or neurons exceeded.
-
 
   Keywords: workers ai, cloudflare ai, ai bindings, llm workers, @cf/meta/llama,
   workers ai models,
@@ -32,7 +30,7 @@ description: >-
   workers ai hono,
 
   ai gateway workers, vercel ai sdk workers, openai compatible workers, workers 
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: Synthesize insights from multiple research sources into cohesive an
 category: research
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - research synthesis
   - synthesize research

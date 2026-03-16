@@ -3,7 +3,7 @@ name: skill-share
 description: >-
   A skill that creates new Claude skills and automatically shares them on Slack
   using Rube for seamless team collaboration and skill discovery.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

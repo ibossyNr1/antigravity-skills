@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-claude-image-prompt"
+name: "claude-image-prompt"
 description: "Generates a JSON payload with an image prompt based on a website's content, business name and setting."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["image generation", "claude", "lead generation", "prompt engineering"]
 triggers:
   - "When you need to generate an image prompt based on a website's content to create personalized visuals."

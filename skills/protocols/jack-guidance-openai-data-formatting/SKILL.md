@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-openai-data-formatting"
+name: "openai-data-formatting"
 description: "Formats user information for a vector database search using OpenAI."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["openai", "prompt", "data formatting", "vector database", "client search"]
 triggers:
   - "When you need to format client data for a vector database search."

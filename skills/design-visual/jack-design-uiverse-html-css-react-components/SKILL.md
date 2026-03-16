@@ -1,8 +1,8 @@
 ---
-name: "jack-design-uiverse-html-css-react-components"
+name: "uiverse-html-css-react-components"
 description: "Leverage Uiverse.io to find open-source UI components for web projects, available as HTML/CSS, Tailwind, React snippets, and Figma-compatible code."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["UI design", "HTML", "CSS", "React", "Tailwind"]
 triggers:
   - "When needing a specific UI element"

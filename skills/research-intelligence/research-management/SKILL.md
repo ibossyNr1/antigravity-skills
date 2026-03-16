@@ -3,7 +3,7 @@ name: research-management
 description: >-
   Manage research documentation in workspace platforms. Structures research
   findings, sources, and analysis in organized research databases.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

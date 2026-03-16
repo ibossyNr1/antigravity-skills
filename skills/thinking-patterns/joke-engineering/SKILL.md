@@ -5,7 +5,7 @@ description: >-
   when humor feels forced, when punchlines don't land, or when you want to
   systematically enhance comedic writing. Treats jokes as engineerable
   connection systems.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

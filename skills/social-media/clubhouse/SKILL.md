@@ -2,7 +2,7 @@
 name: clubhouse
 description: Enables Claude to manage Clubhouse rooms and audio social interactions
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

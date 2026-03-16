@@ -5,7 +5,7 @@ description: >-
   embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris
   components, billing, and app extensions. Use when: shopify app, shopify,
   embedded app, polaris, app bridge.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

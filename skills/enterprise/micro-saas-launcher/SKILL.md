@@ -6,7 +6,7 @@ description: >-
   development, pricing, launch strategies, and growing to sustainable revenue.
   Ship in weeks, not months. Use when: micro saas, indie hacker, small saas,
   side project, saas mvp.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

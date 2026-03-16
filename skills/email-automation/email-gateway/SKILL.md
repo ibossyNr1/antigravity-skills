@@ -3,7 +3,6 @@ name: email-gateway
 description: >
   Multi-provider email sending for Cloudflare Workers and Node.js applications.
 
-
   Build transactional email systems with Resend (React Email support), SendGrid
   (enterprise scale),
 
@@ -28,7 +27,7 @@ metadata:
     - bounce handling
     - email templates
     - smtp relay
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

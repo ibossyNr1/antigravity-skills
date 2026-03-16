@@ -4,7 +4,7 @@ description: >-
   Use when working with VueUse composables - provides reactive utilities for
   state, browser APIs, sensors, network, animations. Check VueUse before writing
   custom composables - most patterns already implemented.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: 'Design personalized learning plans for skills, topics, and career 
 category: personal
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create learning path
   - 'learn [skill]'

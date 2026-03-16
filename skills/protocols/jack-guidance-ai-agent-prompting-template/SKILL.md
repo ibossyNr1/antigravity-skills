@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-ai-agent-prompting-template"
+name: "ai-agent-prompting-template"
 description: "Provides a structured template for creating effective AI agent prompts, including role definition, context, task, constraints, collaboration, and examples."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ai agent", "prompting", "template", "role definition", "context", "task"]
 triggers:
   - "when creating prompts for AI agents"

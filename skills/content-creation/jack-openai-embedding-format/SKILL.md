@@ -1,11 +1,10 @@
 ---
-name: jack-openai-embedding-format
+name: "embedding-format"
 description: >-
   JSON format for generating embeddings with OpenAI's API. Configures input,
   model, and encoding format for vectorizing text.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - openai
   - embeddings

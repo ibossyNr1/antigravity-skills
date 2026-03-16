@@ -1,7 +1,7 @@
 ---
 name: linkedin-content-intelligence
 description: Create data-driven, high-performing LinkedIn content with integrated posting, visual design, and content intelligence. Combines brand voice, SEO optimization, visual mockups, and direct LinkedIn posting capabilities. Use when creating LinkedIn posts, analyzing LinkedIn content strategy, designing LinkedIn visuals, or posting to LinkedIn.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

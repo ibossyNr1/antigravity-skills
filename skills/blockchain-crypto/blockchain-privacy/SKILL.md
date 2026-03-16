@@ -2,12 +2,9 @@
 name: blockchain-privacy
 description: >-
   Expert in on-chain privacy technologies - ZK-SNARKs, ZK-STARKs, mixers,
-  stealth addresses, ring signatures, and confidential transactions for building
   privacy-preserving blockchain applicationsUse when "privacy, zero knowledge,
-  zk-snark, zk-stark, mixer, stealth address, ring signature, confidential
   transaction, tornado, private transaction, anonymous, unlinkability, privacy,
   zero-knowledge, zk-snarks, zk-starks, mixers, stealth-addresses, tornado-cash,
-  zcash, confidential" mentioned.
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -28,7 +25,6 @@ compatibility: 'agent-zero, claude-code, cursor'
 - Mixer and pool-based anonymization
 - Stealth address protocols (EIP-5564)
 - Ring signatures and decoys
-- Confidential transactions (CT)
 - Merkle tree privacy patterns
 - Nullifier and double-spend prevention
 - Encrypted mempools and MEV protection

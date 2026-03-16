@@ -4,7 +4,7 @@ description: >-
   Strategies for managing LLM context windows including summarization, trimming,
   routing, and avoiding context rot Use when: context window, token limit,
   context management, context engineering, long context.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

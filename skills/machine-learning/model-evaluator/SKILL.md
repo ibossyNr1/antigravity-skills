@@ -5,7 +5,7 @@ description: Evaluate and compare ML model performance with rigorous testing met
 category: ai-ml
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - evaluate model
   - compare models

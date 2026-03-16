@@ -4,7 +4,7 @@ description: >-
   Autonomous UI/UX design agent that uses Google Stitch to generate, iterate,
   and deploy production-ready web applications.
 version: 1.0.0
-author: AntiGravity Architect
+
 input_variables:
   - project_name
   - design_theme

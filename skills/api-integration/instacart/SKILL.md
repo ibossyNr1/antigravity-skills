@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse grocery stores, manage lists, and track deliveries on
   Instacart
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

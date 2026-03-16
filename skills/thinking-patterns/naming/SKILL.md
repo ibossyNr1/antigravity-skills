@@ -4,7 +4,7 @@ description: >-
   Diagnose why names don't work and guide creation of names that do. Use for
   brand names, product names, character names, place names, and titles when
   something feels off or when systematic naming is needed.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

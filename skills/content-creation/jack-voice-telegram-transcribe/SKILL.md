@@ -1,8 +1,8 @@
 ---
-name: "jack-voice-telegram-transcribe"
+name: "telegram-transcribe"
 description: "Transcribes Telegram voice messages using OpenAI's audio transcription service."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["telegram", "voice", "transcription", "openai", "n8n"]
 triggers:
   - "when a new voice message is sent to a Telegram bot"

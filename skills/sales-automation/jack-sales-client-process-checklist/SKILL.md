@@ -1,9 +1,8 @@
 ---
-name: jack-sales-client-process-checklist
+name: "client-process-checklist"
 description: Checklist of key processes to manage AI automation agency clients effectively.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - client management
   - process optimization

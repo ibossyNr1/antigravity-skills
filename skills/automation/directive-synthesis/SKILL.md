@@ -3,7 +3,7 @@ name: directive-synthesis
 description: >-
   Synthesize structured directives and command specifications. Creates
   executable instruction sets with proper syntax and parameter definitions.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

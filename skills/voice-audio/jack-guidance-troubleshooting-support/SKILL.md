@@ -1,12 +1,11 @@
 ---
-name: jack-guidance-troubleshooting-support
+name: "troubleshooting-support"
 description: >-
   Provides a structured approach for troubleshooting voice agent setups,
   including specifying the issue, providing visual evidence, and outlining steps
   tried.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - troubleshooting
   - support

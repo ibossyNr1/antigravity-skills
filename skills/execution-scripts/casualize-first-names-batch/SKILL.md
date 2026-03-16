@@ -2,8 +2,7 @@
 name: "casualize-names-google-sheets"
 description: "Casualizes first names in a Google Sheet using Claude AI to generate friendly nicknames, updating the sheet with the results."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","ai","name generation","automation","cold email"]
 triggers:
   - "when I need to generate casual nicknames for cold emails"

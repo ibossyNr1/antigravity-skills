@@ -5,7 +5,7 @@ description: Conduct thorough peer reviews of academic and technical documents
 category: research
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - peer review
   - review paper

@@ -7,7 +7,7 @@ description: >
   when: building chatbots/agents with validated JSON responses, or
   troubleshooting rate_limit_error, structured output validation, prompt caching
   not activating, streaming SSE parsing.
-license: MIT
+
 metadata:
   version: 2.0.0
   last_verified: 2025-11-22T00:00:00.000Z

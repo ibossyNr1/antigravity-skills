@@ -1,11 +1,10 @@
 ---
-name: jack-content-email-drafting-agent
+name: "email-drafting-agent"
 description: >-
   Generates draft email replies using an AI agent, considering context from past
   emails and a knowledge base.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - email
   - drafting

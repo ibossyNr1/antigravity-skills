@@ -5,7 +5,7 @@ description: Create realistic product mockups and presentations
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create mockup
   - product mockup

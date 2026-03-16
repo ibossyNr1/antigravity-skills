@@ -1,7 +1,7 @@
 ---
 name: sales-enablement
 description: Generate sales emails, meeting briefs, follow-ups, and handle objections. Includes email sequence writer, follow-up generator, meeting prep with company intel, and searchable objection database. Use for nurture sequences, pre-call research, post-meeting follow-ups, or finding responses to common objections.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

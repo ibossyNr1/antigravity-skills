@@ -1,8 +1,8 @@
 ---
-name: "jack-email-lead-gen-automation"
+name: "lead-gen-automation"
 description: "Automates lead generation by scraping business emails, generating personalized content, and sending targeted emails through make.com."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email scraping", "personalization", "automation", "lead generation"]
 triggers:
   - "when you need to automate lead generation"

@@ -3,7 +3,7 @@ name: capability-documentation
 description: >-
   Document capabilities and skills comprehensively. Creates skill documentation
   with examples, specifications, and usage patterns.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -75,7 +75,6 @@ API docs, syntax guides, tool documentation (office docs)
 
 ## Directory Structure
 
-
 ```
 skills/
   skill-name/
@@ -139,7 +138,6 @@ What goes wrong + fixes
 ## Real-World Impact (optional)
 Concrete results
 ```
-
 
 ## Claude Search Optimization (CSO)
 

@@ -1,7 +1,7 @@
 ---
 name: mashup
 description: Force-fit patterns from other domains to spark novel concepts.
-license: MIT
+
 command: '/ctx:mashup'
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'

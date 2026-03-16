@@ -1,8 +1,8 @@
 ---
-name: "jack-social-instagram-post-agent"
+name: "instagram-post-agent"
 description: "Generates Instagram posts by researching news and crafting engaging captions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["instagram", "content", "ai", "social media", "captions"]
 triggers:
   - "when the user asks to generate content for Instagram"

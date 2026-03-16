@@ -3,7 +3,7 @@ name: mindfulness-meditation
 description: >-
   Build a meditation practice with guided sessions, streaks, and mindfulness
   reminders
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - meditate now

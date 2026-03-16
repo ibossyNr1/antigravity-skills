@@ -8,7 +8,7 @@ description: >-
   model.  This skill covers Firebase Authentication, Firestore, Realtime
   Database, Cloud Functions, Cloud Storage, and Firebase Hosting. Key insight:
   Firebase is optimized for read-heavy, denormalized data. I
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

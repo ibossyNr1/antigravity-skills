@@ -3,7 +3,7 @@ name: focus-deep-work
 description: >-
   Maximize deep work with focus sessions, distraction logging, and productivity
   tracking
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - deep work session

@@ -7,7 +7,7 @@ description: >-
 category: marketing
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - landing page optimization
   - conversion rate optimization

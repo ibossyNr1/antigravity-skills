@@ -1,8 +1,8 @@
 ---
-name: "jack-video-automated-captioning"
+name: "automated-captioning"
 description: "Automates video captioning with word-level timestamps, audio processing, and Remotion-based caption rendering."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["video", "captioning", "automation", "remotion", "whisper", "auphonic"]
 triggers:
   - "when you need to automatically generate captions for a video"

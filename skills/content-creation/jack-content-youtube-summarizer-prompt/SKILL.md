@@ -1,8 +1,8 @@
 ---
-name: "jack-content-youtube-summarizer-prompt"
+name: "youtube-summarizer-prompt"
 description: "ChatGPT prompt to summarize YouTube transcripts, format the output, and extract key takeaways."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["youtube", "summarization", "prompt engineering", "chatgpt", "takeaways"]
 triggers:
   - "When creating a prompt for summarizing YouTube transcripts in a consistent and structured way."

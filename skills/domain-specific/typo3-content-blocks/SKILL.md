@@ -626,7 +626,6 @@ fields:
 |----------|---------------|
 | Photography agency | `photographer`, `copyright`, `license_type`, `expiry_date` |
 | Video platform | `director`, `duration`, `transcript`, `subtitles` |
-| Document management | `document_version`, `author`, `confidentiality` |
 | E-commerce | `product_sku`, `variant_color`, `variant_size` |
 
 ### Accessing File Type Fields
@@ -641,7 +640,6 @@ In Fluid templates, access custom metadata through FAL references:
             <figcaption>
                 Photo: {image.properties.photographer}
                 <f:if condition="{image.properties.copyright}">
-                    | © {image.properties.copyright}
                 </f:if>
             </figcaption>
         </f:if>

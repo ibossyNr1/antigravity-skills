@@ -1,8 +1,8 @@
 ---
-name: "jack-email-ai-email-assistant"
+name: "ai-email-assistant"
 description: "Defines the responsibilities, protocols, and design guidelines for an AI email assistant managing communications, including email analysis, response evaluation, and scheduling."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "ai", "automation", "assistant"]
 triggers:
   - "When setting up an AI email assistant"

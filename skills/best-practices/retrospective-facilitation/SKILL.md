@@ -182,7 +182,6 @@ class RetrospectiveFacilitator:
         return {
             'opening_statement': '''
             This is a safe space. There's no blame here. We're all
-            learning together. Everything shared stays confidential.
             ''',
             'ground_rules': [
                 'Assume positive intent',

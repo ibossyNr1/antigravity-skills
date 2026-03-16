@@ -3,7 +3,7 @@ name: protocol-implementation-framework
 description: >-
   Build Model Context Protocol servers and implementations. Creates
   protocol-compliant tools and integrations for AI-powered applications.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -4,7 +4,7 @@ description: >-
   Design political entities and governance systems for fictional worlds. Use
   when creating kingdoms, empires, federations, or any political structures that
   need realistic internal complexity and external relationships.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

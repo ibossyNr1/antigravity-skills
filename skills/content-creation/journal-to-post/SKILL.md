@@ -2,7 +2,7 @@
 name: journal-to-post
 description: Convert personal journal entries into shareable social media posts
 version: 1.0.0
-author: theflohart
+
 tags:
   - content
   - writing

@@ -2,8 +2,7 @@
 name: "jump-cut-editor"
 description: "Edits videos by automatically removing silence using Silero VAD and FFmpeg for single-pass processing, enhancing editing efficiency."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["video editing","ffmpeg","silero vad","automation","audio processing"]
 triggers:
   - "when editing a video and need to remove silences"

@@ -9,8 +9,7 @@ description: >-
   /stream, 'what should I watch', 'recommend something', mentioning
   Netflix/Prime/Disney+/Apple TV+, asking about series/seasons/episodes,
   mood-based requests like 'something exciting'.
-author: clawdbot
-license: MIT
+
 metadata:
   clawdbot:
     emoji: "\U0001F4FA"

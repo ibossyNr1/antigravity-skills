@@ -73,7 +73,6 @@ Quick reference checklist of security categories:
 [ ] Network Access - [PASS/FAIL/CONCERN] - [brief note]
 [ ] Prompt Injection Protection - [PASS/FAIL/CONCERN] - [brief note]
 [ ] Permissions & Scope - [PASS/FAIL/CONCERN] - [brief note]
-[ ] PII/Confidential Data - [PASS/FAIL/CONCERN] - [brief note]
 [ ] Malicious Code Indicators - [PASS/FAIL/CONCERN] - [brief note]
 [ ] Supply Chain Risks - [PASS/FAIL/CONCERN] - [brief note]
 [ ] Credential Exposure - [PASS/FAIL/CONCERN] - [brief note]

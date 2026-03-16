@@ -5,7 +5,7 @@ description: >-
   CRM objects, associations, batch operations, webhooks, and custom objects.
   Covers Node.js and Python SDKs. Use when: hubspot, hubspot api, hubspot crm,
   hubspot integration, contacts api.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

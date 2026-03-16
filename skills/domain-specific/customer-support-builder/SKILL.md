@@ -5,7 +5,7 @@ description: >-
   ticketing systems, and self-service knowledge bases. Use when designing
   support infrastructure, reducing support load, improving customer
   satisfaction, or scaling support without linear hiring.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

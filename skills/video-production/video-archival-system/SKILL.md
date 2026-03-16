@@ -3,7 +3,7 @@ name: video-archival-system
 description: >-
   Download and archive YouTube video content. Retrieves videos with metadata
   while respecting platform policies.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

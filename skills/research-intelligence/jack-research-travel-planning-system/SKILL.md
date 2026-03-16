@@ -1,11 +1,10 @@
 ---
-name: jack-research-travel-planning-system
+name: "travel-planning-system"
 description: >-
   Procedure to plan trips using AI for destination research, guide creation, and
   itinerary planning.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - travel planning
   - research

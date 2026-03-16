@@ -2,7 +2,7 @@
 name: plan-my-day
 description: 'Generate an energy-optimized, time-blocked daily plan'
 version: 1.0.0
-author: theflohart
+
 tags:
   - productivity
   - planning

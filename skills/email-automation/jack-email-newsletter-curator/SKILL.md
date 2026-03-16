@@ -1,8 +1,8 @@
 ---
-name: "jack-email-newsletter-curator"
+name: "newsletter-curator"
 description: "Procedure to automate industry newsletter curation using AI to scrape sources and build email templates."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["newsletter", "automation", "content curation", "AI"]
 triggers:
   - "when curating industry newsletters"

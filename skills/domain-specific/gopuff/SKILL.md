@@ -2,7 +2,7 @@
 name: gopuff
 description: Enables Claude to browse Gopuff convenience items and track deliveries
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

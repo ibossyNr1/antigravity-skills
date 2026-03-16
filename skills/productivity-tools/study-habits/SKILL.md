@@ -3,7 +3,7 @@ name: study-habits
 description: >-
   Build effective study habits with spaced repetition, active recall, and
   session tracking
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - study session

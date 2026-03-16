@@ -6,7 +6,7 @@ description: >
   multiplayer games, rate limiting, session management, WebSocket hibernation,
   or troubleshooting class export, migration, WebSocket state loss, or binding
   errors.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

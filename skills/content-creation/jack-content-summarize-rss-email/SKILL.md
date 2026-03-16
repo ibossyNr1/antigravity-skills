@@ -1,8 +1,8 @@
 ---
-name: "jack-content-summarize-rss-email"
+name: "summarize-rss-email"
 description: "Summarizes RSS feed articles and sends them via email using DeepSeek R1."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rss", "summarization", "email", "deepseek", "make.com"]
 triggers:
   - "to automatically summarize and email new articles from an RSS feed"

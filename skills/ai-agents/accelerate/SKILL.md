@@ -6,8 +6,7 @@ description: >-
   placement, mixed precision (FP16/BF16/FP8). Interactive config, single launch
   command. HuggingFace ecosystem standard.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Distributed Training
   - HuggingFace
@@ -345,6 +344,4 @@ set_seed(42)
 - Tutorial: "Accelerate your scripts"
 - Examples: https://github.com/huggingface/accelerate/tree/main/examples
 - Used by: HuggingFace Transformers, TRL, PEFT, all HF libraries
-
-
 

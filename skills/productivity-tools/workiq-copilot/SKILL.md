@@ -83,7 +83,6 @@ WorkIQ (Public Preview) lets Copilot query Microsoft 365 data with natural langu
 
 - Prefer narrow prompts to reduce noise; run multiple queries if needed.
 - Combine outputs logically (agenda + conflicts + action items) before responding.
-- Respect privacy: do not expose attendee lists or confidential snippets unless explicitly requested.
 - Log which commands were run so future steps can reference them (“Asked WorkIQ for agenda + conflicts”).
 - Use MCP mode (`workiq mcp`) when another agent/workflow needs direct tool access.
 

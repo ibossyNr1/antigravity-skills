@@ -2,8 +2,7 @@
 name: "vault-sync"
 description: "Syncs skills, execution scripts, and directives from a project to the central vault, automatically de-branding project-specific content."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["vault","sync","skills","execution","directives","utility","internal"]
 triggers:
   - "when I want to update the central vault with project assets"

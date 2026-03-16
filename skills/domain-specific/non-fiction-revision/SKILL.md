@@ -5,7 +5,7 @@ description: >-
   revision, when arguments feel weak, evidence is outdated, readers report
   confusion, thesis is unclear, or book structure has problems. Keywords:
   non-fiction, revision, thesis, argument, evidence, structure.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

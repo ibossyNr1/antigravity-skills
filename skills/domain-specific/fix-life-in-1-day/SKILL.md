@@ -4,8 +4,7 @@ version: 1.0.0
 description: >-
   Fix your entire life in 1 day. 10 psychological sessions based on Dan Koe's
   viral article.
-author: chip1cr
-license: MIT
+
 repository: 'https://github.com/pinkpixel/fix-life-in-1-day'
 metadata:
   clawdbot:

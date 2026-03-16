@@ -6,7 +6,7 @@ description: >-
   dialogue, alternatives, and builds on their ideas. Applies Story Sense
   frameworks while actively contributing to the creative work. Contrasts with
   story-coach which never writes.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

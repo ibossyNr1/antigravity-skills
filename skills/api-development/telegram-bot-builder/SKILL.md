@@ -6,7 +6,7 @@ description: >-
   Bot API, user experience, monetization strategies, and scaling bots to
   thousands of users. Use when: telegram bot, bot api, telegram automation, chat
   bot telegram, tg bot.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

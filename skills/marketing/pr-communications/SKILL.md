@@ -1,7 +1,7 @@
 ---
 name: pr-communications
 description: Generate press releases and investor communications. Includes press release generator with AP style formatting and boilerplate, and monthly investor update generator with metrics templates. Use for company announcements, product launches, funding news, or investor updates.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

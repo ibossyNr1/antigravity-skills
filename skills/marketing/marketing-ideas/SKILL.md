@@ -47,7 +47,6 @@ Build template-driven pages at scale targeting keyword patterns. Location pages,
 ### 41. Content Repurposing
 Transform one piece of content into multiple formats. Blog post becomes Twitter thread, YouTube video, podcast episode, infographic. Maximize ROI on content creation.
 
-### 56. Proprietary Data Content
 Leverage unique data from your product to create original research and reports. Data competitors can't replicate creates linkable, quotable assets.
 
 ### 67. Internal Linking

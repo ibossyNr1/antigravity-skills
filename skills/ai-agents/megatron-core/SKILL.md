@@ -7,8 +7,7 @@ description: >-
   tensor/pipeline/sequence/context/expert parallelism. Production-ready
   framework used for Nemotron, LLaMA, DeepSeek.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Megatron-Core
   - Large-Scale Training
@@ -381,5 +380,4 @@ Stabilize training:
   - "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism" (2019)
   - "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM" (2021)
 - NeMo Framework: https://docs.nvidia.com/nemo-framework/ (built on Megatron-Core)
-
 

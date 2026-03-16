@@ -5,7 +5,7 @@ description: Generate accurate summaries of long documents and text collections
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - summarize document
   - text summarization

@@ -1,11 +1,10 @@
 ---
-name: jack-email-lead-gen-automation
+name: "lead-gen-automation"
 description: >-
   Automates lead generation by scraping business emails, generating personalized
   content, and sending targeted emails through make.com.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - email scraping
   - personalization

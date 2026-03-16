@@ -1,12 +1,11 @@
 ---
 name: fliz-ai-video-generator
 version: 1.0.0
-author: gregorybeyrouti
+
 description: >
   Complete integration guide for the Fliz REST API - an AI-powered video
   generation platform that transforms text content into professional videos with
   voiceovers, AI-generated images, and subtitles.
-
 
   Use this skill when:
 
@@ -22,7 +21,6 @@ description: >
   - Troubleshooting Fliz API errors or authentication issues
 
   - Understanding video processing steps and status polling
-
 
   Key capabilities: video creation from text/Brief, video status monitoring,
   translation, duplication, voice/music listing, webhook notifications.

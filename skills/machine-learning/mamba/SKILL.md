@@ -6,8 +6,7 @@ description: >-
   hardware-aware design. Mamba-1 (d_state=16) and Mamba-2 (d_state=128,
   multi-head). Models 130M-2.8B on HuggingFace.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Model Architecture
   - Mamba
@@ -274,5 +273,4 @@ model = MambaLMHeadModel.from_pretrained("state-spaces/mamba-2.8b")
 - GitHub: https://github.com/state-spaces/mamba ⭐ 13,000+
 - Models: https://huggingface.co/state-spaces
 - Docs: Repository README and wiki
-
 

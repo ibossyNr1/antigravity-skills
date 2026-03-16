@@ -20,7 +20,6 @@ PathML is a comprehensive Python toolkit for computational pathology workflows, 
 ## When to Use This Skill
 
 Apply this skill for:
-- Loading and processing whole-slide images (WSI) in various proprietary formats
 - Preprocessing H&E stained tissue images with stain normalization
 - Nucleus detection, segmentation, and classification workflows
 - Building cell and tissue graphs for spatial analysis
@@ -36,7 +35,6 @@ PathML provides six major capability areas documented in detail within reference
 
 ### 1. Image Loading & Formats
 
-Load whole-slide images from 160+ proprietary formats including Aperio SVS, Hamamatsu NDPI, Leica SCN, Zeiss ZVI, DICOM, and OME-TIFF. PathML automatically handles vendor-specific formats and provides unified interfaces for accessing image pyramids, metadata, and regions of interest.
 
 **See:** `references/image_loading.md` for supported formats, loading strategies, and working with different slide types.
 

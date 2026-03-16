@@ -4,7 +4,7 @@ description: >-
   Use this skill proactively and automatically after completing ANY development
   work. AI agent summarizes: what was done, what was changed/improved, and
   suggests future additions/improvements - all concisely in Korean.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

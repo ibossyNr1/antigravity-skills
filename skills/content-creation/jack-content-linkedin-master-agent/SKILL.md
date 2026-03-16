@@ -1,8 +1,8 @@
 ---
-name: "jack-content-linkedin-master-agent"
+name: "linkedin-master-agent"
 description: "Orchestrates a 4-agent workflow to transform any content input into high-performing LinkedIn posts."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["linkedin", "content creation", "multi-agent", "n8n"]
 triggers:
   - "when you want to create high-performing LinkedIn posts from various inputs"

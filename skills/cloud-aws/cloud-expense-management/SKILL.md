@@ -4,7 +4,7 @@ description: >-
   Monitor, analyze, and optimize AWS cloud costs. Tracks spending patterns,
   identifies optimization opportunities, and manages budgets with alerts and
   recommendations.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

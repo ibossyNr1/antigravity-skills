@@ -1,8 +1,8 @@
 ---
-name: "jack-content-text-to-video-automation"
+name: "text-to-video-automation"
 description: "Automate viral video creation by using Airtable, Anthropic Claude, and Replicate in a Make.com workflow to generate images from stoic quotes."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["make.com", "airtable", "anthropic", "replicate", "automation", "image generation", "stoic quotes", "video creation"]
 triggers:
   - "When you want to automatically generate images from text"

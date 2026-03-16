@@ -1,8 +1,8 @@
 ---
-name: "jack-workflow-competitor-intelligence-make"
+name: "competitor-intelligence-make"
 description: "Automates competitor website change detection & review analysis using Make.com, Airtable, OpenAI, and HTTP requests."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["competitor intelligence", "automation", "make.com", "airtable", "openai", "web scraping"]
 triggers:
   - "When you need to automatically monitor competitor website changes and analyze customer reviews."

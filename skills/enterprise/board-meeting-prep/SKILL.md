@@ -5,7 +5,7 @@ description: 'Prepare board meeting decks, updates, and materials for effective 
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - board meeting
   - board deck

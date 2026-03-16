@@ -8,7 +8,7 @@ description: >-
   (ReAct, Plan-Execute), goal decomposition, reflection patterns, and production
   reliability. Key insight: compounding error rates kill autonomous agents. A
   95% success rate per step drops to 60% b
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

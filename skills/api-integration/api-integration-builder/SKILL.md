@@ -5,7 +5,7 @@ description: >-
   limiting, error handling, and data sync. Use when integrating with external
   services (Slack, Stripe, Gmail, etc.), building API connections, handling
   webhooks, or implementing OAuth flows.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

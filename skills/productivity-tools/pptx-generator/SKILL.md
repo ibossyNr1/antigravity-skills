@@ -7,7 +7,7 @@ description: >-
   both template-based generation (for branding compliance) and from-scratch
   creation. Keywords: PowerPoint, PPTX, presentation, slides, template, deck,
   slideshow, corporate, branding.
-license: MIT
+
 compatibility: 'Requires Deno with --allow-read, --allow-write permissions'
 metadata:
   author: agent-skills

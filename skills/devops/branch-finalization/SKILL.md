@@ -3,7 +3,7 @@ name: branch-finalization
 description: >-
   Finalize development branches for integration. Prepares branches for merging
   with cleanup, rebasing, and verification steps.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

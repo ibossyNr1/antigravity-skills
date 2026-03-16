@@ -1,7 +1,7 @@
 ---
 name: expo-deployment
 description: 'Deploy Expo apps to iOS App Store, Android Play Store, and web.'
-author: expo
+
 category: development
 tags:
   - expo

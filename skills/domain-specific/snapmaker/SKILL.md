@@ -6,7 +6,7 @@ description: >-
   when checking print status, temperatures, progress, or controlling prints
   (pause/resume/cancel). Triggers on "printer", "3D print", "Snapmaker", "print
   status", "nozzle temp", "bed temp".
-license: MIT
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

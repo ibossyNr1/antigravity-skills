@@ -5,7 +5,7 @@ description: >-
   automation. Handles login persistence, form detection, file uploads, and waits
   for manual confirmation before submission.
 version: 1.1.0
-author: leohan123123
+
 tags:
   - 'automation, form, upload, browser, playwright, mcp'
 triggers:

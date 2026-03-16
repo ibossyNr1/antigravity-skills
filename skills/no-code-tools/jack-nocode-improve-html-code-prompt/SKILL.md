@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-improve-html-code-prompt"
+name: "improve-html-code-prompt"
 description: "Prompts to refine HTML code to fix display issues, adding timer and animations while removing whitespace."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["HTML", "animations", "timer"]
 triggers:
   - "debugging HTML code with display issues"

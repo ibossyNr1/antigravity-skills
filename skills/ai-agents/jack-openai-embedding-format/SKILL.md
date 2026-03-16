@@ -1,8 +1,8 @@
 ---
-name: "jack-openai-embedding-format"
+name: "embedding-format"
 description: "JSON format for generating embeddings with OpenAI's API. Configures input, model, and encoding format for vectorizing text."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["openai", "embeddings", "text-embedding-3-small", "vectorization"]
 triggers:
   - "when generating embeddings with OpenAI"

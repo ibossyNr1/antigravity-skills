@@ -1,8 +1,8 @@
 ---
-name: "jack-design-image-generation"
+name: "image-generation"
 description: "Generate images using DALL-E based on textual prompts."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["dall-e", "image generation", "automation"]
 triggers:
   - "When you need to automatically create images from text prompts for social media or other purposes."

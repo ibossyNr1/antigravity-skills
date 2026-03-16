@@ -4,7 +4,7 @@ description: >-
   Facilitate collaborative idea exploration and refinement. Guides through
   iterative questioning, design validation, and solution architecture before
   implementation.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

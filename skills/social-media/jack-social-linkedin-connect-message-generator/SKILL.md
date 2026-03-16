@@ -1,11 +1,10 @@
 ---
-name: jack-social-linkedin-connect-message-generator
+name: "linkedin-connect-message-generator"
 description: >-
   Creates natural LinkedIn connection messages, focusing on specific engagement
   and shared interests for higher acceptance rates.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - linkedin
   - social selling

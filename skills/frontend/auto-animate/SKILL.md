@@ -10,13 +10,12 @@ description: >
   table display, Jest/esbuild config, CSS position conflicts, Vue/Nuxt
   registration, Angular ESM.
 
-
   Use when: animating lists/accordions/toasts/forms, troubleshooting SSR
   animation errors, need
 
   accessible animations (auto prefers-reduced-motion), or want drop-in
   transitions without Motion overhead.
-license: MIT
+
 metadata:
   version: 1.1.0
   last_verified: 2025-11-22T00:00:00.000Z

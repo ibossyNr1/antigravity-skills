@@ -7,7 +7,7 @@ description: >-
 compatibility: >-
   Requires cochesnet-cli installed (Node.js 18+), network access to
   apps.gw.coches.net.
-license: MIT
+
 metadata:
   author: pjtf93
   version: 0.1.0

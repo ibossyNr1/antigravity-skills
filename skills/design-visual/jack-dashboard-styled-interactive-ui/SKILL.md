@@ -1,8 +1,8 @@
 ---
-name: "jack-dashboard-styled-interactive-ui"
+name: "styled-interactive-ui"
 description: "Builds an interactive dashboard UI styled after a given website, using mock data and prepared for Supabase integration."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["dashboard", "ui", "design system", "mock data", "supabase", "interactive"]
 triggers:
   - "when you need to create a dashboard with the same look and feel as an existing website"

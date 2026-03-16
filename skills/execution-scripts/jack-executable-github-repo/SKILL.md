@@ -1,8 +1,8 @@
 ---
-name: "jack-executable-github-repo"
+name: "github-repo"
 description: "Cloning the youtube-1-million Github repository to get a pre-built youtube growth dashboard with outlier detection/competitor tracking"
 version: "1.0.0"
-license: "MIT"
+
 tags: ["github", "youtube", "dashboard", "analytics"]
 triggers:
   - "when needing a ready-made YouTube growth dashboard"

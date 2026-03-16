@@ -1,9 +1,8 @@
 ---
-name: jack-guidance-openai-data-formatting
+name: "openai-data-formatting"
 description: Formats user information for a vector database search using OpenAI.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - openai
   - prompt

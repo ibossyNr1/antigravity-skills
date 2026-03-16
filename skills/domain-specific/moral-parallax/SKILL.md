@@ -5,7 +5,7 @@ description: >-
   comfortable moral distances. Use when exploring how privilege and harm are
   connected, when writing about systems that export consequences, or when you
   want stories where innocence becomes impossible.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

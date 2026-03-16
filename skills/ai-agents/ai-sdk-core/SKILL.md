@@ -10,12 +10,11 @@ description: >
   fix, and 12 error solutions (AI_APICallError, AI_NoObjectGeneratedError,
   streamText silent errors).
 
-
   Use when: implementing AI SDK v5/v6, migrating v4→v5, troubleshooting errors,
   fixing Workers startup
 
   issues, or updating to latest models.
-license: MIT
+
 metadata:
   version: 1.2.0
   last_verified: 2025-11-22T00:00:00.000Z

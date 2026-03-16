@@ -5,8 +5,7 @@ description: >-
   optimize hyperparameters with sweeps, and manage model registry with W&B -
   collaborative MLOps platform
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - MLOps
   - Weights And Biases
@@ -602,5 +601,4 @@ print(f"Share this URL: {run.url}")
 - `references/sweeps.md` - Comprehensive hyperparameter optimization guide
 - `references/artifacts.md` - Data and model versioning patterns
 - `references/integrations.md` - Framework-specific examples
-
 

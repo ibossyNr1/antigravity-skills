@@ -5,7 +5,7 @@ description: Create engaging data visualizations and infographics
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create infographic
   - design infographic

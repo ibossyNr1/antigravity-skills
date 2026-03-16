@@ -9,12 +9,11 @@ description: >
 
   and token handling without MSAL.
 
-
   Use when: implementing GitHub OAuth, Microsoft/Azure AD authentication,
   handling OAuth callbacks,
 
   or troubleshooting 403 errors in OAuth flows.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

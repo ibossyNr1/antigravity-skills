@@ -5,7 +5,7 @@ description: 'Support founder mental health, decision-making, and leadership cha
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - founder coaching
   - founder support

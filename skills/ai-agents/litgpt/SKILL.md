@@ -7,8 +7,7 @@ description: >-
   fine-tuning with LoRA/QLoRA. Single-file implementations, no abstraction
   layers.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Model Architecture
   - LitGPT
@@ -486,5 +485,4 @@ Apply LoRA to fewer layers:
 - Docs: https://lightning.ai/docs/litgpt
 - Tutorials: https://lightning.ai/docs/litgpt/tutorials
 - Model zoo: 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral, Mixtral, Falcon, etc.)
-
 

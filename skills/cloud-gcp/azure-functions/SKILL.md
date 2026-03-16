@@ -6,7 +6,7 @@ description: >-
   production patterns. Covers .NET, Python, and Node.js programming models. Use
   when: azure function, azure functions, durable functions, azure serverless,
   function app.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

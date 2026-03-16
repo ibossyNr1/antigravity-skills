@@ -4,7 +4,7 @@ description: >-
   Comprehensive word document processing with full format support. Handles
   creation, editing, formatting preservation, tracked changes, and metadata
   management.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -156,7 +156,6 @@ Example - Changing "30 days" to "60 days" in a sentence:
      grep "replacement phrase" verification.md  # Should find it
      ```
    - Check that no unintended changes were introduced
-
 
 ## Converting Documents to Images
 

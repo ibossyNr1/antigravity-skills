@@ -168,7 +168,6 @@ Create a comprehensive document with these sections:
 
 **Intellectual Property:**
 - Patents (filed, pending)
-- Proprietary technology
 - Data advantages
 - Defensibility
 

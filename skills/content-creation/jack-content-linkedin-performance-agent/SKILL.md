@@ -1,8 +1,8 @@
 ---
-name: "jack-content-linkedin-performance-agent"
+name: "linkedin-performance-agent"
 description: "Analyzes a user's last 20 LinkedIn posts to identify high-performing content patterns and engagement outliers."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["linkedin", "performance analysis", "content", "scraping"]
 triggers:
   - "when you want to identify what types of content perform best on a specific LinkedIn profile"

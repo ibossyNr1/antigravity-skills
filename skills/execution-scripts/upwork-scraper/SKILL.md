@@ -2,8 +2,7 @@
 name: "upwork-job-scraper"
 description: "Scrapes job postings from Upwork based on a search query and saves them to a JSON file. Useful for monitoring specific job categories on Upwork."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["web scraping","upwork","jobs","automation","playwright"]
 triggers:
   - "when I need to monitor Upwork for specific job types"

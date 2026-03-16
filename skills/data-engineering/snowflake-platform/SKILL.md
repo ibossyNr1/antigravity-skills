@@ -5,11 +5,10 @@ description: >
   SUMMARIZE, AI_FILTER), Native Apps, and Snowpark. Covers JWT auth, account
   identifiers, Marketplace publishing. Prevents 11 documented errors.
 
-
   Use when: Snowflake apps, Cortex AI SQL, Native App publishing. Troubleshoot:
   JWT auth failures, account locator confusion, memory leaks, AI throttling.
 user-invocable: true
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

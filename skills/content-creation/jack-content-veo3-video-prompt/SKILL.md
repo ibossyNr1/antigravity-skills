@@ -1,8 +1,8 @@
 ---
-name: "jack-content-veo3-video-prompt"
+name: "veo3-video-prompt"
 description: "Generates personalized business outreach video prompts for Fal AI's Veo 3, emphasizing a raw, authentic selfie style with humorous elements."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["veo3", "video generation", "prompt engineering", "lead magnet"]
 triggers:
   - "when needing to generate a video prompt for Veo3."

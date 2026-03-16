@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-paperform-webhook"
+name: "paperform-webhook"
 description: "Triggers an automation workflow from a Paperform submission, capturing form data for further processing."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["paperform", "webhook", "nocode automation"]
 triggers:
   - "when you need to capture data from a Paperform submission in an external system"
@@ -33,7 +33,6 @@ Triggers an automation workflow from a Paperform submission, capturing form data
 1. Configure a webhook in Paperform settings to point to your automation platform.
 2. Ensure custom fields in Paperform (e.g., employees, turnover, dream outcome) are properly set up.
 3. Map the Paperform webhook data to the subsequent modules in your workflow.
-
 
 ## Configuration
 

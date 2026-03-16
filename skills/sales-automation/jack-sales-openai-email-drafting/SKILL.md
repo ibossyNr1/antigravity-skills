@@ -1,11 +1,10 @@
 ---
-name: jack-sales-openai-email-drafting
+name: "openai-email-drafting"
 description: >-
   Use OpenAI to draft a personalized sales email based on lead information.
   Employ when you want to automate email creation with AI.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - openai
   - email automation

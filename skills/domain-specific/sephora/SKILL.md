@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse Sephora beauty products, manage lists, and track
   orders
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

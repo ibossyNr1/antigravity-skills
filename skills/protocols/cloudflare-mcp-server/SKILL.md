@@ -5,11 +5,10 @@ description: >
   platform with official remote MCP support. TypeScript-based with OAuth,
   Durable Objects, and WebSocket hibernation.
 
-
   Use when: deploying remote MCP servers, implementing OAuth (GitHub/Google),
   using dual transports (SSE/HTTP), or troubleshooting URL path mismatches,
   McpAgent exports, OAuth redirects, CORS issues.
-license: MIT
+
 allowed-tools:
   - Read
   - Write

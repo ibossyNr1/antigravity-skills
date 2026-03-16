@@ -20,7 +20,6 @@ description: |
 
   Troubleshoot: AnimatePresence exit not working, large list performance issues, Tailwind transition conflicts, Next.js "use client" errors, scrollable container layout issues, or Cloudflare Workers build errors (resolved Dec 2024).
 
-license: MIT
 ---
 
 ## Overview

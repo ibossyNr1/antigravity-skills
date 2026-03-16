@@ -5,7 +5,7 @@ description: >-
   cluster around statistical medians (Chen, Patel, Maya, Marcus), when cast has
   collision risks, or when fantasy cultures need phonologically consistent
   naming.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

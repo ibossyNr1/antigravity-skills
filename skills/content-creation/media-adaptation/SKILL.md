@@ -4,7 +4,7 @@ description: >-
   Systematically analyze existing media to extract transferable elements for new
   settings. Use when adapting TV, film, or games to fiction, translating tropes
   across genres, or transforming genre elements for new contexts.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

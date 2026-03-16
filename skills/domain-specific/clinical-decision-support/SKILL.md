@@ -61,7 +61,6 @@ All documents are generated as publication-ready LaTeX/PDF files optimized for p
 - **Statistical Analysis**: Hazard ratios, p-values, confidence intervals, survival curves, Cox regression, log-rank tests
 - **Evidence Grading**: GRADE system (1A/1B/2A/2B/2C), Oxford CEBM levels, quality of evidence assessment
 - **Clinical Terminology**: SNOMED-CT, LOINC, proper medical nomenclature, trial nomenclature
-- **Regulatory Compliance**: HIPAA de-identification, confidentiality headers, ICH-GCP alignment
 - **Professional Formatting**: Compact 0.5in margins, color-coded recommendations, publication-ready, suitable for regulatory submissions
 
 ## Pharmaceutical and Research Use Cases
@@ -262,7 +261,6 @@ The first page of every CDS document should contain ONLY the executive summary w
   - TikZ decision algorithm flowcharts
   - Swimmer plots for individual patient timelines
 - **Statistics**: Hazard ratios with 95% CI, p-values, median survival times, landmark survival rates
-- **Compliance**: De-identification per HIPAA Safe Harbor, confidentiality notices for proprietary data
 
 ## Integration
 
@@ -432,7 +430,6 @@ This skill integrates with:
    - Use `\thispagestyle{empty}` and end with `\newpage`
    - This is the single most important page - it should be scannable in 60 seconds
 2. **De-identification**: Remove all 18 HIPAA identifiers before document generation (Safe Harbor method)
-3. **Regulatory Compliance**: Include confidentiality notices for proprietary pharmaceutical data
 4. **Publication-Ready Formatting**: Use 0.5in margins, professional fonts, color-coded sections
 5. **Reproducibility**: Document all statistical methods to enable replication
 6. **Conflict of Interest**: Disclose pharmaceutical funding or relationships when applicable
@@ -463,7 +460,6 @@ See the `assets/` directory for LaTeX templates:
 - Professional tables for demographics, biomarkers, outcomes
 - Built-in support for Kaplan-Meier curves, waterfall plots, forest plots
 - GRADE evidence grading tables
-- Confidentiality headers for pharmaceutical documents
 
 ## Scripts
 

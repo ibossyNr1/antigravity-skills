@@ -5,7 +5,7 @@ description: Optimize pricing page presentation for maximum conversion
 category: marketing
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - pricing page
   - pricing optimization

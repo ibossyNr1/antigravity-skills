@@ -1,11 +1,10 @@
 ---
-name: jack-video-automated-captioning
+name: "automated-captioning"
 description: >-
   Automates video captioning with word-level timestamps, audio processing, and
   Remotion-based caption rendering.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - video
   - captioning

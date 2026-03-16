@@ -2,7 +2,7 @@
 name: tumblr
 description: 'Enables Claude to manage Tumblr posts, reblogs, and blog operations'
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

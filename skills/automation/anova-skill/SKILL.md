@@ -4,7 +4,7 @@ description: >-
   Control Anova Precision Ovens and Precision Cookers (sous vide) via WiFi
   WebSocket API. Start cooking modes (sous vide, roasting, steam), set
   temperatures, monitor status, and stop cooking remotely.
-license: Apache-2.0
+
 compatibility: >-
   Requires Python 3.7+, websockets library, and internet access to Anova cloud
   API

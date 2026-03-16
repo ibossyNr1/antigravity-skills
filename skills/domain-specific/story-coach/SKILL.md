@@ -6,7 +6,7 @@ description: >-
   diagnosis, and frameworks. Critical constraint - never generate story prose,
   dialogue, or narrative content. Instead ask questions, identify issues,
   suggest approaches, and let the writer write.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

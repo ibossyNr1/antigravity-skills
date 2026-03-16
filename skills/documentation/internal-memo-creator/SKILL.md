@@ -5,7 +5,7 @@ description: 'Write clear, professional internal memos for company communication
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write memo
   - create memo
@@ -461,7 +461,6 @@ What makes a good check-in:
 • Held in private, uninterrupted setting
 • Employee-led agenda (their priorities first)
 • Action items documented and followed up
-• Confidential unless employee approves sharing
 
 ACCOUNTABILITY
 

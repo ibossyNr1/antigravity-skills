@@ -4,7 +4,7 @@ description: >-
   Autonomously draft and polish chapters through multi-skill editorial passes.
   Use when you have a complete outline and want to produce a polished first
   draft with iterative refinement.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

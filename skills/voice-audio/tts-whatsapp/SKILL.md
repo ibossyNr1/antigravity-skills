@@ -13,7 +13,7 @@ tags:
   - messaging
   - multilingual
   - audio
-author: Community
+
 repository: 'https://github.com/clawdbot/clawdhub'
 compatibility: 'agent-zero, claude-code, cursor'
 ---

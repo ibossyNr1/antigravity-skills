@@ -5,7 +5,7 @@ description: 'Calculate cash runway, burn rate, and financial sustainability pro
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - cash runway
   - burn rate

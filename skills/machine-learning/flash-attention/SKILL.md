@@ -7,8 +7,7 @@ description: >-
   need faster inference. Supports PyTorch native SDPA, flash-attn library, H100
   FP8, and sliding window attention.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Optimization
   - Flash Attention
@@ -382,6 +381,4 @@ Flash Attention uses float16/bfloat16 for speed. Float32 not supported.
 - Blog: https://tridao.me/blog/2024/flash3/
 - GitHub: https://github.com/Dao-AILab/flash-attention
 - PyTorch docs: https://pytorch.org/docs/stable/generated/torch.nn.functional.scaled_dot_product_attention.html
-
-
 

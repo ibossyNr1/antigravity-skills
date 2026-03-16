@@ -1,8 +1,8 @@
 ---
-name: "jack-content-remove-special-characters"
+name: "remove-special-characters"
 description: "Removes special characters like newline, carriage return, tab, form feed, forward slash, backslash, and double quotes from a string."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["text processing", "string manipulation", "data cleaning"]
 triggers:
   - "when cleaning text data for further processing"

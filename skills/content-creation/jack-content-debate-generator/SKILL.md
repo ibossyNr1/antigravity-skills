@@ -1,8 +1,8 @@
 ---
-name: "jack-content-debate-generator"
+name: "debate-generator"
 description: "Procedure to generate debate-style audio content using AI to present multiple perspectives on a topic."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["debate", "content creation", "audio", "AI"]
 triggers:
   - "when creating debate content"

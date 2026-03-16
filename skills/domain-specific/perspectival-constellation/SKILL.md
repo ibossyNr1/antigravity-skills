@@ -4,7 +4,7 @@ description: >-
   Structure multi-POV stories through catalyst environments. Use when building
   interconnected narratives, when perspectives need meaningful intersection, or
   when a shared setting needs to generate distinct storylines.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

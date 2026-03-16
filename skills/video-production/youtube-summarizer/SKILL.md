@@ -5,7 +5,7 @@ description: >-
   and send full transcripts to messaging platforms. Detects YouTube URLs and
   provides metadata, key insights, and downloadable transcripts.
 version: 1.0.0
-author: abe238
+
 tags:
   - youtube
   - transcription

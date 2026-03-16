@@ -1,11 +1,10 @@
 ---
-name: jack-social-instagram-comment-responder
+name: "instagram-comment-responder"
 description: >-
   Automate responses to Instagram comments, capture emails, and integrate with a
   CRM using Make and ManyChat to turn engagement into sales.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - instagram
   - automation

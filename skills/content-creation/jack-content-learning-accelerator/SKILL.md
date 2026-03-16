@@ -1,8 +1,8 @@
 ---
-name: "jack-content-learning-accelerator"
+name: "learning-accelerator"
 description: "Procedure for mastering skills faster using AI to generate curriculum, study guides, and progress tracking."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["skill learning", "AI", "curriculum generation", "progress tracking"]
 triggers:
   - "when you want to accelerate skill acquisition"

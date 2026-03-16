@@ -2,8 +2,7 @@
 name: "api-setup-guide"
 description: "Sets up API keys and webhooks for Clearbit, Beehiiv, Calendly, Slack, and Twitter. Covers account creation, key retrieval, and testing."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["setup","api","clearbit","beehiiv","calendly","slack","twitter"]
 triggers:
   - "setup apis"

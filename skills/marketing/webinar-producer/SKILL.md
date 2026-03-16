@@ -5,7 +5,7 @@ description: 'Plan, produce, and optimize webinars for engagement and conversion
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - webinar production
   - plan webinar

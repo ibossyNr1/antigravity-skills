@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-claude-vision-browser-assistance"
+name: "claude-vision-browser-assistance"
 description: "Uses Claude Vision to analyze browser screenshots, extracts text, and provides user assistance based on conversation history."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["claude vision", "browser automation", "make.com", "ai assistance"]
 triggers:
   - "when a user needs help navigating a web page"

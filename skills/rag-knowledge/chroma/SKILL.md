@@ -7,8 +7,7 @@ description: >-
   search, RAG applications, or document retrieval. Best for local development
   and open-source projects.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - RAG
   - Chroma
@@ -419,5 +418,4 @@ collection = client.get_or_create_collection("my_docs")
 - **Discord**: https://discord.gg/MMeYNTmh3x
 - **Version**: 1.3.3+
 - **License**: Apache 2.0
-
 

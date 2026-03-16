@@ -5,7 +5,7 @@ description: Make better decisions using structured frameworks and mental models
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - help me decide
   - decision framework

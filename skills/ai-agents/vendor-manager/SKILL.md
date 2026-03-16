@@ -7,7 +7,7 @@ description: >-
 category: business
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - vendor management
   - supplier management
@@ -95,7 +95,6 @@ Built on procurement best practices and strategic sourcing principles, this skil
    - **Service Levels (SLA)**: Uptime guarantees, response times, performance penalties
    - **Termination**: Notice period, termination for cause, transition assistance
    - **Liability**: Indemnification, liability caps, insurance requirements
-   - **Intellectual Property**: Ownership of work product, confidentiality (NDA)
 
 2. **Negotiation Strategy**
    - Research market rates (benchmark pricing)

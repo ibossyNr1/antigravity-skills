@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse Etsy products, manage favorites, and explore handmade
   items
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -2,8 +2,7 @@
 name: "google-maps-scraper"
 description: "Scrapes business listings from Google Maps using Apify, useful for lead generation and market research."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google maps","scraper","apify","lead generation","business data"]
 triggers:
   - "when I need to extract business data from Google Maps"

@@ -8,7 +8,7 @@ description: >-
   strategies, establishing partnerships, or when user mentions demand gen, paid
   ads, LinkedIn ads, Google ads, CAC, acquisition, lead generation, or pipeline
   generation.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: Alireza Rezvani

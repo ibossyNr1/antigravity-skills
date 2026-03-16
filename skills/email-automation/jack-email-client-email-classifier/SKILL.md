@@ -1,8 +1,8 @@
 ---
-name: "jack-email-client-email-classifier"
+name: "client-email-classifier"
 description: "Automatically classify incoming emails as client-related based on sender, subject, and body content, using data from Airtable."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "classification", "client identification", "automation"]
 triggers:
   - "When processing a new email"

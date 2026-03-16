@@ -1,8 +1,8 @@
 ---
-name: "jack-content-reddit-to-social"
+name: "reddit-to-social"
 description: "Automate content repurposing from Reddit posts into social media updates (LinkedIn, Twitter, Facebook) using AI agents."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["content repurposing", "social media", "reddit", "gpt", "automation"]
 triggers:
   - "When you want to quickly create social media content from Reddit posts."

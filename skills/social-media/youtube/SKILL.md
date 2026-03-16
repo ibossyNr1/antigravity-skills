@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage YouTube subscriptions, playlists, and viewing
   experience through browser automation
 version: 1.0.0
-author: Canifi
+
 category: video
 compatibility: 'agent-zero, claude-code, cursor'
 ---

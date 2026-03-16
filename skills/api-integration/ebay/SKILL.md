@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse eBay listings, manage watchlist, and track bids (no
   purchases)
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

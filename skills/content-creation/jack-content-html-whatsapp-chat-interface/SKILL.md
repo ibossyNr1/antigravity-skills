@@ -1,8 +1,8 @@
 ---
-name: "jack-content-html-whatsapp-chat-interface"
+name: "html-whatsapp-chat-interface"
 description: "Generates HTML code for a web app with a WhatsApp-style chat interface for displaying AI-generated responses."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["HTML", "CSS", "JavaScript", "web app", "chat interface", "AI panel", "confetti animation", "timer"]
 triggers:
   - "When building a web application with a chat interface"
@@ -182,14 +182,12 @@ transform-origin: left top;
 </div>
 </div>
 
-
 <script>
 document.getElementById('questionForm').addEventListener('submit', function(e) {
 e.preventDefault();
 var question = document.getElementById('questionInput').value;
 var formData = new FormData();
 formData.append('question', question);
-
 
 var xhr = new XMLHttpRequest();
 xhr.open('POST', this.action, true);
@@ -202,7 +200,6 @@ xhr.send(formData);
 startLoading();
 });
 
-
 function startLoading() {
 var loadingElement = document.querySelector('#panel-discussion-container .loading');
 var countdownElement = document.querySelector('#panel-discussion-container .countdown');
@@ -210,12 +207,10 @@ var confettiElements = document.querySelectorAll('#panel-discussion-container .c
 var questionInput = document.querySelector('#panel-discussion-container #questionInput');
 var submitButton = document.querySelector('#panel-discussion-container button');
 
-
 loadingElement.style.display = 'flex';
 confettiElements.forEach(el => el.style.display = 'block');
 questionInput.disabled = true;
 submitButton.disabled = true;
-
 
 var countdown = 80;
 var countdownInterval = setInterval(function() {

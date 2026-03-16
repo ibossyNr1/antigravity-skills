@@ -1,8 +1,8 @@
 ---
-name: "jack-design-inspiration-sites"
+name: "inspiration-sites"
 description: "Provides a list of websites for web/UI design inspiration, covering general design, component-level inspiration, trends, UX, and app-focused designs."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["UI design", "web design", "inspiration", "UX", "patterns"]
 triggers:
   - "when seeking inspiration for web design projects"

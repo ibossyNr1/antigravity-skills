@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-clawdbot-documentation-folder"
+name: "clawdbot-documentation-folder"
 description: "Sets up a local documentation folder for ClawdBot VPS setup with README, SETUP, QUICK-REFERENCE, and SECURITY-NOTES files."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["clawdbot", "documentation", "vps", "setup", "organization"]
 triggers:
   - "setting up clawdbot"

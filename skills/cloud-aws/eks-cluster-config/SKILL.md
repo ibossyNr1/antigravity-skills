@@ -10,8 +10,7 @@ description: >
 allowed-tools:
   - 'Read, Write, Edit, Bash(aws:*)'
 version: 1.0.0
-license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 
@@ -41,20 +40,17 @@ This skill activates automatically when you:
 Request: "Help me with eks cluster config"
 Result: Provides step-by-step guidance and generates appropriate configurations
 
-
 ## Prerequisites
 
 - Relevant development environment configured
 - Access to necessary tools and services
 - Basic understanding of aws skills concepts
 
-
 ## Output
 
 - Generated configurations and code
 - Best practice recommendations
 - Validation results
-
 
 ## Error Handling
 
@@ -63,7 +59,6 @@ Result: Provides step-by-step guidance and generates appropriate configurations
 | Configuration invalid | Missing required fields | Check documentation for required parameters |
 | Tool not found | Dependency not installed | Install required tools per prerequisites |
 | Permission denied | Insufficient access | Verify credentials and permissions |
-
 
 ## Resources
 

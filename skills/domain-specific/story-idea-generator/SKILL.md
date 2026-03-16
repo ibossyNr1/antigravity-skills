@@ -4,7 +4,7 @@ description: >-
   Generate story concepts using a genre-first approach. Use when starting a new
   project, when brainstorming ideas, when a concept needs strengthening, or when
   you want to ensure emotional impact drives the story.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

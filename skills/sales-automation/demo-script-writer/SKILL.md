@@ -5,7 +5,7 @@ description: Write compelling product demo scripts that drive conversions
 category: sales
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - demo script
   - product demo

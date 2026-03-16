@@ -1,11 +1,10 @@
 ---
-name: jack-research-personal-knowledge-base
+name: "personal-knowledge-base"
 description: >-
   Procedure to build a personal knowledge base using AI to capture, organize,
   and query information.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - knowledge base
   - research

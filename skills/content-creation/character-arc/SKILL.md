@@ -5,7 +5,7 @@ description: >-
   feel static, when transformation feels unearned or abrupt, when you can't
   articulate what false belief needs to die, or when characters serve plot
   without having internal journeys. Covers positive, negative, and flat arcs.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

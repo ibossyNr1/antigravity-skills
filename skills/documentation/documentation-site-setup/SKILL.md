@@ -160,7 +160,6 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Company.`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/github'),
@@ -474,7 +473,6 @@ export default {
     },
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025-present My Company'
     },
     search: {
       provider: 'local'

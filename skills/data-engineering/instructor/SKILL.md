@@ -6,8 +6,7 @@ description: >-
   stream partial results with Instructor - battle-tested structured output
   library
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Prompt Engineering
   - Instructor
@@ -756,5 +755,4 @@ class PartialData(BaseModel):
 - `references/validation.md` - Advanced validation patterns
 - `references/providers.md` - Provider-specific configuration
 - `references/examples.md` - Real-world use cases
-
 

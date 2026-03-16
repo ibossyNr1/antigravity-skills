@@ -6,12 +6,11 @@ description: >
 
   Includes 7 specialized agents with strong auto-discovery triggers.
 
-
   Use when: setting up development workflows, code reviews, debugging errors,
   writing tests,
 
   generating documentation, creating commits, or verifying builds.
-license: MIT
+
 metadata:
   version: 1.0.0
   last_verified: '2025-01-20'

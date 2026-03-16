@@ -1,8 +1,8 @@
 ---
-name: "jack-content-ai-expert-panel-prompt"
+name: "ai-expert-panel-prompt"
 description: "Defines prompt structure to build an AI web app with functionalities to submit questions and display different voices in chat."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["AI", "Expert Panel", "HTML"]
 triggers:
   - "Generating code for a web app"

@@ -5,7 +5,7 @@ description: Write professional press releases that get media attention and cove
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write press release
   - draft press release

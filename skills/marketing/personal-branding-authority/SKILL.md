@@ -595,7 +595,6 @@ What You Want:
 
 What Your Company Wants:
 ⚠️ You promote company brand (not personal)
-⚠️ You don't share confidential information
 ⚠️ You don't recruit colleagues to competitors
 ⚠️ Your brand stays professional (reflects on company)
 
@@ -632,7 +631,6 @@ STEP 2: What's Your Manager's Stance?
 Manager says: "Yes! Build your brand!"
 → GREEN LIGHT
 
-Manager says: "Sure, just don't share confidential stuff"
 → YELLOW LIGHT (get clearer boundaries)
 
 Manager says: "All comms go through Corp Comms"
@@ -708,8 +706,6 @@ GOOD MANAGER RESPONSES:
 
 NEUTRAL MANAGER RESPONSES:
 
-"I guess that's fine? Just don't share anything confidential."
-→ YELLOW LIGHT (push for more clarity: "Can you define confidential?")
 
 "Let me check with Corp Comms and get back to you."
 → YELLOW LIGHT (they're being cautious, which is fair)
@@ -756,7 +752,6 @@ THE MAGIC FORMULA:
 - "My [X] template"
 - "How I think about [Y]"
 - General methodologies
-- NOT proprietary company IP
 → This builds credibility
 
 10% Company (With Approval)
@@ -869,7 +864,6 @@ Why this is OK:
 → Company milestone (public info)
 → Celebrating team (not bragging)
 → Recruiting (helps company)
-→ NOT sharing strategy or confidential metrics
 
 ❌ BAD (Company-specific, gives away too much):
 
@@ -881,7 +875,6 @@ Why this is OK:
 We're going to destroy [Competitor] in this category."
 
 Why this is BAD:
-→ Product roadmap (confidential)
 → Competitive intel (helps competitors)
 → Aggressive tone (reflects poorly on company)
 → Could get you fired
@@ -1289,7 +1282,6 @@ WHAT YOU CAN'T DO (Clear Violations):
 
 ❌ Recruit employees
 - Can't mass email colleagues: "Join me at new company"
-- This is theft of trade secrets (employee list)
 - Criminal liability possible
 
 ❌ Use company IP

@@ -5,7 +5,7 @@ description: Extract named entities from text with high accuracy and customizati
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - extract entities
   - named entity recognition

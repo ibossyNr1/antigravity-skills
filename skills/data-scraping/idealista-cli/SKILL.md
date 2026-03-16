@@ -7,7 +7,7 @@ description: >-
 compatibility: >-
   Requires idealista-cli installed (Node.js 18+), network access to
   app.idealista.com.
-license: MIT
+
 metadata:
   author: pjtf93
   version: 0.1.0

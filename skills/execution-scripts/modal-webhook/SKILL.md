@@ -2,8 +2,7 @@
 name: "claude-orchestrator"
 description: "Orchestrates event-driven Claude interactions via webhooks for various tasks like email sending, data manipulation, and document generation."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["claude","webhook","automation","llm","orchestration","utility","internal"]
 triggers:
   - "when a webhook is triggered"

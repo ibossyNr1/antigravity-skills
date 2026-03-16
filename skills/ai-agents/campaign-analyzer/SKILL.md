@@ -5,7 +5,7 @@ description: Analyze marketing campaign performance and extract actionable insig
 category: marketing
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - campaign analysis
   - campaign performance

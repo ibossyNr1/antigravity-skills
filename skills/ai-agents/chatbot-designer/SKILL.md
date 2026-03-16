@@ -5,7 +5,7 @@ description: Design conversational AI chatbots with optimal flows and user exper
 category: meta
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - chatbot design
   - conversational ai

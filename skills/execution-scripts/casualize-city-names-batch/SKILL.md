@@ -2,8 +2,7 @@
 name: "casualize-city-names"
 description: "Casualizes formal city names in a Google Sheet for cold emails using Claude. Improves deliverability with colloquial local names."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","nlp","city names","cold email","data processing"]
 triggers:
   - "when needing casual city names for emails"

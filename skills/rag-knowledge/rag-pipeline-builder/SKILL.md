@@ -7,7 +7,7 @@ description: >-
 category: ai-ml
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - build RAG
   - retrieval augmented generation

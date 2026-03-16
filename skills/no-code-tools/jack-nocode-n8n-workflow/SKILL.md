@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-n8n-workflow"
+name: "n8n-workflow"
 description: "Automate tasks by integrating Gemini 3.0, Claude Code, and n8n to streamline AI system development."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "automation", "gemini", "claude", "workflow"]
 triggers:
   - "When repetitive tasks need to be automated"

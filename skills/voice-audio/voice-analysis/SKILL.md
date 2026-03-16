@@ -5,7 +5,7 @@ description: >-
   reproduction. Use when you need to capture writing voice, analyze writing
   style, create a voice guide, or write in someone's established style.
   Keywords: voice, tone, style, writing analysis, fingerprint.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

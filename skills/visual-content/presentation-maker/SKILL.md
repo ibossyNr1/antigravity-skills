@@ -5,7 +5,7 @@ description: 'Generate PowerPoint presentations with slides, layouts, charts, an
 category: document-creation
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create presentation
   - generate powerpoint
@@ -246,7 +246,6 @@ function createFromTemplate(content, outputPath) {
       // Company logo
       { image: { x: 0.5, y: 0.2, w: 1.0, h: 0.4, path: 'company-logo.png' } },
       // Footer
-      { text: { text: 'Company Confidential', options: { x: 0.5, y: 5.0, fontSize: 10, color: '95A5A6' } } }
     ]
   });
 

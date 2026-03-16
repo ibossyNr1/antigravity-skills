@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-customer-query-chatbot"
+name: "customer-query-chatbot"
 description: "Build a chatbot that answers customer queries by leveraging uploaded documents and Pinecone for knowledge retrieval."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rag", "customer support", "chatbot", "n8n", "pinecone", "hugging face", "loveable"]
 triggers:
   - "Need to automate customer support"

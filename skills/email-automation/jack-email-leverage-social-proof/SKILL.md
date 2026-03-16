@@ -1,8 +1,8 @@
 ---
-name: "jack-email-leverage-social-proof"
+name: "leverage-social-proof"
 description: "Place testimonials, reviews, and user-generated content. Consumers trust peer recommendations, crucial for building credibility/driving conversions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "social proof", "credibility"]
 triggers:
   - "When creating email campaigns"

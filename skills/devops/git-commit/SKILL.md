@@ -7,7 +7,7 @@ description: >-
   scope from changes, (2) Generating conventional commit messages from diff, (3)
   Interactive commit with optional type/scope/description overrides, (4)
   Intelligent file staging for logical grouping
-license: MIT
+
 allowed-tools:
   - Bash
 version: 1.0.0

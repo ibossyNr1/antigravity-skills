@@ -1,8 +1,8 @@
 ---
-name: "jack-content-nanobanana-editimage-n8n"
+name: "nanobanana-editimage-n8n"
 description: "Automates image editing with Nano Banana API in n8n, uploading a logo, generating a hyperrealistic image with notifications for new leads, and storing the result."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["image editing", "automation", "nano banana", "n8n", "lead magnet", "api"]
 triggers:
   - "When a new form is submitted with a brand and logo."

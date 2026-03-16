@@ -1,9 +1,8 @@
 ---
-name: jack-social-caption-generation
+name: "caption-generation"
 description: Use an OpenAI Assistant to generate engaging social media captions.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - openai
   - social media

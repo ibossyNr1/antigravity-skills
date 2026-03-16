@@ -1,8 +1,8 @@
 ---
-name: "jack-content-whatsapp-summary-prompt"
+name: "whatsapp-summary-prompt"
 description: "Analyzes a WhatsApp transcript and summarizes it into an engaging HTML report."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["whatsapp", "summary", "html", "automation", "chat"]
 triggers:
   - "when you need to summarize a whatsapp conversation"
@@ -33,7 +33,6 @@ Analyzes a WhatsApp transcript and summarizes it into an engaging HTML report.
 Instructions:
 You will receive a transcript of a WhatsApp conversation. Your task is to analyze, summarize, and present the content in an engaging, visually appealing format using HTML . Follow these steps carefully:
 
-
 Step 1: Overview Summary (Key Takeaways - 4 Max with Emojis)
 Provide a concise summary of the most important themes or outcomes from the conversation. Represent each takeaway concisely using emojis and brief descriptions. Ensure they are clear, actionable, and relevant to the discussion.
 Format:
@@ -45,10 +44,8 @@ Format:
  <li>⚡ [Key Takeaway 4]</li>
 </ul>
 
-
 Step 2: General Updates/Points of Interest
 Summarize any general updates, announcements, or points of interest that don't fit into specific topics but are still worth noting. Use bullet points and include links if mentioned in the conversation (e.g., websites, articles, videos). Add as many updates as are relevant to the conversation.
-
 
 Format Example:
 <h2 style="font-family: Avenir, sans-serif; color: #333;">📢 General Updates/Points of Interest</h2>
@@ -58,13 +55,10 @@ Format Example:
  <li><strong>Point of Interest:</strong> Something interesting shared by someone (<a href="#" style="color: #007BFF; text-decoration: none;">Link</a>).</li>
 </ul>
 
-
 Step 3: Make It Beautiful
 Use Avenir font throughout the output. Ensure the design is clean and professional with appropriate spacing, colors, and formatting. Links should be styled in blue (#007BFF) with no underline for a modern look. Keep paragraphs short and focused.
 
-
 Example HTML for output:
-
 
 <!DOCTYPE html>
 <html lang="en">

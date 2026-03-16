@@ -2,7 +2,7 @@
 name: mastodon
 description: 'Enables Claude to manage Mastodon toots, boosts, and fediverse engagement'
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

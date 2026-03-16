@@ -2,7 +2,7 @@
 name: blueapron
 description: Enables Claude to browse Blue Apron meal kits and manage subscriptions
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

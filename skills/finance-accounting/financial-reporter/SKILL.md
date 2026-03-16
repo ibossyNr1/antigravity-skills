@@ -7,7 +7,7 @@ description: >-
 category: business
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - financial report
   - P&L statement

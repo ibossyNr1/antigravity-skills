@@ -5,7 +5,7 @@ description: Write academic conference papers and research submissions
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - conference paper
   - academic paper

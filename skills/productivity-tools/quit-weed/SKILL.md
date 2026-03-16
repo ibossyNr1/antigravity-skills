@@ -3,7 +3,7 @@ name: quit-weed
 description: >-
   Take a tolerance break or quit cannabis with streak tracking and craving
   support
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - quit weed

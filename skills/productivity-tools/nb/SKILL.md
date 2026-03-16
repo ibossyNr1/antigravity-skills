@@ -3,7 +3,7 @@ name: nb
 description: >-
   Manage notes, bookmarks, and notebooks using the nb CLI. Create, list, search,
   and organize notes across multiple notebooks with Git-backed versioning.
-author: Benjamin Jesuiter <bjesuiter@gmail.com>
+
 homepage: 'https://github.com/xwmx/nb'
 metadata:
   clawdbot:
@@ -21,8 +21,6 @@ compatibility: 'agent-zero, claude-code, cursor'
 # nb - Command Line Note-Taking
 
 > ⚠️ **IMPORTANT:** Never edit files in nb git repos (`~/.nb/*`) by hand! Always use the `nb` CLI to ensure proper indexing and Git commits.
-
-
 
 A command line and local web note-taking, bookmarking, and archiving tool with plain text data storage, Git-backed versioning, and wiki-style linking.
 

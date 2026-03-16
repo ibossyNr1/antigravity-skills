@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-lead-magnet-testing"
+name: "lead-magnet-testing"
 description: "Test lead magnets for effectiveness to optimize lead generation and conversion rates."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead magnet", "testing", "conversion", "optimization"]
 triggers:
   - "When you want to improve the performance of your lead magnets."

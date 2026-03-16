@@ -5,7 +5,7 @@ description: >
   uploading/downloading files, configuring CORS, generating presigned URLs,
   multipart uploads, managing metadata, or troubleshooting R2_ERROR, CORS
   failures, presigned URL issues, or quota errors.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

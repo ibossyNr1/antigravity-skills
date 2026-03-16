@@ -5,7 +5,7 @@ description: >-
   Comprehensive daily performance review with communication tracking, meeting
   analysis, output metrics, and focus time monitoring. Your AI performance
   coach.
-author: henrino3
+
 tags:
   - productivity
   - performance

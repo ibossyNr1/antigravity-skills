@@ -1,11 +1,10 @@
 ---
-name: jack-guidance-ai-agent-prompting
+name: "ai-agent-prompting"
 description: >-
   Provides a structured template for creating effective prompts for AI agents in
   multi-agent systems. Improves agent performance and collaboration.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - AI agent
   - prompt engineering

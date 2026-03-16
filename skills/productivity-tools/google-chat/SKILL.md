@@ -4,7 +4,7 @@ description: >-
   Enables Claude to send messages, manage spaces, and handle Google Chat
   communications
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

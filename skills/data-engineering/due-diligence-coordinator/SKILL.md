@@ -5,7 +5,7 @@ description: Coordinate and prepare for investor due diligence with organized da
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - due diligence
   - dd preparation

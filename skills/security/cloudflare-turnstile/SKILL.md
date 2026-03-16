@@ -5,7 +5,7 @@ description: >
   forms, securing login/signup, preventing spam, migrating from reCAPTCHA,
   integrating with React/Next.js/Hono, implementing E2E tests, or debugging CSP
   errors, token validation failures, or error codes 100*/300*/600*.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

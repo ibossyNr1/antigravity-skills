@@ -5,7 +5,7 @@ description: Handle social media crises with strategic response and reputation m
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - crisis management
   - social crisis

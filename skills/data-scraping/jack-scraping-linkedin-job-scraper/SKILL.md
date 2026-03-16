@@ -1,8 +1,8 @@
 ---
-name: "jack-scraping-linkedin-job-scraper"
+name: "linkedin-job-scraper"
 description: "Automate job searches by creating a LinkedIn job scraper using Appify and Make (Integromat)."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["linkedin", "job search", "scraper", "automation"]
 triggers:
   - "when needing to automate linkedin job searches"

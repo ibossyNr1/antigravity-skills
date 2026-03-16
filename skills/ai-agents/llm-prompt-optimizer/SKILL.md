@@ -7,7 +7,7 @@ description: >-
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - optimize this prompt
   - improve LLM output

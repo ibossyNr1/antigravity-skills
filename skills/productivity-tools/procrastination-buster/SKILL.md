@@ -3,7 +3,7 @@ name: procrastination-buster
 description: >-
   Beat procrastination with task breakdown, 2-minute starts, and accountability
   tracking
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - stop procrastinating

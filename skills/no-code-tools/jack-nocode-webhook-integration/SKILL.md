@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-webhook-integration"
+name: "webhook-integration"
 description: "Provides a Make.com webhook URL for receiving chatbot queries in a dashboard application."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["make.com", "webhook", "chatbot", "integration"]
 triggers:
   - "When setting up a chatbot integration using Make.com to receive user queries."

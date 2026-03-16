@@ -4,7 +4,7 @@ description: >-
   Orchestrate multi-service AWS workflows with autonomous agents. Coordinates
   across compute, storage, identity, and observability services for intelligent
   cloud automation.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

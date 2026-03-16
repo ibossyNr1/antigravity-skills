@@ -4,7 +4,7 @@ description: >-
   Structure stories around protagonists who refuse to acknowledge what they're
   becoming. Use when exploring self-deception, moral transformation, or the gap
   between self-perception and reality.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

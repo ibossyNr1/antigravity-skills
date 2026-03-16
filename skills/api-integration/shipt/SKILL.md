@@ -2,7 +2,7 @@
 name: shipt
 description: 'Enables Claude to browse stores, manage lists, and track deliveries on Shipt'
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-website-summary-gpt"
+name: "website-summary-gpt"
 description: "Generates a concise website summary (35 words) and lists 5 core features using GPT for lead qualification."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead qualification", "website analysis", "gpt", "summary generation"]
 triggers:
   - "when you need a quick website overview"

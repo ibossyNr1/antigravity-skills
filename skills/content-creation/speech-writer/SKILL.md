@@ -5,7 +5,7 @@ description: Write memorable speeches and presentations that inspire and persuad
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write speech
   - create speech

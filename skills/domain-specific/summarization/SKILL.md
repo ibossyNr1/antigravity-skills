@@ -5,7 +5,7 @@ description: >-
   audience, and context. Use when asked to summarize, create TLDR, condense
   content, or create executive summaries. Keywords: summary, TLDR, condense,
   executive summary, abstract.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

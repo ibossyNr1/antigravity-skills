@@ -5,7 +5,7 @@ description: >-
   skill when the user asks for a diagram of their Azure resources or help in
   understanding how the resources relate to each other. Use when user requests
   this functionality.
-license: Complete terms in LICENSE.txt
+
 metadata:
   author: Tom Meschter (tom.meschter@microsoft.com)
 name: azure-resource-visualizer

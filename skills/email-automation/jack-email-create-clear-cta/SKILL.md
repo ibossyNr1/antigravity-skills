@@ -1,8 +1,8 @@
 ---
-name: "jack-email-create-clear-cta"
+name: "create-clear-cta"
 description: "Use single, prominent CTAs in each email. Focused approach increases clicks and sales. Make buttons stand out with action text."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "call to action", "conversion"]
 triggers:
   - "When designing email layouts"

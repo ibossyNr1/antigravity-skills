@@ -5,7 +5,7 @@ description: >-
   deploy applications, debug containers, manage configurations, and monitor
   cluster health. Use when working with Kubernetes clusters, containers,
   deployments, or pod diagnostics.
-license: MIT
+
 metadata:
   author: Dennis de Vaal <d.devaal@gmail.com>
   version: 1.0.0

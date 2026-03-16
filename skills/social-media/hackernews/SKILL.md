@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Hacker News submissions, comments, and tech community
   engagement
 version: 1.0.0
-author: Canifi
+
 category: news
 compatibility: 'agent-zero, claude-code, cursor'
 ---

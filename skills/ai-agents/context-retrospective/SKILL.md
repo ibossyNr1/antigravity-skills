@@ -4,7 +4,7 @@ description: >-
   Analyze agent-user interaction transcripts to identify context network
   maintenance needs and guidance improvements. Use after significant agent
   interactions or to improve context networks.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

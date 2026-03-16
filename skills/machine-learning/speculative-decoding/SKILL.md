@@ -7,8 +7,7 @@ description: >-
   models with limited compute. Covers draft models, tree-based attention, Jacobi
   iteration, parallel token generation, and production deployment strategies.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Emerging Techniques
   - Speculative Decoding
@@ -481,5 +480,4 @@ for output in outputs:
 - `references/draft_model.md` - Draft model selection and training
 - `references/medusa.md` - Medusa architecture and training
 - `references/lookahead.md` - Lookahead decoding implementation details
-
 

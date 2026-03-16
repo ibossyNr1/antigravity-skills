@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-apify-lead-scraper"
+name: "apify-lead-scraper"
 description: "Scrapes leads from various platforms using Apify based on provided job titles and locations."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead generation", "apify", "n8n", "scraping"]
 triggers:
   - "When needing to extract lead information (name, company, contact details) based on specific criteria"

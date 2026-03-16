@@ -1,8 +1,8 @@
 ---
-name: "jack-content-nanobanana-texttoimage-n8n"
+name: "nanobanana-texttoimage-n8n"
 description: "Automates image creation with Nano Banana API, generating images from Airtable prompts and storing them back in Airtable."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["image generation", "automation", "nano banana", "n8n", "text-to-image", "api", "airtable"]
 triggers:
   - "When a workflow is manually triggered."

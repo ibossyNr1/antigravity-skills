@@ -49,7 +49,6 @@ RAG augments LLM knowledge with external data:
 
 - **Document Q&A**: Answer questions about PDFs, books, reports
 - **Knowledge Base Search**: Query internal documentation, wikis
-- **Enterprise Search**: Search proprietary company data
 - **Context-Specific Assistants**: Customer support, HR assistants
 - **Fact-Heavy Applications**: Legal docs, medical records, financial data
 

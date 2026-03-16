@@ -7,7 +7,6 @@ description: >-
   storage backends (memory/disk/Redis), middleware, OAuth Proxy, OpenAPI
   integration, and FastMCP Cloud deployment.
 
-
   Use when: creating MCP servers, defining tools or resources, implementing
   OAuth authentication, configuring
 
@@ -17,7 +16,6 @@ description: >-
   or troubleshooting module-level server, storage, lifespan, middleware order,
   circular imports, or OAuth errors.
 
-
   Keywords: FastMCP, MCP server Python, Model Context Protocol Python, fastmcp
   framework, mcp tools, mcp resources, mcp prompts, fastmcp storage, fastmcp
   memory storage, fastmcp disk storage, fastmcp redis, fastmcp dynamodb, fastmcp
@@ -25,7 +23,7 @@ description: >-
   fastmcp import, fastmcp mount, fastmcp cloud, fastmcp deployment, mcp
   authentication, fastmcp icons, openapi mcp, claude mcp server, fastmcp
   testing, storage misconf
-license: MIT
+
 metadata:
   version: 2.0.0
   package_version: fastmcp>=2.13.0

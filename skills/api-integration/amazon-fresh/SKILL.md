@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse Amazon Fresh groceries, manage lists, and track
   deliveries
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

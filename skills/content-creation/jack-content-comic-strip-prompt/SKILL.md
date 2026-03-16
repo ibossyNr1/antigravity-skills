@@ -1,8 +1,8 @@
 ---
-name: "jack-content-comic-strip-prompt"
+name: "comic-strip-prompt"
 description: "Generates a prompt for creating a 4-panel comic strip lead magnet, tailored to a specific brand using website analysis and logo integration."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["comic strip", "lead magnet", "AI automation", "cartoon", "cold outreach"]
 triggers:
   - "When creating a personalized comic strip for lead generation"
@@ -36,7 +36,6 @@ The main character is a tech-savvy, confident professional with either a clean h
 
 This comic will be used as a creative cold outreach for an AI automation consultant.
 
-
 ✅ Visual Style Notes:
 * Yellow-toned skin, cartoonish proportions
 * Thick black outlines, bright colors
@@ -44,18 +43,14 @@ This comic will be used as a creative cold outreach for an AI automation consult
 * Clean, punchy composition
 * Every single panel MUST have a speech bubble as explain below.
 
-
 Accent colors and props reflecting the brand. The brand colours and description of the homepage to include are: 
 {{ $('Website Analysis').item.json.content }}
 Keep the design visually beautiful with contrasting colours.
 Include a website screenshot on the laptop screen in panel 1. 
 
-
 ✅ Text & Structure:
 * Max 5 words per panel, in speech bubbles or notes only
 * Style and tone: humorous, insightful, friendly
-
-
 
 🟨 Panel Breakdown
 Panel 1 – Admiration
@@ -64,18 +59,15 @@ The business website clearly visible. He looks intrigued
 Speech bubble: 
 ""{{ $json.message.content }}""
 
-
 Panel 2 – Opportunity Thought
  Scene: Character A wonders longingly looking out of the window as he considers. He looks sad.
  Speech bubble:
  "Imagine more customers here..."
 
-
 Panel 3 – Insight
  Scene: A lightbulb appears above Character A's head. In the background, helpful cartoon robots tidy tabs, auto-sort messages, or serve digital forms. He looks hopeful.
  Speech bubble:
  "AI Automation could help."
-
 
 Panel 4 – CTA
  Scene: A New character (Character B) in the fourth panel, visibly different then the others with a plain shirt with the word Jack on it. He smiles, writing on a sticky note or messaging box.

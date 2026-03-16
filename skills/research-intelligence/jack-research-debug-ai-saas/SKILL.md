@@ -1,11 +1,10 @@
 ---
-name: jack-research-debug-ai-saas
+name: "debug-ai-saas"
 description: >-
   Provides a structured approach to debugging issues in an AI SaaS built with
   Lovable, n8n, and Stripe.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - debugging
   - ai saas

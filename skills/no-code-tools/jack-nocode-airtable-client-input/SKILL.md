@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-airtable-client-input"
+name: "airtable-client-input"
 description: "Customize automation workflows by integrating AirTable for client data input and management within Make (Integromat)."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["airtable", "client input", "automation", "data management"]
 triggers:
   - "when you need clients to input specific data to customize an automation workflow"

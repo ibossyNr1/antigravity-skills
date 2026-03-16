@@ -5,7 +5,7 @@ description: >-
   structured workthrough format. Use this skill after completing any development
   task, bug fix, feature implementation, or code refactoring to create
   comprehensive documentation.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

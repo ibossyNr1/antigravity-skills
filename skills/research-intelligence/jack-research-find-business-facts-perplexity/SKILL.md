@@ -1,11 +1,10 @@
 ---
-name: jack-research-find-business-facts-perplexity
+name: "find-business-facts-perplexity"
 description: >-
   Uncovers 10 fascinating, sourced facts about a business from its website and
   external sources using Perplexity AI.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - business
   - facts

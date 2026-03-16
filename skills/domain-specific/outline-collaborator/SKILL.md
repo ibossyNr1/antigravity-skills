@@ -5,7 +5,7 @@ description: >-
   when developing, iterating, or improving story outlines. Generates scene
   beats, character arcs, plot structures, and exploratory prose samples.
   Contrasts with story-collaborator which drafts finished prose.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

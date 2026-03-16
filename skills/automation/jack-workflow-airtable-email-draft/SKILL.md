@@ -1,8 +1,8 @@
 ---
-name: "jack-workflow-airtable-email-draft"
+name: "airtable-email-draft"
 description: "Watches Airtable for new records, filters based on status, and creates email drafts with a personalized image."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "make.com", "airtable", "email", "personalized emails"]
 triggers:
   - "When you need to send personalized emails with images based on data stored in Airtable."

@@ -5,7 +5,6 @@ description: >
   Embeddings, Images (DALL-E 3), Audio (Whisper + TTS), and Moderation. Includes
   Node.js SDK and fetch-based approaches for Cloudflare Workers.
 
-
   Use when: implementing chat completions with GPT-5/GPT-4o, streaming responses
   with SSE, using function calling/tools, creating structured outputs with JSON
   schemas, generating embeddings for RAG (text-embedding-3-small/large),
@@ -14,7 +13,7 @@ description: >
   content (11 safety categories), or troubleshooting rate limits (429), invalid
   API keys (401), function calling failures, streaming parse errors, embeddings
   dimension mismatches, or token limit exceeded.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

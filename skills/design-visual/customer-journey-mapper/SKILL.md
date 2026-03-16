@@ -5,7 +5,7 @@ description: Map customer journeys to optimize touchpoints and experiences
 category: marketing
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - customer journey
   - journey mapping

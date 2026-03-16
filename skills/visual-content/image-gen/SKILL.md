@@ -6,7 +6,7 @@ description: >-
   editing. Includes Australian-specific imagery patterns. Use when stock photos
   don't fit, need text in images, or require consistent style across assets.
   Prevents 5 documented errors.
-license: MIT
+
 metadata:
   last_verified: '2026-01-21'
 version: 1.0.0

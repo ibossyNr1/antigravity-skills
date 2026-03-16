@@ -1,8 +1,8 @@
 ---
-name: "jack-content-linkedin-script-agent"
+name: "linkedin-script-agent"
 description: "Creates high-performing LinkedIn posts by combining topic research and performance insights."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["linkedin", "content creation", "scripting", "engagement"]
 triggers:
   - "when you need to generate engaging LinkedIn posts based on research and performance data"

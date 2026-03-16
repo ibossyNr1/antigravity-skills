@@ -3,7 +3,7 @@ name: browser-automation-framework
 description: >-
   Automate browser interactions and web testing. Provides scriptable browser
   control for web scraping, testing, and automation.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

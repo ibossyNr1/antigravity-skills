@@ -5,11 +5,10 @@ description: >
   pagination, filtering, sorting, and virtualization patterns for Cloudflare
   Workers + D1 databases.
 
-
   Use when building tables with large datasets, coordinating with TanStack
   Query, or troubleshooting state management issues, pagination coordination
   errors, or performance bottlenecks.
-license: MIT
+
 allowed-tools:
   - Bash
   - Read

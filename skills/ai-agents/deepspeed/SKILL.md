@@ -4,8 +4,7 @@ description: >-
   Expert guidance for distributed training with DeepSpeed - ZeRO optimization
   stages, pipeline parallelism, FP16/BF16/FP8, 1-bit Adam, sparse attention
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - DeepSpeed
   - Distributed Training
@@ -152,7 +151,4 @@ Add templates, boilerplate, or example projects here.
 To refresh this skill with updated documentation:
 1. Re-run the scraper with the same configuration
 2. The skill will be rebuilt with the latest information
-
-
-
 

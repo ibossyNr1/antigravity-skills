@@ -1,8 +1,8 @@
 ---
-name: "jack-email-optimize-subject-lines"
+name: "optimize-subject-lines"
 description: "Craft 6-10 word subject lines to create urgency/curiosity. Strategic emojis boost open rates. Ensure relevance to content."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "subject lines", "optimization"]
 triggers:
   - "When crafting email subject lines"

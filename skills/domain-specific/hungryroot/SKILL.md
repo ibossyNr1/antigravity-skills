@@ -2,7 +2,7 @@
 name: hungryroot
 description: Enables Claude to browse Hungryroot meal kits and manage subscriptions
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

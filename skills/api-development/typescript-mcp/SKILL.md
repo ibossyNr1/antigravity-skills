@@ -5,11 +5,10 @@ description: >
   @modelcontextprotocol/sdk. Provides patterns for tools, resources, prompts,
   and authentication (API keys, OAuth, Zero Trust).
 
-
   Use when exposing APIs to LLMs, integrating Cloudflare services (D1, KV, R2,
   Vectorize), or troubleshooting export syntax errors, unclosed transport leaks,
   or CORS misconfigurations.
-license: MIT
+
 metadata:
   version: 1.0.0
   last_updated: 2025-10-28T00:00:00.000Z

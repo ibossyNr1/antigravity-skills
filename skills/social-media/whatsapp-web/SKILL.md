@@ -4,7 +4,7 @@ description: >-
   Enables Claude to send messages, manage groups, and handle WhatsApp
   communications through the web interface
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

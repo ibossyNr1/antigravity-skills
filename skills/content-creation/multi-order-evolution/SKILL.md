@@ -5,7 +5,7 @@ description: >-
   when creating civilizations that diverge from baseline humanity, when
   exploring how environments shape cultures over generations, or when
   worldbuilding requires deep time development.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

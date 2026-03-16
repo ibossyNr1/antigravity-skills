@@ -1,12 +1,11 @@
 ---
-name: jack-guidance-ai-agent-prompting-template
+name: "ai-agent-prompting-template"
 description: >-
   Provides a structured template for creating effective AI agent prompts,
   including role definition, context, task, constraints, collaboration, and
   examples.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - ai agent
   - prompting

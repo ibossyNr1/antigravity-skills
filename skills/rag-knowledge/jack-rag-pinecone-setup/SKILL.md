@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-pinecone-setup"
+name: "pinecone-setup"
 description: "Initialize a Pinecone vector database to store and retrieve business context for AI co-pilots, enabling long-term memory and improved decision-making."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rag", "vector database", "pinecone", "ai copilot"]
 triggers:
   - "when setting up long-term memory for an AI agent"

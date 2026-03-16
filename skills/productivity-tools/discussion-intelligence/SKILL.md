@@ -3,7 +3,7 @@ name: discussion-intelligence
 description: >-
   Extract insights and intelligence from meeting discussions. Identifies key
   decisions, action items, and patterns from meeting content.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

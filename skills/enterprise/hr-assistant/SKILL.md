@@ -7,7 +7,7 @@ description: >-
 category: domain
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create job description
   - interview questions
@@ -386,7 +386,6 @@ The HR Assistant excels at creating job descriptions, developing interview quest
 - Substance abuse policy
 - Email and internet usage
 - Social media policy
-- Confidentiality and intellectual property
 
 **4. Compensation & Benefits**
 - Pay periods and timekeeping
@@ -501,7 +500,6 @@ The HR Assistant excels at creating job descriptions, developing interview quest
 ### Employee Relations
 - **Listen first** - Understand before solving
 - **Stay neutral** - Don't take sides in conflicts
-- **Maintain confidentiality** - Only share on need-to-know basis
 - **Follow process** - Consistent procedures protect everyone
 - **Document concerns** - Create paper trail for serious issues
 
@@ -604,7 +602,6 @@ The HR Assistant excels at creating job descriptions, developing interview quest
 - [ ] State-specific leaves (pregnancy disability, family leave, etc.)
 
 **Record Keeping:**
-- Personnel files (confidential, locked)
 - I-9 forms (separate file, 3 years after hire or 1 year after termination)
 - Medical records (separate, ADA-compliant)
 - Payroll records (3-7 years depending on jurisdiction)

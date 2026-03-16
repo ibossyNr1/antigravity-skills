@@ -5,7 +5,7 @@ description: Create visually compelling proposals that win clients and close dea
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - design proposal
   - visual proposal

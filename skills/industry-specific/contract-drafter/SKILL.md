@@ -7,7 +7,7 @@ description: >-
 category: document-creation
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create contract
   - draft agreement
@@ -89,8 +89,6 @@ function generateContract(templatePath, contractData, outputPath) {
     nonCompetePeriod: contractData.nonCompetePeriod || '12 months',
     nonCompeteRadius: contractData.nonCompeteRadius || '50 miles',
 
-    includeConfidentiality: contractData.includeConfidentiality !== false,
-    confidentialityPeriod: contractData.confidentialityPeriod || '5 years',
 
     // Governing law
     governingState: contractData.governingState || 'Delaware',
@@ -128,9 +126,7 @@ function generateContract(templatePath, contractData, outputPath) {
 **Steps:**
 1. Identify NDA type (mutual or one-way)
 2. Collect party information
-3. Define confidential information scope
 4. Set disclosure term and duration
-5. Specify exclusions from confidentiality
 6. Add remedies and jurisdiction clauses
 7. Generate signature pages
 8. Create final NDA document
@@ -151,19 +147,15 @@ function generateNDA(ndaData, outputPath) {
 
     // NDA-specific terms
     effectiveDate: ndaData.effectiveDate || new Date().toISOString().split('T')[0],
-    confidentialityPeriod: ndaData.confidentialityPeriod || '3 years',
 
     // Purpose of disclosure
     purpose: ndaData.purpose || 'evaluation of a potential business relationship',
 
     // Scope definition
-    confidentialDefinition: ndaData.confidentialDefinition || `any non-public information disclosed by the Disclosing Party to the Receiving Party, whether orally, in writing, or in any other form`,
 
     // Exclusions
     exclusions: [
       'Information that is publicly available through no breach of this Agreement',
-      'Information rightfully received from a third party without breach of any confidentiality obligation',
-      'Information independently developed without use of Confidential Information',
       'Information required to be disclosed by law or court order'
     ],
 
@@ -193,7 +185,6 @@ const nda = generateNDA({
     email: 'contracts@widget.com'
   },
   purpose: 'evaluation of potential partnership for joint product development',
-  confidentialityPeriod: '5 years',
   governingState: 'California'
 }, './output/nda-acme-widget.docx');
 ```
@@ -247,9 +238,6 @@ function generateServiceAgreement(serviceData, outputPath) {
     liabilityLimit: serviceData.liabilityLimit || 'total amount paid under this Agreement',
     includeIndemnification: serviceData.includeIndemnification !== false,
 
-    // Confidentiality
-    includeConfidentiality: true,
-    confidentialityPeriod: '3 years',
 
     governingState: serviceData.governingState
   };
@@ -273,12 +261,8 @@ function generateServiceAgreement(serviceData, outputPath) {
 **Implementation:**
 ```javascript
 const clauseLibrary = {
-  confidentiality: {
-    standard: `The Receiving Party shall hold in strict confidence and not disclose to any third parties any Confidential Information disclosed by the Disclosing Party, except as approved in writing by the Disclosing Party.`,
 
-    withExceptions: `The Receiving Party shall hold in strict confidence and not disclose to any third parties any Confidential Information disclosed by the Disclosing Party, except: (a) to its employees, contractors, and advisors who have a legitimate need to know and are bound by confidentiality obligations; or (b) as required by law.`,
 
-    mutual: `Each Party agrees to hold the other Party's Confidential Information in strict confidence and to use such information solely for the purposes of {purpose}.`
   },
 
   termination: {
@@ -341,10 +325,7 @@ function reviewContract(contractPath, contractType) {
     nda: [
       { item: 'Party names and addresses', required: true },
       { item: 'Effective date', required: true },
-      { item: 'Definition of confidential information', required: true },
       { item: 'Obligations of receiving party', required: true },
-      { item: 'Exclusions from confidentiality', required: true },
-      { item: 'Term/duration of confidentiality', required: true },
       { item: 'Return of materials clause', required: false },
       { item: 'Governing law and jurisdiction', required: true },
       { item: 'Signature blocks', required: true }

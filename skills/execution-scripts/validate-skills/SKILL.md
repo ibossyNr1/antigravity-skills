@@ -2,8 +2,7 @@
 name: "validate-skills"
 description: "Validates skills by checking the directory structure and SKILL.md metadata against defined conventions. Use when developing or maintaining skills to ensure quality and consistency."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["skill validation","metadata","quality assurance","skill development","utility","internal"]
 triggers:
   - "when skill is created"

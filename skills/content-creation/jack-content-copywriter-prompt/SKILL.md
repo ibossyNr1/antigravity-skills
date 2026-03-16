@@ -1,8 +1,8 @@
 ---
-name: "jack-content-copywriter-prompt"
+name: "copywriter-prompt"
 description: "An expert copywriter prompt for generating copy inline with user instructions and business context, while adhering to a specific tone of voice."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["copywriting", "AI", "prompt engineering", "content generation"]
 triggers:
   - "When you need to generate copy that aligns with a specific tone of voice and business context."

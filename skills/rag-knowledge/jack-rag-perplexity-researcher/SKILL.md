@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-perplexity-researcher"
+name: "perplexity-researcher"
 description: "Instructs Perplexity AI to act as a researcher, analyze a text idea, and conduct thorough research on the topic, outputting key points, background, applications, challenges, and prospects."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["perplexity", "research", "ai researcher", "analysis"]
 triggers:
   - "When you need a detailed research report on a topic or idea."

@@ -6,12 +6,11 @@ description: >
   strategies, implement optimistic updates, and handle infinite scroll with
   useInfiniteQuery.
 
-
   Use when: setting up data fetching in React projects, migrating from v4 to v5,
   or fixing object syntax required errors, query callbacks removed issues,
   cacheTime renamed to gcTime, isPending vs isLoading confusion,
   keepPreviousData removed problems.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -3,7 +3,7 @@ name: build-discipline
 description: >-
   Build unbreakable discipline with habit stacking, streak tracking, and
   accountability
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - build discipline

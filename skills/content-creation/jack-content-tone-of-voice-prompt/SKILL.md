@@ -1,8 +1,8 @@
 ---
-name: "jack-content-tone-of-voice-prompt"
+name: "tone-of-voice-prompt"
 description: "Instruct an AI to write in a specific tone of voice, providing detailed micro, meso, and macro-level stylistic guidelines."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["tone of voice", "AI writing", "content creation", "style guide"]
 triggers:
   - "when you need to generate AI content in a specific style"

@@ -5,7 +5,7 @@ description: >
   when: uploading images, implementing direct creator uploads, creating
   variants, generating signed URLs, optimizing formats (WebP/AVIF), transforming
   via Workers, or debugging CORS, multipart, or error codes 9401-9413.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

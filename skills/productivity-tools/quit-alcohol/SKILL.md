@@ -3,7 +3,7 @@ name: quit-alcohol
 description: >-
   Track sobriety with alcohol-free streaks, craving management, and recovery
   milestones
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - quit drinking
@@ -68,7 +68,6 @@ Your personal sobriety companion. Track streaks, manage urges, celebrate wins.
 - **Plan your escape**: Before urges hit, pre-decide your response—call a friend, go for a walk, hit the gym.
 - **Celebrate small wins**: Each day sober is a win. Acknowledge it. Momentum compounds.
 - **Connect with others**: Share your journey with people who understand. Vulnerability builds resilience.
-- **All data stays local on your machine**: Your recovery is private. No cloud storage, no corporate tracking—complete confidentiality.
 
 ---
 

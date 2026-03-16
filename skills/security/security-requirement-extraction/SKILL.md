@@ -566,7 +566,6 @@ class SecurityUserStoryGenerator:
         },
         SecurityDomain.DATA_PROTECTION: {
             "as_a": "data owner",
-            "so_that": "my sensitive information remains confidential",
         },
         SecurityDomain.AUDIT_LOGGING: {
             "as_a": "security analyst",

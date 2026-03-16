@@ -5,7 +5,7 @@ description: >-
   editing novels, when changes at one level break things at others, when you
   need systematic change management for long-form fiction, or when revisions
   keep creating new problems.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

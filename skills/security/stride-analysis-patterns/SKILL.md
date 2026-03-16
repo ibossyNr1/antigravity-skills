@@ -31,7 +31,6 @@ Systematic threat identification using the STRIDE methodology.
 S - Spoofing       → Authentication threats
 T - Tampering      → Integrity threats
 R - Repudiation    → Non-repudiation threats
-I - Information    → Confidentiality threats
     Disclosure
 D - Denial of      → Availability threats
     Service

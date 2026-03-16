@@ -5,7 +5,7 @@ description: >-
   morals. Use when exploring tensions that can't be resolved, when you need
   narrative forms that bypass analytical defenses, or when creating teaching
   stories.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

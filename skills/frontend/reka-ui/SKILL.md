@@ -4,7 +4,7 @@ description: >-
   Use when building with Reka UI (headless Vue components) - provides component
   API, accessibility patterns, composition (asChild), controlled/uncontrolled
   state, virtualization, and styling integration. Formerly Radix Vue.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: >-
   philosophy. You should use this skill when the user asks to create a poster,
   piece of art, design, or other static piece. Create original visual designs,
   never copying existing artists' work to avoid copyright violations.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

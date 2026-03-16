@@ -2,8 +2,7 @@
 name: "gmaps-lead-pipeline"
 description: "Scrapes Google Maps for leads, enriches them with website data, and saves the leads in a Google Sheet."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["lead generation","web scraping","google maps","data enrichment"]
 triggers:
   - "when I need to generate leads from Google Maps"

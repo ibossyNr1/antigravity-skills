@@ -5,7 +5,7 @@ description: 'Generate quick, effective responses for chat and messaging platfor
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - generate chat response
   - write chat reply

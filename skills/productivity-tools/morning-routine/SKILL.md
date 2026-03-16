@@ -3,7 +3,7 @@ name: morning-routine
 description: >-
   Build a powerful morning routine with habit checklists, timing, and streak
   tracking
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - morning routine

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-explainer-factory"
+name: "explainer-factory"
 description: "Procedure to turn complex topics into simple content using AI to generate explainer documents, videos and flashcards."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["explainer", "content creation", "simplification", "AI"]
 triggers:
   - "when explaining complex topics"

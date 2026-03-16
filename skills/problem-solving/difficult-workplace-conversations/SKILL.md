@@ -152,7 +152,6 @@ Escalate when:
 - Choose private, neutral setting
 - Allow time for processing
 - Be direct but compassionate
-- Respect confidentiality
 
 ### Receiving Feedback
 

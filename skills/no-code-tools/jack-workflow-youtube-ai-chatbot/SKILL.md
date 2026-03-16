@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-youtube-ai-chatbot
+name: "youtube-ai-chatbot"
 description: >-
   Create a Make.com workflow to build a YouTube AI chatbot that uses OpenAI to
   respond to user messages based on video transcripts.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - youtube
   - ai

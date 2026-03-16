@@ -2,7 +2,7 @@
 name: favor
 description: Enables Claude to browse restaurants and track deliveries on Favor (Texas)
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

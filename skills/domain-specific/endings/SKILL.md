@@ -4,7 +4,7 @@ description: >-
   Diagnose weak endings, rushed resolutions, and arbitrary conclusions. Use when
   stories build well but end disappointingly, when climax feels unearned, or
   when resolution doesn't complete character arcs.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

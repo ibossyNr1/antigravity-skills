@@ -6,8 +6,7 @@ description: >-
   need 10-100x faster inference than PyTorch, or for serving models with
   quantization (FP8/INT4), in-flight batching, and multi-GPU scaling.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Inference Serving
   - TensorRT-LLM
@@ -201,5 +200,4 @@ outputs = llm.generate(
 - **Docs**: https://nvidia.github.io/TensorRT-LLM/
 - **GitHub**: https://github.com/NVIDIA/TensorRT-LLM
 - **Models**: https://huggingface.co/models?library=tensorrt_llm
-
 

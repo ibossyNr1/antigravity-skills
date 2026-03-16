@@ -1,8 +1,8 @@
 ---
-name: "jack-workflow-ai-personalization"
+name: "ai-personalization"
 description: "Personalize emails based on multiple factors (A, B, C, D, E) extracted from a webhook using OpenAI and update a Supabase database."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "openai", "supabase", "gmail", "personalization", "email"]
 triggers:
   - "when you need to personalize email content based on webhook data"

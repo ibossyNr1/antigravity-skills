@@ -47,7 +47,6 @@ uv run {baseDir}/scripts/create_pptx.py --json slides.json --output deck.pptx
 ```markdown
 # Presentation Title
 subtitle: Annual Review 2026
-author: Your Name
 
 ## Introduction
 - Welcome and agenda

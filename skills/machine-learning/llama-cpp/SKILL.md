@@ -6,8 +6,7 @@ description: >-
   is unavailable. Supports GGUF quantization (1.5-8 bit) for reduced memory and
   4-10× speedup vs PyTorch on CPU.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Inference Serving
   - Llama.cpp
@@ -271,5 +270,4 @@ cat prompts.txt | ./llama-cli \
 - **GitHub**: https://github.com/ggerganov/llama.cpp
 - **Models**: https://huggingface.co/models?library=gguf
 - **Discord**: https://discord.gg/llama-cpp
-
 

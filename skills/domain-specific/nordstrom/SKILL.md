@@ -2,7 +2,7 @@
 name: nordstrom
 description: 'Enables Claude to browse Nordstrom products, manage lists, and track orders'
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

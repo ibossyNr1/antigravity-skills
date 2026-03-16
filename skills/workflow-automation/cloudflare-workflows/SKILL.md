@@ -7,7 +7,6 @@ description: >
   multi-step orchestration. Supports step.do, step.sleep, step.waitForEvent, and
   runs for hours to days.
 
-
   Use when: creating long-running workflows, implementing retry logic, building
   event-driven processes,
 
@@ -15,7 +14,6 @@ description: >
   NonRetryableError, I/O context,
 
   serialization errors, or workflow execution failures.
-
 
   Keywords: cloudflare workflows, workflows workers, durable execution, workflow
   step,
@@ -26,7 +24,7 @@ description: >
   step.sleepUntil,
 
   step.waitForEvent, workflow bindings
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

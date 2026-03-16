@@ -1,8 +1,8 @@
 ---
-name: "jack-content-email-tone-prompt"
+name: "email-tone-prompt"
 description: "Instructs an LLM to create an HTML email response that matches the tone of voice from an incoming email."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["prompt", "email", "tone of voice", "html"]
 triggers:
   - "When generating an automated email response using an LLM"

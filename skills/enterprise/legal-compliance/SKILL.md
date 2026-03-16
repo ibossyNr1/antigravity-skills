@@ -167,7 +167,6 @@ ESSENTIAL TERMS:
 - [ ] Limitation of liability
 - [ ] Indemnification
 - [ ] Insurance requirements
-- [ ] Confidentiality
 - [ ] IP ownership/license
 - [ ] Governing law
 - [ ] Dispute resolution
@@ -184,7 +183,6 @@ ESSENTIAL TERMS:
 | **Limitation of Liability** | Cap damages exposure      | Direct vs. consequential, cap amount     |
 | **Indemnification**         | Allocate third-party risk | Scope, procedure, caps                   |
 | **IP Ownership**            | Define ownership          | Work product, background IP, licenses    |
-| **Confidentiality**         | Protect information       | Definition, term, exceptions             |
 | **Termination**             | Exit rights               | For cause vs. convenience, notice period |
 | **Warranties**              | Quality assurance         | Scope, disclaimers, remedies             |
 
@@ -218,7 +216,6 @@ TRADEMARK STRATEGY:
 - Domain name portfolio
 - Social media handles
 
-TRADE SECRET PROGRAM:
 - Identification and classification
 - Protection measures (physical, technical, contractual)
 - Need-to-know access
@@ -232,7 +229,6 @@ TRADE SECRET PROGRAM:
 | **Patents**       | Ownership, encumbrances, validity, infringement claims |
 | **Trademarks**    | Registrations, common law rights, oppositions          |
 | **Copyrights**    | Work for hire, assignments, licenses                   |
-| **Trade Secrets** | Protection measures, potential misappropriation        |
 | **Licenses**      | Inbound/outbound, change of control provisions         |
 | **Litigation**    | Pending/threatened, settlements                        |
 
@@ -375,7 +371,6 @@ RISK RESPONSE:
 SEC WHISTLEBLOWER PROGRAM:
 - 10-30% of sanctions > $1M
 - Anti-retaliation protections
-- Confidentiality protections
 
 DODD-FRANK PROTECTIONS:
 - Broad retaliation prohibition
@@ -410,7 +405,6 @@ INTERNAL REPORTING:
 | ---------------- | --------------------------------- | ------------------------- |
 | **Public**       | Approved for public release       | Standard controls         |
 | **Internal**     | General business information      | Access controls           |
-| **Confidential** | Sensitive business data           | Encryption, access limits |
 | **Restricted**   | Highly sensitive (PII, PHI, etc.) | Strict controls, audit    |
 
 ## See Also

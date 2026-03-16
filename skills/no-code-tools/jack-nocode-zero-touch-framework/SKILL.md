@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-zero-touch-framework"
+name: "zero-touch-framework"
 description: "A framework to identify and eliminate manual data entry tasks by mapping, analyzing, implementing automated solutions, and monitoring impact."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "data entry", "workflow", "efficiency"]
 triggers:
   - "when manual data entry is identified"

@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-security-script"
+name: "security-script"
 description: "Bash script to harden a VPS by updating packages, installing a firewall, and disabling password authentication for SSH."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["security", "vps", "hardening", "bash", "firewall", "ssh"]
 triggers:
   - "securing VPS"

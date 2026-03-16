@@ -1,11 +1,10 @@
 ---
-name: jack-sales-openai-voice-script-generation
+name: "openai-voice-script-generation"
 description: >-
   Generate a script for a personalized voice note using OpenAI, to be used in
   sales outreach. Use when you want a tailored voice message.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - openai
   - voice notes

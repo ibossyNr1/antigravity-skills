@@ -6,7 +6,7 @@ description: >-
   content, or automate Excel workflows. Supports both template-based generation
   (for branding compliance) and from-scratch creation. Keywords: Excel, XLSX,
   spreadsheet, workbook, worksheet, data, report, template, financial, analysis.
-license: MIT
+
 compatibility: 'Requires Deno with --allow-read, --allow-write permissions'
 metadata:
   author: agent-skills

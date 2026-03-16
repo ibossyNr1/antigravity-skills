@@ -3,9 +3,9 @@ name: your-skill-name
 description: >-
   Brief description of what this skill does (1-2 sentences). Use when [specific
   trigger condition]. Keep under 200 words total.
-author: Your Name <your.email@example.com>
+
 version: 1.0.0
-license: MIT
+
 tags:
   - category1
   - category2

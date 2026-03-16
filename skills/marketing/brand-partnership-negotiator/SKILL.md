@@ -5,7 +5,7 @@ description: Negotiate and structure brand partnerships and co-marketing deals
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - brand partnerships
   - negotiate partnership

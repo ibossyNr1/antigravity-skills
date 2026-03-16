@@ -7,7 +7,6 @@ description: >
   (RETRIEVAL_QUERY, RETRIEVAL_DOCUMENT, SEMANTIC_SIMILARITY) for optimized
   retrieval.
 
-
   Use when: implementing vector search with Google embeddings, building
   retrieval-augmented generation systems, creating semantic search features,
   clustering documents by meaning, integrating embeddings with Cloudflare
@@ -15,7 +14,7 @@ description: >
   mismatch errors, incorrect task type selections, rate limit issues (100 RPM
   free tier), vector normalization mistakes, or text truncation errors (2,048
   token limit).
-license: MIT
+
 metadata:
   version: 1.0.0
   last_updated: 2025-10-25T00:00:00.000Z

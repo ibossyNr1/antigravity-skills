@@ -5,10 +5,9 @@ description: >
   descriptions, Open Graph, Twitter Cards, and JSON-LD structured data
   (LocalBusiness, Service, FAQ, BreadcrumbList).
 
-
   Use when: building pages, adding social sharing, implementing structured data,
   optimizing for search engines.
-license: MIT
+
 metadata:
   keywords:
     - seo

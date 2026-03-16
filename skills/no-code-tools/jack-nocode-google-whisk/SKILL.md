@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-google-whisk"
+name: "google-whisk"
 description: "Use Google Whisk to automate tasks and workflows without code."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "nocode", "google", "whisk"]
 triggers:
   - "When needing to automate repetitive tasks without coding"

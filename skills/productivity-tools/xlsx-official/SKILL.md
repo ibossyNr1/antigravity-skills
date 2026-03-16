@@ -7,7 +7,7 @@ description: >-
   spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3)
   Modify existing spreadsheets while preserving formulas, (4) Data analysis and
   visualization in spreadsheets, or (5) Recalculating formulas
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

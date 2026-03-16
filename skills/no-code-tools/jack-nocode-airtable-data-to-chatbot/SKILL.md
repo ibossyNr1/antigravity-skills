@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-airtable-data-to-chatbot"
+name: "airtable-data-to-chatbot"
 description: "Pulls data from Airtable and feeds it into a chatbot conversation via a Make.com webhook."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["airtable", "chatbot", "data integration", "make.com"]
 triggers:
   - "when a user interacts with a chatbot interface"

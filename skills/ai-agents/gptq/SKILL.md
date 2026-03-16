@@ -6,8 +6,7 @@ description: >-
   reduction with <2% perplexity degradation, or for faster inference (3-4×
   speedup) vs FP16. Integrates with transformers and PEFT for QLoRA fine-tuning.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Optimization
   - GPTQ
@@ -465,5 +464,4 @@ model = AutoGPTQForCausalLM.from_quantized(
 - **Paper**: GPTQ: Accurate Post-Training Quantization (arXiv:2210.17323)
 - **Models**: https://huggingface.co/models?library=gptq
 - **Discord**: https://discord.gg/autogptq
-
 

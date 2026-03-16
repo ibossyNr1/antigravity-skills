@@ -7,8 +7,7 @@ description: >-
   multi-adapter serving. HuggingFace's official library integrated with
   transformers ecosystem.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Fine-Tuning
   - PEFT

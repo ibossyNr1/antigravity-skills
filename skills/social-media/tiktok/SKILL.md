@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage TikTok content, engagement, and analytics through
   browser automation
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -800,7 +800,6 @@ TIER 2 (STRONGLY RECOMMENDED):
 
 □ Custom Research ($20K-40K/year)
   → WHY: Primary research, commissioned reports
-  → ROI: Proprietary insights, thought leadership
 
 TIER 3 (CONSIDER):
 □ Forrester ($30K/year)
@@ -1515,7 +1514,6 @@ RESEARCH SOURCES (Fintech-Safe):
 WHAT YOU CANNOT DO:
 ❌ Scrape competitor pricing from private dashboards
 ❌ Pose as customer to get pricing (fraud)
-❌ Use competitor's confidential data
 
 PRICING BENCHMARKS (India Expense Management):
 - Happay: ₹150-300/employee/month (from reviews)

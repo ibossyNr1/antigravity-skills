@@ -1,7 +1,7 @@
 ---
 name: concept-forge
 description: Score concepts on impact/delight/effort and pick a 1-day spike.
-license: MIT
+
 command: '/ctx:concept-forge'
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'

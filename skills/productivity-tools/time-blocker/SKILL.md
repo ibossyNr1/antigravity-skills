@@ -5,7 +5,7 @@ description: Block time for focused work using calendar-based time management st
 category: personal
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - block my time
   - create time blocks

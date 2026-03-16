@@ -1,11 +1,10 @@
 ---
-name: jack-voice-telegram-transcribe
+name: "telegram-transcribe"
 description: >-
   Transcribes Telegram voice messages using OpenAI's audio transcription
   service.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - telegram
   - voice

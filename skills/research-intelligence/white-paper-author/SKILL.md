@@ -7,7 +7,7 @@ description: >-
 category: writing
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write white paper
   - create white paper
@@ -98,7 +98,6 @@ Ideal for B2B marketers, consultancies, technology companies, research organizat
 - **Visual hierarchy** - Use headings, subheadings, pull quotes, sidebars
 - **Data visualization** - Complex information needs charts and graphs
 - **Accessible language** - Sophisticated doesn't mean jargon-heavy
-- **Original research** - Proprietary data sets you apart from competitors
 - **Strategic gating** - Require email for download to generate leads
 - **Professional design** - Invest in layout, typography, branded templates
 - **Comprehensive but focused** - Deep on one topic, not surface-level on many

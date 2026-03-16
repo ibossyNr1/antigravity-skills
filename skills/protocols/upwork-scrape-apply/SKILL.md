@@ -2,8 +2,7 @@
 name: "upwork-job-apply"
 description: "Scrapes Upwork, generates proposals and cover letters, and creates a Google Sheet with apply links.  Use when targeting freelance gigs."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["upwork","automation","proposal generation","lead generation","freelance"]
 triggers:
   - "when I need to quickly apply to Upwork jobs"

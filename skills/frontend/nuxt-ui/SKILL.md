@@ -5,7 +5,7 @@ description: >-
   Table, etc.) - provides ready-to-use components with Tailwind Variants
   theming. Use vue skill for raw component patterns, reka-ui for headless
   primitives.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

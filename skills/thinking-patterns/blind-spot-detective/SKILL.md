@@ -4,7 +4,7 @@ description: >-
   Systematically identify what's missing in non-fiction writing—both blind spots
   (inherent limitations) and blank spots (gaps that could be addressed). Use
   before finalizing non-fiction or when feedback feels incomplete.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

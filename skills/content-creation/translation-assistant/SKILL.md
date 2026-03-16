@@ -5,7 +5,7 @@ description: Handle multilingual translation tasks with quality and cultural sen
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - translate text
   - translation

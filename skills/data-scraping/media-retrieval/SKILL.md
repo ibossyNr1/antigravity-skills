@@ -3,7 +3,7 @@ name: media-retrieval
 description: >-
   Download and retrieve video content from sources. Extracts media files with
   proper format handling and metadata preservation.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

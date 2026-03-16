@@ -5,7 +5,7 @@ description: >-
   Control Apple TV via pyatv. Use for play/pause, navigation, volume, launching
   apps, power control, and checking what's playing. Triggers on "Apple TV",
   "TV", "what's playing", "pause TV", "play TV", "turn off TV".
-license: MIT
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

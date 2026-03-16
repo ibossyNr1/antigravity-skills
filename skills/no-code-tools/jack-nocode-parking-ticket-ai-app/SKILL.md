@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-parking-ticket-ai-app"
+name: "parking-ticket-ai-app"
 description: "HTML template for a parking ticket portal with audio recording, photo upload, and data submission functionality."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["html", "javascript", "audio recording", "photo upload", "form submission", "parking ticket app"]
 triggers:
   - "building a web app with audio recording"

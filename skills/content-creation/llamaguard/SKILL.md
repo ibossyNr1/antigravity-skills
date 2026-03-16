@@ -6,8 +6,7 @@ description: >-
   self-harm, criminal planning. 94-95% accuracy. Deploy with vLLM, HuggingFace,
   Sagemaker. Integrates with NeMo Guardrails.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Safety Alignment
   - LlamaGuard
@@ -349,6 +348,4 @@ model = AutoModelForCausalLM.from_pretrained(
 - Paper: https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/
 - Integration: vLLM, Sagemaker, NeMo Guardrails
 - Accuracy: 94.5% (prompts), 95.3% (responses)
-
-
 

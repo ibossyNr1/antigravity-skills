@@ -5,7 +5,7 @@ description: >-
   principles, structured data, and technical SEO. Use when implementing
   metadata, sitemaps, structured data, or optimizing content for search engines
   and AI assistants.
-license: MIT
+
 metadata:
   author: sanity
   version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 name: content-operations
 description: Manage content templates, calendar, and automated reports. Includes template library with CRUD operations, content calendar management, visual calendar generation, and weekly report automation. Use for content planning, scheduling, template management, or generating progress reports.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

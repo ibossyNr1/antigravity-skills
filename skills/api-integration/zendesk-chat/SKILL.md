@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Zendesk Chat conversations, support tickets, and
   customer service operations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

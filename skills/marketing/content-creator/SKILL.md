@@ -7,7 +7,7 @@ description: >-
   analyzing brand voice, optimizing SEO, planning content calendars, or when
   user mentions content creation, brand voice, SEO optimization, social media
   marketing, or content strategy.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: Alireza Rezvani

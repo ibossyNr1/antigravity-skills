@@ -5,7 +5,7 @@ description: Transform data and analytics into compelling narratives and present
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - data storytelling
   - data narrative

@@ -2,7 +2,7 @@
 name: reddit-chat
 description: Enables Claude to send Reddit direct messages and manage chat conversations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

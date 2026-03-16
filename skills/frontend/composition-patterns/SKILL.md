@@ -5,7 +5,7 @@ description: >-
   boolean prop proliferation, building flexible component libraries, or
   designing reusable APIs. Triggers on tasks involving compound components,
   render props, context providers, or component architecture.
-license: MIT
+
 metadata:
   author: vercel
   version: 1.0.0

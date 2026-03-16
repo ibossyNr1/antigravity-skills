@@ -4,7 +4,7 @@ description: >-
   Analyze and extract design patterns from visual examples. Deconstructs design
   systems, color palettes, typography, and layout principles from reference
   materials.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

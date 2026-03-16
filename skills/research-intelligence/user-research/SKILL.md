@@ -7,7 +7,7 @@ description: >-
 category: research
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - user research
   - user interview
@@ -53,7 +53,6 @@ This skill applies rigorous UX research methodologies to understand user needs, 
    - **Introduction:** (5 min)
      - Build rapport
      - Explain purpose and consent
-     - Set expectations (duration, recording, confidentiality)
 
    - **Warm-up Questions:** (5-10 min)
      - General background

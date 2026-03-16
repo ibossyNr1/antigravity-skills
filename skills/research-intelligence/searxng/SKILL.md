@@ -3,7 +3,7 @@ name: searxng
 description: >-
   Privacy-respecting metasearch using your local SearXNG instance. Search the
   web, images, news, and more without external API dependencies.
-author: Avinash Venkatswamy
+
 version: 1.0.1
 homepage: 'https://searxng.org'
 triggers:

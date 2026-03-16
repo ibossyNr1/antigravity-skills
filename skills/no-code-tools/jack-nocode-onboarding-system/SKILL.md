@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-onboarding-system"
+name: "onboarding-system"
 description: "Use GoHighLevel, Claude, Google AI Studio, Supabase, and Vercel to build a complete automated onboarding system."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["nocode", "automation", "onboarding"]
 triggers:
   - "when building an automated customer onboarding system"

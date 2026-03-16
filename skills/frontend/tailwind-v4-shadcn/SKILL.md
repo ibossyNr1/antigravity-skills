@@ -5,11 +5,10 @@ description: >
   architecture. Four-step mandatory pattern: define CSS variables at root, map
   to Tailwind utilities, apply base styles, get automatic dark mode.
 
-
   Use when: initializing React projects with Tailwind v4, setting up shadcn/ui
   dark mode, or fixing colors not working, theme not applying, CSS variables
   broken, tw-animate-css errors, or migrating from v3.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

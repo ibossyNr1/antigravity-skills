@@ -1,8 +1,8 @@
 ---
-name: "jack-design-convert-video-to-webp"
+name: "convert-video-to-webp"
 description: "Convert video files to WebP format for optimized web performance using EZgif.com."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["video", "webp", "optimization", "ezgif"]
 triggers:
   - "When needing to optimize video for web"

@@ -7,7 +7,7 @@ description: >-
   email that works, marketing automation that converts, deliverability that
   reaches inboxes, and the infrastructure decisions that scale. Use when:
   keywords, file_patterns, code_patterns.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

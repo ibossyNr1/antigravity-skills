@@ -1,8 +1,8 @@
 ---
-name: "jack-content-expert-panel-json-structure"
+name: "expert-panel-json-structure"
 description: "Defines the JSON structure for creating an AI expert panel, specifying roles and areas of expertise."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["AI", "expert panel", "JSON", "data structure"]
 triggers:
   - "When designing an AI system that uses multiple experts"

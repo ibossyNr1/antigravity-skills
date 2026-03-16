@@ -5,9 +5,9 @@ description: >-
   skills for consistency, completeness, accuracy, and adherence to standards.
   Provides structured rubrics, scoring frameworks, and actionable
   recommendations.
-author: cortex team
+
 version: 1.0.0
-license: MIT
+
 tags:
   - meta
   - quality

@@ -2,7 +2,7 @@
 name: caviar
 description: Enables Claude to browse restaurants and track orders on Caviar (DoorDash)
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

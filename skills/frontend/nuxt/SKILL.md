@@ -5,7 +5,7 @@ description: >-
   routing, middleware patterns, Nuxt-specific composables, and configuration
   with latest docs. Covers h3 v1 helpers (validation, WebSocket, SSE) and
   nitropack v2 patterns.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

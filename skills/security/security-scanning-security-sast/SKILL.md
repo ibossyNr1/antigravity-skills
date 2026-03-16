@@ -45,7 +45,6 @@ Use for code review security analysis, injection vulnerabilities, hardcoded secr
 
 ## Safety
 
-- Avoid uploading proprietary code to external services without approval.
 - Require review before enabling auto-fix or blocking releases.
 
 ## SAST Tool Selection

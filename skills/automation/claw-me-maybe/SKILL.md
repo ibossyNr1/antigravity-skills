@@ -7,7 +7,7 @@ description: >-
   Facebook Messenger, Google Messages via Beeper Desktop API. Reactions,
   reminders, attachments, mark as read. Unified multi-platform messaging
   automation—just ask.
-author: nickhamze
+
 keywords: >-
   Beeper, messaging, WhatsApp, Telegram, Signal, Discord, Slack, Instagram,
   iMessage, LinkedIn, Facebook Messenger, Google Messages, Google Chat, chat

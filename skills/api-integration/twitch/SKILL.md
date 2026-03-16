@@ -2,7 +2,7 @@
 name: twitch
 description: 'Enables Claude to manage Twitch streams, clips, and community engagement'
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

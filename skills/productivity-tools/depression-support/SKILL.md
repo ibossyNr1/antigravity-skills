@@ -3,7 +3,7 @@ name: depression-support
 description: >-
   Daily support for depression with mood tracking, behavioral activation, and
   self-care
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - feeling depressed
@@ -93,4 +93,3 @@ This skill is not a substitute for professional help.
 - **988** (Suicide & Crisis Lifeline)
 - **Text HOME to 741741** (Crisis Text Line)
 
-If you're having thoughts of harming yourself, reach out now. These services are free, confidential, and available 24/7.

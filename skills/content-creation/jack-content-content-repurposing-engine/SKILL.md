@@ -1,8 +1,8 @@
 ---
-name: "jack-content-content-repurposing-engine"
+name: "content-repurposing-engine"
 description: "Repurposes content by creating multiple outputs from one research piece, including blogs, videos, podcasts, and infographics."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["content repurposing", "content creation", "AI", "automation"]
 triggers:
   - "when you want to maximize content output"

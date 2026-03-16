@@ -5,7 +5,7 @@ description: 'Manage investor communications, pitch materials, and fundraising p
 category: business
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - investor update
   - pitch deck

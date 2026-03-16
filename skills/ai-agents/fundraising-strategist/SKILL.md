@@ -5,7 +5,7 @@ description: 'Plan fundraising rounds, target investors, and develop raise strat
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - fundraising strategy
   - plan raise

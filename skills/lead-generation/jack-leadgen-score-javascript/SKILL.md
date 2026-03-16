@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-score-javascript"
+name: "score-javascript"
 description: "Scores leads based on company size and turnover, assigning a tier (Hot, Warm, Cold, Dead) and action based on score."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead scoring", "javascript", "sales automation"]
 triggers:
   - "when a lead submits a form with company size and turnover information"

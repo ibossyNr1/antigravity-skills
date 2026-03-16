@@ -4,7 +4,7 @@ description: >-
   Plan and document family history research systematically. Structures
   genealogical research with proper citations, evidence analysis, and organized
   family records.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -299,7 +299,6 @@ Output templates are available in `assets/templates/`:
 - `citation-template.md` - Citation library entry
 - `evidence-analysis-template.md` - Evidence analysis report
 - `research-log-template.md` - Research session documentation
-
 
 ## Best Practices
 

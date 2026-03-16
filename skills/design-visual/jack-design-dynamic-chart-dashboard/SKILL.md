@@ -1,8 +1,8 @@
 ---
-name: "jack-design-dynamic-chart-dashboard"
+name: "dynamic-chart-dashboard"
 description: "Generates a dynamic subscription dashboard with interactive charts using HTML, CSS, and JavaScript, fetching data from a Make.com webhook."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["dashboard", "data visualization", "chart.js", "html", "css", "javascript"]
 triggers:
   - "when you need a visual representation of subscription data"

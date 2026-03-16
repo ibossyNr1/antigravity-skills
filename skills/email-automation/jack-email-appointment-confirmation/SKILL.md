@@ -1,8 +1,8 @@
 ---
-name: "jack-email-appointment-confirmation"
+name: "appointment-confirmation"
 description: "Sends an email to confirm a customer's appointment, including date, time, and contact info."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "appointment", "confirmation", "html"]
 triggers:
   - "upon booking an appointment"

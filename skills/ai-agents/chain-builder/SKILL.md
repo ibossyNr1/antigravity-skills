@@ -5,7 +5,7 @@ description: Build and execute multi-step prompt chains for complex tasks
 category: meta
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - build a chain
   - create prompt chain

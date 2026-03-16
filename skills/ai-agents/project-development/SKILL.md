@@ -47,7 +47,6 @@ Not every problem benefits from LLM processing. The first step in any project is
 | Precise computation | Math, counting, and exact algorithms are unreliable |
 | Real-time requirements | LLM latency is too high for sub-second responses |
 | Perfect accuracy requirements | Hallucination risk makes 100% accuracy impossible |
-| Proprietary data dependence | The model lacks necessary context |
 | Sequential dependencies | Each step depends heavily on the previous result |
 | Deterministic output requirements | Same input must produce identical output |
 

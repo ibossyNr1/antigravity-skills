@@ -13,7 +13,7 @@ metadata:
     cron: 0 */2 * * *
 authors:
   - Simmer (@simmer_markets)
-attribution: Strategy inspired by gopfan2
+
 version: 1.1.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

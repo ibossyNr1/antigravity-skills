@@ -2,7 +2,7 @@
 name: producthunt
 description: 'Enables Claude to manage Product Hunt launches, upvotes, and product discovery'
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

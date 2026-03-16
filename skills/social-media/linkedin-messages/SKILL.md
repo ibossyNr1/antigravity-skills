@@ -4,7 +4,7 @@ description: >-
   Enables Claude to send LinkedIn messages, manage InMail, and handle
   professional networking communications
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

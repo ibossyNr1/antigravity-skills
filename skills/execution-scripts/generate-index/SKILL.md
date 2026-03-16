@@ -2,8 +2,7 @@
 name: "generate-skills-index"
 description: "Generates a JSON index of skills by parsing SKILL.md files in a directory. Useful for skill discovery and documentation."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["skill-management","index-generation","documentation","automation","utility","internal"]
 triggers:
   - "when skills directory changes"

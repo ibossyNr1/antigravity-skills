@@ -134,7 +134,6 @@ The difference between experts and novices isn't "knowing how to operate" — it
 | 12-15 | Expert-level: shapes thinking AND provides procedures Claude wouldn't know |
 
 **What counts as valuable procedures**:
-- Workflows Claude hasn't been trained on (new tools, proprietary systems)
 - Correct ordering that's non-obvious (e.g., "validate BEFORE packing, not after")
 - Critical steps that are easy to miss (e.g., "MUST recalculate formulas after editing")
 - Domain-specific sequences (e.g., MCP server's 4-phase development process)

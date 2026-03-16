@@ -1,8 +1,8 @@
 ---
-name: "jack-content-ai-agent-prompt"
+name: "ai-agent-prompt"
 description: "Provides a structured template for prompting AI agents, covering role, context, task, collaboration, and output format, enabling better AI agent performance."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["AI", "prompting", "automation", "agent"]
 triggers:
   - "when building an AI agent"

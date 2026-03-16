@@ -1,11 +1,10 @@
 ---
-name: jack-research-due-diligence-system
+name: "due-diligence-system"
 description: >-
   Procedure for evaluating investments or partnerships using AI to analyze
   financials and identify risks.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - due diligence
   - investment

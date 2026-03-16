@@ -8,8 +8,7 @@ description: >-
   TIES-Merging, DARE, Task Arithmetic, linear merging, and production deployment
   strategies.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Emerging Techniques
   - Model Merging
@@ -556,5 +555,4 @@ mergekit-yaml config.yml ./merged-model
 - `references/methods.md` - Deep dive into merge algorithms
 - `references/examples.md` - Real-world merge configurations
 - `references/evaluation.md` - Benchmarking and testing strategies
-
 

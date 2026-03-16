@@ -6,12 +6,11 @@ description: >
   examples accuracy, cross-file consistency, and version drift detection.
   Auto-fixes unambiguous issues with severity classification.
 
-
   Use when: investigating skill issues, major package updates detected (e.g.,
   v1.x → v2.x), skill not verified >90 days, before marketplace submission, or
   troubleshooting outdated API patterns, contradictory examples, broken links,
   version drift.
-license: MIT
+
 metadata:
   version: 1.0.0
   last_verified: 2025-11-08T00:00:00.000Z

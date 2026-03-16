@@ -3,7 +3,7 @@ name: private-connect
 description: 'Access private services by name, from anywhere. No VPN or SSH tunnels.'
 homepage: 'https://privateconnect.co'
 repository: 'https://github.com/treadiehq/private-connect'
-author: Treadie
+
 gating:
   binary: connect
 version: 1.0.0

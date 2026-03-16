@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Intercom customer conversations, help desk tickets,
   and team inbox operations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

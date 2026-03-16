@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage DEV.to articles, comments, and developer community
   engagement
 version: 1.0.0
-author: Canifi
+
 category: productivity
 compatibility: 'agent-zero, claude-code, cursor'
 ---

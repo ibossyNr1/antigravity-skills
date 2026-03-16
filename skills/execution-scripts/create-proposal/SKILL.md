@@ -2,8 +2,7 @@
 name: "pandadoc-proposal-creator"
 description: "Creates a PandaDoc proposal document from a JSON input, populating it with client and project-specific details."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["pandadoc","proposal","document generation","automation","api"]
 triggers:
   - "when a proposal document needs to be created in PandaDoc"

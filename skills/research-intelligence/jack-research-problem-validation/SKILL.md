@@ -1,11 +1,10 @@
 ---
-name: jack-research-problem-validation
+name: "problem-validation"
 description: >-
   Use GummySearch to monitor Reddit communities for keywords like "I hate it
   when..." or "Is there an alternative to..." to identify user pain points.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - reddit
   - validation

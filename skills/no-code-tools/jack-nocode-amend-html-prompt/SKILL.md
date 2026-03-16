@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-amend-html-prompt"
+name: "amend-html-prompt"
 description: "Instructs to rewrite HTML with webhook integration and refined chat display for responses from multiple experts."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["HTML", "Webhooks", "chat interface"]
 triggers:
   - "When integrating webhooks into existing HTML code"

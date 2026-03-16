@@ -5,7 +5,7 @@ description: Create platform-optimized social media graphics
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - social media design
   - social graphics

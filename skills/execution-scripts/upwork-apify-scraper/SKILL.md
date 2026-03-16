@@ -2,8 +2,7 @@
 name: "upwork-job-scraper"
 description: "Scrapes Upwork job listings using Apify and filters by budget, experience, and keywords. Useful for finding freelance opportunities based on specific criteria."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["upwork","scraper","freelance","apify","jobs"]
 triggers:
   - "when I need to find Upwork jobs"

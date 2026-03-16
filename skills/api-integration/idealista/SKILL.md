@@ -1,7 +1,7 @@
 ---
 name: idealista
 description: Query Idealista API via idealista-cli (OAuth2 client credentials).
-license: MIT
+
 homepage: 'https://github.com/quifago/idealista-cli'
 metadata:
   clawdbot:

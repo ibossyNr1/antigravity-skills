@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-security-reminder-clawdbot"
+name: "security-reminder-clawdbot"
 description: "Lists security reminders for ClawdBot setup: never expose port 18789, secure SSH key, use token in URLs, monthly security audit, enable 2FA."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["security", "clawdbot", "vps", "ssh", "best practices"]
 triggers:
   - "securing clawdbot"

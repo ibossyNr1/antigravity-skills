@@ -1,8 +1,8 @@
 ---
-name: "jack-social-linkedin-content-generator"
+name: "linkedin-content-generator"
 description: "Generate LinkedIn posts in your tone of voice by providing the topic, tone, and target audience."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["linkedin", "content creation", "social media automation", "n8n", "bolt"]
 triggers:
   - "Need to generate LinkedIn posts quickly"

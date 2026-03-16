@@ -7,7 +7,7 @@ description: >-
 category: project
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - run retrospective
   - facilitate retro
@@ -391,7 +391,6 @@ Success Criteria: Team reports 4+ hour uninterrupted work blocks on Thursdays
 ## Psychological Safety Checklist
 
 Before and during retro, ensure:
-- [ ] Team knows feedback is confidential
 - [ ] All voices are heard equally
 - [ ] Disagreement is welcome and safe
 - [ ] Blame and judgment are absent

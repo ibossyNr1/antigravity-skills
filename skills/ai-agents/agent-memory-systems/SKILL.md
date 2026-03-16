@@ -8,7 +8,7 @@ description: >-
   it's retrieval. A million stored facts mean nothing if you can't find the
   right one. Chunking, embedding, and retrieval strategies determine whether
   your agent remembers or forgets.  The field is fragm
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-html-to-text"
+name: "html-to-text"
 description: "Extract plain text from HTML content using Make.com's Text Parser module."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["html", "text parsing", "make.com"]
 triggers:
   - "When you need to convert HTML content into readable plain text for further processing."

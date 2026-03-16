@@ -5,7 +5,7 @@ description: 'Audit AI systems for safety, bias, and responsible deployment'
 category: ai-ml
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - audit AI safety
   - check for bias

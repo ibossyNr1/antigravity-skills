@@ -2,7 +2,7 @@
 name: getir
 description: Enables Claude to browse Getir products and track ultra-fast deliveries
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

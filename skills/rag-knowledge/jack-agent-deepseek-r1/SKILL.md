@@ -1,9 +1,8 @@
 ---
-name: jack-agent-deepseek-r1
+name: "deepseek-r1"
 description: Creates an AI agent powered by DeepSeek R1 within n8n for chat interactions.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - ai agent
   - deepseek

@@ -5,7 +5,7 @@ description: Analyze text sentiment at scale with nuanced understanding
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - analyze sentiment
   - sentiment analysis

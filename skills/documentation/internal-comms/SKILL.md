@@ -6,7 +6,7 @@ description: >-
   whenever asked to write some sort of internal communications (status reports,
   leadership updates, 3P updates, company newsletters, FAQs, incident reports,
   project updates, etc.).
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

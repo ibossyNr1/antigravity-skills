@@ -4,7 +4,7 @@ description: >-
   Measure what matters with proper event tracking, funnels, cohorts, and
   metrics. Use when setting up analytics, tracking features, or understanding
   behavior.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

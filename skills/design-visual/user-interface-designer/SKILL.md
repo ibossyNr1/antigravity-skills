@@ -3,7 +3,7 @@ name: user-interface-designer
 description: >-
   Design user-centric interfaces for web applications. Creates wireframes,
   visual designs, and interactive prototypes with usability focus.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

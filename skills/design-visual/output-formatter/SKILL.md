@@ -5,7 +5,7 @@ description: Format AI outputs for different contexts and audiences
 category: meta
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - format this output
   - format as

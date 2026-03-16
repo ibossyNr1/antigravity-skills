@@ -3,7 +3,7 @@ name: visual-composition
 description: >-
   Design visual layouts and compositions for web and print. Creates balanced
   designs with typography, color, and spacing principles applied consistently.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

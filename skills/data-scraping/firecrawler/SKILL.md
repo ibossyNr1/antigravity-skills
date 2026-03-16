@@ -7,7 +7,7 @@ description: >-
   info, capture a screenshot, extract specific data from pages, or crawl docs
   for a framework/library.
 version: 1.0.0
-author: captmarbles
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

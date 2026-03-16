@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-fail2ban-ssh-hardening"
+name: "fail2ban-ssh-hardening"
 description: "Provides commands to enhance SSH security by installing fail2ban and changing the SSH port."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ssh", "security", "fail2ban", "hardening", "vps"]
 triggers:
   - "securing SSH"

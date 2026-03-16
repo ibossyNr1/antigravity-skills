@@ -7,8 +7,7 @@ description: >-
   costs. Covers temperature scaling, soft targets, reverse KLD, logit
   distillation, and MiniLLM training strategies.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Emerging Techniques
   - Knowledge Distillation
@@ -33,7 +32,6 @@ compatibility: 'agent-zero, claude-code, cursor'
 
 Use Knowledge Distillation when you need to:
 - **Compress models** from 70B → 7B while retaining 90%+ performance
-- **Transfer capabilities** from proprietary models (GPT-4) to open-source (LLaMA, Mistral)
 - **Reduce inference costs** by deploying smaller student models
 - **Create specialized models** by distilling domain-specific knowledge
 - **Improve small models** using synthetic data from large teachers
@@ -473,5 +471,4 @@ for prompt in prompts:
 - **MiniLLM (Reverse KLD)**: https://arxiv.org/abs/2306.08543
 - **KD Survey for LLMs (2024)**: https://arxiv.org/abs/2402.13116
 - **MiniLLM GitHub**: https://github.com/microsoft/LMOps/tree/main/minillm
-
 

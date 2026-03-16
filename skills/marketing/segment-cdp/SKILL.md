@@ -5,7 +5,7 @@ description: >-
   server-side tracking, tracking plans with Protocols, identity resolution,
   destinations configuration, and data governance best practices. Use when:
   segment, analytics.js, customer data platform, cdp, tracking plan.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -19,20 +19,17 @@ compatibility: 'agent-zero, claude-code, cursor'
 Client-side tracking with Analytics.js. Include track, identify, page,
 and group calls. Anonymous ID persists until identify merges with user.
 
-
 ### Server-Side Tracking with Node.js
 
 High-performance server-side tracking using @segment/analytics-node.
 Non-blocking with internal batching. Essential for backend events,
 webhooks, and sensitive data.
 
-
 ### Tracking Plan Design
 
 Design event schemas using Object + Action naming convention.
 Define required properties, types, and validation rules.
 Connect to Protocols for enforcement.
-
 
 ## Anti-Patterns
 

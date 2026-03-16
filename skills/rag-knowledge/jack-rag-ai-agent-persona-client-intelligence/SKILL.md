@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-ai-agent-persona-client-intelligence"
+name: "ai-agent-persona-client-intelligence"
 description: "Defines the persona and workflow for an AI agent focused on client intelligence, using RAG memory, Airtable, and live web scraping."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rag", "ai agent", "persona", "client intelligence", "prompt engineering"]
 triggers:
   - "When configuring an AI agent for client intelligence"

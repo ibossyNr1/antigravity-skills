@@ -3,7 +3,7 @@ name: wheels-router
 description: >-
   Plan public transit trips globally using Wheels Router (Hong Kong) and
   Transitous (worldwide)
-license: MIT
+
 compatibility: opencode
 metadata:
   transport: mcp

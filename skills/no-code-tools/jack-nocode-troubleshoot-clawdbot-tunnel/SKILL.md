@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-troubleshoot-clawdbot-tunnel"
+name: "troubleshoot-clawdbot-tunnel"
 description: "Provides troubleshooting steps for common ClawdBot SSH tunnel issues."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["troubleshooting", "ssh", "tunnel", "clawdbot", "vps"]
 triggers:
   - "clawdbot not working"

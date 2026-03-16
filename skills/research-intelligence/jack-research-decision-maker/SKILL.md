@@ -1,11 +1,10 @@
 ---
-name: jack-research-decision-maker
+name: "decision-maker"
 description: >-
   Procedure for making better decisions with research, not gut feelings, using
   AI to compare data and build dashboards.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - decision making
   - research

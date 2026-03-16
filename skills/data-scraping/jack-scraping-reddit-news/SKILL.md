@@ -1,8 +1,8 @@
 ---
-name: "jack-scraping-reddit-news"
+name: "reddit-news"
 description: "Scrape news data from Reddit for analysis or content creation."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["scraping", "reddit", "news", "data extraction"]
 triggers:
   - "When needing to gather news data from Reddit"

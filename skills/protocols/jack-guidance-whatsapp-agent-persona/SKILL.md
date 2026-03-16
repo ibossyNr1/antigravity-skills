@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-whatsapp-agent-persona"
+name: "whatsapp-agent-persona"
 description: "Defines a persona for an AI WhatsApp agent focused on providing helpful support and booking assessment calls."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["whatsapp", "ai agent", "persona", "sales", "customer support"]
 triggers:
   - "When configuring the system message/prompt for an AI WhatsApp agent."

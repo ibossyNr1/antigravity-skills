@@ -1,7 +1,7 @@
 ---
 name: assumption-buster
 description: 'Flip, remove, or exaggerate assumptions to unlock new solution angles.'
-license: MIT
+
 command: '/ctx:assumption-buster'
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'

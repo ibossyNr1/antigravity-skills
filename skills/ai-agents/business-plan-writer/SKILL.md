@@ -7,7 +7,7 @@ description: >-
 category: business
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - business plan
   - write business plan
@@ -238,12 +238,10 @@ Built on business planning best practices from leading accelerators, investors, 
 
 3. **Competitive Advantages (Moats)**
    Identify sustainable advantages:
-   - **Technology**: Proprietary technology, patents
    - **Network Effects**: Value increases with users
    - **Brand**: Strong brand recognition and loyalty
    - **Switching Costs**: Hard for customers to leave
    - **Scale**: Cost advantages from size
-   - **Data**: Proprietary data that improves product
    - **Distribution**: Unique access to customers
 
 4. **Barriers to Entry**

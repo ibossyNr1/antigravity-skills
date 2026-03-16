@@ -5,7 +5,7 @@ description: Design and optimize AI-powered workflows for complex tasks
 category: meta
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - design a workflow
   - create workflow

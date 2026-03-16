@@ -5,7 +5,7 @@ description: Qualify and score sales leads using proven frameworks and data-driv
 category: sales
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - qualify leads
   - lead scoring

@@ -4,11 +4,10 @@ description: >
   Build type-safe global state in React applications with Zustand. Supports
   TypeScript, persist middleware, devtools, slices pattern, and Next.js SSR.
 
-
   Use when setting up React state, migrating from Redux/Context API,
   implementing localStorage persistence, or troubleshooting Next.js hydration
   errors, TypeScript inference issues, or infinite render loops.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

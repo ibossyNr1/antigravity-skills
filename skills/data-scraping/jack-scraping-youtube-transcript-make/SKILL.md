@@ -1,8 +1,8 @@
 ---
-name: "jack-scraping-youtube-transcript-make"
+name: "youtube-transcript-make"
 description: "Scrape YouTube video transcripts using Make.com by extracting the transcript link from the HTML source."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["youtube", "scraping", "transcript", "automation"]
 triggers:
   - "when you need to automatically extract transcript data from a YouTube video"

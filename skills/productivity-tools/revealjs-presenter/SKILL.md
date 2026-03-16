@@ -16,7 +16,7 @@ compatibility: 'agent-zero, claude-code, cursor'
 name: revealjs-presentation
 description: "Generate RevealJS HTML presentations with reliable layout, professional typography, and effective visual communication. Use when creating slide decks, pitch presentations, technical talks, or any reveal.js output."
 version: "1.0"
-license: MIT
+
 ```
 
 ## When to Use This Skill

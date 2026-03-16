@@ -3,7 +3,7 @@ name: data-organization-system
 description: >-
   Organize and categorize files into logical structures. Creates folder
   hierarchies, renames files systematically, and consolidates related data.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

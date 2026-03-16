@@ -6,7 +6,7 @@ description: >-
   subscriptions", "audit subscriptions", "find recurring charges", or "what am I
   paying for". Supports Apple Card, Chase, Mint, and generic CSV formats.
   Outputs interactive HTML audit with copy-to-cancel workflow.
-attribution: >-
+
   Originally created by rohunvora
   (https://github.com/rohunvora/just-fucking-cancel)
 version: 1.0.0

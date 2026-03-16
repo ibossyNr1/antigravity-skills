@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse merchants and track deliveries on Postmates (now part
   of Uber Eats)
 version: 1.0.0
-author: Canifi
+
 category: food
 compatibility: 'agent-zero, claude-code, cursor'
 ---

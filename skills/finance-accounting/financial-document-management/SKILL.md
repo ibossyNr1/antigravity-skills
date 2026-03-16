@@ -3,7 +3,7 @@ name: financial-document-management
 description: >-
   Manage and organize financial documents and invoices. Categorizes, extracts
   information, and maintains financial records systematically.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

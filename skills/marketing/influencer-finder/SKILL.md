@@ -5,7 +5,7 @@ description: Find and evaluate influencers for marketing partnerships
 category: marketing
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - influencer marketing
   - find influencers

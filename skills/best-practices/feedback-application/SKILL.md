@@ -3,7 +3,7 @@ name: feedback-application
 description: >-
   Apply feedback and implement review suggestions. Incorporates reviewer
   comments into code changes systematically.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

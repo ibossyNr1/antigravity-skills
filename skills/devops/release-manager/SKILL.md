@@ -3,7 +3,7 @@ name: release-manager
 description: >-
   Ship features safely with progressive rollouts, feature flags, and canary
   deployments. Use when deploying risky features or need gradual rollouts.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

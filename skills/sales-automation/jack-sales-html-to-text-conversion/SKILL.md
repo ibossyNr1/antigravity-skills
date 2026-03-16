@@ -1,11 +1,10 @@
 ---
-name: jack-sales-html-to-text-conversion
+name: "html-to-text-conversion"
 description: >-
   Convert HTML email content to plain text to ensure readability. Use when you
   need a text version of an HTML email.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - email formatting
   - html

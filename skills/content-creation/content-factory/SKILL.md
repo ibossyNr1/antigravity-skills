@@ -1,7 +1,7 @@
 ---
 name: content-factory
 description: Transform and generate marketing content at scale. Includes A/B variant generator, FAQ generator from docs, platform-optimized ad copy generator, and content repurposing pipeline (1 piece to 5 formats). Use for generating copy variations, extracting FAQs, creating ads, or repurposing content across channels.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

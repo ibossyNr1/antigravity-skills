@@ -5,7 +5,7 @@ description: >-
   position in systems. Use when you want protagonists who aren't chosen ones but
   accidental pivots, when mundane jobs should reveal conspiracies, or when you
   need structurally inevitable involvement rather than coincidence.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

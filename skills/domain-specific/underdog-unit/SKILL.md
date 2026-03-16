@@ -5,7 +5,7 @@ description: >-
   minimal resources. Use when you want team dynamics in hostile institutions,
   David vs. Goliath within organizations, or narrative tension from
   constraint-driven creativity.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

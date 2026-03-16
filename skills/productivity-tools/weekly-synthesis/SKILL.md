@@ -2,7 +2,7 @@
 name: weekly-synthesis
 description: Create a comprehensive synthesis of the week's work and thinking
 version: 1.0.0
-author: theflohart
+
 tags:
   - productivity
   - review

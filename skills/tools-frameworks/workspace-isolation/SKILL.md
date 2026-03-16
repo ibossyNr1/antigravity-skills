@@ -3,7 +3,7 @@ name: workspace-isolation
 description: >-
   Use Git worktrees for isolated work environments. Creates separate working
   directories for parallel development on different branches.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

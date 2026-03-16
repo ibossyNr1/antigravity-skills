@@ -253,7 +253,6 @@ $isValid = $hashInstance->checkPassword($password, $hash);
 | Privileges Required (PR) | None (N), Low (L), High (H) |
 | User Interaction (UI) | None (N), Required (R) |
 | Scope (S) | Unchanged (U), Changed (C) |
-| Confidentiality (C) | None (N), Low (L), High (H) |
 | Integrity (I) | None (N), Low (L), High (H) |
 | Availability (A) | None (N), Low (L), High (H) |
 

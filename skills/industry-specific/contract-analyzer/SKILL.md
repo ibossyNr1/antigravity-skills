@@ -7,7 +7,7 @@ description: >-
 category: business
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - analyze contract
   - review agreement

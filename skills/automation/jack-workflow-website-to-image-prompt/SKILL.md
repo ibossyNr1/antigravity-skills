@@ -1,8 +1,8 @@
 ---
-name: "jack-workflow-website-to-image-prompt"
+name: "website-to-image-prompt"
 description: "Downloads website content, extracts text, and generates an image prompt using Claude."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "make.com", "website content", "image generation"]
 triggers:
   - "When you need to automatically generate an image prompt from a given website URL."

@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Facebook posts, pages, groups, and engagement through
   browser automation
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

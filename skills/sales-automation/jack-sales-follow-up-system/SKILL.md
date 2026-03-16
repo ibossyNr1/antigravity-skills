@@ -1,9 +1,8 @@
 ---
-name: jack-sales-follow-up-system
+name: "follow-up-system"
 description: Implement a systematic follow-up process to convert leads into clients.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - sales
   - follow-up

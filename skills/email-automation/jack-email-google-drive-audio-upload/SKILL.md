@@ -1,8 +1,8 @@
 ---
-name: "jack-email-google-drive-audio-upload"
+name: "google-drive-audio-upload"
 description: "Upload generated voice notes to Google Drive for easy access and sharing.  Use when voice files need cloud storage."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["google drive", "file storage", "audio files"]
 triggers:
   - "when storing voice notes"

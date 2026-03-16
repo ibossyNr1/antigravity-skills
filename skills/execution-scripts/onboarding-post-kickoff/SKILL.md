@@ -2,8 +2,7 @@
 name: "post-kickoff-onboarding"
 description: "Orchestrates client onboarding after kickoff: lead generation, campaign creation, knowledge base setup, summary email."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["onboarding","automation","lead generation","email marketing","google sheets"]
 triggers:
   - "when a client kickoff call is complete"

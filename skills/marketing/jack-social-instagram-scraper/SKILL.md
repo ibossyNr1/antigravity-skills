@@ -1,8 +1,8 @@
 ---
-name: "jack-social-instagram-scraper"
+name: "instagram-scraper"
 description: "Scrape Instagram profiles to gather engagement metrics (likes, comments, views, etc.) and store in Airtable or Google Sheets."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["instagram", "scraping", "data analysis", "social media marketing", "n8n", "apify", "airtable"]
 triggers:
   - "Need to track engagement metrics on Instagram profiles"

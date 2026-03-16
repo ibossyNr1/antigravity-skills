@@ -2,8 +2,7 @@
 name: "skills-manager"
 description: "Manage skills across a project and central vault, enabling/disabling and importing skills."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["skills","management","vault","enable","disable","import","utility","internal"]
 triggers:
   - "when I want to manage project skills"

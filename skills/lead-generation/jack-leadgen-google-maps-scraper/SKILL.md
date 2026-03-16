@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-google-maps-scraper"
+name: "google-maps-scraper"
 description: "Scrapes business data from Google Maps based on search terms and locations."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead generation", "google maps", "scraping", "n8n"]
 triggers:
   - "When needing to extract business contact information (name, address, phone, website) from Google Maps listings"

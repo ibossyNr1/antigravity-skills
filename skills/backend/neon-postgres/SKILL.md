@@ -4,7 +4,7 @@ description: >-
   Expert patterns for Neon serverless Postgres, branching, connection pooling,
   and Prisma/Drizzle integration Use when: neon database, serverless postgres,
   database branching, neon postgres, postgres serverless.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -24,7 +24,6 @@ Use two connection strings:
 The pooled connection uses PgBouncer for up to 10K connections.
 Direct connection required for migrations (DDL operations).
 
-
 ### Drizzle with Neon Serverless Driver
 
 Use Drizzle ORM with Neon's serverless HTTP driver for
@@ -33,7 +32,6 @@ edge/serverless environments.
 Two driver options:
 - neon-http: Single queries over HTTP (fastest for one-off queries)
 - neon-serverless: WebSocket for transactions and sessions
-
 
 ### Connection Pooling with PgBouncer
 
@@ -45,7 +43,6 @@ Key limits:
 - 7 connections reserved for Neon superuser
 
 Use pooled endpoint for application, direct for migrations.
-
 
 ## ⚠️ Sharp Edges
 

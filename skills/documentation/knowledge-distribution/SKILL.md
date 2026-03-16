@@ -3,7 +3,7 @@ name: knowledge-distribution
 description: >-
   Share and distribute skill knowledge and documentation. Publishes capabilities
   with examples, documentation, and integration guides.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

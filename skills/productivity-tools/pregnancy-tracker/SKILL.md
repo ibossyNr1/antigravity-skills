@@ -3,7 +3,7 @@ name: pregnancy-tracker
 description: >-
   Track pregnancy journey with weekly updates, symptom logging, and milestone
   countdowns
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - pregnancy update

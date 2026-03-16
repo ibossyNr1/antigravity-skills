@@ -4,7 +4,7 @@ description: >-
   Bootstrap, maintain, and evolve context networks across their full lifecycle.
   Use when starting a new project, when existing documentation feels scattered,
   or when agent effectiveness degrades due to missing context.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

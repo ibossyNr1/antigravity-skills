@@ -8,7 +8,7 @@ description: >-
   investors, developing organizational culture, making executive decisions, or
   when user mentions CEO, strategic planning, board meetings, investor updates,
   organizational leadership, or executive strategy.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: Alireza Rezvani

@@ -1,8 +1,8 @@
 ---
-name: "jack-workflow-lead-magnet-generation"
+name: "lead-magnet-generation"
 description: "Automates lead magnet creation by capturing form data, generating a plan using AI, and delivering it as HTML."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["lead magnet", "automation", "ai", "paperform", "make.com"]
 triggers:
   - "When a user submits a lead magnet request form"
@@ -34,7 +34,6 @@ This workflow automates the lead magnet generation process.
 1. **Paperform Submission:** Triggers when a new submission is received from a Paperform form.
 2. **Basic Router:**  Routes the data to the AI module.
 3. **Anthropic Claude:** Creates a personalized 90-day business plan using the AI model based on the form data.
-
 
 ## Configuration
 

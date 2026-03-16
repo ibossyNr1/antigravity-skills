@@ -1,8 +1,8 @@
 ---
-name: "jack-content-storytelling-research"
+name: "storytelling-research"
 description: "Procedure to improve storytelling by using AI to research historical settings and create character briefings."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["storytelling", "research", "character creation", "AI"]
 triggers:
   - "when writing stories"

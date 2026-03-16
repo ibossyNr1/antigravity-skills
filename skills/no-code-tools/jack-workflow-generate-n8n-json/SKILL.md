@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-generate-n8n-json
+name: "generate-n8n-json"
 description: >-
   Generates n8n workflow JSON from text, screenshots, or transcripts using a
   Chrome extension and Gemini.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - n8n
   - automation

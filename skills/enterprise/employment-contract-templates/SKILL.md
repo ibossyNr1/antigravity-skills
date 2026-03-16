@@ -37,7 +37,6 @@ Templates and patterns for creating legally sound employment documentation inclu
 | **Offer Letter**        | Initial job offer       | Pre-hire      |
 | **Employment Contract** | Formal agreement        | Hire          |
 | **Employee Handbook**   | Policies & procedures   | Onboarding    |
-| **NDA**                 | Confidentiality         | Before access |
 | **Non-Compete**         | Competition restriction | Hire/Exit     |
 
 ### 2. Key Legal Considerations
@@ -110,7 +109,6 @@ This offer is contingent upon:
 - Successful completion of background check
 - Verification of your right to work in [Country]
 - Execution of required employment documents including:
-  - Confidentiality Agreement
   - [Non-Compete Agreement, if applicable]
   - [IP Assignment Agreement]
 
@@ -220,22 +218,14 @@ requirements.
 3.5 **Expenses.** Company shall reimburse Employee for reasonable business
 expenses incurred in accordance with Company policy.
 
-## 4. CONFIDENTIALITY
 
-4.1 **Confidential Information.** Employee acknowledges access to confidential
-and proprietary information including: trade secrets, business plans, customer
 lists, financial data, technical information, and other non-public information
-("Confidential Information").
 
 4.2 **Non-Disclosure.** During and after employment, Employee shall not
-disclose, use, or permit use of any Confidential Information except as required
 for their duties or with prior written consent.
 
 4.3 **Return of Materials.** Upon termination, Employee shall immediately return
-all Company property and Confidential Information in any form.
 
-4.4 **Survival.** Confidentiality obligations survive termination indefinitely
-for trade secrets and for [3] years for other Confidential Information.
 
 ## 5. INTELLECTUAL PROPERTY
 
@@ -452,7 +442,6 @@ All employees are expected to:
 
 - Act with integrity and honesty
 - Treat colleagues, customers, and partners with respect
-- Protect company confidential information
 - Avoid conflicts of interest
 - Comply with all laws and regulations
 - Report any violations of this code
@@ -483,7 +472,6 @@ All employees are expected to:
 **Personal Social Media:**
 
 - Clearly state opinions are your own, not the company's
-- Do not share confidential company information
 - Be respectful and professional
 
 **Company Social Media:**

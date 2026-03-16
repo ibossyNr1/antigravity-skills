@@ -5,7 +5,7 @@ description: 'Assist with image analysis, object detection, and visual AI tasks'
 category: ai-ml
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - image analysis
   - computer vision

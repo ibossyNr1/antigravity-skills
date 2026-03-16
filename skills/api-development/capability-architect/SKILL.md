@@ -3,7 +3,7 @@ name: capability-architect
 description: >-
   Create new capabilities and skills systematically. Architects, documents, and
   implements reusable skills with proper specifications.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

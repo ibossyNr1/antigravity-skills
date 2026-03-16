@@ -1,11 +1,10 @@
 ---
-name: jack-research-health-fitness-research
+name: "health-fitness-research"
 description: >-
   Procedure to research health and fitness using AI to create meal plans and
   track progress.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - health
   - fitness

@@ -7,8 +7,7 @@ description: >-
   chatbots, knowledge retrieval, or building RAG pipelines. Best for
   data-centric LLM applications.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Agents
   - LlamaIndex
@@ -585,5 +584,4 @@ while True:
 - **Discord**: https://discord.gg/dGcwcsnxhU
 - **Version**: 0.14.7+
 - **License**: MIT
-
 

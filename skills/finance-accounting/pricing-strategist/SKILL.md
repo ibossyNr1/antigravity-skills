@@ -5,7 +5,7 @@ description: >-
   packaging, value metrics, and experimentation. Use when setting initial
   pricing, optimizing conversion, expanding revenue, or when users ask about
   pricing strategy, monetization, or revenue optimization.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

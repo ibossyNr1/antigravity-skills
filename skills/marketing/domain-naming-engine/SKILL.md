@@ -3,7 +3,7 @@ name: domain-naming-engine
 description: >-
   Generate creative domain names and brand identifiers. Produces memorable,
   available domain suggestions with wordplay and semantic relevance.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: Scope and plan minimum viable products with feature prioritization
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - mvp planning
   - minimum viable product

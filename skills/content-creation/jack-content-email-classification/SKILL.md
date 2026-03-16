@@ -1,8 +1,8 @@
 ---
-name: "jack-content-email-classification"
+name: "email-classification"
 description: "Classifies incoming emails into predefined categories (e.g., sponsorships, customer queries, spam) using an LLM."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "classification", "automation", "langchain"]
 triggers:
   - "when a new email arrives"

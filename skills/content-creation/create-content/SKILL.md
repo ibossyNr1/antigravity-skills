@@ -2,7 +2,7 @@
 name: create-content
 description: Thinking partner that transforms ideas into platform-optimized content
 version: 1.0.0
-author: theflohart
+
 tags:
   - content
   - writing

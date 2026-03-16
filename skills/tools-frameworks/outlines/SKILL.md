@@ -5,8 +5,7 @@ description: >-
   for type-safe outputs, support local models (Transformers, vLLM), and maximize
   inference speed with Outlines - dottxt.ai's structured generation library
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Prompt Engineering
   - Outlines
@@ -666,5 +665,4 @@ class Article(BaseModel):
 - `references/json_generation.md` - Comprehensive JSON and Pydantic patterns
 - `references/backends.md` - Backend-specific configuration
 - `references/examples.md` - Production-ready examples
-
 

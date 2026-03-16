@@ -4,7 +4,7 @@ description: >-
   Manage persistent VMs on exe.dev. Create VMs, configure HTTP proxies, share
   access, and set up custom domains. Use when working with exe.dev VMs for
   hosting, development, or running persistent services.
-author: Benjamin Jesuiter
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

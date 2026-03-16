@@ -1,8 +1,8 @@
 ---
-name: "jack-email-gmail-draft-creation"
+name: "gmail-draft-creation"
 description: "Create a draft email in Gmail with personalized content and voice note attachment. Use for automating email creation and attachment."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["gmail", "email automation", "draft creation"]
 triggers:
   - "when creating email drafts"

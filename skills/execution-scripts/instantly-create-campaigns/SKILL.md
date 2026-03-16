@@ -2,8 +2,7 @@
 name: "instantly-campaign-creator"
 description: "Creates 3 Instantly email campaigns, each targeting a unique offer, with A/B tested first steps. Uses client details and Claude AI to generate compelling sequences."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["email marketing","cold outreach","AI","campaign creation","instantly.ai"]
 triggers:
   - "when I need to create multiple email campaigns quickly"

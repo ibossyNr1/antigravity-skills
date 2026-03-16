@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-automate-content-midjourney-google-docs
+name: "automate-content-midjourney-google-docs"
 description: >-
   Automates content creation by fetching RSS feed, generating images with
   Midjourney, and adding content to Google Docs.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - automation
   - midjourney

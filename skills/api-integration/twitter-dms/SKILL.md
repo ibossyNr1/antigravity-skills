@@ -4,7 +4,7 @@ description: >-
   Enables Claude to send Twitter/X direct messages and manage private
   conversations
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -2,8 +2,7 @@
 name: "skill-discovery-protocol"
 description: "Guides the process of identifying and selecting the appropriate skill for a given task during the planning phase. Helps decide when to use an existing skill, propose a new one, or build a custom solution."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["skill discovery","planning","skill selection","tooling","automation"]
 triggers:
   - "when planning a solution"

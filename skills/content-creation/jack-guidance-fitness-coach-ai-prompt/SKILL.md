@@ -1,11 +1,10 @@
 ---
-name: jack-guidance-fitness-coach-ai-prompt
+name: "fitness-coach-ai-prompt"
 description: >-
   Create an AI fitness coach to provide personalized feedback on user's fitness
   goals, analyzing for clarity, measurability, and realism.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - ai
   - fitness

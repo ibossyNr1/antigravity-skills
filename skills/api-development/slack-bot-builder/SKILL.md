@@ -6,7 +6,7 @@ description: >-
   handling, OAuth installation flows, and Workflow Builder integration. Focus on
   best practices for production-ready Slack apps. Use when: slack bot, slack
   app, bolt framework, block kit, slash command.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -28,7 +28,6 @@ Key benefits:
 - Works for experiments and production
 
 Available in: Python, JavaScript (Node.js), Java
-
 
 **When to use**: ['Starting any new Slack app', 'Migrating from legacy Slack APIs', 'Building production Slack integrations']
 
@@ -107,7 +106,6 @@ Limits:
 - Block text limited to 3000 characters
 
 Use Block Kit Builder to prototype: https://app.slack.com/block-kit-builder
-
 
 **When to use**: ['Building rich message layouts', 'Adding interactive components to messages', 'Creating forms in modals', 'Building Home tab experiences']
 
@@ -193,7 +191,6 @@ Key OAuth concepts:
 
 70% of users abandon installation when confronted with excessive
 permission requests - request only what you need!
-
 
 **When to use**: ['Distributing app to multiple workspaces', 'Building public Slack apps', 'Enterprise-grade integrations']
 

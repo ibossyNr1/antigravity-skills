@@ -2,7 +2,7 @@
 name: quora
 description: 'Enables Claude to manage Quora questions, answers, and knowledge sharing'
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

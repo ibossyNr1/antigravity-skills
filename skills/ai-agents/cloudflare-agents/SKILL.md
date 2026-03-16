@@ -5,11 +5,10 @@ description: >
   Includes critical guidance on choosing between Agents SDK
   (infrastructure/state) vs AI SDK (simpler flows).
 
-
   Use when: deciding SDK choice, building WebSocket agents with state, RAG with
   Vectorize, MCP servers, multi-agent orchestration, or troubleshooting "Agent
   class must extend", "new_sqlite_classes", binding errors.
-license: MIT
+
 metadata:
   keywords:
     - Cloudflare Agents
@@ -1143,7 +1142,6 @@ npx @modelcontextprotocol/inspector@latest
 **Cloudflare's MCP Servers**: See [reference](https://developers.cloudflare.com/agents/model-context-protocol/mcp-servers-for-cloudflare/) for production examples.
 
 ---
-
 
 ## Critical Rules
 

@@ -444,9 +444,7 @@ Instead of "project management software", target "project management for constru
 - Trust and reputation
 - Example: Security software
 
-**Proprietary Technology:**
 
-- Patents or trade secrets
 - Example: Algorithms, data
 
 **Regulatory:**

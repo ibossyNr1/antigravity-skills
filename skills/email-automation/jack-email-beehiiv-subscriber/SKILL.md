@@ -1,8 +1,8 @@
 ---
-name: "jack-email-beehiiv-subscriber"
+name: "beehiiv-subscriber"
 description: "Adds a subscriber to Beehiiv via a webhook trigger. Useful for automating email list growth from form submissions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "beehiiv", "automation", "webhook"]
 triggers:
   - "when a form is submitted"

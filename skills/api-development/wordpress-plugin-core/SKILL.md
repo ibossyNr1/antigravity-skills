@@ -5,11 +5,10 @@ description: >
   interactions, Settings API, custom post types, REST API, and AJAX. Covers
   three architecture patterns (Simple, OOP, PSR-4) and the Security Trinity.
 
-
   Use when creating plugins, implementing nonces/sanitization/escaping, working
   with $wpdb prepared statements, or troubleshooting SQL injection, XSS, CSRF
   vulnerabilities, or plugin activation errors.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

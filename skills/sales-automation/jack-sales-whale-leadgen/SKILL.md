@@ -1,11 +1,10 @@
 ---
-name: jack-sales-whale-leadgen
+name: "whale-leadgen"
 description: >-
   Procedure to attract high-paying clients through personalized outreach using
   Loom videos and potentially physical mail.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - lead generation
   - personalized marketing

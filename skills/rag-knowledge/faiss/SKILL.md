@@ -7,8 +7,7 @@ description: >-
   retrieval, or when you need pure similarity search without metadata. Best for
   high-performance applications.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - RAG
   - FAISS
@@ -237,5 +236,4 @@ vector_store = FaissVectorStore(faiss_index=faiss_index)
 - **GitHub**: https://github.com/facebookresearch/faiss ⭐ 31,700+
 - **Wiki**: https://github.com/facebookresearch/faiss/wiki
 - **License**: MIT
-
 

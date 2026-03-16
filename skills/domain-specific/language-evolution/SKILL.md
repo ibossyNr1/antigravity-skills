@@ -4,7 +4,7 @@ description: >-
   Design evolving language systems for fictional worlds. Use when creating
   language families, dialects, linguistic history, or when language should
   reflect cultural and historical development.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

@@ -5,7 +5,7 @@ description: >-
   familiar and unfamiliar elements. Use when settings feel shallow, when you
   need centuries of implied history without exposition, or when worldbuilding
   lacks the texture of real cultural evolution.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

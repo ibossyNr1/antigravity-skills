@@ -5,7 +5,7 @@ description: 'Create beautiful, accessible color schemes for any project'
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create color palette
   - generate colors

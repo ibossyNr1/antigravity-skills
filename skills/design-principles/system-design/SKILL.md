@@ -3,7 +3,7 @@ name: system-design
 description: >-
   Design and architect software systems. Plans system components, interactions,
   and deployment patterns for scalability and maintainability.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

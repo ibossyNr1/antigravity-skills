@@ -5,7 +5,7 @@ description: >-
   when adapting for speech, converting to spoken format, optimizing for
   listening, or creating audio content from written material. Keywords: speech,
   audio, spoken, listening, adaptation, podcast.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

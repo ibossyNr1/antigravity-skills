@@ -1,11 +1,10 @@
 ---
-name: jack-research-market-research-package
+name: "market-research-package"
 description: >-
   System for launching products with confidence by using AI for market research
   and analysis.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - market research
   - product launch

@@ -4,7 +4,7 @@ description: >-
   Enables Claude to schedule Webex meetings, manage spaces, and handle team
   collaboration
 version: 1.0.0
-author: Canifi
+
 category: communication
 compatibility: 'agent-zero, claude-code, cursor'
 ---

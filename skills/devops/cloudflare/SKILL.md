@@ -2,7 +2,7 @@
 name: cloudflare
 description: 'Cloudflare CLI - manage DNS records, purge cache, and control Workers routes.'
 version: 1.0.0
-author: dbhurley
+
 homepage: 'https://cloudflare.com'
 metadata:
   clawdis:

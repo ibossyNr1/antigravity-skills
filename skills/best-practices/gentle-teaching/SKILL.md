@@ -4,7 +4,7 @@ description: >-
   Guide AI-assisted learning that empowers learners while maintaining
   appropriate boundaries. Use when teaching, explaining concepts, or helping
   someone who is struggling to understand.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

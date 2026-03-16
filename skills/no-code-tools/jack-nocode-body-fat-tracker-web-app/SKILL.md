@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-body-fat-tracker-web-app"
+name: "body-fat-tracker-web-app"
 description: "Creates an interactive web app to track body fat percentage using historical data and provides future predictions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["web app", "body fat", "tracker", "ai", "chart.js"]
 triggers:
   - "when you want to build a body fat tracking application"

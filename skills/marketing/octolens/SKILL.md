@@ -6,7 +6,7 @@ description: >-
   GitHub, LinkedIn, etc.), sentiment analysis, or analyze social media
   engagement. Supports complex filtering with AND/OR logic, date ranges,
   follower counts, and bookmarks.
-license: MIT
+
 metadata:
   author: octolens
   version: '1.0'

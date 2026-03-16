@@ -3,7 +3,7 @@ name: market-intelligence-gather
 description: >-
   Gather and analyze competitive advertising campaigns. Extracts competitor ad
   content, messaging strategies, and market positioning information.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

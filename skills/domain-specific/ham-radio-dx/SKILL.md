@@ -4,7 +4,7 @@ description: >-
   Monitor DX clusters for rare station spots, track active DX expeditions, and
   get daily band activity digests for amateur radio operators.
 version: 1.0.0
-author: captmarbles
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

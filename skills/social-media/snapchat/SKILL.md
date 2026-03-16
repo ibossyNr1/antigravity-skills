@@ -4,7 +4,7 @@ description: >-
   Enables Claude to manage Snapchat web features and Snap Map through browser
   automation
 version: 1.0.0
-author: Canifi
+
 category: social
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,8 +1,8 @@
 ---
-name: "jack-design-extract-remotion-showcase"
+name: "extract-remotion-showcase"
 description: "Extracts design tokens from a website and generates a Remotion video showcasing the design system."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["design system", "extraction", "remotion", "video", "automation"]
 triggers:
   - "when you want to create a video showcasing a website's design system"

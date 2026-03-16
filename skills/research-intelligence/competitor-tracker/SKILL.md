@@ -5,7 +5,7 @@ description: Track and analyze competitor activities for strategic advantage
 category: marketing
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - competitor analysis
   - competitive intelligence

@@ -199,7 +199,6 @@ scripts/package_skill.py skills/<skill-name>
 - One-off solutions specific to a single project
 - Trivial fixes or obvious patterns
 - Information already documented elsewhere
-- Sensitive or proprietary information
 - Incomplete workflows still being refined
 - Preferences without procedural value (use rules-capture instead)
 

@@ -6,7 +6,7 @@ description: >-
   count, funding. Search for prospects. Use when the user needs to enrich
   contacts, find emails, lookup company info, or search for leads.
 version: 1.3.0
-author: captmarbles
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

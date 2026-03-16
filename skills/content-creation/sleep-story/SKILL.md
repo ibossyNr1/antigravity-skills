@@ -4,7 +4,7 @@ description: >-
   Write stories designed to help listeners fall asleep. Use for bedtime
   podcasts, meditation content, calming narratives, or any content where the
   goal is gentle cognitive engagement that fades naturally into rest.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

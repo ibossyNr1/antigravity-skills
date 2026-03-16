@@ -4,7 +4,7 @@ description: >-
   Extract and parse article content from web sources. Retrieves text, metadata,
   and structured information from articles while preserving formatting and
   context.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

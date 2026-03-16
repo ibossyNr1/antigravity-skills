@@ -1,8 +1,8 @@
 ---
-name: "jack-content-rag-client-intelligence"
+name: "rag-client-intelligence"
 description: "Create a client intelligence system that retrieves data from websites, emails, and meetings, vectorizing it into a RAG-powered knowledge base."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rag", "client intelligence", "automation", "knowledge base"]
 triggers:
   - "When a new email is received"

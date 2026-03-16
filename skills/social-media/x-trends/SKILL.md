@@ -4,8 +4,7 @@ description: >-
   Fetches current top trending topics on X (Twitter) for any country using
   public aggregators.
 version: 1.2.0
-author: Ani
-license: MIT
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

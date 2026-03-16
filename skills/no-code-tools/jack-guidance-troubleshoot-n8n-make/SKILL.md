@@ -1,11 +1,10 @@
 ---
-name: jack-guidance-troubleshoot-n8n-make
+name: "troubleshoot-n8n-make"
 description: >-
   Offers guidelines for effective tech support questions when troubleshooting
   n8n or Make automations.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - troubleshooting
   - support

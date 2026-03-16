@@ -6,7 +6,7 @@ description: >
   configuring dead letter queues, managing consumer concurrency, or
   troubleshooting queue timeout, batch retry, message loss, or throughput
   exceeded.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

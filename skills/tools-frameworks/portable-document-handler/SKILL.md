@@ -3,7 +3,7 @@ name: portable-document-handler
 description: >-
   Comprehensive PDF processing and manipulation. Creates, extracts, merges,
   splits, and transforms PDF documents with full format support.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

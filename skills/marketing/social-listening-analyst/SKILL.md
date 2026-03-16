@@ -7,7 +7,7 @@ description: >-
 category: research
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - social listening
   - brand monitoring

@@ -1,8 +1,8 @@
 ---
-name: "jack-email-segment-audience"
+name: "segment-audience"
 description: "Split audience by demographics, behaviors, and engagement. Segmented campaigns increase revenue. Start with 3-4 key segments."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "segmentation", "personalization"]
 triggers:
   - "When planning email marketing campaigns"

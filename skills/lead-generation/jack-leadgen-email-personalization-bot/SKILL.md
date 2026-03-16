@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-email-personalization-bot"
+name: "email-personalization-bot"
 description: "Generates personalized sales emails in HTML, including a company-specific 1-liner to engage prospects."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["sales email", "personalization", "html email", "lead outreach"]
 triggers:
   - "when you need to generate personalized email pitches quickly"
@@ -75,7 +75,6 @@ Every output must be in HTML and follow the below structure.
     
     <p>Best,<br>
     Jack</p>
-
 
     <table cellpadding="0" cellspacing="0" border="0" style="vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
         <tbody>

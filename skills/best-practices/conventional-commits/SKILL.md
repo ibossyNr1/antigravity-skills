@@ -5,7 +5,7 @@ description: >-
   creating commits, writing commit messages, or when the user mentions commits,
   git commits, or commit messages. Ensures commits follow the standard format
   for automated tooling, changelog generation, and semantic versioning.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

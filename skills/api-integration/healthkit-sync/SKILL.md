@@ -6,7 +6,7 @@ description: >-
   workouts), pairing iOS devices over local network, or understanding the iOS
   Health Sync project architecture including mTLS certificate pinning, Keychain
   storage, and audit logging.
-license: Apache-2.0
+
 compatibility: macOS with healthsync CLI installed (~/.healthsync/config.json)
 metadata:
   category: development

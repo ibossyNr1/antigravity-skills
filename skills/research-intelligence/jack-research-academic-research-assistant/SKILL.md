@@ -1,11 +1,10 @@
 ---
-name: jack-research-academic-research-assistant
+name: "academic-research-assistant"
 description: >-
   Procedure to assist with academic research projects using AI to generate study
   guides and concept maps.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - academic research
   - study guide

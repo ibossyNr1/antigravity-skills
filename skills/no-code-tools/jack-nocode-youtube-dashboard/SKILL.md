@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-youtube-dashboard"
+name: "youtube-dashboard"
 description: "Build a YouTube Growth Dashboard using Loveable + N8N, a beginner-friendly approach for no-code/low-code development."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["youtube", "dashboard", "nocode", "n8n", "loveable"]
 triggers:
   - "when creating a YouTube analytics dashboard without coding"

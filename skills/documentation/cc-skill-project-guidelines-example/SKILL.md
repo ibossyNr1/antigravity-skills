@@ -1,7 +1,7 @@
 ---
 name: cc-skill-project-guidelines-example
 description: Project Guidelines Skill (Example)
-author: affaan-m
+
 version: '1.0'
 compatibility: 'agent-zero, claude-code, cursor'
 ---

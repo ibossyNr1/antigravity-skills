@@ -464,7 +464,6 @@ node "Cache Cluster" {
 - Create binary image files only
 - Forget to document relationships
 - Mix abstraction levels in one diagram
-- Use proprietary formats
 
 ## Resources
 

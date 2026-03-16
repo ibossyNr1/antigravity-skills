@@ -2,8 +2,7 @@
 name: "google-maps-lead-gen"
 description: "Generate and enrich B2B leads from Google Maps by scraping websites and using Claude to extract contact data, then deduplicate and save leads."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["lead generation","scraping","google maps","enrichment","claude"]
 triggers:
   - "when I need to generate leads for local service businesses"

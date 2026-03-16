@@ -6,7 +6,6 @@ description: >
   input/output guardrails, structured outputs, and streaming. Deploy to
   Cloudflare Workers, Next.js, or React with human-in-the-loop patterns.
 
-
   Use when: building text-based agents with tools and Zod schemas, creating
   realtime voice agents with WebRTC/WebSocket, implementing multi-agent
   workflows with handoffs between specialists, setting up input/output
@@ -15,7 +14,7 @@ description: >
   or troubleshooting Zod schema type errors, MCP tracing failures, infinite
   loops (MaxTurnsExceededError), tool call failures, schema mismatches, or voice
   agent handoff constraints.
-license: MIT
+
 metadata:
   packages:
     - '@openai/agents@0.2.1'

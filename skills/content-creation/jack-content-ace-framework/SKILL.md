@@ -1,8 +1,8 @@
 ---
-name: "jack-content-ace-framework"
+name: "ace-framework"
 description: "The ACE Framework (Architect → Code → Execute) for building any AI system."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ai", "framework", "development"]
 triggers:
   - "when starting a new AI system project"

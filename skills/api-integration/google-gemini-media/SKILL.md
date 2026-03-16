@@ -4,7 +4,7 @@ description: >-
   Use the Gemini API (Nano Banana image generation, Veo video, Gemini TTS speech
   and audio understanding) to deliver end-to-end multimodal media workflows and
   code templates for "generation + understanding".
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

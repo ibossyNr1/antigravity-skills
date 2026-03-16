@@ -5,7 +5,7 @@ description: >-
   schema design, Visual Editing, images, Portable Text, page builders, Studio
   configuration, TypeGen, localization, and migrations. Use this skill when
   building, reviewing, or optimizing Sanity applications.
-license: MIT
+
 metadata:
   author: sanity
   version: 1.0.0

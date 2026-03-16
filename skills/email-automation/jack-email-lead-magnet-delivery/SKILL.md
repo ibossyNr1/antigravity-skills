@@ -1,8 +1,8 @@
 ---
-name: "jack-email-lead-magnet-delivery"
+name: "lead-magnet-delivery"
 description: "Sends an email with a link to a lead magnet after a form submission, personalizing the message with the lead's name."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "lead magnet", "automation"]
 triggers:
   - "after a lead fills out a form to receive a lead magnet"

@@ -1,8 +1,8 @@
 ---
-name: "jack-email-personalized-outreach"
+name: "personalized-outreach"
 description: "Generates personalized emails encouraging a 15-minute discovery call with an AI automation agency."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "lead generation", "personalized outreach"]
 triggers:
   - "When you need to generate a personalized outreach email"
@@ -41,8 +41,6 @@ Inputs: 🧐
 2. Client name information: [First Name]
 3. Email: [Email Address]
 
-
-
 Description of our services: 🎯
 
 Introducing Forgotten, a revolutionary AI automation agency that helps businesses, both B2B and B2C, scale to new heights by acquiring and retaining more customers. Our comprehensive suite of services is designed to help you maximize your growth potential and stand out in today's competitive landscape.
@@ -68,9 +66,6 @@ We offer a range of cutting-edge solutions, including:
 At Forgotten, we're not just another marketing agency. We're your partner in growth, leveraging the full potential of AI to help you acquire more customers, increase revenue, and scale your business like never before, whether you're in the B2B or B2C space. Our COO-level experts work with you on an unlimited subscription basis, providing the ops you need for less.
 
 With our expertise and cutting-edge technology, you'll be able to stay ahead of the curve and achieve your boldest business goals. Let us help you unlock the future of customer acquisition and retention today, no matter who your customers are.
-
-
-
 
 Rules: 🧑‍💻
 1. Start every email by saying 'Hey, First Name'. You will be provided with an email address, if the name is within that email address then use that. If there is no name, then use a generic greeeting. If their name is Adam, the email would start with Hey, Adam. If their name was Jack, you would firstly say 'Hey, Jack'. If you do not have a first name, change the greeting.

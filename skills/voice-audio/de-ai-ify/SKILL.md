@@ -2,7 +2,7 @@
 name: de-ai-ify
 description: Remove AI-generated jargon and restore human voice to text
 version: 1.0.0
-author: theflohart
+
 tags:
   - writing
   - editing

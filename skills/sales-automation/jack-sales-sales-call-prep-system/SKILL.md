@@ -1,11 +1,10 @@
 ---
-name: jack-sales-sales-call-prep-system
+name: "sales-call-prep-system"
 description: >-
   Prepares sales professionals for calls by using AI to deeply research
   prospects and create cheat sheets.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - sales
   - call preparation

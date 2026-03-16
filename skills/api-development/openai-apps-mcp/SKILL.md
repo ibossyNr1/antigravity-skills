@@ -4,12 +4,11 @@ description: >
   Build ChatGPT apps with MCP servers on Cloudflare Workers. Extend ChatGPT with
   custom tools and interactive widgets (HTML/JS UI).
 
-
   Use when: developing ChatGPT extensions, implementing MCP servers, or
   troubleshooting CORS blocking (allow chatgpt.com), widget 404s (missing
   ui://widget/), wrong MIME type (text/html+skybridge), or ASSETS binding
   undefined.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: Jeremy Dawes | Jezweb

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-code-debugging-prompt"
+name: "code-debugging-prompt"
 description: "Provides a prompt for debugging code using Claude, focusing on identifying errors and suggesting fixes."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["debugging", "code", "claude", "prompt"]
 triggers:
   - "when debugging code using Claude"

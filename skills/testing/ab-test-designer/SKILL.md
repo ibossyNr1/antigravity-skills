@@ -5,7 +5,7 @@ description: Design statistically valid A/B tests for marketing optimization
 category: marketing
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - ab test
   - a/b test

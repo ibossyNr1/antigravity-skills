@@ -4,7 +4,7 @@ description: >-
   Use when working with Nuxt Content v3 - provides collections (local/remote/API
   sources), queryCollection API, MDC rendering, database configuration,
   NuxtStudio integration, hooks, i18n patterns, and LLMs integration
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

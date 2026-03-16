@@ -2,8 +2,7 @@
 name: "upwork-proposal-generator"
 description: "Generates customized cover letters and project proposals for Upwork jobs using Opus 4.5 for high-quality personalization."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["upwork","proposal","cover letter","automation","AI"]
 triggers:
   - "when I need to generate an upwork proposal"

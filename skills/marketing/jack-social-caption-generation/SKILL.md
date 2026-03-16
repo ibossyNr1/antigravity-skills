@@ -1,8 +1,8 @@
 ---
-name: "jack-social-caption-generation"
+name: "caption-generation"
 description: "Use an OpenAI Assistant to generate engaging social media captions."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["openai", "social media", "captions", "automation"]
 triggers:
   - "When you need to automatically generate creative captions for social media posts."

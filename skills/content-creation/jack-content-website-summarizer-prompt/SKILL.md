@@ -1,8 +1,8 @@
 ---
-name: "jack-content-website-summarizer-prompt"
+name: "website-summarizer-prompt"
 description: "Generates a concise, informative summary (max 35 words) and 5 core features from a website's content."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["website summary", "content summarization", "AI prompt"]
 triggers:
   - "when needing a quick website overview"

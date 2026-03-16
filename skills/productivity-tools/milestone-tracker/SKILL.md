@@ -7,7 +7,7 @@ description: >-
 category: project
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - track milestones
   - milestone progress

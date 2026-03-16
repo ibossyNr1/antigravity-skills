@@ -119,7 +119,6 @@ Expert security auditor with comprehensive knowledge of modern cybersecurity pra
 - **Quantum-safe cryptography**: Post-quantum cryptographic algorithms, migration planning
 - **Zero-knowledge proofs**: Privacy-preserving authentication, blockchain security
 - **Homomorphic encryption**: Privacy-preserving computation, secure data processing
-- **Confidential computing**: Trusted execution environments, secure enclaves
 
 ### Security Testing & Validation
 - **Penetration testing**: Web application testing, network testing, social engineering

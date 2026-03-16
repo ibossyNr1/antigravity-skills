@@ -6,7 +6,7 @@ description: >-
   Claude needs to work with professional documents (.docx files) for: (1)
   Creating new documents, (2) Modifying or editing content, (3) Working with
   tracked changes, (4) Adding comments, or any other document tasks
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -158,7 +158,6 @@ Example - Changing "30 days" to "60 days" in a sentence:
      grep "replacement phrase" verification.md  # Should find it
      ```
    - Check that no unintended changes were introduced
-
 
 ## Converting Documents to Images
 

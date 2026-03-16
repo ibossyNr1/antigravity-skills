@@ -7,7 +7,6 @@ description: >-
   context window for comprehensive code analysis. Compare Flash (fast) vs Pro
   (thorough) vs 3-Pro-Preview (cutting-edge).
 
-
   Use when: need second opinion on architectural decisions, stuck debugging
   after 2+ attempts, writing security-
 
@@ -16,7 +15,6 @@ description: >-
 
   need peer review, or want Flash vs Pro vs 3-Pro-Preview comparison.
 
-
   Keywords: gemini-cli, google gemini, gemini command line, second opinion,
   model comparison, gemini-2.5-flash, gemini-2.5-pro, gemini-3-pro-preview,
   architectural decisions, debugging assistant, code review gemini, security
@@ -24,7 +22,7 @@ description: >-
   flash vs pro, AI-to-AI prompting, peer review, codebase analysis, gemini CLI
   tool, shell gemini, command line AI assistant, gemini architecture advice,
   gemini debug help, gemini security scan, gemini cod
-license: MIT
+
 metadata:
   version: 2.1.0
   production_tested: true

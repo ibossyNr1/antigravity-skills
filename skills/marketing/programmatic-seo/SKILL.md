@@ -44,15 +44,12 @@ Every page must provide value specific to that page:
 - Maximize unique content—the more differentiated, the better
 - Avoid "thin content" penalties by adding real depth
 
-### 2. Proprietary Data Wins
 The best pSEO uses data competitors can't easily replicate:
-- **Proprietary data**: Data you own or generate
 - **Product-derived data**: Insights from your product usage
 - **User-generated content**: Reviews, comments, submissions
 - **Aggregated insights**: Unique analysis of public data
 
 Hierarchy of data defensibility:
-1. Proprietary (you created it)
 2. Product-derived (from your users)
 3. User-generated (your community)
 4. Licensed (exclusive access)
@@ -354,7 +351,6 @@ Beyond mixing and matching data point permutations, these are the proven playboo
 
 | If you have... | Consider... |
 |----------------|-------------|
-| Proprietary data | Stats, Directories, Profiles |
 | Product with integrations | Integrations |
 | Design/creative product | Templates, Examples |
 | Multi-segment audience | Personas |

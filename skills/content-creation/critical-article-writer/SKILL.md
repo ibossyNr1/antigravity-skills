@@ -4,7 +4,7 @@ description: >-
   Generate draft articles, outlines, and editorial content matching a
   distinctive analytical, skeptical voice with sharp critical commentary,
   conversational tone, and strategic humor.
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

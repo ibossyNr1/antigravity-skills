@@ -359,7 +359,6 @@ module.exports = router;
       <mj-section>
         <mj-column>
           <mj-text font-size="12px" align="center" color="#999">
-            © 2024 Example Inc. All rights reserved.
           </mj-text>
         </mj-column>
       </mj-section>

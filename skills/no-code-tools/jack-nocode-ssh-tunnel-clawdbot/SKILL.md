@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-ssh-tunnel-clawdbot"
+name: "ssh-tunnel-clawdbot"
 description: "Provides step-by-step instructions on how to create an SSH tunnel to access a ClawdBot dashboard running on a VPS."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ssh", "tunnel", "clawdbot", "vps", "access", "security"]
 triggers:
   - "accessing clawdbot"

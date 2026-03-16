@@ -5,7 +5,7 @@ description: >-
   and durable execution without managing queues or workers. Use when: inngest,
   serverless background job, event-driven workflow, step function, durable
   execution.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

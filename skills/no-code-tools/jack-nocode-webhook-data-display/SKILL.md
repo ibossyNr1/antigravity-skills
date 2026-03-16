@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-webhook-data-display"
+name: "webhook-data-display"
 description: "Displays data received from a webhook in a website, updating the content dynamically."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["webhook", "data display", "dynamic content", "HTML", "JavaScript"]
 triggers:
   - "When displaying data from a webhook on a website"

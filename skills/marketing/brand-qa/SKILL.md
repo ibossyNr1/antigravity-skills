@@ -1,7 +1,7 @@
 ---
 name: brand-qa
 description: Validate content against brand voice guidelines and terminology. Includes voice checker, terminology validator, and consistency scorer. Use when reviewing marketing content, checking brand compliance, validating copy before publishing, or ensuring brand consistency across materials.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

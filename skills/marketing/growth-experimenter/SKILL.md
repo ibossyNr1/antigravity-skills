@@ -5,7 +5,7 @@ description: >-
   retention, and revenue. Use when optimizing conversion funnels, running A/B
   tests, improving metrics, or when users mention growth, experimentation,
   optimization, or scaling user acquisition.
-license: Complete terms in LICENSE.txt
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

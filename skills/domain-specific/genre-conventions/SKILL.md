@@ -5,7 +5,7 @@ description: >-
   promise is unclear, when elements feel misplaced, when secondary genres
   compete with primary, or when you need genre-specific entropy. Covers all 11
   elemental genres from the Writing Excuses framework.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

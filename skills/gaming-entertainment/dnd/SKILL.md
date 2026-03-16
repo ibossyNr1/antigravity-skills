@@ -5,7 +5,7 @@ description: >-
   generate characters, create encounters, and spawn NPCs. Uses the official D&D
   5e SRD API.
 version: 1.0.0
-author: captmarbles
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

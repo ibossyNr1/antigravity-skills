@@ -5,7 +5,7 @@ description: Maintain and organize internal wikis and knowledge base documentati
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - wiki maintenance
   - update wiki

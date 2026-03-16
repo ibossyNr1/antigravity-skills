@@ -4,7 +4,7 @@ description: >-
   Diagnose flat dialogue, same-voice characters, and lack of subtext. Use when
   conversations feel wooden, characters sound alike, or dialogue only does one
   thing at a time.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

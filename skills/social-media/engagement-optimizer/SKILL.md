@@ -5,7 +5,7 @@ description: Optimize social media engagement through comment strategies and DM 
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - engagement optimization
   - increase engagement

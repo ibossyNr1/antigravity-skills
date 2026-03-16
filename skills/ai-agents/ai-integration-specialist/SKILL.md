@@ -5,7 +5,7 @@ description: Integrate AI tools and APIs into business workflows and application
 category: meta
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - ai integration
   - integrate ai

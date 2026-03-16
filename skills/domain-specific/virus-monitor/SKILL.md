@@ -2,7 +2,7 @@
 name: virus-monitor
 version: 0.1.0
 description: Virus-Monitoring für Wien (Abwasser + Sentinel)
-author: ClaudeBot
+
 tags:
   - health
   - vienna

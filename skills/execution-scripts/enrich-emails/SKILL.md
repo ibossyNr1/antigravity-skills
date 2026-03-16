@@ -2,8 +2,7 @@
 name: "enrich-missing-emails"
 description: "Enriches missing email addresses in a Google Sheet using the AnyMailFinder API.  It's useful when you have incomplete contact information and need to find email addresses."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["email enrichment","google sheets","anymailfinder","data enrichment","sales"]
 triggers:
   - "when a Google Sheet has missing email addresses"

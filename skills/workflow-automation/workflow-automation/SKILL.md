@@ -8,7 +8,7 @@ description: >-
   patterns (sequential, parallel, orchestrator-worker) that turn brittle scripts
   into production-grade automation.  Key insight: The platforms make different
   tradeoffs. n8n optimizes for accessibility
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

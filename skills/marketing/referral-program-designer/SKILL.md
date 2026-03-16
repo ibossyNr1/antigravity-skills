@@ -5,7 +5,7 @@ description: Design viral referral programs that drive customer acquisition
 category: marketing
 complexity: intermediate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - referral program
   - refer a friend

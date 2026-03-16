@@ -1,8 +1,8 @@
 ---
-name: "jack-content-conversion-blueprint"
+name: "conversion-blueprint"
 description: "Leverage an 8-step blueprint (Canva template) to structure onboarding content for optimal user conversion."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["onboarding", "conversion", "content strategy"]
 triggers:
   - "when designing an onboarding flow"

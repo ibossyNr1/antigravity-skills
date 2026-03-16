@@ -2,8 +2,7 @@
 name: "jump-cut-editor"
 description: "Removes silences from talking-head videos using neural voice activity detection (Silero VAD). Offers restart phrase detection, audio enhancement, and color grading."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["video editing","silence removal","voice activity detection","audio enhancement","color grading"]
 triggers:
   - "when I need to remove silences from a video"

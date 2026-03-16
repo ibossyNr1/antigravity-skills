@@ -4,7 +4,7 @@ description: >-
   Create worldbuilding quotes and epigraphs through documentary perspectives.
   Use for chapter epigraphs, in-world documents, or any content where limited
   perspective creates meaning through what the documenter cannot see.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

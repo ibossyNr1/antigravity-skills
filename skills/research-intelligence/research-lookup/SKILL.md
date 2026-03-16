@@ -311,7 +311,6 @@ This skill enhances scientific writing by providing:
 - Information cutoff: Responses limited to training data (typically 2023-2024)
 - Paywall content: May not access full text behind paywalls
 - Emerging research: May miss very recent papers not yet indexed
-- Specialized databases: Cannot access proprietary or restricted databases
 
 **Error Conditions**:
 - API rate limits or quota exceeded

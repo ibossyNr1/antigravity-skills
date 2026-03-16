@@ -5,14 +5,12 @@ description: >
   Type-safe routing, server functions, SSR/streaming, and seamless D1/KV/R2
   integration.
 
-
   Use when: building full-stack React apps, need SSR with Cloudflare Workers,
   want type-safe server functions, or migrating from Next.js.
 
-
   RC status - v1.0 stable pending. Monitor tanstack/router#5734 (memory leak)
   before production use.
-license: MIT
+
 allowed-tools:
   - Bash
   - Read

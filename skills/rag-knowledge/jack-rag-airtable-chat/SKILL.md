@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-airtable-chat"
+name: "airtable-chat"
 description: "Orchestrates a Make.com scenario to fetch data from Airtable, aggregate it, and use OpenAI to generate a response based on user input."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["make.com", "airtable", "openai", "rag", "chatbot"]
 triggers:
   - "to create a chatbot powered by airtable and openai"

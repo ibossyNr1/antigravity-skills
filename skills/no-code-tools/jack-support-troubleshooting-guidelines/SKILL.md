@@ -1,11 +1,10 @@
 ---
-name: jack-support-troubleshooting-guidelines
+name: "troubleshooting-guidelines"
 description: >-
   Provides a structured approach for troubleshooting AI agent issues, including
   detailing the problem, steps tried, and error messages.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - troubleshooting
   - support

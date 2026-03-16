@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-google-review-automation-n8n"
+name: "google-review-automation-n8n"
 description: "Automates the collection of and replies to Google Reviews using n8n, increasing conversions and appointments."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["google reviews", "automation", "lead generation", "n8n", "customer feedback", "RAG"]
 triggers:
   - "Upon receiving a new Google review."

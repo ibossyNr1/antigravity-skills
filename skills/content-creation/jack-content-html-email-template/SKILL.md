@@ -1,8 +1,8 @@
 ---
-name: "jack-content-html-email-template"
+name: "html-email-template"
 description: "Provides a basic HTML email template that can be used as a starting point for automated email responses."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "html", "template", "automation"]
 triggers:
   - "When you need a basic HTML email template for sending automated responses"

@@ -9,8 +9,7 @@ description: >-
   manual, warranty check, adding new device, maintenance reminder. Triggers:
   /device, /geräte, 'mein Geschirrspüler', 'Fehler E24', 'Fehlermeldung', device
   problems, appliance issues.
-author: clawdbot
-license: MIT
+
 metadata:
   clawdbot:
     emoji: "\U0001F527"

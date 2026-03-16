@@ -7,7 +7,7 @@ description: >-
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - reel script
   - short video script

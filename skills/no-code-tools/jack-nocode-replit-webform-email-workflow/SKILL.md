@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-replit-webform-email-workflow"
+name: "replit-webform-email-workflow"
 description: "Automates email responses to Replit web form submissions using Make.com and OpenAI to generate personalized welcome emails based on the form message."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["replit", "webform", "email", "automation", "make.com", "openai", "gpt-4o"]
 triggers:
   - "When a new submission is made via a Replit web form."

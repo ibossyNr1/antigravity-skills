@@ -17,7 +17,6 @@ Build production-ready retrieval-augmented generation systems.
 
 **RAG = Retrieval + Context Assembly + Generation**
 
-Use RAG when you need LLMs to access fresh, domain-specific, or proprietary knowledge that wasn't in their training data.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-podcast-show-prep"
+name: "podcast-show-prep"
 description: "Prepares podcast hosts by deeply researching guests and generating talking points and questions with AI."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["podcast", "guest research", "content", "preparation"]
 triggers:
   - "when preparing for a podcast interview"

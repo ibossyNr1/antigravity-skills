@@ -1,8 +1,8 @@
 ---
-name: "jack-social-post-creator"
+name: "post-creator"
 description: "Creates social media posts for platforms like Instagram, X, LinkedIn, Skool, and YouTube summaries."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["social media", "content creation", "AI", "post generation"]
 triggers:
   - "when the user asks to generate social media content for a specific platform"

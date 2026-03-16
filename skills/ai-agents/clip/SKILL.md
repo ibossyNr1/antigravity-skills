@@ -7,8 +7,7 @@ description: >-
   vision-language tasks without fine-tuning. Best for general-purpose image
   understanding.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Multimodal
   - CLIP
@@ -267,5 +266,4 @@ results = collection.query(
 - **Paper**: https://arxiv.org/abs/2103.00020
 - **Colab**: https://colab.research.google.com/github/openai/clip/
 - **License**: MIT
-
 

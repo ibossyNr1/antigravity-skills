@@ -2,8 +2,7 @@
 name: "instantly-autoreply"
 description: "Automatically replies to emails in Instantly using a knowledge base and Claude for reply generation.  Useful for automating sales outreach and customer support."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["email automation","sales outreach","AI","Claude","Instantly"]
 triggers:
   - "when a new email is received in Instantly"

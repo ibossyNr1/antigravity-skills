@@ -5,7 +5,7 @@ description: >-
   designing a presentation, creating slides, getting presentation feedback,
   structuring a talk, or reviewing slides. Keywords: presentation, slides, talk,
   PowerPoint, Keynote, reveal.js.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

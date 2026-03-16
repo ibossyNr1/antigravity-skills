@@ -1,11 +1,10 @@
 ---
-name: jack-sales-automated-ai-sales-system
+name: "automated-ai-sales-system"
 description: >-
   Complete Make.com scenario for automated AI sales, from lead intake to
   personalized email with voice note.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - make.com
   - sales automation

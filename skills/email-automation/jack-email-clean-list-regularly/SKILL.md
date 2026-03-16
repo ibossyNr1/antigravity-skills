@@ -1,8 +1,8 @@
 ---
-name: "jack-email-clean-list-regularly"
+name: "clean-list-regularly"
 description: "Remove inactive subscribers every 3-6 months to maintain list health. Improves deliverability and reduces costs while improving campaign performance."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "list hygiene", "deliverability"]
 triggers:
   - "When managing email lists"

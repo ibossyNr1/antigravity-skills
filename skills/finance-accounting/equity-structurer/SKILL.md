@@ -5,7 +5,7 @@ description: 'Structure founder equity, vesting schedules, and employee option p
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - equity structure
   - founder equity

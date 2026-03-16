@@ -4,7 +4,7 @@ description: >-
   Extract descriptive musical characteristics from any artist or band without
   using their name, building a vocabulary of sonic qualities for AI music
   generation, music description, or creative recombination.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

@@ -2,8 +2,7 @@
 name: "deploy-landing-page"
 description: "Deploys a landing page to Firebase Hosting without requiring confirmation prompts."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["firebase","hosting","deployment"]
 triggers:
   - "deploy landing page"

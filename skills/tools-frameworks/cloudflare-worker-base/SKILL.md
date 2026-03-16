@@ -7,7 +7,6 @@ description: >
   Prevents 6 errors: export syntax, routing conflicts, HMR crashes, and Service
   Worker format confusion.
 
-
   Use when: creating Workers projects, configuring Hono or Vite for Workers,
   deploying with Wrangler,
 
@@ -15,7 +14,6 @@ description: >
   route conflicts, scheduled
 
   handlers, or HMR race conditions.
-
 
   Keywords: Cloudflare Workers, CF Workers, Hono, wrangler, Vite, Static Assets,
   @cloudflare/vite-plugin,
@@ -27,7 +25,7 @@ description: >
   was canceled",
 
   "Handler does not export", deployment fails, routing not working, HMR crashes
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

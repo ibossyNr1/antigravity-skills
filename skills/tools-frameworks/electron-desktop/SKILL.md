@@ -408,7 +408,6 @@ autoUpdater.on("update-downloaded", () => {
 # electron-builder.yml
 appId: com.mycompany.myapp
 productName: My App
-copyright: Copyright © 2025
 
 directories:
   output: dist

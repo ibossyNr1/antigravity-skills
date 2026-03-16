@@ -5,7 +5,7 @@ description: >-
   adapting a source work to a new context, when combining multiple source
   extractions, or when generating variations that preserve function while
   changing form.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

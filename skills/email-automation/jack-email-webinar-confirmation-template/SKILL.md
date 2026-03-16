@@ -1,8 +1,8 @@
 ---
-name: "jack-email-webinar-confirmation-template"
+name: "webinar-confirmation-template"
 description: "A fill-in-the-blanks email template to confirm webinar registration."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email template", "webinar", "confirmation", "registration"]
 triggers:
   - "when you need to send a confirmation email after webinar registration"

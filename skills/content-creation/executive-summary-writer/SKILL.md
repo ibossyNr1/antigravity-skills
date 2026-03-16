@@ -5,7 +5,7 @@ description: Create concise executive summaries and TL;DR versions of long docum
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - executive summary
   - write summary

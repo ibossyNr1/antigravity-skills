@@ -7,7 +7,7 @@ description: >-
 category: document-creation
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - create invoice
   - generate invoice

@@ -1,8 +1,8 @@
 ---
-name: "jack-email-criticality-agent"
+name: "criticality-agent"
 description: "Determines the criticality of an email and sends a notification if it requires immediate attention."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "priority", "notification", "ai agent"]
 triggers:
   - "when an email might be urgent"

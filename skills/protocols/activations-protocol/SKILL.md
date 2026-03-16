@@ -2,8 +2,7 @@
 name: "skill-activation-protocol"
 description: "This outlines the process for safely integrating new skills into the system, including dependency checks, testing, and storage conventions."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["skills","testing","dependency-management","onboarding","security"]
 triggers:
   - "when importing a new skill"

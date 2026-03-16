@@ -4,7 +4,7 @@ description: >-
   Create and evolve design systems with design tokens, component architecture,
   accessibility guidelines, and documentation templates. Ensures consistent,
   scalable, and accessible UI across products.
-license: MIT
+
 metadata:
   version: 1.0.0
   tags:

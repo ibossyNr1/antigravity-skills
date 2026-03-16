@@ -1,11 +1,10 @@
 ---
-name: jack-social-image-improvement-agent
+name: "image-improvement-agent"
 description: >-
   Improves image quality based on user prompts using file IDs and new file
   names.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - image editing
   - ai

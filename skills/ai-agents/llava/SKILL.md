@@ -7,8 +7,7 @@ description: >-
   and instruction following. Use for vision-language chatbots or image
   understanding tasks. Best for conversational image analysis.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - LLaVA
   - Vision-Language
@@ -319,5 +318,4 @@ demo.launch()
 - **Demo**: https://llava.hliu.cc
 - **Models**: https://huggingface.co/liuhaotian
 - **License**: Apache 2.0
-
 

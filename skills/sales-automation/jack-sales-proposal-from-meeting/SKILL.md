@@ -1,11 +1,10 @@
 ---
-name: jack-sales-proposal-from-meeting
+name: "proposal-from-meeting"
 description: >-
   Generate a client proposal draft from meeting notes, including discussed
   points, desired outcomes, and pricing, ready for customization.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - sales
   - proposal

@@ -4,7 +4,7 @@ description: >-
   A/B testing and content experimentation methodology for data-driven content
   optimization. Use when implementing experiments, analyzing results, or
   building experimentation infrastructure.
-license: MIT
+
 metadata:
   author: sanity
   version: 1.0.0

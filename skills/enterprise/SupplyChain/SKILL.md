@@ -296,7 +296,6 @@ GATE 5: STRATEGIC
 
 | Risk Type | Examples | Mitigation |
 |-----------|----------|------------|
-| **Single Source** | Proprietary technology, limited capacity | Dual source, inventory buffer |
 | **Financial** | Supplier bankruptcy, cash flow issues | Credit monitoring, payment terms |
 | **Geopolitical** | Trade disputes, sanctions, instability | Regional diversification |
 | **Operational** | Fire, flood, equipment failure | BCP review, safety stock |

@@ -1,7 +1,7 @@
 ---
 name: visual-content-generator
 description: Generate visual content assets for social media. Includes carousel PDF generator and multi-platform social asset batch generator. Creates LinkedIn carousels, Instagram posts, Twitter images from content briefs. Use for visual content creation, carousel design, or social media asset batches.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: [PROJECT_NAME] AI

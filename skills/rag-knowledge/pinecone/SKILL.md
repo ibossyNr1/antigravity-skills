@@ -7,8 +7,7 @@ description: >-
   systems, or semantic search at scale. Best for serverless, managed
   infrastructure.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - RAG
   - Pinecone
@@ -371,5 +370,4 @@ index.delete(delete_all=True)
 - **Docs**: https://docs.pinecone.io
 - **Console**: https://app.pinecone.io
 - **Pricing**: https://www.pinecone.io/pricing
-
 

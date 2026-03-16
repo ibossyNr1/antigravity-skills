@@ -6,8 +6,7 @@ description: >-
   model needed, more efficient than DPO. Use for preference alignment when want
   simpler, faster training than DPO/PPO.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Post-Training
   - SimPO
@@ -232,6 +231,4 @@ gradient_checkpointing: true
 - GitHub: https://github.com/princeton-nlp/SimPO
 - Models: https://huggingface.co/princeton-nlp
 - Alignment Handbook: https://github.com/huggingface/alignment-handbook
-
-
 

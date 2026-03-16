@@ -2,8 +2,7 @@
 name: "skill-vault-sync"
 description: "Syncs skills from a project to the central vault, making them available for future projects. Use to update the vault with improved skills."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["skill management","vault synchronization","project skills","skill sharing","utility","internal"]
 triggers:
   - "when a skill is updated in a project"

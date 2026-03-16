@@ -348,7 +348,6 @@ AI systems prioritize content from credible sources. Implement these signals:
 - [ ] **HTTPS:** Secure connection required
 - [ ] **Privacy policy:** Transparent data handling
 - [ ] **Update dates:** Visible "Last updated" timestamps
-- [ ] **Original research:** Proprietary data, case studies, expert quotes
 - [ ] **Reviews/testimonials:** Third-party validation where applicable
 
 ### Building Domain Authority
@@ -1485,8 +1484,7 @@ title: "How to Optimize Content for AI Search Engines"
 description: "Complete guide to AEO and GEO strategies for ChatGPT, Perplexity, and Google AI Overviews visibility."
 date: 2025-01-15
 lastmod: 2025-01-15
-author:
-  name: "Jane Doe"
+
   title: "SEO Specialist"
   linkedin: "https://linkedin.com/in/janedoe"
   twitter: "https://twitter.com/janedoe"

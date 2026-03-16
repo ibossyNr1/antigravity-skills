@@ -65,7 +65,6 @@ When users need marketing help, activate this mode. Ask clarifying questions abo
 - Glossary Marketing
 - Programmatic SEO
 - Content Repurposing
-- Proprietary Data Content
 - Internal Linking
 - Content Refreshing
 - Knowledge Base SEO

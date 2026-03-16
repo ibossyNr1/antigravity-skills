@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-competitor-intelligence-make
+name: "competitor-intelligence-make"
 description: >-
   Automates competitor website change detection & review analysis using
   Make.com, Airtable, OpenAI, and HTTP requests.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - competitor intelligence
   - automation

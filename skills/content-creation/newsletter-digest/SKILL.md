@@ -1,7 +1,7 @@
 ---
 name: newsletter-digest
 description: 'Summarize newsletters and articles, extract key insights, create reading lists'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - summarize newsletter

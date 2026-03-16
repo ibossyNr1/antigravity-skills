@@ -7,13 +7,12 @@ description: >
   5M vectors/index (was 200K), 31ms latency (was 549ms), returnMetadata enum,
   and V1 deprecation (Dec 2024).
 
-
   Use when: migrating V1→V2, handling async mutations with mutationId, creating
   metadata indexes before insert,
 
   or troubleshooting "returnMetadata must be 'all'", V2 timing issues, metadata
   index errors, dimension mismatches.
-license: MIT
+
 metadata:
   keywords:
     - vectorize v2

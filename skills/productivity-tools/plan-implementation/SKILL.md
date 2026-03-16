@@ -3,7 +3,7 @@ name: plan-implementation
 description: >-
   Execute detailed implementation plans systematically. Breaks down planned
   tasks into actionable steps with progress tracking and milestone management.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

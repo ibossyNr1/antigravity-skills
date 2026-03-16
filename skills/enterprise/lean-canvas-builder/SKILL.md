@@ -5,7 +5,7 @@ description: Create lean canvas and business model canvas for startup planning
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - lean canvas
   - business model canvas

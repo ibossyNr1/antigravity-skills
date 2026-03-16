@@ -5,7 +5,7 @@ description: 'Assess product-market fit using frameworks, metrics, and customer 
 category: business
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - product market fit
   - pmf assessment

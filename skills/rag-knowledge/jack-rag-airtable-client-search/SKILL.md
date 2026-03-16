@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-airtable-client-search"
+name: "airtable-client-search"
 description: "Searches for client information in Airtable and formats the data for a vector database search using OpenAI."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["airtable", "openai", "vector database", "client search", "automation"]
 triggers:
   - "When client data is updated in Airtable."

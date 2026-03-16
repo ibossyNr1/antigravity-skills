@@ -1,8 +1,8 @@
 ---
-name: "jack-content-flux-image-prompt"
+name: "flux-image-prompt"
 description: "Generates a prompt for Flux image generator with customizable settings for stoic image creation."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["image generation", "AI art", "prompt engineering"]
 triggers:
   - "when generating stoic themed images using AI"

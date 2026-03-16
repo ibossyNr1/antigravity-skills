@@ -4,8 +4,7 @@ description: >-
   Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and
   task-specific model training
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Post-Training
   - Reinforcement Learning
@@ -585,6 +584,4 @@ When this skill is loaded:
 - Save checkpoints frequently (every 100 steps)
 
 This skill is designed for **expert-level implementation**. Beginners should start with supervised fine-tuning before attempting GRPO.
-
-
 

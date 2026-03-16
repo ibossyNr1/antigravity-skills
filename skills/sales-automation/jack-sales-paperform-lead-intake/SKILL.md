@@ -1,11 +1,10 @@
 ---
-name: jack-sales-paperform-lead-intake
+name: "paperform-lead-intake"
 description: >-
   Capture lead information using Paperform. Use when you need to collect
   detailed lead information through a customizable form.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - lead capture
   - paperform

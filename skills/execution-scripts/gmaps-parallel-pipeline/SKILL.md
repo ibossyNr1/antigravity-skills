@@ -2,8 +2,7 @@
 name: "gmaps-lead-pipeline"
 description: "Scrapes Google Maps for business leads, extracts contact info, and saves them incrementally to a Google Sheet."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google maps","lead generation","web scraping","data enrichment","google sheets"]
 triggers:
   - "when I need to scrape Google Maps for leads"

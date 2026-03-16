@@ -7,7 +7,7 @@ description: >-
   parallel), memory systems, and flows for complex workflows. Essential for
   building collaborative AI agent teams. Use when: crewai, multi-agent team,
   agent roles, crew of agents, role-based agents.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

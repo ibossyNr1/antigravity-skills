@@ -7,7 +7,7 @@ description: >-
 category: research
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - analyze survey
   - survey results

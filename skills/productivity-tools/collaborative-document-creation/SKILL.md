@@ -3,7 +3,7 @@ name: collaborative-document-creation
 description: >-
   Collaborate on document creation and refinement. Merges contributions, manages
   versions, and produces unified documents from multiple sources.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

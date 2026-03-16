@@ -5,7 +5,7 @@ description: 'Summarize meetings into clear, actionable notes with decisions and
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - take meeting notes
   - summarize meeting

@@ -2,7 +2,7 @@
 name: daily-review
 description: 'End-of-day review to capture progress, insights, and plan tomorrow'
 version: 1.0.0
-author: theflohart
+
 tags:
   - productivity
   - review

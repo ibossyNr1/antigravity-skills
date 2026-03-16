@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-vercel-mcp-config"
+name: "vercel-mcp-config"
 description: "Add Vercel Model Context Protocol (MCP) to Antigravity config to manage Vercel deployments from within Antigravity."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["vercel", "mcp", "antigravity", "deployment"]
 triggers:
   - "when wanting to integrate Vercel deployments with Antigravity"

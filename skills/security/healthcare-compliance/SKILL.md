@@ -7,7 +7,7 @@ description: >-
 category: domain
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - HIPAA compliance
   - healthcare privacy
@@ -126,7 +126,6 @@ The Health Insurance Portability and Accountability Act (HIPAA) has three main r
 - **Right to amend:** Allow patient to request corrections
 - **Right to accounting of disclosures:** Track and report certain disclosures
 - **Right to restrict uses/disclosures:** Must honor restrictions if agree
-- **Right to confidential communications:** Alternative contact methods if requested
 - **Right to copy of NPP:** Provide upon request
 
 **Permitted Uses and Disclosures:**
@@ -378,7 +377,6 @@ Determine if unauthorized acquisition/disclosure poses significant risk of harm.
 - When authorization is required
 - Minimum necessary standard
 - Patient rights
-- Confidentiality obligations
 - Proper disposal of PHI
 - Incidental disclosures and how to minimize
 
@@ -434,7 +432,6 @@ Determine if unauthorized acquisition/disclosure poses significant risk of harm.
 
 ### Workflow 4: Risk Assessment & Security Remediation
 
-**Purpose:** Identify and mitigate threats and vulnerabilities to ePHI confidentiality, integrity, and availability.
 
 **Risk Assessment Process:**
 
@@ -649,13 +646,11 @@ Many states have stricter requirements. Always comply with whichever is more str
 **Common State Variations:**
 
 **California (CMIA, CCPA):**
-- Stricter confidentiality requirements
 - Patient authorization required for some disclosures allowed under HIPAA
 - Additional breach notification requirements under CCPA
 - Specific requirements for HIV, mental health, substance abuse treatment
 
 **Texas:**
-- Stricter mental health confidentiality
 - Medical peer review privilege protections
 
 **New York:**

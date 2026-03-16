@@ -7,7 +7,7 @@ description: >-
 category: meta
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - workflow automation
   - automate workflow

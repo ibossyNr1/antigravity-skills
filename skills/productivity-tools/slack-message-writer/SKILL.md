@@ -5,7 +5,7 @@ description: 'Craft effective, well-formatted Slack messages for team communicat
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write slack message
   - compose slack

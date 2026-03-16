@@ -6,8 +6,7 @@ description: >-
   with tool calls, or when you need 5× faster inference than vLLM with prefix
   sharing. Powers 300,000+ GPUs at xAI, AMD, NVIDIA, and LinkedIn.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Inference Serving
   - SGLang
@@ -456,5 +455,4 @@ response = client.chat.completions.create(
 - **Docs**: https://sgl-project.github.io/
 - **Paper**: RadixAttention (arXiv:2312.07104)
 - **Discord**: https://discord.gg/sglang
-
 

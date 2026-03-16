@@ -1,8 +1,8 @@
 ---
-name: "jack-design-ui-inspiration-list"
+name: "ui-inspiration-list"
 description: "A curated list of websites to find UI/UX inspiration for web design."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ui", "ux", "web design", "inspiration"]
 triggers:
   - "when designing a website"

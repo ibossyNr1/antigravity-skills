@@ -190,7 +190,6 @@ def create_post():
     </main>
 
     <footer>
-        <p>&copy; {{ current_year }} {{ app_name }}. All rights reserved.</p>
     </footer>
 
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>

@@ -4,7 +4,7 @@ description: >-
   Manage background coding agents in tmux sessions. Spawn Claude Code or other
   agents, check progress, get results.
 version: 1.0.0
-author: Jose Munoz
+
 homepage: 'https://clawdhub.com/skills/tmux-agents'
 triggers:
   - spawn agent

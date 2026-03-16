@@ -7,8 +7,7 @@ description: >-
   asked to sync with another Clawdbot, share memory between instances, or keep
   multiple agents in sync. Triggers: /sync, 'sync with mac', 'update other
   clawdbot', 'share this with my other bot'.
-author: clawdbot
-license: MIT
+
 metadata:
   clawdbot:
     emoji: "\U0001F504"

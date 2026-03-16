@@ -1,8 +1,8 @@
 ---
-name: "jack-content-viral-hook-generator"
+name: "viral-hook-generator"
 description: "Generates viral hooks for content creation across multiple niches based on a template."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["content creation", "viral hooks", "social media", "marketing"]
 triggers:
   - "need ideas for viral social media content"

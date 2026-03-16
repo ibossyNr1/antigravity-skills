@@ -1,8 +1,8 @@
 ---
-name: "jack-email-tone-analysis"
+name: "tone-analysis"
 description: "Analyzes email responses to learn the writer's communication patterns, covering structure, formality, content flow, and technical elements."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "tone of voice", "AI", "analysis"]
 triggers:
   - "When you need to understand and replicate someone's email style."

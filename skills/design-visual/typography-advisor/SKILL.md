@@ -5,7 +5,7 @@ description: Expert font pairing and typography system design
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - font pairing
   - typography

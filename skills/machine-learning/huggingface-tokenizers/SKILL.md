@@ -7,8 +7,7 @@ description: >-
   padding/truncation. Integrates seamlessly with transformers. Use when you need
   high-performance tokenization or custom tokenizer training.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Tokenization
   - HuggingFace
@@ -531,5 +530,4 @@ Browse all: https://huggingface.co/models?library=tokenizers
 - **Version**: 0.20.0+
 - **Course**: https://huggingface.co/learn/nlp-course/chapter6/1
 - **Paper**: BPE (Sennrich et al., 2016), WordPiece (Schuster & Nakajima, 2012)
-
 

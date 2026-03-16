@@ -3,7 +3,7 @@ name: mobile-platform-specialist
 description: >-
   Provide expert guidance on iOS development and design. Advises on platform
   capabilities, best practices, and architectural decisions.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

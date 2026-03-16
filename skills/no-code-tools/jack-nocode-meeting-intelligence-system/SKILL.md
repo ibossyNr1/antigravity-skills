@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-meeting-intelligence-system"
+name: "meeting-intelligence-system"
 description: "Procedure to make every meeting actionable using AI to extract key decisions and action items."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["meeting", "automation", "task management", "AI"]
 triggers:
   - "when analyzing meeting recordings"

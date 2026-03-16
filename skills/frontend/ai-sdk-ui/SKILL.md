@@ -10,13 +10,12 @@ description: >
   and 12 UI error solutions (stream parsing, stale body values, React update
   depth).
 
-
   Use when: implementing AI SDK v5/v6 chat UIs, migrating v4→v5, troubleshooting
   "useChat failed to parse
 
   stream", "useChat no response", or "stale body values" errors, or integrating
   OpenAI assistants.
-license: MIT
+
 metadata:
   version: 1.1.0
   last_verified: 2025-11-22T00:00:00.000Z

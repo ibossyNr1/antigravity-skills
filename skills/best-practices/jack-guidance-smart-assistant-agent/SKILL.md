@@ -1,11 +1,10 @@
 ---
-name: jack-guidance-smart-assistant-agent
+name: "smart-assistant-agent"
 description: >-
   Defines a persona for an AI Smart Assistant Agent, detailing its role,
   context, tasks, and ethical guidelines.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - ai agent
   - persona

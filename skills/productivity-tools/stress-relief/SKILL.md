@@ -1,7 +1,7 @@
 ---
 name: stress-relief
 description: 'Manage stress with quick techniques, stress logging, and recovery tools'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - stressed out

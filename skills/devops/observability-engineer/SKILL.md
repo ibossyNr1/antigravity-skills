@@ -105,7 +105,6 @@ Expert observability engineer specializing in comprehensive monitoring strategie
 - Protocol buffer and gRPC telemetry transmission
 - Multi-backend telemetry export (Jaeger, Prometheus, DataDog)
 - Observability data standardization across services
-- Migration strategies from proprietary to open standards
 
 ### Infrastructure & Platform Monitoring
 - Kubernetes cluster monitoring with Prometheus Operator

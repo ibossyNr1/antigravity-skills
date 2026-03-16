@@ -1,8 +1,8 @@
 ---
-name: "jack-content-idea-bot-analyst"
+name: "idea-bot-analyst"
 description: "Instructions for an Idea Bot GPT assistant to critically examine an idea based on research and provide a comprehensive, well-structured analysis (800-1200 words)."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["openai", "gpt", "idea analysis", "content creation", "ai assistant"]
 triggers:
   - "When you need a detailed analysis of an idea's potential."

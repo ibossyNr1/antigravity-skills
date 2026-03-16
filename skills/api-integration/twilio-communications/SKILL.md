@@ -6,7 +6,7 @@ description: >-
   simple notifications to complex IVR systems and multi-channel authentication.
   Critical focus on compliance, rate limits, and error handling. Use when:
   twilio, send SMS, text message, voice call, phone verification.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -26,7 +26,6 @@ Key considerations:
 - Default rate limit: 80 messages per second (MPS)
 - Messages over 160 characters are split (and cost more)
 - Carrier filtering can block messages (especially to US numbers)
-
 
 **When to use**: ['Sending notifications to users', 'Transactional messages (order confirmations, shipping)', 'Alerts and reminders']
 
@@ -116,7 +115,6 @@ Key benefits over DIY OTP:
 
 Google found SMS 2FA blocks "100% of automated bots, 96% of bulk
 phishing attacks, and 76% of targeted attacks."
-
 
 **When to use**: ['User phone number verification at signup', 'Two-factor authentication (2FA)', 'Password reset verification', 'High-value transaction confirmation']
 
@@ -212,7 +210,6 @@ Core TwiML verbs:
 
 Key insight: Twilio makes HTTP request to your webhook, you return
 TwiML, Twilio executes it. Stateless, so use URL params or sessions.
-
 
 **When to use**: ['Phone menu systems (press 1 for sales...)', 'Automated customer support', 'Appointment reminders with confirmation', 'Voicemail systems']
 

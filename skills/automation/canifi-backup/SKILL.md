@@ -5,7 +5,7 @@ description: >-
   and Claude settings
 category: productivity
 version: 1.0.0
-author: Canifi LifeOS
+
 required: true
 compatibility: 'agent-zero, claude-code, cursor'
 ---

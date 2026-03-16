@@ -7,7 +7,7 @@ description: >-
   local-first apps, CLI tools, scripts that grow into products, and the art of
   dogfooding. Use when: build a tool, personal tool, scratch my itch, solve my
   problem, CLI tool.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-perplexity-fact-check-prompt"
+name: "perplexity-fact-check-prompt"
 description: "Prompt for Perplexity AI to fact-check a statement, providing a verdict, confidence score, findings, and source summaries from reputable sources."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["fact-checking", "perplexity", "verification", "ai"]
 triggers:
   - "When you need to fact-check a statement from a URL."

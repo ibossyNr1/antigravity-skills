@@ -1,11 +1,10 @@
 ---
-name: jack-sales-grand-slam-offer
+name: "grand-slam-offer"
 description: >-
   Framework for building an irresistible 'Grand Slam Offer' by focusing on
   outcome, hurdles, solutions, delivery, and refinement.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - offer creation
   - sales strategy

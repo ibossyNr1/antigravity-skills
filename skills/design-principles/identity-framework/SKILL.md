@@ -4,7 +4,7 @@ description: >-
   Define and document brand identity standards and guidelines. Establishes
   visual language, tone, messaging, and design principles for consistent brand
   expression.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

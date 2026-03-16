@@ -6,7 +6,7 @@ description: >-
   App API, payments, user authentication, and building viral mini apps that
   monetize. Use when: telegram mini app, TWA, telegram web app, TON app, mini
   app.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

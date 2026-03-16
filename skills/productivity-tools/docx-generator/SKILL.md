@@ -6,7 +6,7 @@ description: >-
   or automate Word document workflows. Supports both template-based generation
   (for branding compliance) and from-scratch creation. Keywords: Word, DOCX,
   document, report, template, contract, letter, corporate, branding.
-license: MIT
+
 compatibility: 'Requires Deno with --allow-read, --allow-write permissions'
 metadata:
   author: agent-skills
@@ -129,7 +129,6 @@ Create `spec.json`:
       },
       "footer": {
         "paragraphs": [
-          { "text": "Confidential", "alignment": "center" }
         ]
       },
       "content": [

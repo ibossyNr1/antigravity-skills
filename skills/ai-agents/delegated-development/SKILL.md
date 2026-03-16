@@ -3,7 +3,7 @@ name: delegated-development
 description: >-
   Drive development using delegated agent workflows. Coordinates multi-agent
   task execution with proper supervision and result integration.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

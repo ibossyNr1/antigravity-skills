@@ -3,7 +3,7 @@ name: prospect-investigation
 description: >-
   Research and investigate business prospects and leads. Gathers company
   information, contact details, and qualification data for sales.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

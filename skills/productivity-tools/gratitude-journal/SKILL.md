@@ -1,7 +1,7 @@
 ---
 name: gratitude-journal
 description: 'Build gratitude practice with daily entries, streaks, and reflection prompts'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - gratitude journal

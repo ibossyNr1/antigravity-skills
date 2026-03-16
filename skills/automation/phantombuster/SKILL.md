@@ -6,7 +6,7 @@ description: >-
   when the user needs to run LinkedIn scraping, Twitter automation, lead
   generation phantoms, or any PhantomBuster workflow.
 version: 1.0.0
-author: captmarbles
+
 compatibility: 'agent-zero, claude-code, cursor'
 ---
 

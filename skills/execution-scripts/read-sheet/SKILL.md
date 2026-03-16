@@ -2,8 +2,7 @@
 name: "google-sheet-to-json"
 description: "Reads data from a Google Sheet and exports it as a JSON file. Useful when you need to process spreadsheet data with other tools."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["google sheets","data extraction","json","data conversion"]
 triggers:
   - "when I need to extract Google Sheet data to JSON"

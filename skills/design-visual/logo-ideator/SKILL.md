@@ -5,7 +5,7 @@ description: Generate creative logo concepts and design directions
 category: design
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - logo ideas
   - design logo

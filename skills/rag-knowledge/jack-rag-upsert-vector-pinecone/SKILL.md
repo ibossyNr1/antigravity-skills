@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-upsert-vector-pinecone"
+name: "upsert-vector-pinecone"
 description: "Upserts a vector along with metadata to Pinecone."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["pinecone", "vector database", "upsert", "metadata", "automation"]
 triggers:
   - "When you need to store a vector embedding and associated metadata in Pinecone."

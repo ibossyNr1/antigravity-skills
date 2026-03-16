@@ -4,7 +4,7 @@ description: >-
   Narrative RPG game master for collaborative storytelling. Use for tabletop RPG
   sessions, solo narrative games, or any real-time collaborative fiction
   requiring scene management, NPC portrayal, and story coherence.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

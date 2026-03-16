@@ -5,7 +5,7 @@ description: Design vector similarity search systems for semantic retrieval at s
 category: ai-ml
 complexity: advanced
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - vector search
   - similarity search

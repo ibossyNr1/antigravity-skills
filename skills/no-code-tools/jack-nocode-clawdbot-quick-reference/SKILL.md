@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-clawdbot-quick-reference"
+name: "clawdbot-quick-reference"
 description: "Provides a quick reference card with essential commands for managing ClawdBot."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["quick reference", "clawdbot", "vps", "commands", "cheat sheet"]
 triggers:
   - "need clawdbot commands"

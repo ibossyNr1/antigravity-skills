@@ -6,7 +6,7 @@ description: >-
   diagnosis and frameworks. Critical constraint - never generate outline
   content. Instead ask questions, identify structural issues, suggest
   approaches, and let the writer structure.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

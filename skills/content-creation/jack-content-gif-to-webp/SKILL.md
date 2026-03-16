@@ -1,8 +1,8 @@
 ---
-name: "jack-content-gif-to-webp"
+name: "gif-to-webp"
 description: "Convert video files to WebP format for smaller file sizes and better web performance using EZgif."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["video", "webp", "optimization", "ezgif"]
 triggers:
   - "When needing to reduce video file sizes for web use"

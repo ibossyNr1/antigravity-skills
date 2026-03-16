@@ -4,7 +4,7 @@ description: >-
   Otter.ai transcription CLI - list, search, download, and sync meeting
   transcripts to CRM.
 version: 1.0.0
-author: dbhurley
+
 homepage: 'https://otter.ai'
 metadata:
   clawdis:

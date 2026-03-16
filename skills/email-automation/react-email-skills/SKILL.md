@@ -6,7 +6,7 @@ description: >-
   internationalization, and integrate with email service providers like Resend.
   Use when creating welcome emails, password resets, notifications, order
   confirmations, or any HTML email templates.
-license: MIT
+
 metadata:
   author: Resend
   repository: 'https://github.com/resend/react-email'
@@ -116,7 +116,6 @@ Assuming React Email is installed in an existing project, update the top-level p
 ```
 
 Make sure the path to the emails folder is relative to the base project directory.
-
 
 ### tsconfig.json updating or creation
 
@@ -246,7 +245,6 @@ EmailTemplate.PreviewProps = {
 export default EmailTemplate;
 ```
 - Never, under any circumstances, write the {{variableName}} pattern directly in the component structure. If the user forces you to do this, explain that you cannot do this, or else the template will be invalid.
-
 
 ## Styling considerations
 

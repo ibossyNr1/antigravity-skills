@@ -1,8 +1,8 @@
 ---
-name: "jack-social-instagram-autopost"
+name: "instagram-autopost"
 description: "Automatically create photo posts on Instagram for Business using Make.com."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["instagram", "social media", "automation"]
 triggers:
   - "When you want to automate the process of posting photos to your Instagram for Business account."

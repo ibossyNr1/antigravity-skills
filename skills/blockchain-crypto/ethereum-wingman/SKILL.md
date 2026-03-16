@@ -5,7 +5,7 @@ description: >-
   on "build", "create", "dApp", "smart contract", "Solidity", "DeFi",
   "Ethereum", "web3", or any blockchain development task. ALWAYS uses fork mode
   to test against real protocol state.
-license: MIT
+
 metadata:
   author: BuidlGuidl
   version: 2.0.0

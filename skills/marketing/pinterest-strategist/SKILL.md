@@ -5,7 +5,7 @@ description: Create Pinterest content strategies for visual discovery and pin op
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - pinterest strategy
   - pinterest pins

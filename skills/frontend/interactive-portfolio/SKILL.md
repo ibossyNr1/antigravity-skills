@@ -6,7 +6,7 @@ description: >-
   designer portfolios, creative portfolios, and portfolios that convert visitors
   into opportunities. Use when: portfolio, personal website, showcase work,
   developer portfolio, designer portfolio.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

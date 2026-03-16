@@ -2,8 +2,7 @@
 name: "welcome-client-emails"
 description: "Sends a 3-email welcome sequence (Nick, Peter, Sam) when a new client signs an agreement.  Uses the Gmail API."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["email","gmail","welcome sequence","automation","onboarding"]
 triggers:
   - "when a new client signs"

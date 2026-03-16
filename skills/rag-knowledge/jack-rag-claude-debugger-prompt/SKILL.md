@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-claude-debugger-prompt"
+name: "claude-debugger-prompt"
 description: "Use this prompt to debug code more effectively with Claude."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["debugging", "code", "claude"]
 triggers:
   - "Need to debug code"

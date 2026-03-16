@@ -19,8 +19,7 @@ triggers:
   - cinematic ai
   - talking head video
   - lipsync
-author: ID8Labs
-license: MIT
+
 tags:
   - video
   - ai-video

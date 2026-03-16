@@ -1,11 +1,10 @@
 ---
-name: jack-research-competitor-gap-analysis
+name: "competitor-gap-analysis"
 description: >-
   Leverage review sites like G2 and Capterra to identify gaps in competitor
   offerings by filtering for 1-star reviews and 'Cons'.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - competitor analysis
   - saas

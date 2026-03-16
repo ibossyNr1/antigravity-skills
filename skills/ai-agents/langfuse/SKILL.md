@@ -6,7 +6,7 @@ description: >-
   LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and
   improving LLM applications in production. Use when: langfuse, llm
   observability, llm tracing, prompt management, llm evaluation.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

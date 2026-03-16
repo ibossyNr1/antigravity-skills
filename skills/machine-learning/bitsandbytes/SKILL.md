@@ -6,8 +6,7 @@ description: >-
   want faster inference. Supports INT8, NF4, FP4 formats, QLoRA training, and
   8-bit optimizers. Works with HuggingFace Transformers.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Optimization
   - Bitsandbytes
@@ -426,6 +425,4 @@ model = AutoModelForCausalLM.from_pretrained(
 - HuggingFace docs: https://huggingface.co/docs/transformers/quantization/bitsandbytes
 - QLoRA paper: "QLoRA: Efficient Finetuning of Quantized LLMs" (2023)
 - LLM.int8() paper: "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale" (2022)
-
-
 

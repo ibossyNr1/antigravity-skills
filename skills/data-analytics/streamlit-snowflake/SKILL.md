@@ -5,12 +5,11 @@ description: >
   scaffolding, Snowpark sessions, multi-page structure, Marketplace publishing
   as Native Apps, and caller's rights connections (v1.53.0+).
 
-
   Use when building data apps on Snowflake, deploying SiS, fixing package
   channel errors, authentication issues, cache key bugs, or path resolution
   errors.
 user-invocable: true
-license: MIT
+
 metadata:
   last_verified: 2026-01-21T00:00:00.000Z
   streamlit_version: 1.53.0

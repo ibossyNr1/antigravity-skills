@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-makecom-webhook-response"
+name: "makecom-webhook-response"
 description: "Generates HTML code for webhook responses in Make.com to display expert responses in a chat format."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["Make.com", "Webhooks", "HTML"]
 triggers:
   - "Automating responses in Make.com"

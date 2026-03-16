@@ -1,8 +1,8 @@
 ---
-name: "jack-leadgen-onboarding-form-to-pinecone"
+name: "onboarding-form-to-pinecone"
 description: "Automates onboarding by capturing data from Paperform, generating embeddings, and storing it in Pinecone."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["paperform", "onboarding", "openai", "pinecone", "automation"]
 triggers:
   - "When a new client submits the onboarding form in Paperform."

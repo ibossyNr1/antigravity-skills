@@ -1,8 +1,8 @@
 ---
-name: "jack-content-persona-sales-intelligence-researcher"
+name: "persona-sales-intelligence-researcher"
 description: "Defines an AI agent persona as a sales intelligence researcher for personalized outreach, using tools like Tavily and web scraping."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["sales intelligence", "ai persona", "personalized outreach", "tavily", "web scraping"]
 triggers:
   - "When needing to personalize sales outreach with specific prospect information"

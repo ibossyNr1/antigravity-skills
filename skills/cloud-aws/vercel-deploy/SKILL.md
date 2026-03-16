@@ -1,7 +1,7 @@
 ---
 name: vercel-deploy
 description: 'Deploy applications to Vercel with edge functions, serverless, and ISR.'
-author: vercel
+
 category: development
 tags:
   - nextjs

@@ -1,8 +1,8 @@
 ---
-name: "jack-email-api-key-template"
+name: "api-key-template"
 description: "An HTML email template for sending API keys, including instructions on how to use them in Google Chrome."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "api", "template", "html"]
 triggers:
   - "When you need to send API keys to users via email."

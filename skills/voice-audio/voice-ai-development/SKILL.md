@@ -7,7 +7,7 @@ description: >-
   infrastructure, and WebRTC fundamentals. Knows how to build low-latency,
   production-ready voice experiences. Use when: voice ai, voice agent, speech to
   text, text to speech, realtime voice.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

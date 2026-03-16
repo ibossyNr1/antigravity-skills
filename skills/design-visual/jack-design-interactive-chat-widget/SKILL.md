@@ -1,8 +1,8 @@
 ---
-name: "jack-design-interactive-chat-widget"
+name: "interactive-chat-widget"
 description: "Creates an interactive chat widget using HTML, CSS, and JavaScript that sends and receives messages via a Make.com webhook."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["chat widget", "html", "css", "javascript"]
 triggers:
   - "when you need a customizable chat interface for a web app"

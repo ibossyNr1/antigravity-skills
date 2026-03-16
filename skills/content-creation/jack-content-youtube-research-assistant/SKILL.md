@@ -1,8 +1,8 @@
 ---
-name: "jack-content-youtube-research-assistant"
+name: "youtube-research-assistant"
 description: "Identifies YouTube video ideas and content gaps using AI-driven research and competitive analysis."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["YouTube", "research", "content ideas", "competitive analysis"]
 triggers:
   - "when generating YouTube video ideas"

@@ -3,7 +3,7 @@ name: research-documentation
 description: >-
   Research topics and produce comprehensive written documentation. Synthesizes
   information into clear, well-structured, authoritative content pieces.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -3,7 +3,7 @@ name: youtube-watcher
 description: >-
   Fetch and read transcripts from YouTube videos. Use when you need to summarize
   a video, answer questions about its content, or extract information from it.
-author: michael gathara
+
 version: 1.0.0
 triggers:
   - watch youtube

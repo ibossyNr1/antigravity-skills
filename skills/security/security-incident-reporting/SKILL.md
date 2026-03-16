@@ -95,7 +95,6 @@ For vulnerability-based incidents, include CVSS v3.1 base score from the [securi
 | Field | Value |
 |-------|-------|
 | Incident ID | SIR-2026-001 |
-| Classification | Confidential |
 | Status | Closed / Active / Under Investigation |
 | Detection Time | 2026-01-21 14:32 UTC |
 | Resolution Time | 2026-01-21 15:17 UTC |

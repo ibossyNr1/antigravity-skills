@@ -5,7 +5,7 @@ description: >-
   need to create or expand lists of story elements (professions, locations,
   objects, names, etc.) for use with entropy tools. Leverages research sources
   like Kiwix/Wikipedia to build lists with good variety and size.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

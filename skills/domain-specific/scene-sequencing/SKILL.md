@@ -6,7 +6,7 @@ description: >-
   or too slow), when transitions feel mechanical, or when readers can follow but
   aren't compelled forward. Based on Dwight Swain's Goal-Conflict-Disaster and
   Reaction-Dilemma-Decision structure.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

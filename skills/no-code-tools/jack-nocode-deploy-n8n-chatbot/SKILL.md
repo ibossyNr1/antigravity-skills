@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-deploy-n8n-chatbot"
+name: "deploy-n8n-chatbot"
 description: "Deploy a customizable chatbot using n8n and a provided HTML snippet."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["chatbot", "n8n", "automation", "javascript"]
 triggers:
   - "when you need to embed a chatbot on a website using n8n for backend logic."

@@ -5,7 +5,7 @@ description: 'Create engaging, SEO-optimized blog posts for any industry or topi
 category: writing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - write blog post
   - create blog

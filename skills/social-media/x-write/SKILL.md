@@ -5,7 +5,7 @@ description: >-
   algorithm. Generates tweets optimized for replies (20x weight), OON discovery
   (90% priority), and algorithmic decay factors. Use this skill when writing
   tweets, threads, replies, or any X content.
-license: MIT
+
 metadata:
   author: zach_sndr
   version: 1.0.0

@@ -3,7 +3,7 @@ name: backend-database-specialist
 description: >-
   Provide expert guidance on backend and database services. Advises on database
   design, APIs, authentication, and deployment.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

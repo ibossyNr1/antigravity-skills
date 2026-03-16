@@ -5,7 +5,7 @@ description: >-
   entities feel permanent, when the world becomes static, when you need
   probabilistic death/fall mechanics, or when campaigns need world-level
   consequences that persist. Operates above the game-facilitator level.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

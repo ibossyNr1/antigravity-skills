@@ -1,8 +1,8 @@
 ---
-name: "jack-email-optimize-preview-text"
+name: "optimize-preview-text"
 description: "Craft engaging preview text since subscribers check it before opening. Complement your subject line while providing value or intrigue."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "preview text", "open rates"]
 triggers:
   - "When writing email content"

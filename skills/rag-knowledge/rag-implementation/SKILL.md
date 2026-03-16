@@ -4,7 +4,7 @@ description: >-
   Retrieval-Augmented Generation patterns including chunking, embeddings, vector
   stores, and retrieval optimization Use when: rag, retrieval augmented, vector
   search, embeddings, semantic search.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

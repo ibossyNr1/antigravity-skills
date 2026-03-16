@@ -5,8 +5,7 @@ description: >-
   production, and reproduce experiments with MLflow - framework-agnostic ML
   lifecycle platform
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - MLOps
   - MLflow
@@ -718,5 +717,4 @@ mlflow.set_tracking_uri("http://localhost:5000")
 - `references/tracking.md` - Comprehensive tracking guide
 - `references/model-registry.md` - Model lifecycle management
 - `references/deployment.md` - Production deployment patterns
-
 

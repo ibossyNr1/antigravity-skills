@@ -1,8 +1,8 @@
 ---
-name: "jack-email-automate-flows"
+name: "automate-flows"
 description: "Automate flows for welcome series, cart abandonment, re-engagement. Generates more revenue than manual campaigns, while saving time."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email marketing", "automation", "workflows"]
 triggers:
   - "When setting up email marketing"

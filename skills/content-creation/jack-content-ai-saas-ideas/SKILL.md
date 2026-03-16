@@ -1,8 +1,8 @@
 ---
-name: "jack-content-ai-saas-ideas"
+name: "ai-saas-ideas"
 description: "Provides 50 AI SaaS ideas with value propositions and pricing models."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ai", "saas", "ideas", "business", "automation"]
 triggers:
   - "when brainstorming AI SaaS startup ideas"

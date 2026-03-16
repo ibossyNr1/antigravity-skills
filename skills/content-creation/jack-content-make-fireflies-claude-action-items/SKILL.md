@@ -1,8 +1,8 @@
 ---
-name: "jack-content-make-fireflies-claude-action-items"
+name: "make-fireflies-claude-action-items"
 description: "Automates action item extraction from Fireflies.ai meeting transcripts using Make.com and Claude."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["make.com", "fireflies.ai", "claude", "automation", "meeting", "action items"]
 triggers:
   - "when you want to automatically extract action items from meeting transcripts"

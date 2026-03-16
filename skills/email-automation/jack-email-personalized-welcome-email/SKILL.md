@@ -1,8 +1,8 @@
 ---
-name: "jack-email-personalized-welcome-email"
+name: "personalized-welcome-email"
 description: "Generates a personalized welcome email using Anthropic Claude based on client onboarding data."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["email", "personalization", "anthropic claude", "welcome email", "automation"]
 triggers:
   - "When a new client onboarding form is submitted and processed."

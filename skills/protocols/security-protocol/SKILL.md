@@ -2,8 +2,7 @@
 name: "agent-security-guardrails"
 description: "Defines mandatory safety boundaries and security protocols for agent operations to prevent unintended actions or security breaches."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["security","safety","guardrails","permissions","isolation"]
 triggers:
   - "when performing file operations"

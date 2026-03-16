@@ -9,7 +9,7 @@ description: >-
   engineering metrics, or when user mentions CTO, tech debt, technical debt,
   team scaling, architecture decisions, technology evaluation, engineering
   metrics, DORA metrics, or technology strategy.
-license: MIT
+
 metadata:
   version: 1.0.0
   author: Alireza Rezvani

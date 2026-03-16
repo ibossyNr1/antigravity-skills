@@ -4,7 +4,7 @@ description: >-
   Diagnose and calibrate tonal delivery for tabletop RPG sessions. Use when
   narration feels flat, tone shifts jarringly, descriptions overwhelm play, or
   energy stays monotonous throughout sessions.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

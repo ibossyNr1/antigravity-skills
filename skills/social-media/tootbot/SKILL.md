@@ -1,7 +1,7 @@
 ---
 name: mastodon-publisher
 description: Publish content to Mastodon. Use when you need to post a Mastodon status.
-author: Behrang Saeedzadeh
+
 version: 0.5.0
 triggers:
   - post to mastodon

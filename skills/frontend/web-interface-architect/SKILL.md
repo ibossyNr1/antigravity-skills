@@ -3,7 +3,7 @@ name: web-interface-architect
 description: >-
   Architect and design web application interfaces. Plans component systems,
   interaction flows, and responsive layouts for web platforms.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

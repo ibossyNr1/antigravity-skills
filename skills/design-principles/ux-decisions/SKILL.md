@@ -6,7 +6,7 @@ description: >-
   visual hierarchy analysis, and reviewing designs for completeness. Enables
   rapid, intentional interface design with checklists for visual style,
   accessibility, social proof, navigation, and more.
-author: Tommy Geoco
+
 homepage: 'https://uxdecisions.com'
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'

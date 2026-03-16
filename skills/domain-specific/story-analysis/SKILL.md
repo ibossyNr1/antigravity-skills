@@ -4,7 +4,7 @@ description: >-
   Systematically evaluate completed short stories or novel chapters to identify
   strengths, weaknesses, and improvement opportunities. Use after drafting to
   assess whether the piece achieves its narrative goals.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

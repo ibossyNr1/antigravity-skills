@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-create-openai-embedding"
+name: "create-openai-embedding"
 description: "Creates an OpenAI embedding for a given text using the 'text-embedding-3-small' model."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["openai", "embedding", "text-embedding-3-small", "automation", "vector database"]
 triggers:
   - "When you need to create a vector embedding for text to store in a vector database."

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-website-change-analyzer"
+name: "website-change-analyzer"
 description: "Compares two versions of website text to identify and summarize meaningful content changes, ignoring superficial differences like formatting."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["content", "website", "comparison", "ai", "gpt-4"]
 triggers:
   - "When you need to identify changes between two versions of a website's content."

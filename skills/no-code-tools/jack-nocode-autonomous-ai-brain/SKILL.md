@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-autonomous-ai-brain"
+name: "autonomous-ai-brain"
 description: "Make.com workflow to create an autonomous AI brain: triggers, researches topic via Perplexity, analyzes with 2 GPT agents, outputs to Google Docs."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["make.com", "automation", "ai brain", "perplexity", "openai", "google docs"]
 triggers:
   - "When you want to automate research and analysis of ideas."

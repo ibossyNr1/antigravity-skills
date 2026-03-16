@@ -1,8 +1,8 @@
 ---
-name: "jack-content-youtube-summarizer-make"
+name: "youtube-summarizer-make"
 description: "Automates YouTube video summarization and key takeaway extraction using webhooks, ChatGPT, and Make.com."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["youtube", "summarization", "automation", "make.com", "chatgpt"]
 triggers:
   - "When you need a summary of a YouTube video's transcript."

@@ -1,8 +1,8 @@
 ---
-name: "jack-content-antigravity-design-prompt"
+name: "antigravity-design-prompt"
 description: "Generate UI designs with a structured prompt that covers layout, style, color, typography, and interactions, using the UI/UX Pro Max methodology."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["ui", "ux", "design", "prompting", "ai"]
 triggers:
   - "when needing to generate a user interface design"

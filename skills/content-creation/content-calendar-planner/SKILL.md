@@ -5,7 +5,7 @@ description: Plan and organize content calendars for consistent publishing
 category: marketing
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - content calendar
   - editorial calendar

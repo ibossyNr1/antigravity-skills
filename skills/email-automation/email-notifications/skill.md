@@ -185,7 +185,6 @@ export function WelcomeEmail({ name, loginUrl }: WelcomeEmailProps) {
             </Text>
 
             <Text className="text-gray-500 text-xs mt-8">
-              © 2024 Your Company. All rights reserved.
               <br />
               <Link href="https://yourcompany.com/unsubscribe">Unsubscribe</Link>
             </Text>

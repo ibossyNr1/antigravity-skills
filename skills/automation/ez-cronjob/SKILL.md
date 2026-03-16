@@ -3,7 +3,7 @@ name: ez-cronjob
 description: >-
   Fix common cron job failures in Clawdbot/Moltbot - message delivery issues,
   tool timeouts, timezone bugs, and model fallback problems.
-author: Isaac Zarzuri
+
 author-url: 'https://x.com/Yz7hmpm'
 version: 1.0.0
 homepage: 'https://www.metacognitivo.com'

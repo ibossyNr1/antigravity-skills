@@ -2,8 +2,7 @@
 name: "apify-scraping"
 description: "Use Apify actors for advanced web scraping when standard tools are insufficient or blocked, enabling high-volume data extraction and crawling."
 version: "1.0.0"
-author: "Antigravity Vault"
-license: "proprietary"
+
 tags: ["web scraping","data extraction","apify","automation"]
 triggers:
   - "when standard scraping tools are blocked"

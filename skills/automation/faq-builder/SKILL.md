@@ -7,7 +7,7 @@ description: >-
 category: customer-support
 complexity: moderate
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - faq
   - frequently asked questions

@@ -1,8 +1,8 @@
 ---
-name: "jack-design-loveable-frontend-form"
+name: "loveable-frontend-form"
 description: "Creates a modern frontend application using Loveable to collect user info through a multi-step form with a playful yet professional aesthetic."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["loveable", "frontend design", "form creation", "multistep form", "web application"]
 triggers:
   - "when needing to create a modern, engaging frontend form."

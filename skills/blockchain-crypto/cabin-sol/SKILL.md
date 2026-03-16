@@ -4,7 +4,7 @@ description: >-
   Solana development tutor and builder. Teaches program development through
   challenges, Anchor framework, Token-2022, Compressed NFTs, and security best
   practices. "Return to primitive computing."
-license: MIT
+
 metadata:
   author: Ted
   version: 1.0.0
@@ -358,7 +358,6 @@ spl-token mint <MINT> 1000
 ```
 
 ### Token-2022 (New)
-Extensions: transfer hooks, confidential transfers, interest-bearing, non-transferable.
 
 ```bash
 spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb

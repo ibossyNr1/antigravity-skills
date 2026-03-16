@@ -1,8 +1,8 @@
 ---
-name: "jack-nocode-n8n-loveable-integration"
+name: "n8n-loveable-integration"
 description: "Integrate Loveable web apps with n8n to build full-stack automations, sending data from Loveable to an AI agent in n8n and back to the client website."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["n8n", "loveable", "automation", "full-stack", "ai agent"]
 triggers:
   - "When you want to connect a Loveable web application to an n8n workflow."

@@ -3,7 +3,7 @@ name: media-transformation
 description: >-
   Transform and format media content creatively. Applies stylization and
   formatting transformations to various media types.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

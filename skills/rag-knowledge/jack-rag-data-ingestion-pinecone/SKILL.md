@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-data-ingestion-pinecone"
+name: "data-ingestion-pinecone"
 description: "Create a data ingestion pipeline to store meeting transcripts, emails, and documents in Pinecone for chat-based querying."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["rag", "data ingestion", "pinecone", "n8n", "chatbots"]
 triggers:
   - "Need to query across multiple data sources"

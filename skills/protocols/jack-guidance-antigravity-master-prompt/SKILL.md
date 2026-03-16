@@ -1,8 +1,8 @@
 ---
-name: "jack-guidance-antigravity-master-prompt"
+name: "antigravity-master-prompt"
 description: "Master system prompt for AntiGravity projects using the B.L.A.S.T. protocol for reliable automation."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["antigravity", "automation", "blast protocol", "system prompt"]
 triggers:
   - "starting a new AntiGravity project"

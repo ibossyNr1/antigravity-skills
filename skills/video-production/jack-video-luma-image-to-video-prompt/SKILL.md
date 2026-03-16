@@ -1,11 +1,10 @@
 ---
-name: jack-video-luma-image-to-video-prompt
+name: "luma-image-to-video-prompt"
 description: >-
   Generates a prompt for Luma Labs to create a video from an image with animated
   background.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - video generation
   - AI video

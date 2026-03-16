@@ -7,8 +7,7 @@ description: >-
   generating embeddings for RAG, semantic search, or similarity tasks. Best for
   production embedding generation.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Sentence Transformers
   - Embeddings
@@ -270,5 +269,4 @@ index = VectorStoreIndex.from_documents(documents)
 - **Models**: https://huggingface.co/sentence-transformers
 - **Docs**: https://www.sbert.net
 - **License**: Apache 2.0
-
 

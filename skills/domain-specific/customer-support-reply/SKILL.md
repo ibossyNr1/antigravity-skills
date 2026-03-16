@@ -5,7 +5,7 @@ description: 'Craft empathetic, effective customer support responses that solve 
 category: communication
 complexity: simple
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - customer support reply
   - support response

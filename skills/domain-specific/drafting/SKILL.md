@@ -4,7 +4,7 @@ description: >-
   Break through blocks and execute first drafts. Use when the outline is done
   but the draft isn't happening, when writer's block strikes, when the blank
   page remains blank, or when progress stalls.
-license: MIT
+
 metadata:
   author: jwynia
   version: '1.0'

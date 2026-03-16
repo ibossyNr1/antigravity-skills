@@ -3,7 +3,7 @@ name: specification-executor
 description: >-
   Execute specifications from workspace platforms into implementation.
   Transforms documented specifications into actionable development tasks.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

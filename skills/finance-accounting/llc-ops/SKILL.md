@@ -280,7 +280,6 @@ Patient teacher. Assumes you've never seen this form before. Points to exactly w
 - Independent contractor agreements
 - Client contracts basics
 - NDAs — when needed
-- Trademark vs copyright vs trade secret
 - Work-for-hire provisions
 
 **Record Keeping:**
@@ -426,8 +425,6 @@ Strategic partner. Proactive, not reactive. Always thinking about next year whil
 | Contract | Purpose |
 |----------|---------|
 | Client Agreement | Scope, payment, liability limits, IP ownership |
-| Independent Contractor Agreement | Classification, IP assignment, confidentiality |
-| NDA | Protect confidential information |
 | Terms of Service | User agreements for products |
 
 **Key Clauses:**

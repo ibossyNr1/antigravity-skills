@@ -6,8 +6,7 @@ description: >-
   RLAIF (RL from AI Feedback). Use for safety alignment, reducing harmful
   outputs without human labels. Powers Claude's safety system.
 version: 1.0.0
-author: Orchestra Research
-license: MIT
+
 tags:
   - Safety Alignment
   - Constitutional AI
@@ -302,6 +301,4 @@ final_preference = majority_vote(prefs_1, prefs_2, prefs_3)
 - Anthropic blog: https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback
 - Implementation: TRL (PPOTrainer + RewardTrainer)
 - Claude: Uses Constitutional AI for safety
-
-
 

@@ -1,8 +1,8 @@
 ---
-name: "jack-rag-action-item-extraction-prompt"
+name: "action-item-extraction-prompt"
 description: "Extracts action items, meeting name, and date from a meeting transcript using a specified format, listing action items per participant."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["meeting", "action items", "transcription", "claude", "summary"]
 triggers:
   - "when you need to create a clear, concise summary of action items from a meeting"

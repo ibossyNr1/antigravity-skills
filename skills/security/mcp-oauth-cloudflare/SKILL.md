@@ -6,13 +6,12 @@ description: >
   authentication. Prevents 9 documented errors including RFC 8707 audience bugs,
   Claude.ai connection failures, and CSRF vulnerabilities.
 
-
   Use when building MCP servers that need user authentication, implementing
   Dynamic Client Registration (DCR) for Claude.ai, or replacing static auth
   tokens with OAuth flows. Includes workarounds for production redirect URI
   mismatches and re-auth loop issues.
 user-invocable: true
-license: MIT
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
@@ -533,7 +532,6 @@ For long-lived sessions (Google APIs, Gmail, Drive), you need refresh tokens.
 
 **Why It Differs from OAuth 2.1**: OAuth 2.1 requires single-use refresh tokens for public clients. However, the library author argues that single-use tokens are fundamentally flawed because they assume every refresh request completes with no errors. In the real world, network errors or software faults could mean the client fails to store the new refresh token.
 
-**Security Trade-off**: Allowing the previous refresh token disables replay attack detection. For confidential clients (most MCP servers), this is compliant with OAuth 2.1. For public clients, consider stricter rotation if needed.
 
 **Source**: [GitHub Issue #43](https://github.com/cloudflare/workers-oauth-provider/issues/43), documented in [README](https://github.com/cloudflare/workers-oauth-provider?tab=readme-ov-file#single-use-refresh-tokens)
 

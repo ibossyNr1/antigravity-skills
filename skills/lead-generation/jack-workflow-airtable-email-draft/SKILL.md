@@ -1,11 +1,10 @@
 ---
-name: jack-workflow-airtable-email-draft
+name: "airtable-email-draft"
 description: >-
   Watches Airtable for new records, filters based on status, and creates email
   drafts with a personalized image.
 version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
+
 tags:
   - automation
   - make.com

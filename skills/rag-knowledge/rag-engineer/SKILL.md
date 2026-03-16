@@ -5,7 +5,7 @@ description: >-
   models, vector databases, chunking strategies, and retrieval optimization for
   LLM applications. Use when: building RAG, vector search, embeddings, semantic
   search, document retrieval.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -431,7 +431,6 @@ to discuss?"
 - Communicate through intermediaries for critical issues
 - Ignore feedback or concerns
 - Change communication style inconsistently
-- Share inappropriate confidential details
 - Communicate budget/timeline bad news via email
 
 ## Communication Tips

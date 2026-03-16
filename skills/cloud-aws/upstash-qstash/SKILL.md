@@ -5,7 +5,7 @@ description: >-
   reliable HTTP-based task delivery without managing infrastructure. Use when:
   qstash, upstash queue, serverless cron, scheduled http, message queue
   serverless.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

@@ -5,7 +5,7 @@ description: Automated content publishing pipeline for ID8Labs. Generates essays
 category: marketing
 complexity: complex
 version: "1.0.0"
-author: "ID8Labs"
+
 triggers:
   - "release"
   - "announce"
@@ -128,8 +128,7 @@ slug: "essay-slug"
 date: "2025-01-06"
 category: "release"
 excerpt: "Brief excerpt for previews"
-author:
-  name: "Eddie Belaval"
+
   avatar: "/images/eddie-avatar.jpg"
 tags: ["tag1", "tag2"]
 ---

@@ -8,7 +8,7 @@ description: >-
   skill covers two architectures: speech-to-speech (OpenAI Realtime API, lowest
   latency, most natural) and pipeline (STT→LLM→TTS, more control, easier to
   debug). Key insight: latency is the constraint. Hu
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

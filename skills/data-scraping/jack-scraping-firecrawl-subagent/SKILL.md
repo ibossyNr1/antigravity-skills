@@ -1,8 +1,8 @@
 ---
-name: "jack-scraping-firecrawl-subagent"
+name: "firecrawl-subagent"
 description: "Create a sub-agent to scrape and retrieve specific data from websites using Firecrawl, given a URL, prompt, and property to extract."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["scraping", "firecrawl", "sub-agent", "automation"]
 triggers:
   - "When executed by another workflow"

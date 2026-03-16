@@ -8,7 +8,7 @@ description: >-
   writing that actually helps the LLM, validation, and the emerging MCP standard
   that's becoming the lingua franca for AI tools.  Key insight: Tool
   descriptions are more important than tool implementa
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

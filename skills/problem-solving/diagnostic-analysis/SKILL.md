@@ -3,7 +3,7 @@ name: diagnostic-analysis
 description: >-
   Systematically debug and diagnose issues methodically. Uses diagnostic
   techniques to identify root causes and implement fixes.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

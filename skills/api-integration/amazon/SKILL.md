@@ -4,7 +4,7 @@ description: >-
   Enables Claude to browse Amazon products, manage wishlists, and track orders
   (no purchases)
 version: 1.0.0
-author: Canifi
+
 category: ecommerce
 compatibility: 'agent-zero, claude-code, cursor'
 ---

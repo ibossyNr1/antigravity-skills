@@ -7,7 +7,7 @@ description: >-
 category: domain
 complexity: complex
 version: 1.0.0
-author: ID8Labs
+
 triggers:
   - document patient encounter
   - create SOAP note

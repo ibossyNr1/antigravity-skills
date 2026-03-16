@@ -3,7 +3,7 @@ name: mobile-app-interface
 description: >-
   Design native iOS mobile app interfaces and components. Creates user-centric
   mobile designs following platform conventions and best practices.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

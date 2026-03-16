@@ -1,7 +1,7 @@
 ---
 name: portfolio-watcher
 description: 'Monitor stock/crypto holdings, get price alerts, track portfolio performance'
-author: clawd-team
+
 version: 1.0.0
 triggers:
   - check portfolio

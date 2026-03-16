@@ -1,8 +1,8 @@
 ---
-name: "jack-content-deepseek-n8n-notion-automation"
+name: "deepseek-n8n-notion-automation"
 description: "Automates workflows by integrating Google SERP, DeepSeek API, n8n, and Notion to streamline research, task management, and productivity, creating a dynamic to-do system."
 version: "1.0.0"
-license: "MIT"
+
 tags: ["automation", "deepseek", "n8n", "notion", "google serp", "workflow"]
 triggers:
   - "when needing to streamline research and task management"

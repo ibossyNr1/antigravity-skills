@@ -3,7 +3,7 @@ name: peer-review-initiator
 description: >-
   Request peer review with proper context and preparation. Structures review
   requests with clear description of changes and testing status.
-license: Proprietary. LICENSE.txt has complete terms
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---

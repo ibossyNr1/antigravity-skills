@@ -6,7 +6,7 @@ description: >-
   v3, content scripts, popup UIs, monetization strategies, and Chrome Web Store
   publishing. Use when: browser extension, chrome extension, firefox addon,
   extension, manifest v3.
-source: vibeship-spawner-skills (Apache 2.0)
+
 version: 1.0.0
 compatibility: 'agent-zero, claude-code, cursor'
 ---
