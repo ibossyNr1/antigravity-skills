@@ -1,28 +1,17 @@
 ---
-name: jack-content-query-reranker
-description: >-
-  Reranks user queries to be more effective for RAG systems by extracting
-  intent, optimizing for search, and preserving context.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - RAG
-  - query optimization
-  - search
-  - intent extraction
+name: "jack-content-query-reranker"
+description: "Reranks user queries to be more effective for RAG systems by extracting intent, optimizing for search, and preserving context."
+version: "1.0.0"
+license: "MIT"
+tags: ["RAG", "query optimization", "search", "intent extraction"]
 triggers:
-  - When you need to improve the accuracy of RAG search results.
-  - When user queries are not yielding relevant information.
+  - "When you need to improve the accuracy of RAG search results."
+  - "When user queries are not yielding relevant information."
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 108
-  lesson_title: 'This system automates:'
-  difficulty: medium
-  category: content
-  estimated_setup_time: 15min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "medium"
+  category: "content"
+  estimated_setup_time: "15min"
 ---
 
 # Content Query Reranker
@@ -99,7 +88,6 @@ Transform the following user message into an optimized search query:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

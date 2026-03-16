@@ -1,34 +1,18 @@
 ---
-name: jack-nocode-make-rss-instagram
-description: >-
-  Complete Make.com scenario to ingest RSS feeds, generate captions/images, and
-  post to Instagram.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - rss
-  - instagram
-  - automation
-  - make.com
+name: "jack-nocode-make-rss-instagram"
+description: "Complete Make.com scenario to ingest RSS feeds, generate captions/images, and post to Instagram."
+version: "1.0.0"
+license: "MIT"
+tags: ["rss", "instagram", "automation", "make.com"]
 triggers:
-  - To automate content posting from RSS feeds to Instagram.
+  - "To automate content posting from RSS feeds to Instagram."
 allowed-tools: []
-compatibility: 'make.com, openai, rss.app, instagram'
+compatibility: "make.com, openai, rss.app, instagram"
 metadata:
-  source: jack-school
-  lesson: 6
-  lesson_title: 100X Your Instagram Using AI-Powered RSS Feeds
-  difficulty: hard
-  category: nocode
-  tools_required:
-    - make.com
-    - openai
-    - rss.app
-    - instagram
-  estimated_setup_time: 1hr
-  extracted_from:
-    - "RSS & Instagram Flow \U0001F52E (3).json"
+  difficulty: "hard"
+  category: "nocode"
+  tools_required: ["make.com", "openai", "rss.app", "instagram"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Make Rss Instagram
@@ -56,7 +40,6 @@ Full Make.com scenario JSON is provided to ingest RSS feeds, convert to text, ge
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

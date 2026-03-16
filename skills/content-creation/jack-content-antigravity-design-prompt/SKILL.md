@@ -1,34 +1,19 @@
 ---
-name: jack-content-antigravity-design-prompt
-description: >-
-  Generate UI designs with a structured prompt that covers layout, style, color,
-  typography, and interactions, using the UI/UX Pro Max methodology.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - ui
-  - ux
-  - design
-  - prompting
-  - ai
+name: "jack-content-antigravity-design-prompt"
+description: "Generate UI designs with a structured prompt that covers layout, style, color, typography, and interactions, using the UI/UX Pro Max methodology."
+version: "1.0.0"
+license: "MIT"
+tags: ["ui", "ux", "design", "prompting", "ai"]
 triggers:
-  - when needing to generate a user interface design
-  - when wanting a structured approach to UI design
+  - "when needing to generate a user interface design"
+  - "when wanting a structured approach to UI design"
 allowed-tools: []
-compatibility: 'Gemini, Claude'
+compatibility: "Gemini, Claude"
 metadata:
-  source: jack-school
-  lesson: 131
-  lesson_title: Tools
-  difficulty: medium
-  category: content
-  tools_required:
-    - Gemini
-    - Claude
-  estimated_setup_time: 15min
-  extracted_from:
-    - HowIbuildBeautiful10000WebsiteswithAI.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["Gemini", "Claude"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Antigravity Design Prompt
@@ -63,7 +48,6 @@ When requesting a design from an AI agent, structure your prompt using these 5 C
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

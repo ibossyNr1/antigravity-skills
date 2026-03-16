@@ -1,34 +1,19 @@
 ---
-name: jack-nocode-n8n-loveable-integration
-description: >-
-  Integrate Loveable web apps with n8n to build full-stack automations, sending
-  data from Loveable to an AI agent in n8n and back to the client website.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - n8n
-  - loveable
-  - automation
-  - full-stack
-  - ai agent
+name: "jack-nocode-n8n-loveable-integration"
+description: "Integrate Loveable web apps with n8n to build full-stack automations, sending data from Loveable to an AI agent in n8n and back to the client website."
+version: "1.0.0"
+license: "MIT"
+tags: ["n8n", "loveable", "automation", "full-stack", "ai agent"]
 triggers:
-  - When you want to connect a Loveable web application to an n8n workflow.
-  - >-
-    When you need to process data from a web app using an AI agent and return a
-    response.
+  - "When you want to connect a Loveable web application to an n8n workflow."
+  - "When you need to process data from a web app using an AI agent and return a response."
 allowed-tools: []
-compatibility: 'n8n, loveable'
+compatibility: "n8n, loveable"
 metadata:
-  source: jack-school
-  lesson: 77
-  lesson_title: Build anything with n8n + Loveable
-  difficulty: hard
-  category: nocode
-  tools_required:
-    - n8n
-    - loveable
-  estimated_setup_time: 1hr
+  difficulty: "hard"
+  category: "nocode"
+  tools_required: ["n8n", "loveable"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode N8n Loveable Integration
@@ -178,7 +163,6 @@ Integrate Loveable web apps with n8n to build full-stack automations, sending da
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

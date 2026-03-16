@@ -1,26 +1,17 @@
 ---
-name: jack-email-webinar-confirmation-template
-description: A fill-in-the-blanks email template to confirm webinar registration.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email template
-  - webinar
-  - confirmation
-  - registration
+name: "jack-email-webinar-confirmation-template"
+description: "A fill-in-the-blanks email template to confirm webinar registration."
+version: "1.0.0"
+license: "MIT"
+tags: ["email template", "webinar", "confirmation", "registration"]
 triggers:
-  - when you need to send a confirmation email after webinar registration
-  - when automating email responses to webinar sign-ups
+  - "when you need to send a confirmation email after webinar registration"
+  - "when automating email responses to webinar sign-ups"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 102
-  lesson_title: Tools
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Webinar Confirmation Template
@@ -63,8 +54,7 @@ A fill-in-the-blanks email template to confirm webinar registration.
     <p>I can’t wait to show you how to use AI to shortcut the path to your first client 🤙</p>
 
     <p>To your success,<br>
-    Jack Roberts<br>
-    Founder, AI Automations</p>
+    [YOUR NAME]<br>
 
     <p><strong>P.S.</strong> Reply to this email with “AI” so I know you got it.</p>
 
@@ -73,7 +63,6 @@ A fill-in-the-blanks email template to confirm webinar registration.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,28 +1,17 @@
 ---
-name: jack-email-api-key-template
-description: >-
-  An HTML email template for sending API keys, including instructions on how to
-  use them in Google Chrome.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - api
-  - template
-  - html
+name: "jack-email-api-key-template"
+description: "An HTML email template for sending API keys, including instructions on how to use them in Google Chrome."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "api", "template", "html"]
 triggers:
-  - When you need to send API keys to users via email.
-  - When providing instructions on how to use an API key with Google Chrome.
+  - "When you need to send API keys to users via email."
+  - "When providing instructions on how to use an API key with Google Chrome."
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 47
-  lesson_title: Tools
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Api Key Template
@@ -128,7 +117,6 @@ An HTML email template for sending API keys, including instructions on how to us
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

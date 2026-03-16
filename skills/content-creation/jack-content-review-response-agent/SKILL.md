@@ -1,28 +1,17 @@
 ---
-name: jack-content-review-response-agent
-description: >-
-  Agent to generate professional and personalized responses to Google and
-  Trustpilot reviews, following specific guidelines for tone and sentiment.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - review response
-  - customer feedback
-  - brand reputation
-  - agent
+name: "jack-content-review-response-agent"
+description: "Agent to generate professional and personalized responses to Google and Trustpilot reviews, following specific guidelines for tone and sentiment."
+version: "1.0.0"
+license: "MIT"
+tags: ["review response", "customer feedback", "brand reputation", "agent"]
 triggers:
-  - When a new review is received on Google or Trustpilot.
-  - When you need to respond to customer feedback in a professional manner.
+  - "When a new review is received on Google or Trustpilot."
+  - "When you need to respond to customer feedback in a professional manner."
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 108
-  lesson_title: 'This system automates:'
-  difficulty: medium
-  category: content
-  estimated_setup_time: 30min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "medium"
+  category: "content"
+  estimated_setup_time: "30min"
 ---
 
 # Content Review Response Agent
@@ -150,7 +139,6 @@ Draft + close warmly (invite back, or offer follow-up).
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

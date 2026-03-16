@@ -1,27 +1,17 @@
 ---
-name: jack-email-automate-flows
-description: >-
-  Automate flows for welcome series, cart abandonment, re-engagement. Generates
-  more revenue than manual campaigns, while saving time.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email marketing
-  - automation
-  - workflows
+name: "jack-email-automate-flows"
+description: "Automate flows for welcome series, cart abandonment, re-engagement. Generates more revenue than manual campaigns, while saving time."
+version: "1.0.0"
+license: "MIT"
+tags: ["email marketing", "automation", "workflows"]
 triggers:
-  - When setting up email marketing
-  - To improve efficiency and revenue from email
+  - "When setting up email marketing"
+  - "To improve efficiency and revenue from email"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 56
-  lesson_title: This AI System Creates UNIQUE Lead Magnets (100% Automated)
-  difficulty: medium
-  category: email
-  estimated_setup_time: 30min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "medium"
+  category: "email"
+  estimated_setup_time: "30min"
 ---
 
 # Email Automate Flows
@@ -45,7 +35,6 @@ Automate flows for welcome series, cart abandonment, re-engagement. Generates mo
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

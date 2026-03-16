@@ -1,37 +1,19 @@
 ---
-name: jack-content-html-whatsapp-chat-interface
-description: >-
-  Generates HTML code for a web app with a WhatsApp-style chat interface for
-  displaying AI-generated responses.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - HTML
-  - CSS
-  - JavaScript
-  - web app
-  - chat interface
-  - AI panel
-  - confetti animation
-  - timer
+name: "jack-content-html-whatsapp-chat-interface"
+description: "Generates HTML code for a web app with a WhatsApp-style chat interface for displaying AI-generated responses."
+version: "1.0.0"
+license: "MIT"
+tags: ["HTML", "CSS", "JavaScript", "web app", "chat interface", "AI panel", "confetti animation", "timer"]
 triggers:
-  - When building a web application with a chat interface
-  - When visualizing responses from an AI expert panel
+  - "When building a web application with a chat interface"
+  - "When visualizing responses from an AI expert panel"
 allowed-tools: []
-compatibility: 'HTML editor, web browser'
+compatibility: "HTML editor, web browser"
 metadata:
-  source: jack-school
-  lesson: 36
-  lesson_title: This AI Meeting Automation 100Xs Your Productivity
-  difficulty: medium
-  category: content
-  tools_required:
-    - HTML editor
-    - web browser
-  estimated_setup_time: 30min
-  extracted_from:
-    - WhatsApp_Chat_HTML_.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["HTML editor", "web browser"]
+  estimated_setup_time: "30min"
 ---
 
 # Content Html Whatsapp Chat Interface
@@ -259,7 +241,6 @@ submitButton.disabled = false;
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

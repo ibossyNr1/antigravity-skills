@@ -1,30 +1,19 @@
 ---
-name: jack-content-email-subject-body-generator
-description: >-
-  Generates personalized email subject lines and opening body lines based on
-  prospect research data and company trigger events.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email outreach
-  - sales
-  - personalization
-  - trigger events
+name: "jack-content-email-subject-body-generator"
+description: "Generates personalized email subject lines and opening body lines based on prospect research data and company trigger events."
+version: "1.0.0"
+license: "MIT"
+tags: ["email outreach", "sales", "personalization", "trigger events"]
 triggers:
-  - When needing to draft a personalized email to a lead.
-  - To generate engaging subject lines and opening lines for cold emails.
+  - "When needing to draft a personalized email to a lead."
+  - "To generate engaging subject lines and opening lines for cold emails."
 allowed-tools: []
-compatibility: None
+compatibility: "None"
 metadata:
-  source: jack-school
-  lesson: 110
-  lesson_title: How to get Unlimited Leads for Free (FULL COURSE)
-  difficulty: medium
-  category: content
-  tools_required:
-    - None
-  estimated_setup_time: 5min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["None"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Email Subject Body Generator
@@ -189,7 +178,6 @@ Output ONLY this JSON format (no markdown, no code blocks):
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

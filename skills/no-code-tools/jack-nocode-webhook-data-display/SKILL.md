@@ -1,33 +1,19 @@
 ---
-name: jack-nocode-webhook-data-display
-description: >-
-  Displays data received from a webhook in a website, updating the content
-  dynamically.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - webhook
-  - data display
-  - dynamic content
-  - HTML
-  - JavaScript
+name: "jack-nocode-webhook-data-display"
+description: "Displays data received from a webhook in a website, updating the content dynamically."
+version: "1.0.0"
+license: "MIT"
+tags: ["webhook", "data display", "dynamic content", "HTML", "JavaScript"]
 triggers:
-  - When displaying data from a webhook on a website
-  - When building a dynamic web application
+  - "When displaying data from a webhook on a website"
+  - "When building a dynamic web application"
 allowed-tools: []
-compatibility: 'Make.com, HTML editor, web browser'
+compatibility: "Make.com, HTML editor, web browser"
 metadata:
-  source: jack-school
-  lesson: 36
-  lesson_title: This AI Meeting Automation 100Xs Your Productivity
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - Make.com
-    - HTML editor
-    - web browser
-  estimated_setup_time: 1hr
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["Make.com", "HTML editor", "web browser"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Webhook Data Display
@@ -59,7 +45,6 @@ Displays data received from a webhook in a website, updating the content dynamic
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

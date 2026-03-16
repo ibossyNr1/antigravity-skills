@@ -1,29 +1,19 @@
 ---
-name: jack-leadgen-score-javascript
-description: >-
-  Scores leads based on company size and turnover, assigning a tier (Hot, Warm,
-  Cold, Dead) and action based on score.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - lead scoring
-  - javascript
-  - sales automation
+name: "jack-leadgen-score-javascript"
+description: "Scores leads based on company size and turnover, assigning a tier (Hot, Warm, Cold, Dead) and action based on score."
+version: "1.0.0"
+license: "MIT"
+tags: ["lead scoring", "javascript", "sales automation"]
 triggers:
-  - when a lead submits a form with company size and turnover information
-  - to automatically prioritize leads based on potential value
+  - "when a lead submits a form with company size and turnover information"
+  - "to automatically prioritize leads based on potential value"
 allowed-tools: []
-compatibility: javascript runtime environment
+compatibility: "javascript runtime environment"
 metadata:
-  source: jack-school
-  lesson: 110
-  lesson_title: How to Automate UNSTOPPABLE Lead Magnets
-  difficulty: medium
-  category: leadgen
-  tools_required:
-    - javascript runtime environment
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "leadgen"
+  tools_required: ["javascript runtime environment"]
+  estimated_setup_time: "30min"
 ---
 
 # Leadgen Score Javascript
@@ -132,7 +122,6 @@ return result;
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

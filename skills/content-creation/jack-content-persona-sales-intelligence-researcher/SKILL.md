@@ -1,35 +1,19 @@
 ---
-name: jack-content-persona-sales-intelligence-researcher
-description: >-
-  Defines an AI agent persona as a sales intelligence researcher for
-  personalized outreach, using tools like Tavily and web scraping.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - sales intelligence
-  - ai persona
-  - personalized outreach
-  - tavily
-  - web scraping
+name: "jack-content-persona-sales-intelligence-researcher"
+description: "Defines an AI agent persona as a sales intelligence researcher for personalized outreach, using tools like Tavily and web scraping."
+version: "1.0.0"
+license: "MIT"
+tags: ["sales intelligence", "ai persona", "personalized outreach", "tavily", "web scraping"]
 triggers:
-  - >-
-    When needing to personalize sales outreach with specific prospect
-    information
-  - To quickly gather relevant facts about a prospect and their company
+  - "When needing to personalize sales outreach with specific prospect information"
+  - "To quickly gather relevant facts about a prospect and their company"
 allowed-tools: []
-compatibility: 'tavily, web scraping tool, linkedin scraper'
+compatibility: "tavily, web scraping tool, linkedin scraper"
 metadata:
-  source: jack-school
-  lesson: 110
-  lesson_title: How to get Unlimited Leads for Free (FULL COURSE)
-  difficulty: medium
-  category: content
-  tools_required:
-    - tavily
-    - web scraping tool
-    - linkedin scraper
-  estimated_setup_time: 5min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["tavily", "web scraping tool", "linkedin scraper"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Persona Sales Intelligence Researcher
@@ -106,7 +90,6 @@ Begin research now.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

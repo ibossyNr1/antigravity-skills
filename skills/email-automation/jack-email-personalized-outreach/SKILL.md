@@ -1,31 +1,19 @@
 ---
-name: jack-email-personalized-outreach
-description: >-
-  Generates personalized emails encouraging a 15-minute discovery call with an
-  AI automation agency.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - lead generation
-  - personalized outreach
+name: "jack-email-personalized-outreach"
+description: "Generates personalized emails encouraging a 15-minute discovery call with an AI automation agency."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "lead generation", "personalized outreach"]
 triggers:
-  - When you need to generate a personalized outreach email
-  - To convert cold leads to a call to action
+  - "When you need to generate a personalized outreach email"
+  - "To convert cold leads to a call to action"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 19
-  lesson_title: Steal this AI-Powered Lead Generation System
-  difficulty: medium
-  category: email
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
-  extracted_from:
-    - Email_Bot_.txt
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Email Personalized Outreach
@@ -107,7 +95,6 @@ Rules: 🧑‍💻
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

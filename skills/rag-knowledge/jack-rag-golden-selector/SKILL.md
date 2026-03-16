@@ -1,30 +1,18 @@
 ---
-name: jack-rag-golden-selector
-description: >-
-  Uses a 'golden selector' to identify relevant workflows from a data source
-  (e.g. Airtable) based on descriptions.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - rag
-  - airtable
-  - workflow selection
+name: "jack-rag-golden-selector"
+description: "Uses a 'golden selector' to identify relevant workflows from a data source (e.g. Airtable) based on descriptions."
+version: "1.0.0"
+license: "MIT"
+tags: ["rag", "airtable", "workflow selection"]
 triggers:
-  - >-
-    when you need to dynamically select an automation workflow based on user
-    description
+  - "when you need to dynamically select an automation workflow based on user description"
 allowed-tools: []
-compatibility: airtable
+compatibility: "airtable"
 metadata:
-  source: jack-school
-  lesson: 87
-  lesson_title: This AI Agent Builds Automations (Chrome Extension)
-  difficulty: medium
-  category: rag
-  tools_required:
-    - airtable
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["airtable"]
+  estimated_setup_time: "30min"
 ---
 
 # Rag Golden Selector
@@ -52,7 +40,6 @@ Uses a 'golden selector' to identify relevant workflows from a data source (e.g.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,31 +1,18 @@
 ---
-name: jack-content-linkedin-script-agent
-description: >-
-  Creates high-performing LinkedIn posts by combining topic research and
-  performance insights.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - linkedin
-  - content creation
-  - scripting
-  - engagement
+name: "jack-content-linkedin-script-agent"
+description: "Creates high-performing LinkedIn posts by combining topic research and performance insights."
+version: "1.0.0"
+license: "MIT"
+tags: ["linkedin", "content creation", "scripting", "engagement"]
 triggers:
-  - >-
-    when you need to generate engaging LinkedIn posts based on research and
-    performance data
+  - "when you need to generate engaging LinkedIn posts based on research and performance data"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 100
-  lesson_title: 'Build This $10,000 Social Growth System (n8n Multi Agents)'
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Linkedin Script Agent
@@ -130,7 +117,6 @@ Remember: Create content that drives meaningful engagement, builds personal bran
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

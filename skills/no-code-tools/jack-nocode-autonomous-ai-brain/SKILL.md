@@ -1,36 +1,19 @@
 ---
-name: jack-nocode-autonomous-ai-brain
-description: >-
-  Make.com workflow to create an autonomous AI brain: triggers, researches topic
-  via Perplexity, analyzes with 2 GPT agents, outputs to Google Docs.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - make.com
-  - automation
-  - ai brain
-  - perplexity
-  - openai
-  - google docs
+name: "jack-nocode-autonomous-ai-brain"
+description: "Make.com workflow to create an autonomous AI brain: triggers, researches topic via Perplexity, analyzes with 2 GPT agents, outputs to Google Docs."
+version: "1.0.0"
+license: "MIT"
+tags: ["make.com", "automation", "ai brain", "perplexity", "openai", "google docs"]
 triggers:
-  - When you want to automate research and analysis of ideas.
-  - When you want to create a fully autonomous AI workflow.
+  - "When you want to automate research and analysis of ideas."
+  - "When you want to create a fully autonomous AI workflow."
 allowed-tools: []
-compatibility: 'make.com, perplexity, openai, google docs, slack'
+compatibility: "make.com, perplexity, openai, google docs, slack"
 metadata:
-  source: jack-school
-  lesson: 2
-  lesson_title: How to Create a FULLY Autonomous AI Brain (10X Ideas)
-  difficulty: hard
-  category: nocode
-  tools_required:
-    - make.com
-    - perplexity
-    - openai
-    - google docs
-    - slack
-  estimated_setup_time: 1hr
+  difficulty: "hard"
+  category: "nocode"
+  tools_required: ["make.com", "perplexity", "openai", "google docs", "slack"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Autonomous Ai Brain
@@ -64,7 +47,6 @@ Make.com workflow to create an autonomous AI brain: triggers, researches topic v
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

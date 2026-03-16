@@ -1,33 +1,19 @@
 ---
-name: jack-rag-claude-vision-browser-assistance
-description: >-
-  Uses Claude Vision to analyze browser screenshots, extracts text, and provides
-  user assistance based on conversation history.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - claude vision
-  - browser automation
-  - make.com
-  - ai assistance
+name: "jack-rag-claude-vision-browser-assistance"
+description: "Uses Claude Vision to analyze browser screenshots, extracts text, and provides user assistance based on conversation history."
+version: "1.0.0"
+license: "MIT"
+tags: ["claude vision", "browser automation", "make.com", "ai assistance"]
 triggers:
-  - when a user needs help navigating a web page
-  - when visual context is required for AI assistance
+  - "when a user needs help navigating a web page"
+  - "when visual context is required for AI assistance"
 allowed-tools: []
-compatibility: 'make.com, claude'
+compatibility: "make.com, claude"
 metadata:
-  source: jack-school
-  lesson: 50
-  lesson_title: Claude Vision in Your Browser is INSANE
-  difficulty: hard
-  category: rag
-  tools_required:
-    - make.com
-    - claude
-  estimated_setup_time: 1hr
-  extracted_from:
-    - "Claude Vision \U0001F440.json"
+  difficulty: "hard"
+  category: "rag"
+  tools_required: ["make.com", "claude"]
+  estimated_setup_time: "1hr"
 ---
 
 # Rag Claude Vision Browser Assistance
@@ -54,7 +40,6 @@ The workflow takes a screenshot and text from a browser page, sends it to Claude
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

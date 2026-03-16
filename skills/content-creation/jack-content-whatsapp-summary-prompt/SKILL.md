@@ -1,33 +1,19 @@
 ---
-name: jack-content-whatsapp-summary-prompt
-description: Analyzes a WhatsApp transcript and summarizes it into an engaging HTML report.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - whatsapp
-  - summary
-  - html
-  - automation
-  - chat
+name: "jack-content-whatsapp-summary-prompt"
+description: "Analyzes a WhatsApp transcript and summarizes it into an engaging HTML report."
+version: "1.0.0"
+license: "MIT"
+tags: ["whatsapp", "summary", "html", "automation", "chat"]
 triggers:
-  - when you need to summarize a whatsapp conversation
-  - when you want to extract key takeaways from whatsapp chats
+  - "when you need to summarize a whatsapp conversation"
+  - "when you want to extract key takeaways from whatsapp chats"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 73
-  lesson_title: WhatsApp Automation That Saves Time & Makes Money!
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
-  extracted_from:
-    - Whatsapp_Part_2.txt
-    - _Whatsapp_Report_Prompt_-_Google_Docs.txt
-    - "\U0001F4AC Whatsapp Report Prompt.txt"
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Whatsapp Summary Prompt
@@ -290,7 +276,6 @@ Example HTML for output:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

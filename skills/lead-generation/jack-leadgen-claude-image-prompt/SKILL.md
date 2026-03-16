@@ -1,34 +1,19 @@
 ---
-name: jack-leadgen-claude-image-prompt
-description: >-
-  Generates a JSON payload with an image prompt based on a website's content,
-  business name and setting.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - image generation
-  - claude
-  - lead generation
-  - prompt engineering
+name: "jack-leadgen-claude-image-prompt"
+description: "Generates a JSON payload with an image prompt based on a website's content, business name and setting."
+version: "1.0.0"
+license: "MIT"
+tags: ["image generation", "claude", "lead generation", "prompt engineering"]
 triggers:
-  - >-
-    When you need to generate an image prompt based on a website's content to
-    create personalized visuals.
-  - >-
-    When you want to automate the creation of image prompts for different
-    businesses.
+  - "When you need to generate an image prompt based on a website's content to create personalized visuals."
+  - "When you want to automate the creation of image prompts for different businesses."
 allowed-tools: []
-compatibility: claude
+compatibility: "claude"
 metadata:
-  source: jack-school
-  lesson: 43
-  lesson_title: Tools
-  difficulty: medium
-  category: leadgen
-  tools_required:
-    - claude
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "leadgen"
+  tools_required: ["claude"]
+  estimated_setup_time: "15min"
 ---
 
 # Leadgen Claude Image Prompt
@@ -81,7 +66,6 @@ THE TEXT: {{21.text}}
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

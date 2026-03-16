@@ -1,36 +1,19 @@
 ---
-name: jack-nocode-n8n-webinar-registration-workflow
-description: >-
-  Automates webinar registration and confirmation using n8n, Gmail, and
-  Typeform.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - n8n
-  - automation
-  - webinar
-  - registration
-  - email
-  - typeform
+name: "jack-nocode-n8n-webinar-registration-workflow"
+description: "Automates webinar registration and confirmation using n8n, Gmail, and Typeform."
+version: "1.0.0"
+license: "MIT"
+tags: ["n8n", "automation", "webinar", "registration", "email", "typeform"]
 triggers:
-  - when a user submits a webinar registration form
-  - when automating webinar confirmation emails
+  - "when a user submits a webinar registration form"
+  - "when automating webinar confirmation emails"
 allowed-tools: []
-compatibility: 'n8n, gmail, typeform'
+compatibility: "n8n, gmail, typeform"
 metadata:
-  source: jack-school
-  lesson: 102
-  lesson_title: Tools
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - n8n
-    - gmail
-    - typeform
-  estimated_setup_time: 1hr
-  extracted_from:
-    - "\U0001F4B8 $100M Money Models.json"
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["n8n", "gmail", "typeform"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode N8n Webinar Registration Workflow
@@ -58,7 +41,6 @@ See the provided JSON file for the full n8n workflow.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

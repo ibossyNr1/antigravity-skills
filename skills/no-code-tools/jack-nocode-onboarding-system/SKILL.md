@@ -1,33 +1,19 @@
 ---
-name: jack-nocode-onboarding-system
-description: >-
-  Use GoHighLevel, Claude, Google AI Studio, Supabase, and Vercel to build a
-  complete automated onboarding system.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - nocode
-  - automation
-  - onboarding
+name: "jack-nocode-onboarding-system"
+description: "Use GoHighLevel, Claude, Google AI Studio, Supabase, and Vercel to build a complete automated onboarding system."
+version: "1.0.0"
+license: "MIT"
+tags: ["nocode", "automation", "onboarding"]
 triggers:
-  - when building an automated customer onboarding system
-  - when needing to rapidly prototype a user dashboard
+  - "when building an automated customer onboarding system"
+  - "when needing to rapidly prototype a user dashboard"
 allowed-tools: []
-compatibility: 'GoHighLevel, Claude, Google AI Studio, Supabase, Vercel'
+compatibility: "GoHighLevel, Claude, Google AI Studio, Supabase, Vercel"
 metadata:
-  source: jack-school
-  lesson: 115
-  lesson_title: 'How I Build $27,000 AI Onboarding Systems (Gemini 3.0)'
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - GoHighLevel
-    - Claude
-    - Google AI Studio
-    - Supabase
-    - Vercel
-  estimated_setup_time: 1hr
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["GoHighLevel", "Claude", "Google AI Studio", "Supabase", "Vercel"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Onboarding System
@@ -61,7 +47,6 @@ Use GoHighLevel, Claude, Google AI Studio, Supabase, and Vercel to build a compl
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

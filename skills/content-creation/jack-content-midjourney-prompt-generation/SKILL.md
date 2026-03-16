@@ -1,33 +1,19 @@
 ---
-name: jack-content-midjourney-prompt-generation
-description: >-
-  Generates a Midjourney prompt from input text describing a scene or concept,
-  adhering to a specific style and aspect ratio.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - midjourney
-  - prompt engineering
-  - image generation
-  - content creation
+name: "jack-content-midjourney-prompt-generation"
+description: "Generates a Midjourney prompt from input text describing a scene or concept, adhering to a specific style and aspect ratio."
+version: "1.0.0"
+license: "MIT"
+tags: ["midjourney", "prompt engineering", "image generation", "content creation"]
 triggers:
-  - When you need to create a Midjourney prompt from descriptive text.
-  - When you want to generate images with a specific style.
+  - "When you need to create a Midjourney prompt from descriptive text."
+  - "When you want to generate images with a specific style."
 allowed-tools: []
-compatibility: 'midjourney, text analysis tool'
+compatibility: "midjourney, text analysis tool"
 metadata:
-  source: jack-school
-  lesson: 11
-  lesson_title: Heads-up
-  difficulty: medium
-  category: content
-  tools_required:
-    - midjourney
-    - text analysis tool
-  estimated_setup_time: 5min
-  extracted_from:
-    - Midjourney_Prompt_.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["midjourney", "text analysis tool"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Midjourney Prompt Generation
@@ -56,7 +42,6 @@ Generates a Midjourney prompt from input text describing a scene or concept, adh
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,32 +1,18 @@
 ---
-name: jack-nocode-ai-webapp
-description: >-
-  Creates a basic AI-powered web app with a chat interface using HTML and
-  JavaScript to interact with a Make.com webhook.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - web app
-  - chat interface
-  - javascript
-  - html
-  - api
+name: "jack-nocode-ai-webapp"
+description: "Creates a basic AI-powered web app with a chat interface using HTML and JavaScript to interact with a Make.com webhook."
+version: "1.0.0"
+license: "MIT"
+tags: ["web app", "chat interface", "javascript", "html", "api"]
 triggers:
-  - when you need a simple web based chat interface to call an api
+  - "when you need a simple web based chat interface to call an api"
 allowed-tools: []
-compatibility: none
+compatibility: "none"
 metadata:
-  source: jack-school
-  lesson: 37
-  lesson_title: How to Build an AI Web App... that Sells 24/7
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - none
-  estimated_setup_time: 30min
-  extracted_from:
-    - Bobby_Tanks_Code_.txt
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["none"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Ai Webapp
@@ -272,7 +258,6 @@ loadingElement.remove();
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,27 +1,17 @@
 ---
-name: jack-email-optimize-subject-lines
-description: >-
-  Craft 6-10 word subject lines to create urgency/curiosity. Strategic emojis
-  boost open rates. Ensure relevance to content.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email marketing
-  - subject lines
-  - optimization
+name: "jack-email-optimize-subject-lines"
+description: "Craft 6-10 word subject lines to create urgency/curiosity. Strategic emojis boost open rates. Ensure relevance to content."
+version: "1.0.0"
+license: "MIT"
+tags: ["email marketing", "subject lines", "optimization"]
 triggers:
-  - When crafting email subject lines
-  - To improve email open rates
+  - "When crafting email subject lines"
+  - "To improve email open rates"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 56
-  lesson_title: This AI System Creates UNIQUE Lead Magnets (100% Automated)
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Optimize Subject Lines
@@ -45,7 +35,6 @@ Craft 6-10 word subject lines to create urgency/curiosity. Strategic emojis boos
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,32 +1,19 @@
 ---
-name: jack-content-website-content-analyzer
-description: >-
-  Analyzes website content, summarizes the company, and identifies distinctive
-  facts for sales or marketing purposes.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - website analysis
-  - content summarization
-  - fact extraction
-  - ai assistant
+name: "jack-content-website-content-analyzer"
+description: "Analyzes website content, summarizes the company, and identifies distinctive facts for sales or marketing purposes."
+version: "1.0.0"
+license: "MIT"
+tags: ["website analysis", "content summarization", "fact extraction", "ai assistant"]
 triggers:
-  - >-
-    When needing a concise summary and key facts about a company from its
-    website
-  - To quickly understand a business's value proposition and differentiators
+  - "When needing a concise summary and key facts about a company from its website"
+  - "To quickly understand a business's value proposition and differentiators"
 allowed-tools: []
-compatibility: None
+compatibility: "None"
 metadata:
-  source: jack-school
-  lesson: 110
-  lesson_title: How to get Unlimited Leads for Free (FULL COURSE)
-  difficulty: medium
-  category: content
-  tools_required:
-    - None
-  estimated_setup_time: 5min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["None"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Website Content Analyzer
@@ -95,7 +82,6 @@ EXAMPLE OUTPUT:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

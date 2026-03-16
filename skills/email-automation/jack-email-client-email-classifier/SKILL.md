@@ -1,30 +1,18 @@
 ---
-name: jack-email-client-email-classifier
-description: >-
-  Automatically classify incoming emails as client-related based on sender,
-  subject, and body content, using data from Airtable.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - classification
-  - client identification
-  - automation
+name: "jack-email-client-email-classifier"
+description: "Automatically classify incoming emails as client-related based on sender, subject, and body content, using data from Airtable."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "classification", "client identification", "automation"]
 triggers:
-  - When processing a new email
+  - "When processing a new email"
 allowed-tools: []
-compatibility: 'n8n, airtable'
+compatibility: "n8n, airtable"
 metadata:
-  source: jack-school
-  lesson: 85
-  lesson_title: What it does
-  difficulty: medium
-  category: email
-  tools_required:
-    - n8n
-    - airtable
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["n8n", "airtable"]
+  estimated_setup_time: "30min"
 ---
 
 # Email Client Email Classifier
@@ -140,7 +128,6 @@ return {
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,29 +1,18 @@
 ---
-name: jack-nocode-deploy-n8n-chatbot
-description: Deploy a customizable chatbot using n8n and a provided HTML snippet.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - chatbot
-  - n8n
-  - automation
-  - javascript
+name: "jack-nocode-deploy-n8n-chatbot"
+description: "Deploy a customizable chatbot using n8n and a provided HTML snippet."
+version: "1.0.0"
+license: "MIT"
+tags: ["chatbot", "n8n", "automation", "javascript"]
 triggers:
-  - when you need to embed a chatbot on a website using n8n for backend logic.
+  - "when you need to embed a chatbot on a website using n8n for backend logic."
 allowed-tools: []
-compatibility: n8n
+compatibility: "n8n"
 metadata:
-  source: jack-school
-  lesson: 71
-  lesson_title: Build & Sell This $997/Month AI Automation
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - n8n
-  estimated_setup_time: 30min
-  extracted_from:
-    - "\U0001F47E N8N Chatbot Code \U0001F47E.txt"
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["n8n"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Deploy N8n Chatbot
@@ -128,7 +117,6 @@ Replace `webhookUrl` with your n8n webhook URL and customize the `i18n` settings
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

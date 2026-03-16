@@ -1,29 +1,19 @@
 ---
-name: jack-email-lead-magnet-delivery
-description: >-
-  Sends an email with a link to a lead magnet after a form submission,
-  personalizing the message with the lead's name.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - lead magnet
-  - automation
+name: "jack-email-lead-magnet-delivery"
+description: "Sends an email with a link to a lead magnet after a form submission, personalizing the message with the lead's name."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "lead magnet", "automation"]
 triggers:
-  - after a lead fills out a form to receive a lead magnet
-  - when you need to automatically deliver a digital asset via email
+  - "after a lead fills out a form to receive a lead magnet"
+  - "when you need to automatically deliver a digital asset via email"
 allowed-tools: []
-compatibility: email service provider
+compatibility: "email service provider"
 metadata:
-  source: jack-school
-  lesson: 110
-  lesson_title: How to Automate UNSTOPPABLE Lead Magnets
-  difficulty: easy
-  category: email
-  tools_required:
-    - email service provider
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "email"
+  tools_required: ["email service provider"]
+  estimated_setup_time: "5min"
 ---
 
 # Email Lead Magnet Delivery
@@ -64,7 +54,6 @@ Sends an email with a link to a lead magnet after a form submission, personalizi
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

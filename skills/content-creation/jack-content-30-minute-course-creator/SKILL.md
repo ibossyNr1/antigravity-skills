@@ -1,33 +1,19 @@
 ---
-name: jack-content-30-minute-course-creator
-description: >-
-  Outlines steps to create a sellable online course using AI in 30 minutes,
-  integrating research, content creation, and platform building.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - course creation
-  - AI
-  - automation
-  - content generation
+name: "jack-content-30-minute-course-creator"
+description: "Outlines steps to create a sellable online course using AI in 30 minutes, integrating research, content creation, and platform building."
+version: "1.0.0"
+license: "MIT"
+tags: ["course creation", "AI", "automation", "content generation"]
 triggers:
-  - when you want to rapidly create an online course
-  - to automate course content creation
+  - "when you want to rapidly create an online course"
+  - "to automate course content creation"
 allowed-tools: []
-compatibility: 'notebooklm, antigravity'
+compatibility: "notebooklm, antigravity"
 metadata:
-  source: jack-school
-  lesson: 128
-  lesson_title: NotebookLM just got 10X better (AntiGravity)
-  difficulty: medium
-  category: content
-  tools_required:
-    - notebooklm
-    - antigravity
-  estimated_setup_time: 30min
-  extracted_from:
-    - NotebookLMjustgot10Xbetter.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["notebooklm", "antigravity"]
+  estimated_setup_time: "30min"
 ---
 
 # Content 30 Minute Course Creator
@@ -59,7 +45,6 @@ Outlines steps to create a sellable online course using AI in 30 minutes, integr
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

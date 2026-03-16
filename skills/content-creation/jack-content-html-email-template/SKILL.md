@@ -1,28 +1,17 @@
 ---
-name: jack-content-html-email-template
-description: >-
-  Provides a basic HTML email template that can be used as a starting point for
-  automated email responses.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - html
-  - template
-  - automation
+name: "jack-content-html-email-template"
+description: "Provides a basic HTML email template that can be used as a starting point for automated email responses."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "html", "template", "automation"]
 triggers:
-  - When you need a basic HTML email template for sending automated responses
-  - When starting a new email marketing campaign
+  - "When you need a basic HTML email template for sending automated responses"
+  - "When starting a new email marketing campaign"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 64
-  lesson_title: Steal This AI Client Intelligence System... WOW
-  difficulty: easy
-  category: content
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "content"
+  estimated_setup_time: "5min"
 ---
 
 # Content Html Email Template
@@ -106,7 +95,6 @@ Provides a basic HTML email template that can be used as a starting point for au
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

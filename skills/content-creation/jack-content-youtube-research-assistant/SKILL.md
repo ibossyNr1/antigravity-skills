@@ -1,33 +1,19 @@
 ---
-name: jack-content-youtube-research-assistant
-description: >-
-  Identifies YouTube video ideas and content gaps using AI-driven research and
-  competitive analysis.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - YouTube
-  - research
-  - content ideas
-  - competitive analysis
+name: "jack-content-youtube-research-assistant"
+description: "Identifies YouTube video ideas and content gaps using AI-driven research and competitive analysis."
+version: "1.0.0"
+license: "MIT"
+tags: ["YouTube", "research", "content ideas", "competitive analysis"]
 triggers:
-  - when generating YouTube video ideas
-  - to find content opportunities
+  - "when generating YouTube video ideas"
+  - "to find content opportunities"
 allowed-tools: []
-compatibility: 'notebooklm, antigravity'
+compatibility: "notebooklm, antigravity"
 metadata:
-  source: jack-school
-  lesson: 128
-  lesson_title: NotebookLM just got 10X better (AntiGravity)
-  difficulty: medium
-  category: content
-  tools_required:
-    - notebooklm
-    - antigravity
-  estimated_setup_time: 30min
-  extracted_from:
-    - NotebookLMjustgot10Xbetter.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["notebooklm", "antigravity"]
+  estimated_setup_time: "30min"
 ---
 
 # Content Youtube Research Assistant
@@ -58,7 +44,6 @@ Auto-generate video outlines for top opportunities
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,34 +1,19 @@
 ---
-name: jack-nocode-html-chat-interface
-description: >-
-  Creates a simple HTML chat interface with file upload and settings modal,
-  designed to connect to a webhook for AI interactions.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - html
-  - chat interface
-  - file upload
-  - settings modal
-  - webhook
-  - ai
-  - javascript
+name: "jack-nocode-html-chat-interface"
+description: "Creates a simple HTML chat interface with file upload and settings modal, designed to connect to a webhook for AI interactions."
+version: "1.0.0"
+license: "MIT"
+tags: ["html", "chat interface", "file upload", "settings modal", "webhook", "ai", "javascript"]
 triggers:
-  - When you need a simple chat interface for interacting with an AI backend.
-  - When you need to send text messages and files to a webhook.
+  - "When you need a simple chat interface for interacting with an AI backend."
+  - "When you need to send text messages and files to a webhook."
 allowed-tools: []
-compatibility: 'text editor, web browser'
+compatibility: "text editor, web browser"
 metadata:
-  source: jack-school
-  lesson: 49
-  lesson_title: How to Build an AI Productivity Agent (Save HOURS)
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - text editor
-    - web browser
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["text editor", "web browser"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Html Chat Interface
@@ -538,7 +523,6 @@ closeSettings();
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

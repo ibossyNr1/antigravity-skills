@@ -1,27 +1,17 @@
 ---
-name: jack-email-leverage-social-proof
-description: >-
-  Place testimonials, reviews, and user-generated content. Consumers trust peer
-  recommendations, crucial for building credibility/driving conversions.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email marketing
-  - social proof
-  - credibility
+name: "jack-email-leverage-social-proof"
+description: "Place testimonials, reviews, and user-generated content. Consumers trust peer recommendations, crucial for building credibility/driving conversions."
+version: "1.0.0"
+license: "MIT"
+tags: ["email marketing", "social proof", "credibility"]
 triggers:
-  - When creating email campaigns
-  - To build trust and drive conversions
+  - "When creating email campaigns"
+  - "To build trust and drive conversions"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 56
-  lesson_title: This AI System Creates UNIQUE Lead Magnets (100% Automated)
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Leverage Social Proof
@@ -45,7 +35,6 @@ Place testimonials, reviews, and user-generated content. Consumers trust peer re
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

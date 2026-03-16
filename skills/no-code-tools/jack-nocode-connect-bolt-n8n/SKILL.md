@@ -1,35 +1,19 @@
 ---
-name: jack-nocode-connect-bolt-n8n
-description: >-
-  Connect Bolt with N8n to monetize AI operating systems, integrating data from
-  Bolt forms into automated workflows in N8n.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - n8n
-  - bolt
-  - integration
-  - automation
-  - webhook
+name: "jack-nocode-connect-bolt-n8n"
+description: "Connect Bolt with N8n to monetize AI operating systems, integrating data from Bolt forms into automated workflows in N8n."
+version: "1.0.0"
+license: "MIT"
+tags: ["n8n", "bolt", "integration", "automation", "webhook"]
 triggers:
-  - when you want to trigger an n8n workflow from a Bolt form submission
-  - when data from Bolt needs to be processed by AI in n8n
+  - "when you want to trigger an n8n workflow from a Bolt form submission"
+  - "when data from Bolt needs to be processed by AI in n8n"
 allowed-tools: []
-compatibility: 'n8n, bolt, openai, supabase, gmail'
+compatibility: "n8n, bolt, openai, supabase, gmail"
 metadata:
-  source: jack-school
-  lesson: 101
-  lesson_title: Tools
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - n8n
-    - bolt
-    - openai
-    - supabase
-    - gmail
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["n8n", "bolt", "openai", "supabase", "gmail"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Connect Bolt N8n
@@ -64,7 +48,6 @@ Connect Bolt with N8n to monetize AI operating systems, integrating data from Bo
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

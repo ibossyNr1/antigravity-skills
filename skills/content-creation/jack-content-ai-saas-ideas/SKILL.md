@@ -1,31 +1,19 @@
 ---
-name: jack-content-ai-saas-ideas
-description: Provides 50 AI SaaS ideas with value propositions and pricing models.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - ai
-  - saas
-  - ideas
-  - business
-  - automation
+name: "jack-content-ai-saas-ideas"
+description: "Provides 50 AI SaaS ideas with value propositions and pricing models."
+version: "1.0.0"
+license: "MIT"
+tags: ["ai", "saas", "ideas", "business", "automation"]
 triggers:
-  - when brainstorming AI SaaS startup ideas
-  - when looking for profitable AI applications
+  - "when brainstorming AI SaaS startup ideas"
+  - "when looking for profitable AI applications"
 allowed-tools: []
-compatibility: none
+compatibility: "none"
 metadata:
-  source: jack-school
-  lesson: 45
-  lesson_title: Build an AI SaaS that prints money
-  difficulty: easy
-  category: content
-  tools_required:
-    - none
-  estimated_setup_time: 5min
-  extracted_from:
-    - "\U0001F4B8 50 AI SaaS Ideas \U0001F4B8.txt"
+  difficulty: "easy"
+  category: "content"
+  tools_required: ["none"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Ai Saas Ideas
@@ -56,7 +44,6 @@ Pricing Model: Monthly Subscription + Add-ons
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

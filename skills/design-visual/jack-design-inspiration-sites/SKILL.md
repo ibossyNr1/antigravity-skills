@@ -1,29 +1,17 @@
 ---
-name: jack-design-inspiration-sites
-description: >-
-  Provides a list of websites for web/UI design inspiration, covering general
-  design, component-level inspiration, trends, UX, and app-focused designs.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - UI design
-  - web design
-  - inspiration
-  - UX
-  - patterns
+name: "jack-design-inspiration-sites"
+description: "Provides a list of websites for web/UI design inspiration, covering general design, component-level inspiration, trends, UX, and app-focused designs."
+version: "1.0.0"
+license: "MIT"
+tags: ["UI design", "web design", "inspiration", "UX", "patterns"]
 triggers:
-  - when seeking inspiration for web design projects
-  - when looking for UI/UX design patterns
+  - "when seeking inspiration for web design projects"
+  - "when looking for UI/UX design patterns"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 117
-  lesson_title: How I Build $1M Landing Pages in 27 mins (Gemini)
-  difficulty: easy
-  category: design
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "design"
+  estimated_setup_time: "5min"
 ---
 
 # Design Inspiration Sites
@@ -127,7 +115,6 @@ https://uisources.com
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,27 +1,17 @@
 ---
-name: jack-email-create-clear-cta
-description: >-
-  Use single, prominent CTAs in each email. Focused approach increases clicks
-  and sales. Make buttons stand out with action text.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email marketing
-  - call to action
-  - conversion
+name: "jack-email-create-clear-cta"
+description: "Use single, prominent CTAs in each email. Focused approach increases clicks and sales. Make buttons stand out with action text."
+version: "1.0.0"
+license: "MIT"
+tags: ["email marketing", "call to action", "conversion"]
 triggers:
-  - When designing email layouts
-  - To improve click-through rates and sales
+  - "When designing email layouts"
+  - "To improve click-through rates and sales"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 56
-  lesson_title: This AI System Creates UNIQUE Lead Magnets (100% Automated)
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Create Clear Cta
@@ -45,7 +35,6 @@ Use single, prominent CTAs in each email. Focused approach increases clicks and 
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

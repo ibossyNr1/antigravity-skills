@@ -1,36 +1,19 @@
 ---
-name: jack-content-youtube-summarizer-make
-description: >-
-  Automates YouTube video summarization and key takeaway extraction using
-  webhooks, ChatGPT, and Make.com.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - youtube
-  - summarization
-  - automation
-  - make.com
-  - chatgpt
+name: "jack-content-youtube-summarizer-make"
+description: "Automates YouTube video summarization and key takeaway extraction using webhooks, ChatGPT, and Make.com."
+version: "1.0.0"
+license: "MIT"
+tags: ["youtube", "summarization", "automation", "make.com", "chatgpt"]
 triggers:
-  - When you need a summary of a YouTube video's transcript.
-  - >-
-    When you want to automate the process of extracting key insights from video
-    content.
+  - "When you need a summary of a YouTube video's transcript."
+  - "When you want to automate the process of extracting key insights from video content."
 allowed-tools: []
-compatibility: 'make.com, openai'
+compatibility: "make.com, openai"
 metadata:
-  source: jack-school
-  lesson: 40
-  lesson_title: AI-Powered Chrome Extensions Change Everything
-  difficulty: medium
-  category: content
-  tools_required:
-    - make.com
-    - openai
-  estimated_setup_time: 30min
-  extracted_from:
-    - "YouTube Summariser \U0001F525.json"
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["make.com", "openai"]
+  estimated_setup_time: "30min"
 ---
 
 # Content Youtube Summarizer Make
@@ -57,7 +40,6 @@ This workflow listens for a webhook containing YouTube transcript data, uses Cha
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

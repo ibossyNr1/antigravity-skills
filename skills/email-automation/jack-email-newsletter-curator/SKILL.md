@@ -1,34 +1,19 @@
 ---
-name: jack-email-newsletter-curator
-description: >-
-  Procedure to automate industry newsletter curation using AI to scrape sources
-  and build email templates.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - newsletter
-  - automation
-  - content curation
-  - AI
+name: "jack-email-newsletter-curator"
+description: "Procedure to automate industry newsletter curation using AI to scrape sources and build email templates."
+version: "1.0.0"
+license: "MIT"
+tags: ["newsletter", "automation", "content curation", "AI"]
 triggers:
-  - when curating industry newsletters
-  - to automate content gathering
+  - "when curating industry newsletters"
+  - "to automate content gathering"
 allowed-tools: []
-compatibility: 'notebooklm, antigravity, email platform'
+compatibility: "notebooklm, antigravity, email platform"
 metadata:
-  source: jack-school
-  lesson: 128
-  lesson_title: NotebookLM just got 10X better (AntiGravity)
-  difficulty: medium
-  category: email
-  tools_required:
-    - notebooklm
-    - antigravity
-    - email platform
-  estimated_setup_time: 1hr
-  extracted_from:
-    - NotebookLMjustgot10Xbetter.txt
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["notebooklm", "antigravity", "email platform"]
+  estimated_setup_time: "1hr"
 ---
 
 # Email Newsletter Curator
@@ -63,7 +48,6 @@ Schedule send
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

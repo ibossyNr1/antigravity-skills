@@ -1,32 +1,19 @@
 ---
-name: jack-nocode-paperform-webhook
-description: >-
-  Triggers an automation workflow from a Paperform submission, capturing form
-  data for further processing.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - paperform
-  - webhook
-  - nocode automation
+name: "jack-nocode-paperform-webhook"
+description: "Triggers an automation workflow from a Paperform submission, capturing form data for further processing."
+version: "1.0.0"
+license: "MIT"
+tags: ["paperform", "webhook", "nocode automation"]
 triggers:
-  - >-
-    when you need to capture data from a Paperform submission in an external
-    system
-  - when you want to automate actions based on form data
+  - "when you need to capture data from a Paperform submission in an external system"
+  - "when you want to automate actions based on form data"
 allowed-tools: []
-compatibility: 'paperform, automation platform (make.com, n8n)'
+compatibility: "paperform, automation platform (make.com, n8n)"
 metadata:
-  source: jack-school
-  lesson: 110
-  lesson_title: How to Automate UNSTOPPABLE Lead Magnets
-  difficulty: easy
-  category: nocode
-  tools_required:
-    - paperform
-    - 'automation platform (make.com, n8n)'
-  estimated_setup_time: 15min
+  difficulty: "easy"
+  category: "nocode"
+  tools_required: ["paperform", "automation platform (make.com, n8n)"]
+  estimated_setup_time: "15min"
 ---
 
 # Nocode Paperform Webhook
@@ -56,7 +43,6 @@ Triggers an automation workflow from a Paperform submission, capturing form data
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

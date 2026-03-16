@@ -1,30 +1,18 @@
 ---
-name: jack-content-meeting-transcript-formatter
-description: >-
-  Format Fireflies.ai meeting transcripts by combining speaker names and
-  sentence text into a single transcript.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - meeting
-  - transcription
-  - fireflies.ai
-  - formatting
+name: "jack-content-meeting-transcript-formatter"
+description: "Format Fireflies.ai meeting transcripts by combining speaker names and sentence text into a single transcript."
+version: "1.0.0"
+license: "MIT"
+tags: ["meeting", "transcription", "fireflies.ai", "formatting"]
 triggers:
-  - When processing a Fireflies.ai transcript
+  - "When processing a Fireflies.ai transcript"
 allowed-tools: []
-compatibility: 'n8n, fireflies.ai'
+compatibility: "n8n, fireflies.ai"
 metadata:
-  source: jack-school
-  lesson: 85
-  lesson_title: What it does
-  difficulty: easy
-  category: content
-  tools_required:
-    - n8n
-    - fireflies.ai
-  estimated_setup_time: 15min
+  difficulty: "easy"
+  category: "content"
+  tools_required: ["n8n", "fireflies.ai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Meeting Transcript Formatter
@@ -64,7 +52,6 @@ return item;
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,28 +1,17 @@
 ---
-name: jack-email-basic-personalized-template
-description: >-
-  A basic email template for personalized outreach including video and a call to
-  action.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - template
-  - personalized
-  - video
+name: "jack-email-basic-personalized-template"
+description: "A basic email template for personalized outreach including video and a call to action."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "template", "personalized", "video"]
 triggers:
-  - when sending personalized email outreach
-  - when sharing a video with potential clients
+  - "when sending personalized email outreach"
+  - "when sharing a video with potential clients"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 31
-  lesson_title: Tools
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Basic Personalized Template
@@ -60,7 +49,6 @@ A basic email template for personalized outreach including video and a call to a
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

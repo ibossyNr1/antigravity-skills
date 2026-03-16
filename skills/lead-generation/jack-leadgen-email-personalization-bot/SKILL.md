@@ -1,33 +1,19 @@
 ---
-name: jack-leadgen-email-personalization-bot
-description: >-
-  Generates personalized sales emails in HTML, including a company-specific
-  1-liner to engage prospects.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - sales email
-  - personalization
-  - html email
-  - lead outreach
+name: "jack-leadgen-email-personalization-bot"
+description: "Generates personalized sales emails in HTML, including a company-specific 1-liner to engage prospects."
+version: "1.0.0"
+license: "MIT"
+tags: ["sales email", "personalization", "html email", "lead outreach"]
 triggers:
-  - when you need to generate personalized email pitches quickly
-  - 'when aiming for a well-researched, human-like outreach'
+  - "when you need to generate personalized email pitches quickly"
+  - "when aiming for a well-researched, human-like outreach"
 allowed-tools: []
-compatibility: 'openai, chatgpt'
+compatibility: "openai, chatgpt"
 metadata:
-  source: jack-school
-  lesson: 33
-  lesson_title: Tools
-  difficulty: medium
-  category: leadgen
-  tools_required:
-    - openai
-    - chatgpt
-  estimated_setup_time: 15min
-  extracted_from:
-    - Email_Bot_.txt
+  difficulty: "medium"
+  category: "leadgen"
+  tools_required: ["openai", "chatgpt"]
+  estimated_setup_time: "15min"
 ---
 
 # Leadgen Email Personalization Bot
@@ -173,7 +159,6 @@ Every output must be in HTML and follow the below structure.
                                         <span>Chief Coffee Guy</span>
                                     </p>
                                     <p style="margin: 0px; font-weight: 500; color: rgb(0, 0, 0); font-size: 14px; line-height: 22px;">
-                                        <span>AI</span><span>&nbsp;|&nbsp;</span><span>AI Automations by Jack</span>
                                     </p>
                                     <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; vertical-align: -webkit-baseline-middle; font-size: medium; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;">
                                         <tbody>
@@ -271,7 +256,6 @@ Every output must be in HTML and follow the below structure.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

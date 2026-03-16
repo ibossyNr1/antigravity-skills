@@ -1,33 +1,19 @@
 ---
-name: jack-rag-website-summary-gpt4
-description: >-
-  Generates a concise 35-word summary and 5 bullet-point features of a website
-  using GPT-4o.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - website
-  - summary
-  - gpt-4
-  - bullet points
-  - features
+name: "jack-rag-website-summary-gpt4"
+description: "Generates a concise 35-word summary and 5 bullet-point features of a website using GPT-4o."
+version: "1.0.0"
+license: "MIT"
+tags: ["website", "summary", "gpt-4", "bullet points", "features"]
 triggers:
-  - When you need a quick summary of website content.
-  - To identify key features of a website.
+  - "When you need a quick summary of website content."
+  - "To identify key features of a website."
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 30
-  lesson_title: Tools
-  difficulty: medium
-  category: rag
-  tools_required:
-    - openai
-  estimated_setup_time: 5min
-  extracted_from:
-    - Website_Summariser_.txt
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["openai"]
+  estimated_setup_time: "5min"
 ---
 
 # Rag Website Summary Gpt4
@@ -80,7 +66,6 @@ The website copy: {{4.text}}
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

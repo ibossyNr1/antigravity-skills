@@ -1,37 +1,17 @@
 ---
-name: jack-content-rag-chatbot-html
-description: >-
-  HTML template for a basic chatbot interface with file upload, settings
-  (passkey), markdown formatting and message display.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - chatbot
-  - html
-  - template
-  - rag
-  - file upload
-  - markdown
-  - javascript
+name: "jack-content-rag-chatbot-html"
+description: "HTML template for a basic chatbot interface with file upload, settings (passkey), markdown formatting and message display."
+version: "1.0.0"
+license: "MIT"
+tags: ["chatbot", "html", "template", "rag", "file upload", "markdown", "javascript"]
 triggers:
-  - >-
-    When you need a basic HTML chatbot interface with file upload and markdown
-    support.
-  - When you want to provide a settings modal with a passkey field.
+  - "When you need a basic HTML chatbot interface with file upload and markdown support."
+  - "When you want to provide a settings modal with a passkey field."
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 54
-  lesson_title: This RAG Chatbot Automation Changes Everything
-  difficulty: medium
-  category: content
-  estimated_setup_time: 30min
-  extracted_from:
-    - 1_Scrape_Cleanse_.txt
-    - 2_Upsert_Vector_.txt
-    - 3_Query_Respond_.txt
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "medium"
+  category: "content"
+  estimated_setup_time: "30min"
 ---
 
 # Content Rag Chatbot Html
@@ -565,7 +545,6 @@ closeSettings();
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

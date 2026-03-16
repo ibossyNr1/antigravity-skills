@@ -1,30 +1,19 @@
 ---
-name: jack-rag-pinecone-setup
-description: >-
-  Initialize a Pinecone vector database to store and retrieve business context
-  for AI co-pilots, enabling long-term memory and improved decision-making.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - rag
-  - vector database
-  - pinecone
-  - ai copilot
+name: "jack-rag-pinecone-setup"
+description: "Initialize a Pinecone vector database to store and retrieve business context for AI co-pilots, enabling long-term memory and improved decision-making."
+version: "1.0.0"
+license: "MIT"
+tags: ["rag", "vector database", "pinecone", "ai copilot"]
 triggers:
-  - when setting up long-term memory for an AI agent
-  - when building a RAG application
+  - "when setting up long-term memory for an AI agent"
+  - "when building a RAG application"
 allowed-tools: []
-compatibility: pinecone
+compatibility: "pinecone"
 metadata:
-  source: jack-school
-  lesson: 122
-  lesson_title: How to Use AntiGravity Better than 99% of People
-  difficulty: medium
-  category: rag
-  tools_required:
-    - pinecone
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["pinecone"]
+  estimated_setup_time: "30min"
 ---
 
 # Rag Pinecone Setup
@@ -52,7 +41,6 @@ Initialize a Pinecone vector database to store and retrieve business context for
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

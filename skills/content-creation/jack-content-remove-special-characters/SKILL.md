@@ -1,29 +1,19 @@
 ---
-name: jack-content-remove-special-characters
-description: >-
-  Removes special characters like newline, carriage return, tab, form feed,
-  forward slash, backslash, and double quotes from a string.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - text processing
-  - string manipulation
-  - data cleaning
+name: "jack-content-remove-special-characters"
+description: "Removes special characters like newline, carriage return, tab, form feed, forward slash, backslash, and double quotes from a string."
+version: "1.0.0"
+license: "MIT"
+tags: ["text processing", "string manipulation", "data cleaning"]
 triggers:
-  - when cleaning text data for further processing
-  - when preparing text for API requests
+  - "when cleaning text data for further processing"
+  - "when preparing text for API requests"
 allowed-tools: []
-compatibility: make.com
+compatibility: "make.com"
 metadata:
-  source: jack-school
-  lesson: 57
-  lesson_title: Sell this Text to Gif Automation (100% Automated)
-  difficulty: medium
-  category: content
-  tools_required:
-    - make.com
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["make.com"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Remove Special Characters
@@ -49,7 +39,6 @@ Removes special characters like newline, carriage return, tab, form feed, forwar
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

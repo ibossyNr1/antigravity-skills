@@ -1,32 +1,18 @@
 ---
-name: jack-content-linkedin-performance-agent
-description: >-
-  Analyzes a user's last 20 LinkedIn posts to identify high-performing content
-  patterns and engagement outliers.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - linkedin
-  - performance analysis
-  - content
-  - scraping
+name: "jack-content-linkedin-performance-agent"
+description: "Analyzes a user's last 20 LinkedIn posts to identify high-performing content patterns and engagement outliers."
+version: "1.0.0"
+license: "MIT"
+tags: ["linkedin", "performance analysis", "content", "scraping"]
 triggers:
-  - >-
-    when you want to identify what types of content perform best on a specific
-    LinkedIn profile
+  - "when you want to identify what types of content perform best on a specific LinkedIn profile"
 allowed-tools: []
-compatibility: 'openai, apify'
+compatibility: "openai, apify"
 metadata:
-  source: jack-school
-  lesson: 100
-  lesson_title: 'Build This $10,000 Social Growth System (n8n Multi Agents)'
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-    - apify
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai", "apify"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Linkedin Performance Agent
@@ -121,7 +107,6 @@ Remember: Your analysis directly informs the Script Agent. The more specific and
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

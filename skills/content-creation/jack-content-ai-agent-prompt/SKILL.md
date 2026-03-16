@@ -1,34 +1,19 @@
 ---
-name: jack-content-ai-agent-prompt
-description: >-
-  Provides a structured template for prompting AI agents, covering role,
-  context, task, collaboration, and output format, enabling better AI agent
-  performance.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - AI
-  - prompting
-  - automation
-  - agent
+name: "jack-content-ai-agent-prompt"
+description: "Provides a structured template for prompting AI agents, covering role, context, task, collaboration, and output format, enabling better AI agent performance."
+version: "1.0.0"
+license: "MIT"
+tags: ["AI", "prompting", "automation", "agent"]
 triggers:
-  - when building an AI agent
-  - when defining an AI role
+  - "when building an AI agent"
+  - "when defining an AI role"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 68
-  lesson_title: Automate Anything with AI Agents... Zero Code
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
-  extracted_from:
-    - "AI Agent Prompting Template \U0001F916.txt"
-    - AI_Agent_Prompting_Template_-_Google_Docs.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Ai Agent Prompt
@@ -81,7 +66,6 @@ AI Agent Prompting Template 🤖
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,32 +1,18 @@
 ---
-name: jack-rag-ai-agent-persona-client-intelligence
-description: >-
-  Defines the persona and workflow for an AI agent focused on client
-  intelligence, using RAG memory, Airtable, and live web scraping.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - rag
-  - ai agent
-  - persona
-  - client intelligence
-  - prompt engineering
+name: "jack-rag-ai-agent-persona-client-intelligence"
+description: "Defines the persona and workflow for an AI agent focused on client intelligence, using RAG memory, Airtable, and live web scraping."
+version: "1.0.0"
+license: "MIT"
+tags: ["rag", "ai agent", "persona", "client intelligence", "prompt engineering"]
 triggers:
-  - When configuring an AI agent for client intelligence
+  - "When configuring an AI agent for client intelligence"
 allowed-tools: []
-compatibility: 'openai, airtable, firecrawl'
+compatibility: "openai, airtable, firecrawl"
 metadata:
-  source: jack-school
-  lesson: 85
-  lesson_title: What it does
-  difficulty: medium
-  category: rag
-  tools_required:
-    - openai
-    - airtable
-    - firecrawl
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["openai", "airtable", "firecrawl"]
+  estimated_setup_time: "30min"
 ---
 
 # Rag Ai Agent Persona Client Intelligence
@@ -116,7 +102,6 @@ Be concise, confident, and always cite the data source.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

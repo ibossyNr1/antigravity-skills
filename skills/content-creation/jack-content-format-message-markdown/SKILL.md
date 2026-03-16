@@ -1,36 +1,17 @@
 ---
-name: jack-content-format-message-markdown
-description: >-
-  Formats a given text string to HTML with URL linking, bold, italic,
-  strikethrough, inline code, blockquote, and line break support.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - markdown
-  - html
-  - formatting
-  - url
-  - bold
-  - italic
-  - strikethrough
-  - blockquote
-  - code
-  - javascript
+name: "jack-content-format-message-markdown"
+description: "Formats a given text string to HTML with URL linking, bold, italic, strikethrough, inline code, blockquote, and line break support."
+version: "1.0.0"
+license: "MIT"
+tags: ["markdown", "html", "formatting", "url", "bold", "italic", "strikethrough", "blockquote", "code", "javascript"]
 triggers:
-  - >-
-    When you need to convert markdown-like text into formatted HTML for display
-    in a web application.
-  - When you want to automatically create hyperlinks from URLs in a string.
+  - "When you need to convert markdown-like text into formatted HTML for display in a web application."
+  - "When you want to automatically create hyperlinks from URLs in a string."
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 54
-  lesson_title: This RAG Chatbot Automation Changes Everything
-  difficulty: easy
-  category: content
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "content"
+  estimated_setup_time: "5min"
 ---
 
 # Content Format Message Markdown
@@ -76,7 +57,6 @@ function formatMessage(text) {
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

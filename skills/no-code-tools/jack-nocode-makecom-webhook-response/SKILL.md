@@ -1,33 +1,19 @@
 ---
-name: jack-nocode-makecom-webhook-response
-description: >-
-  Generates HTML code for webhook responses in Make.com to display expert
-  responses in a chat format.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - Make.com
-  - Webhooks
-  - HTML
+name: "jack-nocode-makecom-webhook-response"
+description: "Generates HTML code for webhook responses in Make.com to display expert responses in a chat format."
+version: "1.0.0"
+license: "MIT"
+tags: ["Make.com", "Webhooks", "HTML"]
 triggers:
-  - Automating responses in Make.com
-  - Generating dynamic content based on received data
+  - "Automating responses in Make.com"
+  - "Generating dynamic content based on received data"
 allowed-tools: []
-compatibility: 'Make.com, OpenAI, Claude'
+compatibility: "Make.com, OpenAI, Claude"
 metadata:
-  source: jack-school
-  lesson: 36
-  lesson_title: This AI Meeting Automation 100Xs Your Productivity
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - Make.com
-    - OpenAI
-    - Claude
-  estimated_setup_time: 30min
-  extracted_from:
-    - PROMPTS_FROM_VIDEO.txt
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["Make.com", "OpenAI", "Claude"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Makecom Webhook Response
@@ -67,7 +53,6 @@ Expert 3's response{{32.choices[].message.content}}
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,32 +1,19 @@
 ---
-name: jack-email-appointment-confirmation
-description: >-
-  Sends an email to confirm a customer's appointment, including date, time, and
-  contact info.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - appointment
-  - confirmation
-  - html
+name: "jack-email-appointment-confirmation"
+description: "Sends an email to confirm a customer's appointment, including date, time, and contact info."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "appointment", "confirmation", "html"]
 triggers:
-  - upon booking an appointment
-  - to confirm appointment details with a client
+  - "upon booking an appointment"
+  - "to confirm appointment details with a client"
 allowed-tools: []
-compatibility: email client
+compatibility: "email client"
 metadata:
-  source: jack-school
-  lesson: 35
-  lesson_title: Steal this $97/mo Google Review Automation
-  difficulty: medium
-  category: email
-  tools_required:
-    - email client
-  estimated_setup_time: 30min
-  extracted_from:
-    - "\U0001F4E7 Confirmation Email \U0001F4E7.txt"
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["email client"]
+  estimated_setup_time: "30min"
 ---
 
 # Email Appointment Confirmation
@@ -242,7 +229,6 @@ Sends an email to confirm a customer's appointment, including date, time, and co
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

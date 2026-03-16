@@ -1,32 +1,19 @@
 ---
-name: jack-nocode-fail2ban-ssh-hardening
-description: >-
-  Provides commands to enhance SSH security by installing fail2ban and changing
-  the SSH port.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - ssh
-  - security
-  - fail2ban
-  - hardening
-  - vps
+name: "jack-nocode-fail2ban-ssh-hardening"
+description: "Provides commands to enhance SSH security by installing fail2ban and changing the SSH port."
+version: "1.0.0"
+license: "MIT"
+tags: ["ssh", "security", "fail2ban", "hardening", "vps"]
 triggers:
-  - securing SSH
-  - hardening VPS security
+  - "securing SSH"
+  - "hardening VPS security"
 allowed-tools: []
-compatibility: 'terminal, ssh'
+compatibility: "terminal, ssh"
 metadata:
-  source: jack-school
-  lesson: 130
-  lesson_title: ClawdBot gives you Superpowers... lets Unlock them
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - terminal
-    - ssh
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["terminal", "ssh"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Fail2ban Ssh Hardening
@@ -79,7 +66,6 @@ Host myvps
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

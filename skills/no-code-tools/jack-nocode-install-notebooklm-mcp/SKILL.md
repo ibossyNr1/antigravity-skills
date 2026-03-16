@@ -1,34 +1,19 @@
 ---
-name: jack-nocode-install-notebooklm-mcp
-description: >-
-  Provides a prompt to install and setup the NotebookLM MCP server using
-  AntiGravity, guiding the user through the process.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - NotebookLM
-  - AntiGravity
-  - MCP server
-  - installation
-  - setup
+name: "jack-nocode-install-notebooklm-mcp"
+description: "Provides a prompt to install and setup the NotebookLM MCP server using AntiGravity, guiding the user through the process."
+version: "1.0.0"
+license: "MIT"
+tags: ["NotebookLM", "AntiGravity", "MCP server", "installation", "setup"]
 triggers:
-  - when you want to connect AntiGravity to NotebookLM
-  - when setting up NotebookLM MCP server
+  - "when you want to connect AntiGravity to NotebookLM"
+  - "when setting up NotebookLM MCP server"
 allowed-tools: []
-compatibility: 'antigravity, notebooklm'
+compatibility: "antigravity, notebooklm"
 metadata:
-  source: jack-school
-  lesson: 128
-  lesson_title: NotebookLM just got 10X better (AntiGravity)
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - antigravity
-    - notebooklm
-  estimated_setup_time: 15min
-  extracted_from:
-    - NotebookLMjustgot10Xbetter.txt
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["antigravity", "notebooklm"]
+  estimated_setup_time: "15min"
 ---
 
 # Nocode Install Notebooklm Mcp
@@ -64,7 +49,6 @@ Make sure to:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

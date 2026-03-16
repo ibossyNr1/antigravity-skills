@@ -1,28 +1,17 @@
 ---
-name: jack-leadgen-lead-magnet-testing
-description: >-
-  Test lead magnets for effectiveness to optimize lead generation and conversion
-  rates.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - lead magnet
-  - testing
-  - conversion
-  - optimization
+name: "jack-leadgen-lead-magnet-testing"
+description: "Test lead magnets for effectiveness to optimize lead generation and conversion rates."
+version: "1.0.0"
+license: "MIT"
+tags: ["lead magnet", "testing", "conversion", "optimization"]
 triggers:
-  - When you want to improve the performance of your lead magnets.
-  - When conversion rates are low
+  - "When you want to improve the performance of your lead magnets."
+  - "When conversion rates are low"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 17
-  lesson_title: AI Automations Sales System
-  difficulty: medium
-  category: leadgen
-  estimated_setup_time: 30min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "medium"
+  category: "leadgen"
+  estimated_setup_time: "30min"
 ---
 
 # Leadgen Lead Magnet Testing
@@ -47,7 +36,6 @@ Test lead magnets for effectiveness to optimize lead generation and conversion r
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

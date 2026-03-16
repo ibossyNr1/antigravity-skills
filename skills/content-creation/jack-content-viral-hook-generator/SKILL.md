@@ -1,30 +1,17 @@
 ---
-name: jack-content-viral-hook-generator
-description: >-
-  Generates viral hooks for content creation across multiple niches based on a
-  template.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - content creation
-  - viral hooks
-  - social media
-  - marketing
+name: "jack-content-viral-hook-generator"
+description: "Generates viral hooks for content creation across multiple niches based on a template."
+version: "1.0.0"
+license: "MIT"
+tags: ["content creation", "viral hooks", "social media", "marketing"]
 triggers:
-  - need ideas for viral social media content
-  - want to generate engaging hooks for videos or posts
+  - "need ideas for viral social media content"
+  - "want to generate engaging hooks for videos or posts"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 127
-  lesson_title: 'Vibecode $10,000 FULL Stack Apps in 19 mins (AntiGravity)'
-  difficulty: easy
-  category: content
-  estimated_setup_time: 5min
-  extracted_from:
-    - _1000_Viral_Hooks.txt
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "content"
+  estimated_setup_time: "5min"
 ---
 
 # Content Viral Hook Generator
@@ -59,7 +46,6 @@ EDUCATIONAL
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

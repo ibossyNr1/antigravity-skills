@@ -1,37 +1,19 @@
 ---
-name: jack-design-react-dashboard
-description: >-
-  Generates a React-based interactive dashboard with a dark theme, integrating
-  with Airtable using a user-provided base ID and featuring various components.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - react
-  - dashboard
-  - airtable
-  - dark theme
-  - recharts
-  - chatbot
-  - typescript
+name: "jack-design-react-dashboard"
+description: "Generates a React-based interactive dashboard with a dark theme, integrating with Airtable using a user-provided base ID and featuring various components."
+version: "1.0.0"
+license: "MIT"
+tags: ["react", "dashboard", "airtable", "dark theme", "recharts", "chatbot", "typescript"]
 triggers:
-  - When you need to generate a React dashboard
-  - When you want to visualize data from Airtable in a dark-themed interface
+  - "When you need to generate a React dashboard"
+  - "When you want to visualize data from Airtable in a dark-themed interface"
 allowed-tools: []
-compatibility: 'claude, react, airtable'
+compatibility: "claude, react, airtable"
 metadata:
-  source: jack-school
-  lesson: 60
-  lesson_title: Steal this $100k Bolt.New Dashboard... (INSANE)
-  difficulty: hard
-  category: design
-  tools_required:
-    - claude
-    - react
-    - airtable
-  estimated_setup_time: 1hr
-  extracted_from:
-    - $100 AI Dashboard Prompt.txt
+  difficulty: "hard"
+  category: "design"
+  tools_required: ["claude", "react", "airtable"]
+  estimated_setup_time: "1hr"
 ---
 
 # Design React Dashboard
@@ -174,7 +156,6 @@ color:#a1a0a0;
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,27 +1,19 @@
 ---
-name: jack-rag-claude-debugger-prompt
-description: Use this prompt to debug code more effectively with Claude.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - debugging
-  - code
-  - claude
+name: "jack-rag-claude-debugger-prompt"
+description: "Use this prompt to debug code more effectively with Claude."
+version: "1.0.0"
+license: "MIT"
+tags: ["debugging", "code", "claude"]
 triggers:
-  - Need to debug code
-  - Using Claude to debug
+  - "Need to debug code"
+  - "Using Claude to debug"
 allowed-tools: []
-compatibility: claude
+compatibility: "claude"
 metadata:
-  source: jack-school
-  lesson: 121
-  lesson_title: How to Use AntiGravity Better than 99% of People
-  difficulty: medium
-  category: rag
-  tools_required:
-    - claude
-  estimated_setup_time: 5min
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["claude"]
+  estimated_setup_time: "5min"
 ---
 
 # Rag Claude Debugger Prompt
@@ -47,7 +39,6 @@ Use this prompt to debug code more effectively with Claude. Source: https://gith
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,29 +1,18 @@
 ---
-name: jack-content-linkedin-master-agent
-description: >-
-  Orchestrates a 4-agent workflow to transform any content input into
-  high-performing LinkedIn posts.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - linkedin
-  - content creation
-  - multi-agent
-  - n8n
+name: "jack-content-linkedin-master-agent"
+description: "Orchestrates a 4-agent workflow to transform any content input into high-performing LinkedIn posts."
+version: "1.0.0"
+license: "MIT"
+tags: ["linkedin", "content creation", "multi-agent", "n8n"]
 triggers:
-  - when you want to create high-performing LinkedIn posts from various inputs
+  - "when you want to create high-performing LinkedIn posts from various inputs"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 100
-  lesson_title: 'Build This $10,000 Social Growth System (n8n Multi Agents)'
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "30min"
 ---
 
 # Content Linkedin Master Agent
@@ -137,7 +126,6 @@ Date = {{ $now }}
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

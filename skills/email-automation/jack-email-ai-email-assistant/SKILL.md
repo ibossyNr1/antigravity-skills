@@ -1,35 +1,19 @@
 ---
-name: jack-email-ai-email-assistant
-description: >-
-  Defines the responsibilities, protocols, and design guidelines for an AI email
-  assistant managing communications, including email analysis, response
-  evaluation, and scheduling.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - ai
-  - automation
-  - assistant
+name: "jack-email-ai-email-assistant"
+description: "Defines the responsibilities, protocols, and design guidelines for an AI email assistant managing communications, including email analysis, response evaluation, and scheduling."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "ai", "automation", "assistant"]
 triggers:
-  - When setting up an AI email assistant
-  - When defining email handling protocols
+  - "When setting up an AI email assistant"
+  - "When defining email handling protocols"
 allowed-tools: []
-compatibility: 'openai, pinecone, perplexity'
+compatibility: "openai, pinecone, perplexity"
 metadata:
-  source: jack-school
-  lesson: 72
-  lesson_title: Links
-  difficulty: medium
-  category: email
-  tools_required:
-    - openai
-    - pinecone
-    - perplexity
-  estimated_setup_time: 30min
-  extracted_from:
-    - _Upload_me_to_n8n.txt
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["openai", "pinecone", "perplexity"]
+  estimated_setup_time: "30min"
 ---
 
 # Email Ai Email Assistant
@@ -47,7 +31,7 @@ Defines the responsibilities, protocols, and design guidelines for an AI email a
 ## Workflow
 
 Overview
-This document outlines the responsibilities and protocols for an AI email assistant managing Jack Roberts' communications.
+This document outlines the responsibilities and protocols for an AI email assistant managing [YOUR NAME]' communications.
 Core Responsibilities
 1. Email Analysis
 * Review incoming emails thoroughly
@@ -129,8 +113,7 @@ Response Structure
         [Email Content]
         
         <div class="email-signature">
-            <p><b>Jack Roberts</b><br>
-            AI Automations by Jack<br>
+            <p><b>[YOUR NAME]</b><br>
             0777 777 7777</p>
         </div>
     </div>
@@ -146,7 +129,6 @@ Response Structure
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

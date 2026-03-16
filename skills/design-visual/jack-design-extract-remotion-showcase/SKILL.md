@@ -1,33 +1,19 @@
 ---
-name: jack-design-extract-remotion-showcase
-description: >-
-  Extracts design tokens from a website and generates a Remotion video
-  showcasing the design system.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - design system
-  - extraction
-  - remotion
-  - video
-  - automation
+name: "jack-design-extract-remotion-showcase"
+description: "Extracts design tokens from a website and generates a Remotion video showcasing the design system."
+version: "1.0.0"
+license: "MIT"
+tags: ["design system", "extraction", "remotion", "video", "automation"]
 triggers:
-  - when you want to create a video showcasing a website's design system
-  - >-
-    when you need to reverse-engineer a website's design tokens for use in other
-    projects
+  - "when you want to create a video showcasing a website's design system"
+  - "when you need to reverse-engineer a website's design tokens for use in other projects"
 allowed-tools: []
-compatibility: remotion
+compatibility: "remotion"
 metadata:
-  source: jack-school
-  lesson: 129
-  lesson_title: Links
-  difficulty: medium
-  category: design
-  tools_required:
-    - remotion
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "design"
+  tools_required: ["remotion"]
+  estimated_setup_time: "30min"
 ---
 
 # Design Extract Remotion Showcase
@@ -120,7 +106,6 @@ This procedure automates the process of extracting a design system from a websit
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

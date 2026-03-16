@@ -1,34 +1,19 @@
 ---
-name: jack-content-comic-strip-prompt
-description: >-
-  Generates a prompt for creating a 4-panel comic strip lead magnet, tailored to
-  a specific brand using website analysis and logo integration.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - comic strip
-  - lead magnet
-  - AI automation
-  - cartoon
-  - cold outreach
+name: "jack-content-comic-strip-prompt"
+description: "Generates a prompt for creating a 4-panel comic strip lead magnet, tailored to a specific brand using website analysis and logo integration."
+version: "1.0.0"
+license: "MIT"
+tags: ["comic strip", "lead magnet", "AI automation", "cartoon", "cold outreach"]
 triggers:
-  - When creating a personalized comic strip for lead generation
-  - When automating content creation with brand-specific visuals
+  - "When creating a personalized comic strip for lead generation"
+  - "When automating content creation with brand-specific visuals"
 allowed-tools: []
-compatibility: 'OpenAI, n8n'
+compatibility: "OpenAI, n8n"
 metadata:
-  source: jack-school
-  lesson: 82
-  lesson_title: How to Automate UNSTOPPABLE Lead Magnets
-  difficulty: medium
-  category: content
-  tools_required:
-    - OpenAI
-    - n8n
-  estimated_setup_time: 30min
-  extracted_from:
-    - "\U0001F3A8 Comic Outreach Lead Magnet (4-Panel).txt"
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["OpenAI", "n8n"]
+  estimated_setup_time: "30min"
 ---
 
 # Content Comic Strip Prompt
@@ -106,7 +91,6 @@ Panel 4 – CTA
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

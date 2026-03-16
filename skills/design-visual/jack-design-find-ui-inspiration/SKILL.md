@@ -1,30 +1,19 @@
 ---
-name: jack-design-find-ui-inspiration
-description: >-
-  Use curated website galleries like Awwwards, CSS Design Awards, Behance and
-  Dribbble to find inspiration for UI/UX and web design projects.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - UI
-  - UX
-  - design
-  - inspiration
+name: "jack-design-find-ui-inspiration"
+description: "Use curated website galleries like Awwwards, CSS Design Awards, Behance and Dribbble to find inspiration for UI/UX and web design projects."
+version: "1.0.0"
+license: "MIT"
+tags: ["UI", "UX", "design", "inspiration"]
 triggers:
-  - When starting a new web design project
-  - When seeking inspiration for UI/UX elements
+  - "When starting a new web design project"
+  - "When seeking inspiration for UI/UX elements"
 allowed-tools: []
-compatibility: Web browser
+compatibility: "Web browser"
 metadata:
-  source: jack-school
-  lesson: 124
-  lesson_title: 'How I vibecode Beautiful $10,000 AI Websites (AntiGravity)'
-  difficulty: easy
-  category: design
-  tools_required:
-    - Web browser
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "design"
+  tools_required: ["Web browser"]
+  estimated_setup_time: "5min"
 ---
 
 # Design Find Ui Inspiration
@@ -53,7 +42,6 @@ Use curated website galleries like Awwwards, CSS Design Awards, Behance and Drib
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

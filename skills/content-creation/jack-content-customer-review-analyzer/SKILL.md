@@ -1,36 +1,19 @@
 ---
-name: jack-content-customer-review-analyzer
-description: >-
-  Analyzes aggregated customer reviews to identify positive/negative aspects,
-  actionable insights, and emerging trends for competitive advantage.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - content
-  - customer reviews
-  - sentiment analysis
-  - competitive analysis
-  - ai
-  - gpt-4
+name: "jack-content-customer-review-analyzer"
+description: "Analyzes aggregated customer reviews to identify positive/negative aspects, actionable insights, and emerging trends for competitive advantage."
+version: "1.0.0"
+license: "MIT"
+tags: ["content", "customer reviews", "sentiment analysis", "competitive analysis", "ai", "gpt-4"]
 triggers:
-  - >-
-    When you need to analyze customer reviews to improve your product or
-    service.
-  - >-
-    When you want to understand customer sentiment and identify actionable
-    insights from reviews.
+  - "When you need to analyze customer reviews to improve your product or service."
+  - "When you want to understand customer sentiment and identify actionable insights from reviews."
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 51
-  lesson_title: 51)Steal This $297/m Competitor Intelligence Automation
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Customer Review Analyzer
@@ -90,7 +73,6 @@ Output Guidelines:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,33 +1,19 @@
 ---
-name: jack-design-interactive-chat-widget
-description: >-
-  Creates an interactive chat widget using HTML, CSS, and JavaScript that sends
-  and receives messages via a Make.com webhook.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - chat widget
-  - html
-  - css
-  - javascript
+name: "jack-design-interactive-chat-widget"
+description: "Creates an interactive chat widget using HTML, CSS, and JavaScript that sends and receives messages via a Make.com webhook."
+version: "1.0.0"
+license: "MIT"
+tags: ["chat widget", "html", "css", "javascript"]
 triggers:
-  - when you need a customizable chat interface for a web app
-  - when you want to integrate a chat function with a Make.com workflow
+  - "when you need a customizable chat interface for a web app"
+  - "when you want to integrate a chat function with a Make.com workflow"
 allowed-tools: []
-compatibility: 'code editor, web browser'
+compatibility: "code editor, web browser"
 metadata:
-  source: jack-school
-  lesson: 38
-  lesson_title: Steal this AI-Powered Client Dashboard
-  difficulty: medium
-  category: design
-  tools_required:
-    - code editor
-    - web browser
-  estimated_setup_time: 30min
-  extracted_from:
-    - Chat_Genie_Code_.txt
+  difficulty: "medium"
+  category: "design"
+  tools_required: ["code editor", "web browser"]
+  estimated_setup_time: "30min"
 ---
 
 # Design Interactive Chat Widget
@@ -136,7 +122,6 @@ handleUserInput();
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

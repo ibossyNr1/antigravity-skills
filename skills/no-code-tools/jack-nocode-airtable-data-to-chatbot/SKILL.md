@@ -1,34 +1,19 @@
 ---
-name: jack-nocode-airtable-data-to-chatbot
-description: >-
-  Pulls data from Airtable and feeds it into a chatbot conversation via a
-  Make.com webhook.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - airtable
-  - chatbot
-  - data integration
-  - make.com
+name: "jack-nocode-airtable-data-to-chatbot"
+description: "Pulls data from Airtable and feeds it into a chatbot conversation via a Make.com webhook."
+version: "1.0.0"
+license: "MIT"
+tags: ["airtable", "chatbot", "data integration", "make.com"]
 triggers:
-  - when a user interacts with a chatbot interface
-  - when a webhook receives a message
+  - "when a user interacts with a chatbot interface"
+  - "when a webhook receives a message"
 allowed-tools: []
-compatibility: 'make.com, airtable, openai'
+compatibility: "make.com, airtable, openai"
 metadata:
-  source: jack-school
-  lesson: 38
-  lesson_title: Steal this AI-Powered Client Dashboard
-  difficulty: hard
-  category: nocode
-  tools_required:
-    - make.com
-    - airtable
-    - openai
-  estimated_setup_time: 1hr
-  extracted_from:
-    - AI Data Chat.json
+  difficulty: "hard"
+  category: "nocode"
+  tools_required: ["make.com", "airtable", "openai"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Airtable Data To Chatbot
@@ -56,7 +41,6 @@ Pulls data from Airtable and feeds it into a chatbot conversation via a Make.com
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

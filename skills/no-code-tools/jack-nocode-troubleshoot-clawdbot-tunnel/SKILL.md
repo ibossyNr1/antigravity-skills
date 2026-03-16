@@ -1,30 +1,19 @@
 ---
-name: jack-nocode-troubleshoot-clawdbot-tunnel
-description: Provides troubleshooting steps for common ClawdBot SSH tunnel issues.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - troubleshooting
-  - ssh
-  - tunnel
-  - clawdbot
-  - vps
+name: "jack-nocode-troubleshoot-clawdbot-tunnel"
+description: "Provides troubleshooting steps for common ClawdBot SSH tunnel issues."
+version: "1.0.0"
+license: "MIT"
+tags: ["troubleshooting", "ssh", "tunnel", "clawdbot", "vps"]
 triggers:
-  - clawdbot not working
-  - ssh tunnel issues
+  - "clawdbot not working"
+  - "ssh tunnel issues"
 allowed-tools: []
-compatibility: 'terminal, ssh'
+compatibility: "terminal, ssh"
 metadata:
-  source: jack-school
-  lesson: 130
-  lesson_title: ClawdBot gives you Superpowers... lets Unlock them
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - terminal
-    - ssh
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["terminal", "ssh"]
+  estimated_setup_time: "15min"
 ---
 
 # Nocode Troubleshoot Clawdbot Tunnel
@@ -55,7 +44,6 @@ Provides troubleshooting steps for common ClawdBot SSH tunnel issues.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

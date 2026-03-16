@@ -1,31 +1,19 @@
 ---
-name: jack-content-youtube-copilot-prompt
-description: >-
-  Provides a prompt for an AI copilot designed to engage in conversations about
-  YouTube videos by analyzing transcripts and conversation history.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - youtube
-  - copilot
-  - ai
-  - content
-  - conversation
+name: "jack-content-youtube-copilot-prompt"
+description: "Provides a prompt for an AI copilot designed to engage in conversations about YouTube videos by analyzing transcripts and conversation history."
+version: "1.0.0"
+license: "MIT"
+tags: ["youtube", "copilot", "ai", "content", "conversation"]
 triggers:
-  - When creating an AI assistant to discuss YouTube videos.
-  - When you need a copilot to summarize a YouTube video
+  - "When creating an AI assistant to discuss YouTube videos."
+  - "When you need a copilot to summarize a YouTube video"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 47
-  lesson_title: Tools
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Youtube Copilot Prompt
@@ -116,7 +104,6 @@ Transcript:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

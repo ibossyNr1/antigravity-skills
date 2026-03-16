@@ -1,32 +1,19 @@
 ---
-name: jack-design-uiverse-html-css-react-components
-description: >-
-  Leverage Uiverse.io to find open-source UI components for web projects,
-  available as HTML/CSS, Tailwind, React snippets, and Figma-compatible code.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - UI design
-  - HTML
-  - CSS
-  - React
-  - Tailwind
+name: "jack-design-uiverse-html-css-react-components"
+description: "Leverage Uiverse.io to find open-source UI components for web projects, available as HTML/CSS, Tailwind, React snippets, and Figma-compatible code."
+version: "1.0.0"
+license: "MIT"
+tags: ["UI design", "HTML", "CSS", "React", "Tailwind"]
 triggers:
-  - When needing a specific UI element
-  - When seeking open-source UI components
+  - "When needing a specific UI element"
+  - "When seeking open-source UI components"
 allowed-tools: []
-compatibility: 'Web browser, Code editor'
+compatibility: "Web browser, Code editor"
 metadata:
-  source: jack-school
-  lesson: 124
-  lesson_title: 'How I vibecode Beautiful $10,000 AI Websites (AntiGravity)'
-  difficulty: easy
-  category: design
-  tools_required:
-    - Web browser
-    - Code editor
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "design"
+  tools_required: ["Web browser", "Code editor"]
+  estimated_setup_time: "5min"
 ---
 
 # Design Uiverse Html Css React Components
@@ -57,7 +44,6 @@ Leverage Uiverse.io to find open-source UI components for web projects, availabl
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

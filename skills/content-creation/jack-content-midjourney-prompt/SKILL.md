@@ -1,31 +1,19 @@
 ---
-name: jack-content-midjourney-prompt
-description: >-
-  Generates Midjourney prompts from text by identifying the subject, action,
-  setting, and details, then formatting them into a specific prompt structure.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - midjourney
-  - prompt engineering
-  - image generation
+name: "jack-content-midjourney-prompt"
+description: "Generates Midjourney prompts from text by identifying the subject, action, setting, and details, then formatting them into a specific prompt structure."
+version: "1.0.0"
+license: "MIT"
+tags: ["midjourney", "prompt engineering", "image generation"]
 triggers:
-  - when generating image prompts from descriptive text
-  - when needing a structured Midjourney prompt
+  - "when generating image prompts from descriptive text"
+  - "when needing a structured Midjourney prompt"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 13
-  lesson_title: Heads-up
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
-  extracted_from:
-    - Midjourney_Prompt_.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Midjourney Prompt
@@ -66,7 +54,6 @@ A majestic stag standing alert in the heart of a dense forest, antlers glistenin
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

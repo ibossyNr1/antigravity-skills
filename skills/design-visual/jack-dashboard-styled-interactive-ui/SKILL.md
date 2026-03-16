@@ -1,35 +1,19 @@
 ---
-name: jack-dashboard-styled-interactive-ui
-description: >-
-  Builds an interactive dashboard UI styled after a given website, using mock
-  data and prepared for Supabase integration.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - dashboard
-  - ui
-  - design system
-  - mock data
-  - supabase
-  - interactive
+name: "jack-dashboard-styled-interactive-ui"
+description: "Builds an interactive dashboard UI styled after a given website, using mock data and prepared for Supabase integration."
+version: "1.0.0"
+license: "MIT"
+tags: ["dashboard", "ui", "design system", "mock data", "supabase", "interactive"]
 triggers:
-  - >-
-    when you need to create a dashboard with the same look and feel as an
-    existing website
-  - when building a dashboard and planning to integrate it with Supabase
+  - "when you need to create a dashboard with the same look and feel as an existing website"
+  - "when building a dashboard and planning to integrate it with Supabase"
 allowed-tools: []
-compatibility: 'react, recharts'
+compatibility: "react, recharts"
 metadata:
-  source: jack-school
-  lesson: 129
-  lesson_title: Links
-  difficulty: hard
-  category: design
-  tools_required:
-    - react
-    - recharts
-  estimated_setup_time: 1hr
+  difficulty: "hard"
+  category: "design"
+  tools_required: ["react", "recharts"]
+  estimated_setup_time: "1hr"
 ---
 
 # Dashboard Styled Interactive Ui
@@ -192,7 +176,6 @@ Deliver:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

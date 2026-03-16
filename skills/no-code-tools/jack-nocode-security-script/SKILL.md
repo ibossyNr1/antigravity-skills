@@ -1,32 +1,19 @@
 ---
-name: jack-nocode-security-script
-description: >-
-  Bash script to harden a VPS by updating packages, installing a firewall, and
-  disabling password authentication for SSH.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - security
-  - vps
-  - hardening
-  - bash
-  - firewall
-  - ssh
+name: "jack-nocode-security-script"
+description: "Bash script to harden a VPS by updating packages, installing a firewall, and disabling password authentication for SSH."
+version: "1.0.0"
+license: "MIT"
+tags: ["security", "vps", "hardening", "bash", "firewall", "ssh"]
 triggers:
-  - securing VPS
-  - automatic VPS security
+  - "securing VPS"
+  - "automatic VPS security"
 allowed-tools: []
-compatibility: terminal
+compatibility: "terminal"
 metadata:
-  source: jack-school
-  lesson: 130
-  lesson_title: ClawdBot gives you Superpowers... lets Unlock them
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - terminal
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["terminal"]
+  estimated_setup_time: "15min"
 ---
 
 # Nocode Security Script
@@ -84,7 +71,6 @@ chmod +x security-hardening.sh
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

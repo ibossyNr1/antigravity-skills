@@ -1,29 +1,19 @@
 ---
-name: jack-content-conversion-blueprint
-description: >-
-  Leverage an 8-step blueprint (Canva template) to structure onboarding content
-  for optimal user conversion.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - onboarding
-  - conversion
-  - content strategy
+name: "jack-content-conversion-blueprint"
+description: "Leverage an 8-step blueprint (Canva template) to structure onboarding content for optimal user conversion."
+version: "1.0.0"
+license: "MIT"
+tags: ["onboarding", "conversion", "content strategy"]
 triggers:
-  - when designing an onboarding flow
-  - when aiming to improve user conversion rates
+  - "when designing an onboarding flow"
+  - "when aiming to improve user conversion rates"
 allowed-tools: []
-compatibility: Canva
+compatibility: "Canva"
 metadata:
-  source: jack-school
-  lesson: 115
-  lesson_title: 'How I Build $27,000 AI Onboarding Systems (Gemini 3.0)'
-  difficulty: easy
-  category: content
-  tools_required:
-    - Canva
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "content"
+  tools_required: ["Canva"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Conversion Blueprint
@@ -49,7 +39,6 @@ Leverage an 8-step blueprint (Canva template) to structure onboarding content fo
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

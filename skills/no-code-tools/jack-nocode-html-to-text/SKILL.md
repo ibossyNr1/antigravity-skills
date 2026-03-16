@@ -1,28 +1,18 @@
 ---
-name: jack-nocode-html-to-text
-description: Extract plain text from HTML content using Make.com's Text Parser module.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - html
-  - text parsing
-  - make.com
+name: "jack-nocode-html-to-text"
+description: "Extract plain text from HTML content using Make.com's Text Parser module."
+version: "1.0.0"
+license: "MIT"
+tags: ["html", "text parsing", "make.com"]
 triggers:
-  - >-
-    When you need to convert HTML content into readable plain text for further
-    processing.
+  - "When you need to convert HTML content into readable plain text for further processing."
 allowed-tools: []
-compatibility: make.com
+compatibility: "make.com"
 metadata:
-  source: jack-school
-  lesson: 6
-  lesson_title: 100X Your Instagram Using AI-Powered RSS Feeds
-  difficulty: easy
-  category: nocode
-  tools_required:
-    - make.com
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "nocode"
+  tools_required: ["make.com"]
+  estimated_setup_time: "5min"
 ---
 
 # Nocode Html To Text
@@ -49,7 +39,6 @@ Extract plain text from HTML content using Make.com's Text Parser module.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

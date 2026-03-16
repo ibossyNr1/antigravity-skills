@@ -1,30 +1,19 @@
 ---
-name: jack-nocode-google-flow
-description: >-
-  Use Google Flow to create conversational AI experiences and automate
-  interactions.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - conversational AI
-  - nocode
-  - google
-  - flow
+name: "jack-nocode-google-flow"
+description: "Use Google Flow to create conversational AI experiences and automate interactions."
+version: "1.0.0"
+license: "MIT"
+tags: ["conversational AI", "nocode", "google", "flow"]
 triggers:
-  - When building a chatbot or voice assistant
-  - When automating customer interactions
+  - "When building a chatbot or voice assistant"
+  - "When automating customer interactions"
 allowed-tools: []
-compatibility: Google Flow
+compatibility: "Google Flow"
 metadata:
-  source: jack-school
-  lesson: 125
-  lesson_title: Antigravity Skills are a Cheat Code (NEW System)
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - Google Flow
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["Google Flow"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Google Flow
@@ -54,7 +43,6 @@ Use Google Flow to create conversational AI experiences and automate interaction
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

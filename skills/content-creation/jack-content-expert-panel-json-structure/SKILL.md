@@ -1,30 +1,19 @@
 ---
-name: jack-content-expert-panel-json-structure
-description: >-
-  Defines the JSON structure for creating an AI expert panel, specifying roles
-  and areas of expertise.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - AI
-  - expert panel
-  - JSON
-  - data structure
+name: "jack-content-expert-panel-json-structure"
+description: "Defines the JSON structure for creating an AI expert panel, specifying roles and areas of expertise."
+version: "1.0.0"
+license: "MIT"
+tags: ["AI", "expert panel", "JSON", "data structure"]
 triggers:
-  - When designing an AI system that uses multiple experts
-  - When structuring data for panel discussions
+  - "When designing an AI system that uses multiple experts"
+  - "When structuring data for panel discussions"
 allowed-tools: []
-compatibility: JSON editor
+compatibility: "JSON editor"
 metadata:
-  source: jack-school
-  lesson: 36
-  lesson_title: This AI Meeting Automation 100Xs Your Productivity
-  difficulty: easy
-  category: content
-  tools_required:
-    - JSON editor
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "content"
+  tools_required: ["JSON editor"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Expert Panel Json Structure
@@ -60,7 +49,6 @@ Defines the JSON structure for creating an AI expert panel, specifying roles and
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

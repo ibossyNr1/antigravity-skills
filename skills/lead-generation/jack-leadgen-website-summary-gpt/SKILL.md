@@ -1,33 +1,19 @@
 ---
-name: jack-leadgen-website-summary-gpt
-description: >-
-  Generates a concise website summary (35 words) and lists 5 core features using
-  GPT for lead qualification.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - lead qualification
-  - website analysis
-  - gpt
-  - summary generation
+name: "jack-leadgen-website-summary-gpt"
+description: "Generates a concise website summary (35 words) and lists 5 core features using GPT for lead qualification."
+version: "1.0.0"
+license: "MIT"
+tags: ["lead qualification", "website analysis", "gpt", "summary generation"]
 triggers:
-  - when you need a quick website overview
-  - when qualifying leads based on website content
+  - "when you need a quick website overview"
+  - "when qualifying leads based on website content"
 allowed-tools: []
-compatibility: 'openai, chatgpt'
+compatibility: "openai, chatgpt"
 metadata:
-  source: jack-school
-  lesson: 33
-  lesson_title: Tools
-  difficulty: medium
-  category: leadgen
-  tools_required:
-    - openai
-    - chatgpt
-  estimated_setup_time: 5min
-  extracted_from:
-    - Snappy_Website_Summary_.txt
+  difficulty: "medium"
+  category: "leadgen"
+  tools_required: ["openai", "chatgpt"]
+  estimated_setup_time: "5min"
 ---
 
 # Leadgen Website Summary Gpt
@@ -81,7 +67,6 @@ The website copy: {{website_content}}
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

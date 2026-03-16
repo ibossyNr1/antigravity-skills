@@ -1,39 +1,19 @@
 ---
-name: jack-content-text-to-video-automation
-description: >-
-  Automate viral video creation by using Airtable, Anthropic Claude, and
-  Replicate in a Make.com workflow to generate images from stoic quotes.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - make.com
-  - airtable
-  - anthropic
-  - replicate
-  - automation
-  - image generation
-  - stoic quotes
-  - video creation
+name: "jack-content-text-to-video-automation"
+description: "Automate viral video creation by using Airtable, Anthropic Claude, and Replicate in a Make.com workflow to generate images from stoic quotes."
+version: "1.0.0"
+license: "MIT"
+tags: ["make.com", "airtable", "anthropic", "replicate", "automation", "image generation", "stoic quotes", "video creation"]
 triggers:
-  - When you want to automatically generate images from text
-  - When you need to create viral video content based on stoic philosophy
+  - "When you want to automatically generate images from text"
+  - "When you need to create viral video content based on stoic philosophy"
 allowed-tools: []
-compatibility: 'make.com, airtable, anthropic claude, replicate'
+compatibility: "make.com, airtable, anthropic claude, replicate"
 metadata:
-  source: jack-school
-  lesson: 55
-  lesson_title: Tools
-  difficulty: hard
-  category: content
-  tools_required:
-    - make.com
-    - airtable
-    - anthropic claude
-    - replicate
-  estimated_setup_time: 1hr
-  extracted_from:
-    - "Text to Video Generation \U0001F4C8.json"
+  difficulty: "hard"
+  category: "content"
+  tools_required: ["make.com", "airtable", "anthropic claude", "replicate"]
+  estimated_setup_time: "1hr"
 ---
 
 # Content Text To Video Automation
@@ -62,7 +42,6 @@ The provided JSON file 'Text to Video Generation 📈.json' contains the bluepri
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

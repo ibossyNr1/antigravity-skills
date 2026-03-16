@@ -1,35 +1,19 @@
 ---
-name: jack-design-dynamic-chart-dashboard
-description: >-
-  Generates a dynamic subscription dashboard with interactive charts using HTML,
-  CSS, and JavaScript, fetching data from a Make.com webhook.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - dashboard
-  - data visualization
-  - chart.js
-  - html
-  - css
-  - javascript
+name: "jack-design-dynamic-chart-dashboard"
+description: "Generates a dynamic subscription dashboard with interactive charts using HTML, CSS, and JavaScript, fetching data from a Make.com webhook."
+version: "1.0.0"
+license: "MIT"
+tags: ["dashboard", "data visualization", "chart.js", "html", "css", "javascript"]
 triggers:
-  - when you need a visual representation of subscription data
-  - when you want a dashboard that updates dynamically with webhook data
+  - "when you need a visual representation of subscription data"
+  - "when you want a dashboard that updates dynamically with webhook data"
 allowed-tools: []
-compatibility: 'code editor, web browser'
+compatibility: "code editor, web browser"
 metadata:
-  source: jack-school
-  lesson: 38
-  lesson_title: Steal this AI-Powered Client Dashboard
-  difficulty: medium
-  category: design
-  tools_required:
-    - code editor
-    - web browser
-  estimated_setup_time: 30min
-  extracted_from:
-    - Graph_Visualisation_Code_.txt
+  difficulty: "medium"
+  category: "design"
+  tools_required: ["code editor", "web browser"]
+  estimated_setup_time: "30min"
 ---
 
 # Design Dynamic Chart Dashboard
@@ -220,7 +204,6 @@ return data;
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

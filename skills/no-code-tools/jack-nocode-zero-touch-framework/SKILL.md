@@ -1,36 +1,19 @@
 ---
-name: jack-nocode-zero-touch-framework
-description: >-
-  A framework to identify and eliminate manual data entry tasks by mapping,
-  analyzing, implementing automated solutions, and monitoring impact.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - automation
-  - data entry
-  - workflow
-  - efficiency
+name: "jack-nocode-zero-touch-framework"
+description: "A framework to identify and eliminate manual data entry tasks by mapping, analyzing, implementing automated solutions, and monitoring impact."
+version: "1.0.0"
+license: "MIT"
+tags: ["automation", "data entry", "workflow", "efficiency"]
 triggers:
-  - when manual data entry is identified
-  - when repetitive tasks are performed
+  - "when manual data entry is identified"
+  - "when repetitive tasks are performed"
 allowed-tools: []
-compatibility: 'make.com, n8n, zapier, airtable, google sheets'
+compatibility: "make.com, n8n, zapier, airtable, google sheets"
 metadata:
-  source: jack-school
-  lesson: 83
-  lesson_title: 1) Manual Data Entry
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - make.com
-    - n8n
-    - zapier
-    - airtable
-    - google sheets
-  estimated_setup_time: 30min
-  extracted_from:
-    - "\U0001F4CA Zero Touch Data Framework.txt"
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["make.com", "n8n", "zapier", "airtable", "google sheets"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Zero Touch Framework
@@ -115,7 +98,6 @@ The Core Concept: Any time a human is manually typing information that already e
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

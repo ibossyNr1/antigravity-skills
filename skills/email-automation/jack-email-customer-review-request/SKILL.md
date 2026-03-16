@@ -1,33 +1,19 @@
 ---
-name: jack-email-customer-review-request
-description: >-
-  Sends a personalized email asking for a customer review, with rating options
-  linked to a webhook.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - customer feedback
-  - review request
-  - html
+name: "jack-email-customer-review-request"
+description: "Sends a personalized email asking for a customer review, with rating options linked to a webhook."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "customer feedback", "review request", "html"]
 triggers:
-  - after a customer interaction
-  - when seeking customer feedback
+  - "after a customer interaction"
+  - "when seeking customer feedback"
 allowed-tools: []
-compatibility: 'email client, make.com (optional)'
+compatibility: "email client, make.com (optional)"
 metadata:
-  source: jack-school
-  lesson: 35
-  lesson_title: Steal this $97/mo Google Review Automation
-  difficulty: medium
-  category: email
-  tools_required:
-    - email client
-    - make.com (optional)
-  estimated_setup_time: 30min
-  extracted_from:
-    - ⭐️ Review Email ⭐️.txt
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["email client", "make.com (optional)"]
+  estimated_setup_time: "30min"
 ---
 
 # Email Customer Review Request
@@ -224,7 +210,6 @@ Sends a personalized email asking for a customer review, with rating options lin
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

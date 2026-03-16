@@ -1,39 +1,20 @@
 ---
-name: jack-nocode-automated-saas
-description: >-
-  Blueprint for launching a fully automated micro SaaS using Softr, Make,
-  Airtable, and AI (OpenAI/Claude).
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - saas
-  - automation
-  - nocode
-  - make.com
-  - airtable
-  - openai
-  - claude
-  - softr
+name: "jack-nocode-automated-saas"
+description: "Blueprint for launching a fully automated micro SaaS using Softr, Make, Airtable, and AI (OpenAI/Claude)."
+version: "1.0.0"
+license: "MIT"
+tags: ["saas", "automation", "nocode", "make.com", "airtable", "openai", "claude", "softr"]
 triggers:
-  - launching a SaaS
-  - automating content generation
-  - automating user onboarding
+  - "launching a SaaS"
+  - "automating content generation"
+  - "automating user onboarding"
 allowed-tools: []
-compatibility: 'softr, make.com, openai, claude, airtable'
+compatibility: "softr, make.com, openai, claude, airtable"
 metadata:
-  source: jack-school
-  lesson: 46
-  lesson_title: Steal this micro AI SaaS (100% Automated)
-  difficulty: hard
-  category: nocode
-  tools_required:
-    - softr
-    - make.com
-    - openai
-    - claude
-    - airtable
-  estimated_setup_time: 1hr
+  difficulty: "hard"
+  category: "nocode"
+  tools_required: ["softr", "make.com", "openai", "claude", "airtable"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Automated Saas
@@ -68,7 +49,6 @@ Blueprint for launching a fully automated micro SaaS using Softr, Make, Airtable
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

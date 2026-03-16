@@ -1,30 +1,19 @@
 ---
-name: jack-content-gif-to-webp
-description: >-
-  Convert video files to WebP format for smaller file sizes and better web
-  performance using EZgif.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - video
-  - webp
-  - optimization
-  - ezgif
+name: "jack-content-gif-to-webp"
+description: "Convert video files to WebP format for smaller file sizes and better web performance using EZgif."
+version: "1.0.0"
+license: "MIT"
+tags: ["video", "webp", "optimization", "ezgif"]
 triggers:
-  - When needing to reduce video file sizes for web use
-  - When needing to convert video to webp
+  - "When needing to reduce video file sizes for web use"
+  - "When needing to convert video to webp"
 allowed-tools: []
-compatibility: ezgif.com
+compatibility: "ezgif.com"
 metadata:
-  source: jack-school
-  lesson: 125
-  lesson_title: Antigravity Skills are a Cheat Code (NEW System)
-  difficulty: easy
-  category: content
-  tools_required:
-    - ezgif.com
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "content"
+  tools_required: ["ezgif.com"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Gif To Webp
@@ -54,7 +43,6 @@ Convert video files to WebP format for smaller file sizes and better web perform
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

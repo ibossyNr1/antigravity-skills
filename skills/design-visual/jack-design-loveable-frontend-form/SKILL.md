@@ -1,31 +1,19 @@
 ---
-name: jack-design-loveable-frontend-form
-description: >-
-  Creates a modern frontend application using Loveable to collect user info
-  through a multi-step form with a playful yet professional aesthetic.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - loveable
-  - frontend design
-  - form creation
-  - multistep form
-  - web application
+name: "jack-design-loveable-frontend-form"
+description: "Creates a modern frontend application using Loveable to collect user info through a multi-step form with a playful yet professional aesthetic."
+version: "1.0.0"
+license: "MIT"
+tags: ["loveable", "frontend design", "form creation", "multistep form", "web application"]
 triggers:
-  - 'when needing to create a modern, engaging frontend form.'
-  - when using Loveable to design a multi-step user information collection form.
+  - "when needing to create a modern, engaging frontend form."
+  - "when using Loveable to design a multi-step user information collection form."
 allowed-tools: []
-compatibility: loveable
+compatibility: "loveable"
 metadata:
-  source: jack-school
-  lesson: 93
-  lesson_title: Tools
-  difficulty: medium
-  category: design
-  tools_required:
-    - loveable
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "design"
+  tools_required: ["loveable"]
+  estimated_setup_time: "30min"
 ---
 
 # Design Loveable Frontend Form
@@ -90,7 +78,6 @@ A fully functional, visually appealing web application that guides users through
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

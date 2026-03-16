@@ -1,34 +1,19 @@
 ---
-name: jack-email-tone-analysis
-description: >-
-  Analyzes email responses to learn the writer's communication patterns,
-  covering structure, formality, content flow, and technical elements.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - tone of voice
-  - AI
-  - analysis
+name: "jack-email-tone-analysis"
+description: "Analyzes email responses to learn the writer's communication patterns, covering structure, formality, content flow, and technical elements."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "tone of voice", "AI", "analysis"]
 triggers:
-  - When you need to understand and replicate someone's email style.
-  - When you want to train an AI to write emails in a specific person's voice.
+  - "When you need to understand and replicate someone's email style."
+  - "When you want to train an AI to write emails in a specific person's voice."
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 58
-  lesson_title: Never Write an Email Again... (AI RAG Automation)
-  difficulty: medium
-  category: email
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
-  extracted_from:
-    - 1_Email_Cleanse_.txt
-    - 2_Vectorisation_.txt
-    - 3_Email_Brain_.txt
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Email Tone Analysis
@@ -153,7 +138,6 @@ When training to replicate this style, your outputs should maintain absolute con
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

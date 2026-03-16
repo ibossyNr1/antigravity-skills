@@ -1,30 +1,19 @@
 ---
-name: jack-content-veo3-video-prompt
-description: >-
-  Generates personalized business outreach video prompts for Fal AI's Veo 3,
-  emphasizing a raw, authentic selfie style with humorous elements.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - veo3
-  - video generation
-  - prompt engineering
-  - lead magnet
+name: "jack-content-veo3-video-prompt"
+description: "Generates personalized business outreach video prompts for Fal AI's Veo 3, emphasizing a raw, authentic selfie style with humorous elements."
+version: "1.0.0"
+license: "MIT"
+tags: ["veo3", "video generation", "prompt engineering", "lead magnet"]
 triggers:
-  - when needing to generate a video prompt for Veo3.
-  - when creating a personalized business outreach video.
+  - "when needing to generate a video prompt for Veo3."
+  - "when creating a personalized business outreach video."
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 93
-  lesson_title: Tools
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Veo3 Video Prompt
@@ -92,7 +81,6 @@ Raw selfie video of a professional yeti in a business suit recording himself whi
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,32 +1,19 @@
 ---
-name: jack-leadgen-external-website-research-perplexity
-description: >-
-  Uncovers 10 facts about a business by consulting a website and external
-  sources using Perplexity AI.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - website research
-  - lead generation
-  - perplexity ai
-  - fact extraction
+name: "jack-leadgen-external-website-research-perplexity"
+description: "Uncovers 10 facts about a business by consulting a website and external sources using Perplexity AI."
+version: "1.0.0"
+license: "MIT"
+tags: ["website research", "lead generation", "perplexity ai", "fact extraction"]
 triggers:
-  - when deeper insights about a prospect are required
-  - when needing external validation to understand a company
+  - "when deeper insights about a prospect are required"
+  - "when needing external validation to understand a company"
 allowed-tools: []
-compatibility: perplexity
+compatibility: "perplexity"
 metadata:
-  source: jack-school
-  lesson: 33
-  lesson_title: Tools
-  difficulty: medium
-  category: leadgen
-  tools_required:
-    - perplexity
-  estimated_setup_time: 5min
-  extracted_from:
-    - Perplexity_Website_Researcher_.txt
+  difficulty: "medium"
+  category: "leadgen"
+  tools_required: ["perplexity"]
+  estimated_setup_time: "5min"
 ---
 
 # Leadgen External Website Research Perplexity
@@ -78,7 +65,6 @@ Please present the facts in a numbered list format, with each fact followed by i
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,32 +1,19 @@
 ---
-name: jack-nocode-improve-html-code-prompt
-description: >-
-  Prompts to refine HTML code to fix display issues, adding timer and animations
-  while removing whitespace.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - HTML
-  - animations
-  - timer
+name: "jack-nocode-improve-html-code-prompt"
+description: "Prompts to refine HTML code to fix display issues, adding timer and animations while removing whitespace."
+version: "1.0.0"
+license: "MIT"
+tags: ["HTML", "animations", "timer"]
 triggers:
-  - debugging HTML code with display issues
-  - Adding visual enhancements to an existing web page
+  - "debugging HTML code with display issues"
+  - "Adding visual enhancements to an existing web page"
 allowed-tools: []
-compatibility: 'OpenAI, Claude'
+compatibility: "OpenAI, Claude"
 metadata:
-  source: jack-school
-  lesson: 36
-  lesson_title: This AI Meeting Automation 100Xs Your Productivity
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - OpenAI
-    - Claude
-  estimated_setup_time: 30min
-  extracted_from:
-    - PROMPTS_FROM_VIDEO.txt
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["OpenAI", "Claude"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Improve Html Code Prompt
@@ -57,7 +44,6 @@ please also:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

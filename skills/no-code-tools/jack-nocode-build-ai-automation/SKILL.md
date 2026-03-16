@@ -1,37 +1,18 @@
 ---
-name: jack-nocode-build-ai-automation
-description: >-
-  Create a system for scraping data, processing it using AI, and delivering
-  actionable insights as a premium service.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - automation
-  - ai
-  - scraping
-  - data processing
-  - insights
+name: "jack-nocode-build-ai-automation"
+description: "Create a system for scraping data, processing it using AI, and delivering actionable insights as a premium service."
+version: "1.0.0"
+license: "MIT"
+tags: ["automation", "ai", "scraping", "data processing", "insights"]
 triggers:
-  - >-
-    when you need to automate data scraping and processing to generate insights
-    for a business.
+  - "when you need to automate data scraping and processing to generate insights for a business."
 allowed-tools: []
-compatibility: 'apify, openai, pinecone, airtable, n8n, make.com'
+compatibility: "apify, openai, pinecone, airtable, n8n, make.com"
 metadata:
-  source: jack-school
-  lesson: 71
-  lesson_title: Build & Sell This $997/Month AI Automation
-  difficulty: hard
-  category: nocode
-  tools_required:
-    - apify
-    - openai
-    - pinecone
-    - airtable
-    - n8n
-    - make.com
-  estimated_setup_time: 1hr
+  difficulty: "hard"
+  category: "nocode"
+  tools_required: ["apify", "openai", "pinecone", "airtable", "n8n", "make.com"]
+  estimated_setup_time: "1hr"
 ---
 
 # Nocode Build Ai Automation
@@ -65,7 +46,6 @@ Create a system for scraping data, processing it using AI, and delivering action
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

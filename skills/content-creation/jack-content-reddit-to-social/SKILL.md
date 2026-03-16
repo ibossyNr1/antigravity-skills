@@ -1,37 +1,19 @@
 ---
-name: jack-content-reddit-to-social
-description: >-
-  Automate content repurposing from Reddit posts into social media updates
-  (LinkedIn, Twitter, Facebook) using AI agents.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - content repurposing
-  - social media
-  - reddit
-  - gpt
-  - automation
+name: "jack-content-reddit-to-social"
+description: "Automate content repurposing from Reddit posts into social media updates (LinkedIn, Twitter, Facebook) using AI agents."
+version: "1.0.0"
+license: "MIT"
+tags: ["content repurposing", "social media", "reddit", "gpt", "automation"]
 triggers:
-  - When you want to quickly create social media content from Reddit posts.
-  - >-
-    When you want to automate content distribution across multiple social
-    platforms
+  - "When you want to quickly create social media content from Reddit posts."
+  - "When you want to automate content distribution across multiple social platforms"
 allowed-tools: []
-compatibility: 'make.com, perplexity.ai, openai'
+compatibility: "make.com, perplexity.ai, openai"
 metadata:
-  source: jack-school
-  lesson: 1
-  lesson_title: How to Create FULLY Autonomous AI Research Agents
-  difficulty: hard
-  category: content
-  tools_required:
-    - make.com
-    - perplexity.ai
-    - openai
-  estimated_setup_time: 1hr
-  extracted_from:
-    - "Autonomous Research Agents \U0001F913.json"
+  difficulty: "hard"
+  category: "content"
+  tools_required: ["make.com", "perplexity.ai", "openai"]
+  estimated_setup_time: "1hr"
 ---
 
 # Content Reddit To Social
@@ -61,7 +43,6 @@ Automate content repurposing from Reddit posts into social media updates (Linked
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

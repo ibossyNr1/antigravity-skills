@@ -1,29 +1,19 @@
 ---
-name: jack-nocode-clawdbot-quick-reference
-description: Provides a quick reference card with essential commands for managing ClawdBot.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - quick reference
-  - clawdbot
-  - vps
-  - commands
-  - cheat sheet
+name: "jack-nocode-clawdbot-quick-reference"
+description: "Provides a quick reference card with essential commands for managing ClawdBot."
+version: "1.0.0"
+license: "MIT"
+tags: ["quick reference", "clawdbot", "vps", "commands", "cheat sheet"]
 triggers:
-  - need clawdbot commands
-  - managing clawdbot
+  - "need clawdbot commands"
+  - "managing clawdbot"
 allowed-tools: []
-compatibility: none
+compatibility: "none"
 metadata:
-  source: jack-school
-  lesson: 130
-  lesson_title: ClawdBot gives you Superpowers... lets Unlock them
-  difficulty: easy
-  category: nocode
-  tools_required:
-    - none
-  estimated_setup_time: 5min
+  difficulty: "easy"
+  category: "nocode"
+  tools_required: ["none"]
+  estimated_setup_time: "5min"
 ---
 
 # Nocode Clawdbot Quick Reference
@@ -77,7 +67,6 @@ ssh -i ~/.ssh/YOUR_KEY root@YOUR_IP "systemctl restart clawdbot"
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

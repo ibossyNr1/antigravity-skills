@@ -1,35 +1,19 @@
 ---
-name: jack-content-website-change-analyzer
-description: >-
-  Compares two versions of website text to identify and summarize meaningful
-  content changes, ignoring superficial differences like formatting.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - content
-  - website
-  - comparison
-  - ai
-  - gpt-4
+name: "jack-content-website-change-analyzer"
+description: "Compares two versions of website text to identify and summarize meaningful content changes, ignoring superficial differences like formatting."
+version: "1.0.0"
+license: "MIT"
+tags: ["content", "website", "comparison", "ai", "gpt-4"]
 triggers:
-  - >-
-    When you need to identify changes between two versions of a website's
-    content.
-  - >-
-    When you want to ignore superficial formatting differences and focus on
-    meaningful content updates.
+  - "When you need to identify changes between two versions of a website's content."
+  - "When you want to ignore superficial formatting differences and focus on meaningful content updates."
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 51
-  lesson_title: 51)Steal This $297/m Competitor Intelligence Automation
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Website Change Analyzer
@@ -200,7 +184,6 @@ By specifying that the AI should ignore changes in the order of items unless it 
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

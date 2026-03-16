@@ -1,35 +1,20 @@
 ---
-name: jack-nocode-parking-ticket-ai-app
-description: >-
-  HTML template for a parking ticket portal with audio recording, photo upload,
-  and data submission functionality.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - html
-  - javascript
-  - audio recording
-  - photo upload
-  - form submission
-  - parking ticket app
+name: "jack-nocode-parking-ticket-ai-app"
+description: "HTML template for a parking ticket portal with audio recording, photo upload, and data submission functionality."
+version: "1.0.0"
+license: "MIT"
+tags: ["html", "javascript", "audio recording", "photo upload", "form submission", "parking ticket app"]
 triggers:
-  - building a web app with audio recording
-  - building a web app with photo upload
-  - creating a data submission form
+  - "building a web app with audio recording"
+  - "building a web app with photo upload"
+  - "creating a data submission form"
 allowed-tools: []
-compatibility: 'browser, microphone, camera'
+compatibility: "browser, microphone, camera"
 metadata:
-  source: jack-school
-  lesson: 46
-  lesson_title: Steal this micro AI SaaS (100% Automated)
-  difficulty: medium
-  category: nocode
-  tools_required:
-    - browser
-    - microphone
-    - camera
-  estimated_setup_time: 30min
+  difficulty: "medium"
+  category: "nocode"
+  tools_required: ["browser", "microphone", "camera"]
+  estimated_setup_time: "30min"
 ---
 
 # Nocode Parking Ticket Ai App
@@ -432,7 +417,6 @@ alert('Failed to send data. Please try again.');
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

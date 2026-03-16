@@ -1,33 +1,19 @@
 ---
-name: jack-content-explainer-factory
-description: >-
-  Procedure to turn complex topics into simple content using AI to generate
-  explainer documents, videos and flashcards.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - explainer
-  - content creation
-  - simplification
-  - AI
+name: "jack-content-explainer-factory"
+description: "Procedure to turn complex topics into simple content using AI to generate explainer documents, videos and flashcards."
+version: "1.0.0"
+license: "MIT"
+tags: ["explainer", "content creation", "simplification", "AI"]
 triggers:
-  - when explaining complex topics
-  - to create easy-to-understand content
+  - "when explaining complex topics"
+  - "to create easy-to-understand content"
 allowed-tools: []
-compatibility: 'notebooklm, antigravity'
+compatibility: "notebooklm, antigravity"
 metadata:
-  source: jack-school
-  lesson: 128
-  lesson_title: NotebookLM just got 10X better (AntiGravity)
-  difficulty: medium
-  category: content
-  tools_required:
-    - notebooklm
-    - antigravity
-  estimated_setup_time: 1hr
-  extracted_from:
-    - NotebookLMjustgot10Xbetter.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["notebooklm", "antigravity"]
+  estimated_setup_time: "1hr"
 ---
 
 # Content Explainer Factory
@@ -64,7 +50,6 @@ Build: Interactive learning module
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

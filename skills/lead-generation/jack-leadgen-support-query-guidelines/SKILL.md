@@ -1,28 +1,17 @@
 ---
-name: jack-leadgen-support-query-guidelines
-description: >-
-  Provide guidelines for users to effectively troubleshoot and seek support for
-  AI automation systems, improving support efficiency.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - support
-  - troubleshooting
-  - guidelines
-  - automation
+name: "jack-leadgen-support-query-guidelines"
+description: "Provide guidelines for users to effectively troubleshoot and seek support for AI automation systems, improving support efficiency."
+version: "1.0.0"
+license: "MIT"
+tags: ["support", "troubleshooting", "guidelines", "automation"]
 triggers:
-  - when users request tech support for AI automation systems
-  - when needing to clarify troubleshooting steps for users
+  - "when users request tech support for AI automation systems"
+  - "when needing to clarify troubleshooting steps for users"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 101
-  lesson_title: Tools
-  difficulty: easy
-  category: leadgen
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "leadgen"
+  estimated_setup_time: "5min"
 ---
 
 # Leadgen Support Query Guidelines
@@ -43,7 +32,6 @@ When seeking tech support, be specific about the issue location (e.g., Bolt.new 
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

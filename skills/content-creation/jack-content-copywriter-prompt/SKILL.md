@@ -1,36 +1,19 @@
 ---
-name: jack-content-copywriter-prompt
-description: >-
-  An expert copywriter prompt for generating copy inline with user instructions
-  and business context, while adhering to a specific tone of voice.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - copywriting
-  - AI
-  - prompt engineering
-  - content generation
+name: "jack-content-copywriter-prompt"
+description: "An expert copywriter prompt for generating copy inline with user instructions and business context, while adhering to a specific tone of voice."
+version: "1.0.0"
+license: "MIT"
+tags: ["copywriting", "AI", "prompt engineering", "content generation"]
 triggers:
-  - >-
-    When you need to generate copy that aligns with a specific tone of voice and
-    business context.
-  - >-
-    When a user provides context and thoughts on a webpage and needs copy
-    generated inline with their instructions.
+  - "When you need to generate copy that aligns with a specific tone of voice and business context."
+  - "When a user provides context and thoughts on a webpage and needs copy generated inline with their instructions."
 allowed-tools: []
-compatibility: OpenAI
+compatibility: "OpenAI"
 metadata:
-  source: jack-school
-  lesson: 62
-  lesson_title: Steal This $397/mo AI SaaS & Automate Your Income
-  difficulty: medium
-  category: content
-  tools_required:
-    - OpenAI
-  estimated_setup_time: 5min
-  extracted_from:
-    - _Elaborate_JSON.txt
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["OpenAI"]
+  estimated_setup_time: "5min"
 ---
 
 # Content Copywriter Prompt
@@ -66,7 +49,6 @@ Use the attached document for writing effective copy in addition to the user-spe
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

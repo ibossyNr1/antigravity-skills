@@ -1,32 +1,19 @@
 ---
-name: jack-content-generate-90-day-plan
-description: >-
-  Generates a personalized, actionable 90-day business plan based on user form
-  responses using a Claude AI model and a detailed prompt.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - AI
-  - business plan
-  - wellness
-  - automation
-  - lead magnet
+name: "jack-content-generate-90-day-plan"
+description: "Generates a personalized, actionable 90-day business plan based on user form responses using a Claude AI model and a detailed prompt."
+version: "1.0.0"
+license: "MIT"
+tags: ["AI", "business plan", "wellness", "automation", "lead magnet"]
 triggers:
-  - When needing to create a personalized 90-day business plan
-  - To automate the generation of lead magnets
+  - "When needing to create a personalized 90-day business plan"
+  - "To automate the generation of lead magnets"
 allowed-tools: []
-compatibility: 'openai, make.com'
+compatibility: "openai, make.com"
 metadata:
-  source: jack-school
-  lesson: 56
-  lesson_title: This AI System Creates UNIQUE Lead Magnets (100% Automated)
-  difficulty: medium
-  category: content
-  tools_required:
-    - openai
-    - make.com
-  estimated_setup_time: 15min
+  difficulty: "medium"
+  category: "content"
+  tools_required: ["openai", "make.com"]
+  estimated_setup_time: "15min"
 ---
 
 # Content Generate 90 Day Plan
@@ -381,7 +368,6 @@ Remember to:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,31 +1,19 @@
 ---
-name: jack-email-subject-line-generator
-description: >-
-  Generates attention-grabbing email subject lines using website content and
-  best practices.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - subject line
-  - lead generation
+name: "jack-email-subject-line-generator"
+description: "Generates attention-grabbing email subject lines using website content and best practices."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "subject line", "lead generation"]
 triggers:
-  - When you need to generate an email subject line
-  - To create personalized and engaging subject lines
+  - "When you need to generate an email subject line"
+  - "To create personalized and engaging subject lines"
 allowed-tools: []
-compatibility: openai
+compatibility: "openai"
 metadata:
-  source: jack-school
-  lesson: 19
-  lesson_title: Steal this AI-Powered Lead Generation System
-  difficulty: medium
-  category: email
-  tools_required:
-    - openai
-  estimated_setup_time: 15min
-  extracted_from:
-    - Email_1_liner_.txt
+  difficulty: "medium"
+  category: "email"
+  tools_required: ["openai"]
+  estimated_setup_time: "15min"
 ---
 
 # Email Subject Line Generator
@@ -296,7 +284,6 @@ Guidelines for Great Email Subject Lines:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

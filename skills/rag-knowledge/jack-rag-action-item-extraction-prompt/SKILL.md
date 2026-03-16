@@ -1,35 +1,19 @@
 ---
-name: jack-rag-action-item-extraction-prompt
-description: >-
-  Extracts action items, meeting name, and date from a meeting transcript using
-  a specified format, listing action items per participant.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - meeting
-  - action items
-  - transcription
-  - claude
-  - summary
+name: "jack-rag-action-item-extraction-prompt"
+description: "Extracts action items, meeting name, and date from a meeting transcript using a specified format, listing action items per participant."
+version: "1.0.0"
+license: "MIT"
+tags: ["meeting", "action items", "transcription", "claude", "summary"]
 triggers:
-  - >-
-    when you need to create a clear, concise summary of action items from a
-    meeting
-  - when analyzing meeting transcripts
+  - "when you need to create a clear, concise summary of action items from a meeting"
+  - "when analyzing meeting transcripts"
 allowed-tools: []
-compatibility: claude
+compatibility: "claude"
 metadata:
-  source: jack-school
-  lesson: 34
-  lesson_title: This AI Meeting Automation 100Xs Your Productivity
-  difficulty: medium
-  category: rag
-  tools_required:
-    - claude
-  estimated_setup_time: 5min
-  extracted_from:
-    - Action_Item_Extraction.txt
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["claude"]
+  estimated_setup_time: "5min"
 ---
 
 # Rag Action Item Extraction Prompt
@@ -82,7 +66,6 @@ Sarah's Actions
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

@@ -1,30 +1,19 @@
 ---
-name: jack-rag-perplexity-fact-check-prompt
-description: >-
-  Prompt for Perplexity AI to fact-check a statement, providing a verdict,
-  confidence score, findings, and source summaries from reputable sources.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - fact-checking
-  - perplexity
-  - verification
-  - ai
+name: "jack-rag-perplexity-fact-check-prompt"
+description: "Prompt for Perplexity AI to fact-check a statement, providing a verdict, confidence score, findings, and source summaries from reputable sources."
+version: "1.0.0"
+license: "MIT"
+tags: ["fact-checking", "perplexity", "verification", "ai"]
 triggers:
-  - When you need to fact-check a statement from a URL.
-  - To verify the accuracy of a claim with supporting evidence.
+  - "When you need to fact-check a statement from a URL."
+  - "To verify the accuracy of a claim with supporting evidence."
 allowed-tools: []
-compatibility: perplexity
+compatibility: "perplexity"
 metadata:
-  source: jack-school
-  lesson: 41
-  lesson_title: This AI Co-Pilot Will Fact Check ANYTHING
-  difficulty: medium
-  category: rag
-  tools_required:
-    - perplexity
-  estimated_setup_time: 5min
+  difficulty: "medium"
+  category: "rag"
+  tools_required: ["perplexity"]
+  estimated_setup_time: "5min"
 ---
 
 # Rag Perplexity Fact Check Prompt
@@ -74,7 +63,6 @@ Please ensure the output follows this format:
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

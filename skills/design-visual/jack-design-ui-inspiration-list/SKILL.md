@@ -1,26 +1,17 @@
 ---
-name: jack-design-ui-inspiration-list
-description: A curated list of websites to find UI/UX inspiration for web design.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - ui
-  - ux
-  - web design
-  - inspiration
+name: "jack-design-ui-inspiration-list"
+description: "A curated list of websites to find UI/UX inspiration for web design."
+version: "1.0.0"
+license: "MIT"
+tags: ["ui", "ux", "web design", "inspiration"]
 triggers:
-  - when designing a website
-  - when seeking UI/UX inspiration
+  - "when designing a website"
+  - "when seeking UI/UX inspiration"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 123
-  lesson_title: The NEW way to build $100k SaaS Websites
-  difficulty: easy
-  category: design
-  estimated_setup_time: 5min
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "design"
+  estimated_setup_time: "5min"
 ---
 
 # Design Ui Inspiration List
@@ -60,7 +51,6 @@ A curated list of websites to find UI/UX inspiration for web design.
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment

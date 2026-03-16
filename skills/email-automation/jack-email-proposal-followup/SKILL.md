@@ -1,30 +1,17 @@
 ---
-name: jack-email-proposal-followup
-description: >-
-  HTML email template to follow up after a client meeting, summarizing the
-  conversation and attaching the proposal.
-version: 1.0.0
-author: Jack Roberts / AI Automations
-license: proprietary
-tags:
-  - email
-  - sales
-  - proposal
-  - follow-up
+name: "jack-email-proposal-followup"
+description: "HTML email template to follow up after a client meeting, summarizing the conversation and attaching the proposal."
+version: "1.0.0"
+license: "MIT"
+tags: ["email", "sales", "proposal", "follow-up"]
 triggers:
-  - After sending a proposal to a client
-  - When needing a follow-up email template
+  - "After sending a proposal to a client"
+  - "When needing a follow-up email template"
 allowed-tools: []
 metadata:
-  source: jack-school
-  lesson: 63
-  lesson_title: Tools
-  difficulty: easy
-  category: email
-  estimated_setup_time: 5min
-  extracted_from:
-    - "\U0001F525 Meeting to PDF Bonus Resources.txt"
-compatibility: 'agent-zero, claude-code, cursor'
+  difficulty: "easy"
+  category: "email"
+  estimated_setup_time: "5min"
 ---
 
 # Email Proposal Followup
@@ -101,8 +88,8 @@ HTML email template to follow up after a client meeting, summarizing the convers
 
         <div class="signature">
             <p>Best regards,<br>
-            <strong>Jack Roberts</strong><br>
-            AI Automations</p>
+            <strong>[YOUR NAME]</strong><br>
+            [YOUR COMPANY]</p>
         </div>
     </div>
 </body>
@@ -110,7 +97,6 @@ HTML email template to follow up after a client meeting, summarizing the convers
 
 ## Rules & Constraints
 
-- This skill is extracted from Jack Roberts' AI Automations course
 - Adapt prompts and workflows to your specific use case
 - Replace placeholder values (names, URLs, API keys) before use
 - Test in a staging environment before production deployment
