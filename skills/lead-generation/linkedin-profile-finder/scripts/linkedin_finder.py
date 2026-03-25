@@ -1,20 +1,28 @@
 #!/usr/bin/env python3
 """
 LinkedIn Profile Finder — bulk-discover LinkedIn profile URLs via Apify.
-Uses harvestapi/linkedin-profile-search actor in links-only mode ($4/1K profiles).
+Uses harvestapi/linkedin-profile-search actor with automatic key pool rotation
+across 6 free-tier accounts ($30/mo combined). Paid account excluded (reserved
+for intent signal sprint).
 
 Usage:
   # Single query
-  python3 linkedin_finder.py --query "CISO cybersecurity United States" --max-items 100 --output results.json
+  python3 linkedin_finder.py --query "CISO cybersecurity Berlin" --max-items 100 --output results.jsonl
 
-  # Batch mode (multiple ICP queries)
-  python3 linkedin_finder.py --batch queries.json --output results.json
+  # Batch mode with ICP-tagged queries
+  python3 linkedin_finder.py --batch queries.json --output results.jsonl
 
-  # Extract URLs only
+  # URLs only
   python3 linkedin_finder.py --query "CTO fintech London" --max-items 50 --urls-only --output urls.txt
 
-Environment:
-  APIFY_API_TOKEN_PREMIUM  — Apify API token (required)
+  # Check key pool status
+  python3 linkedin_finder.py --pool-status
+
+  # Reset exhausted keys (start of new month)
+  python3 linkedin_finder.py --pool-reset
+
+Key pool: Uses APIFY_API_TOKEN_0 through _5 + APIFY_API_TOKEN (free accounts).
+Excludes: APIFY_API_TOKEN_PREMIUM and APIFY_API_TOKEN_SQUR_PAID (reserved).
 """
 
 import argparse
@@ -38,11 +46,19 @@ ACTOR_ID = "harvestapi~linkedin-profile-search"
 BASE_URL = "https://api.apify.com/v2"
 RESULTS_PER_PAGE = 25
 
+# Import key pool from same directory
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from apify_key_pool import ApifyKeyPool
+
 
 def get_token():
-    token = os.environ.get("APIFY_API_TOKEN_PREMIUM")
+    """Get token from key pool (free accounts only)."""
+    pool = ApifyKeyPool()
+    token = pool.get_key()
     if token:
         return token
+    # Fallback to env var
+    token = os.environ.get("APIFY_API_TOKEN_PREMIUM")
     env_paths = [".env", os.path.expanduser("~/.gemini/squr/.env")]
     for path in env_paths:
         if os.path.isfile(path):
@@ -151,21 +167,40 @@ def deduplicate(results):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="LinkedIn Profile Finder via Apify")
-    parser.add_argument("--query", "-q", help="Single search query (e.g., 'CTO fintech United States')")
-    parser.add_argument("--batch", "-b", help="Path to batch queries JSON file")
+    parser = argparse.ArgumentParser(description="LinkedIn Profile Finder via Apify (key pool)")
+    parser.add_argument("--query", "-q", help="Single search query")
+    parser.add_argument("--batch", "-b", help="Batch queries JSON file (plain or ICP-tagged)")
     parser.add_argument("--max-items", "-m", type=int, default=100, help="Max profiles per query (default: 100)")
-    parser.add_argument("--output", "-o", help="Output file path (default: stdout)")
-    parser.add_argument("--urls-only", action="store_true", help="Output only LinkedIn URLs, one per line")
-    parser.add_argument("--dry-run", action="store_true", help="Show cost estimate without running")
-    parser.add_argument("--quiet", action="store_true", help="Suppress progress output")
+    parser.add_argument("--output", "-o", help="Output file path (JSONL with ICP tags)")
+    parser.add_argument("--urls-only", action="store_true", help="Output URLs only")
+    parser.add_argument("--dry-run", action="store_true", help="Cost estimate only")
+    parser.add_argument("--quiet", action="store_true", help="Suppress progress")
+    parser.add_argument("--pool-status", action="store_true", help="Show key pool status")
+    parser.add_argument("--pool-reset", action="store_true", help="Reset exhausted keys")
     args = parser.parse_args()
 
-    if not args.query and not args.batch:
-        parser.error("Provide --query or --batch")
+    pool = ApifyKeyPool()
 
-    token = get_token()
+    if args.pool_status:
+        pool.status()
+        return
+
+    if args.pool_reset:
+        pool.reset()
+        print("Key pool reset. All keys marked as available.")
+        pool.status()
+        return
+
+    if not args.query and not args.batch:
+        parser.error("Provide --query, --batch, --pool-status, or --pool-reset")
+
+    token = pool.get_key()
+    if not token:
+        print("ERROR: No available Apify keys in pool. Run --pool-status to check.", file=sys.stderr)
+        sys.exit(1)
     verbose = not args.quiet
+    if verbose:
+        print(f"Using key: {pool.get_key_name()}")
 
     queries = []
     if args.batch:
@@ -195,34 +230,78 @@ def main():
         print(f"\n  TOTAL: ~${total_est:.2f}")
         return
 
-    all_results = []
+    seen_urls = set()
+    total_found = 0
     total_cost = 0.0
+    keys_rotated = 0
 
-    for i, q in enumerate(queries, 1):
-        if verbose:
-            print(f"[{i}/{len(queries)}]")
-        results = run_search(token, q["query"], q["maxItems"], verbose=verbose)
-        all_results.extend(results)
-        if verbose:
-            print()
+    out_f = open(args.output, "w") if args.output else None
 
-    all_results = deduplicate(all_results)
+    for i, q_obj in enumerate(queries, 1):
+        query_str = q_obj["query"]
+        max_items = q_obj.get("maxItems", args.max_items)
+        metadata = {k: v for k, v in q_obj.items() if k not in ("query", "maxItems")}
+
+        if verbose:
+            print(f"[{i}/{len(queries)}] \"{query_str}\"", end="", flush=True)
+
+        results = run_search(token, query_str, max_items, verbose=False)
+
+        # Check if we got zero results due to credit exhaustion
+        if not results and i > 1:
+            # Might be exhausted — try rotating key
+            pool.mark_exhausted(token)
+            pool.rotate()
+            new_token = pool.get_key()
+            if new_token and new_token != token:
+                token = new_token
+                keys_rotated += 1
+                if verbose:
+                    print(f" → KEY ROTATED to {pool.get_key_name()}", end="", flush=True)
+                results = run_search(token, query_str, max_items, verbose=False)
+            elif not new_token:
+                if verbose:
+                    print(" → ALL KEYS EXHAUSTED. Stopping.", flush=True)
+                break
+
+        # Deduplicate, tag with ICP metadata, write incrementally
+        new_count = 0
+        for r in results:
+            url = r.get("linkedinUrl", "").rstrip("/").lower()
+            if url and url not in seen_urls:
+                seen_urls.add(url)
+                tagged = {
+                    "url": r.get("linkedinUrl"),
+                    "name": f"{r.get('firstName', '')} {r.get('lastName', '')}".strip() or None,
+                    "headline": r.get("headline"),
+                    "location": r.get("location", {}).get("linkedinText"),
+                    "connections": r.get("connectionsCount"),
+                    **metadata,
+                    "source_query": query_str,
+                    "source": "apify_harvestapi",
+                }
+                new_count += 1
+                if out_f:
+                    if args.urls_only:
+                        out_f.write(tagged["url"] + "\n")
+                    else:
+                        out_f.write(json.dumps(tagged, ensure_ascii=False) + "\n")
+
+        total_found += new_count
+        if verbose:
+            print(f" → {len(results)} found, {new_count} new (total: {total_found:,})", flush=True)
+
+        if out_f and i % 10 == 0:
+            out_f.flush()
+
+    if out_f:
+        out_f.close()
 
     if verbose:
-        print(f"Total unique profiles: {len(all_results)}")
-
-    if args.urls_only:
-        output = "\n".join(r.get("linkedinUrl", "") for r in all_results if r.get("linkedinUrl"))
-    else:
-        output = json.dumps(all_results, indent=2, ensure_ascii=False)
-
-    if args.output:
-        with open(args.output, "w") as f:
-            f.write(output)
-        if verbose:
+        print(f"\nTotal unique profiles: {total_found:,}")
+        print(f"Keys rotated: {keys_rotated}")
+        if args.output:
             print(f"Saved to: {args.output}")
-    else:
-        print(output)
 
 
 if __name__ == "__main__":

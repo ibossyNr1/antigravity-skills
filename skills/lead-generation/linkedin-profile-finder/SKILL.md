@@ -1,11 +1,11 @@
 ---
 name: linkedin-profile-finder
-description: Autonomous LinkedIn profile URL discovery by ICP criteria. Generates queries from persona/industry/location definitions, searches via Tavily or Google CSE, tags each result with ICP metadata for activation. Use when prospecting, building lead lists, or targeting ICPs.
-version: 3.0.0
+description: Autonomous LinkedIn profile URL discovery by ICP criteria. Multi-engine (DDG free, Tavily, Apify with 5-key pool rotation, Google CSE). Generates queries from persona/industry/location config, tags results for activation. Use when prospecting, building lead lists, or targeting ICPs.
+version: 4.0.0
 metadata:
   filePattern: "**/linkedin*find*,**/linkedin*search*,**/linkedin*scrape*,**/icp*linkedin*,**/prospect*linkedin*,**/lead*list*"
-  bashPattern: "linkedin.profile.finder|linkedin_tavily|linkedin_google|icp.*linkedin"
-tags: [linkedin, tavily, google-cse, lead-generation, icp, prospecting, autonomous]
+  bashPattern: "linkedin.profile.finder|linkedin_tavily|linkedin_google|linkedin_ddg|apify_key_pool|icp.*linkedin"
+tags: [linkedin, tavily, duckduckgo, apify, google-cse, lead-generation, icp, prospecting, autonomous]
 ---
 
 # LinkedIn Profile Finder
